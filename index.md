@@ -19,7 +19,7 @@ Estructuración de sistemas integrados de control de gestión y documentación t
 
 ---
 
-## Async Work Ecosystem
+### Async Work Ecosystem
 
 Para garantizar una coordinación eficiente y acceso inmediato a mis credenciales, utilizo plataformas vivas de documentación:
 
