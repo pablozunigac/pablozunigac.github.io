@@ -31,5 +31,5 @@ Gestión de sesiones de trabajo y disponibilidad en tiempo real
 
 ---
 
-**Inquiries:** [E-mail](mailto:pablo.zuniga.c@gmail.com)  
-**More of my work:** [GitHub](https://github.com/pablozunigac)
+**Inquiries:** [pablo.zuniga.c@gmail.com](mailto:pablo.zuniga.c@gmail.com)  
+**More of my work:** [GitHub profile](https://github.com/pablozunigac)
