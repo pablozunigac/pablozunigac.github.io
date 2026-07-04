@@ -5,7 +5,7 @@
 
 ---
 
-### Atelier Profesional  
+**Atelier Profesional**  
 [Professional Positioning Dossier](https://cuxhavenlabs.notion.site/Professional-Positioning-Dossier-21a2ad0c842680749956e17239a36e4d?source=copy_link) | [Pablo Zúñiga’s Metaportfolio](https://cuxhavenlabs.notion.site/Pablo-Z-iga-s-Metaportfolio-2042ad0c842680569ab8f6109a7e0d4b?source=copy_link)
 
 ---
