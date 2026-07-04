@@ -3,23 +3,19 @@
 **Streamlined US Deployment ([H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) & [ESTA](https://cl.usembassy.gov/visa-waiver-program/))**  
 
 Designing the underlying structures that make complex work coherent, navigable, and executable. I build governance frameworks, information architectures, and operational systems that reduce coordination friction, improve decision quality, and preserve systemic integrity under conditions of scale, complexity, and ambiguity.  
-
 ---
+### Áreas de Impacto Operacional
 
-#### Áreas de Impacto Operacional
-
-### 1. Ingeniería e Infraestructura de Datos
+**Ingeniería e Infraestructura de Datos**  
 Diseño e implementación de flujos automatizados (ETL/ELT) y arquitecturas de metadatos. Transformo datos brutos de entornos industriales complejos en activos de información limpios, gobernados y listos para la toma de decisiones.
 
-### 2. Analítica Avanzada y Modelado
+**Analítica Avanzada y Modelado**  
 Modelamiento estadístico, inferencial y análisis de series de tiempo aplicados a la mitigación de riesgos y optimización de recursos en sectores de infraestructura crítica (como minería, energía y servicios regulados).
 
-### 3. Gobernanza y Gestión del Conocimiento
+**Gobernanza y Gestión del Conocimiento**  
 Estructuración de sistemas integrados de control de gestión y documentación técnica bajo metodologías ágiles, garantizando la continuidad operativa y la trazabilidad en proyectos de alta complejidad.
-
 ---
-
-#### Async Work Ecosystem
+### Async Work Ecosystem
 Para garantizar una coordinación eficiente y acceso inmediato a mis credenciales, utilizo plataformas vivas de documentación:
 
 * **[Professional Positioning Dossier (EN)](https://cuxhavenlabs.notion.site/Professional-Positioning-Dossier-21a2ad0c842680749956e17239a36e4d?source=copy_link)**  
