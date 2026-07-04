@@ -1,8 +1,9 @@
 ## Pablo Zúñiga Carvajal
-### Ingeniería Civil Industrial | Optimización de Sistemas & Analytics
+### Industrial & Systems Engineer · PUCV, Chile  
+### Eastern Time Aligned  
+### Streamlined US Deployment (H-1B1 & ESTA)  
 
-Bienvenido a mi entorno centralizado de infraestructura profesional.  
-Mi enfoque combina el rigor analítico de la ingeniería civil con la soberanía tecnológica para diseñar soluciones estructurales que optimizan procesos operativos y mitigan riesgos tecnológicos.
+Designing the underlying structures that make complex work coherent, navigable, and executable. I build governance frameworks, information architectures, and operational systems that reduce coordination friction, improve decision quality, and preserve systemic integrity under conditions of scale, complexity, and ambiguity.  
 
 ---
 
