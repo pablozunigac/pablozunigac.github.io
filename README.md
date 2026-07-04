@@ -1,8 +1,8 @@
 **Pablo Zúñiga Carvajal  
 Ingeniero Civil Industrial  
 Licenciado en Ciencias de la Ingeniería  
-Pontificia Universidad Católica de Valparaíso**
-**Idiomas:** Español (Nativo), Inglés (Profesional técnico).
+Pontificia Universidad Católica de Valparaíso**  
+**Idiomas:** Español (Nativo), Inglés (Profesional técnico)
 
 pablo.zuniga.c@gmail.com | Agenda Profesional | Expediente Académico
 
