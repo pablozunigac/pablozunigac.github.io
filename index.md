@@ -1,7 +1,7 @@
 ## Pablo Zúñiga Carvajal
-**Industrial & Systems Engineer · PUCV, Chile  **
-**Eastern Time Aligned  **
-**Streamlined US Deployment (H-1B1 & ESTA)  **
+**Industrial & Systems Engineer · PUCV, Chile**  
+**Eastern Time Aligned**  
+**Streamlined US Deployment (H-1B1 & ESTA)**  
 
 Designing the underlying structures that make complex work coherent, navigable, and executable. I build governance frameworks, information architectures, and operational systems that reduce coordination friction, improve decision quality, and preserve systemic integrity under conditions of scale, complexity, and ambiguity.  
 
