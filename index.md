@@ -23,17 +23,12 @@ Estructuración de sistemas integrados de control de gestión y documentación t
 
 Para garantizar una coordinación eficiente y acceso inmediato a mis credenciales, utilizo plataformas vivas de documentación:
 
-*   **[Expediente Académico & Certificaciones](AQUÍ_PEGA_TU_LINK_DE_NOTION):** Repositorio oficial de mis acreditaciones, trayectoria y validación técnica.
-*   **[Plataforma de Posicionamiento (Atelier)](AQUÍ_PEGA_TU_LINK_DE_NOTION):** Acceso detallado a metodologías de consultoría y portafolio de sistemas abstractos.
-*   **[Coordinación & Agenda Profesional](AQUÍ_PEGA_TU_LINK_DE_NOTION_O_CALENDAR):** Gestión de sesiones de trabajo y disponibilidad en tiempo real.
-
-* [Expediente Académico (ES)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-Carvajal-Dosier-Acad-mico-3822ad0c842680b1859afaa0dee4e4bc?source=copy_link)  
+* **[Expediente Académico (ES)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-Carvajal-Dosier-Acad-mico-3822ad0c842680b1859afaa0dee4e4bc?source=copy_link)**  
 Repositorio de antecedentes y credenciales oficiales
-* [Professional Positioning Dossier (EN)](https://cuxhavenlabs.notion.site/Professional-Positioning-Dossier-21a2ad0c842680749956e17239a36e4d?source=copy_link)  
+* **[Professional Positioning Dossier (EN)](https://cuxhavenlabs.notion.site/Professional-Positioning-Dossier-21a2ad0c842680749956e17239a36e4d?source=copy_link)**  
 Metodologías de consultoría y posicionamiento profesional
-* [Agenda Profesional (ES)](https://calendar.notion.so/meet/cuxhavenlabs/pablo)  
+* **[Agenda Profesional (ES)](https://calendar.notion.so/meet/cuxhavenlabs/pablo)**  
 Gestión de sesiones de trabajo y disponibilidad en tiempo real
-
 
 ---
 
