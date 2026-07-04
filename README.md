@@ -16,7 +16,7 @@ Ingeniero Civil Industrial especializado en el diseño, la validación técnica 
 ---
 
 ### Competencias Tecnológicas  
-**Lenguajes de Programación y Analítica Avanzada**  
+* **Lenguajes de Programación y Analítica Avanzada**  
 **Herramientas:** Modelado Estadístico e Inferencial · Series de Tiempo · Python · R
 
 **Ingeniería e Infraestructura de Datos **  
