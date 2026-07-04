@@ -6,7 +6,7 @@ Designing the underlying structures that make complex work coherent, navigable, 
 
 ---
 
-### Áreas de Impacto Operacional
+#### Áreas de Impacto Operacional
 
 ### 1. Ingeniería e Infraestructura de Datos
 Diseño e implementación de flujos automatizados (ETL/ELT) y arquitecturas de metadatos. Transformo datos brutos de entornos industriales complejos en activos de información limpios, gobernados y listos para la toma de decisiones.
@@ -19,7 +19,7 @@ Estructuración de sistemas integrados de control de gestión y documentación t
 
 ---
 
-### Async Work Ecosystem
+#### Async Work Ecosystem
 Para garantizar una coordinación eficiente y acceso inmediato a mis credenciales, utilizo plataformas vivas de documentación:
 
 * **[Professional Positioning Dossier (EN)](https://cuxhavenlabs.notion.site/Professional-Positioning-Dossier-21a2ad0c842680749956e17239a36e4d?source=copy_link)**  
