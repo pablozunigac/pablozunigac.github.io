@@ -1,4 +1,3 @@
-## Pablo Zúñiga Carvajal
 **Industrial & Systems Engineer · PUCV, Chile**  
 **Eastern Time Aligned**  
 **Streamlined US Deployment ([H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) & [ESTA](https://cl.usembassy.gov/visa-waiver-program/))**  
