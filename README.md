@@ -1,5 +1,5 @@
-**Pablo Zúñiga Carvajal
-Ingeniero Civil Industrial
+**Pablo Zúñiga Carvajal  
+Ingeniero Civil Industrial  
 Pontificia Universidad Católica de Valparaíso** 
 
 pablo.zuniga.c@gmail.com | Agenda Profesional | Expediente Académico
