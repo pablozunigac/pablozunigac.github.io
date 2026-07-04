@@ -1,10 +1,6 @@
 **Pablo Zúñiga Carvajal  
 Ingeniero Civil Industrial  
 Pontificia Universidad Católica de Valparaíso**  
-
----
-
-**Contacto y Credenciales**  
 [E-mail](mailto:pablo.zuniga.c@gmail.com) | [Agenda Profesional](https://calendar.notion.so/meet/cuxhavenlabs/pablo) | [Expediente Académico](https://cuxhavenlabs.notion.site/Pablo-Z-iga-Carvajal-Dosier-Acad-mico-3822ad0c842680b1859afaa0dee4e4bc?source=copy_link)
 
 ---
