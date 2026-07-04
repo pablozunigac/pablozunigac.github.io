@@ -2,27 +2,17 @@
 **Eastern Time Aligned**  
 **Streamlined US Deployment ([H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) & [ESTA](https://cl.usembassy.gov/visa-waiver-program/))**
 
-**Designing the underlying structures that make complex work coherent, navigable, and executable. I build governance frameworks, information architectures, and operational systems that reduce coordination friction, improve decision quality, and preserve systemic integrity under conditions of scale, complexity, and ambiguity.
+Designing the underlying structures that make complex work coherent, navigable, and executable. I build governance frameworks, information architectures, and operational systems that reduce coordination friction, improve decision quality, and preserve systemic integrity under conditions of scale, complexity, and ambiguity.
 
 ---
 
-### Áreas de Impacto Operacional
+### Key Impact Areas
 
-**Ingeniería e Infraestructura de Datos**  
-Diseño e implementación de flujos automatizados (ETL/ELT) y arquitecturas de metadatos. Transformo datos brutos de entornos industriales complejos en activos de información limpios, gobernados y listos para la toma de decisiones.
-
-**Analítica Avanzada y Modelado**  
-Modelamiento estadístico, inferencial y análisis de series de tiempo aplicados a la mitigación de riesgos y optimización de recursos en sectores de infraestructura crítica (como minería, energía y servicios regulados).
-
-**Gobernanza y Gestión del Conocimiento**  
-Estructuración de sistemas integrados de control de gestión y documentación técnica bajo metodologías ágiles, garantizando la continuidad operativa y la trazabilidad en proyectos de alta complejidad.
-
-
-1. Data Engineering & Infrastructure
+**Data Engineering & Infrastructure**  
 Design and implementation of automated pipelines (ETL/ELT) and metadata architectures. I transform raw data from complex industrial environments into clean, governed, and decision-ready information assets.
-2. Advanced Analytics & Modeling
+**Advanced Analytics & Modeling**  
 Statistical and inferential modeling, alongside time-series analysis, applied to risk mitigation and resource optimization across critical infrastructure sectors (such as mining, energy, and regulated utilities).
-3. Governance & Knowledge Management
+**Governance & Knowledge Management**  
 Structuring integrated management control systems and technical documentation under agile methodologies, ensuring operational continuity and end-to-end traceability in high-complexity projects.
 
 ---
@@ -41,5 +31,5 @@ Gestión de sesiones de trabajo y disponibilidad en tiempo real
 
 ---
 
-**Inquiries:** [E-mail](mailto:pablo.zuniga.c@gmail.com)  
+**Inquiries: [E-mail](mailto:pablo.zuniga.c@gmail.com)**  
 **[GitHub Profile](https://github.com/pablozunigac)**.
