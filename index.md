@@ -31,4 +31,4 @@ Real-time meeting management and asynchronous operational availability for strat
 
 ---
 
-**Inquiries:** [pablo.zuniga.c@gmail.com](mailto:pablo.zuniga.c@gmail.com)
+**Inquiries: [pablo.zuniga.c@gmail.com](mailto:pablo.zuniga.c@gmail.com)**
