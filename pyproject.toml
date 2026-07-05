@@ -4,43 +4,55 @@
 # ==============================================================================
 
 [project]
+
+# ------------------------------------------------------------------------------
+# Project Metadata
+# ------------------------------------------------------------------------------
 name = "nombre-del-proyecto"
 version = "0.1.0"
 description = "..."
 requires-python = ">=3.12"
 
+# ------------------------------------------------------------------------------
+# Dependency Index
+# ------------------------------------------------------------------------------
 dependencies = [
 
     # ==========================================================================
-    # DATA ENGINEERING, CONNECTIVITY & ETL
-    # Primary data structures, ingestion engines and database connectivity
+    # DEVELOPMENT, INFRASTRUCTURE & CONFIGURATION
+    # Core environment management, application configuration and project tooling
     # ==========================================================================
-    "pandas==2.2.3",             # Industry-standard dataframe library
-    "numpy==2.2.3",              # High-performance numerical computing
-    "pyarrow==16.1.0",           # Apache Arrow / Parquet interoperability
+    "python-dotenv==1.0.1",     # Environment variable management
+
+    # ==========================================================================
+    # DATA ENGINEERING, CONNECTIVITY & ETL
+    # Data manipulation, storage formats and database abstraction layers
+    # ==========================================================================
+    "pandas==2.2.3",            # Data manipulation and analytical workflows
+    "numpy==2.2.3",             # High-performance numerical computing
+    "pyarrow==16.1.0",          # Apache Arrow / Parquet interoperability
+    "sqlalchemy==2.0.38",       # Database abstraction layer
+    "psycopg2-binary==2.9.10",  # PostgreSQL database driver
 
     # ==========================================================================
     # ADVANCED STATISTICAL INFERENCE
-    # Classical inference, hypothesis testing and statistical modeling
+    # Classical inference, optimization and statistical modeling
     # ==========================================================================
-    "scipy==1.15.2",             # Scientific computing and statistical inference
-    "statsmodels==0.14.4",       # Statistical models, ANOVA and time series
-    "scikit-learn==1.6.1",       # Machine learning and predictive analytics
+    "scipy==1.15.2",            # Scientific computing and statistical inference
+    "statsmodels==0.14.4",      # Regression, ANOVA and time-series models
+
+    # ==========================================================================
+    # MACHINE LEARNING & PREDICTIVE ANALYTICS
+    # Predictive modeling, validation and model selection
+    # ==========================================================================
+    "scikit-learn==1.6.1",      # Machine learning framework
 
     # ==========================================================================
     # DATA VISUALIZATION
-    # Static and interactive analytical visualization
+    # Static, statistical and interactive analytical visualization
     # ==========================================================================
-    "matplotlib==3.9.0",         # Foundational plotting library
-    "seaborn==0.13.2",           # Statistical visualization
-    "plotly==5.22.0",            # Interactive web-based visualizations
-
-    # ==========================================================================
-    # DATABASE CONNECTIVITY & CONFIGURATION
-    # Database abstraction layers and application configuration
-    # ==========================================================================
-    "sqlalchemy==2.0.38",        # Database abstraction and ORM
-    "psycopg2-binary==2.9.10",   # PostgreSQL database driver
-    "python-dotenv==1.0.1"       # Environment variable management
+    "matplotlib==3.9.0",        # Foundational plotting library
+    "seaborn==0.13.2",          # Statistical visualization
+    "plotly==5.22.0",           # Interactive dashboards and visual analytics
 
 ]
