@@ -10,7 +10,7 @@
 Introducción sin fricción para comprender mi trabajo en entornos de alta complejidad  
 
 [Metaportafolio (EN)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-s-Metaportfolio-2042ad0c842680569ab8f6109a7e0d4b?source=copy_link)  
-Cómo estructuro, analizo y doy sentido a sistemas complejos
+Explora cómo estructuro, analizo y doy sentido a sistemas complejos
 
 ---
 
