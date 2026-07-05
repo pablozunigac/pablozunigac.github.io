@@ -5,7 +5,7 @@
 
 ---
 
-**Atelier Profesional**  
+#### Atelier Profesional
 
 **[Expediente Académico (ES)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-Carvajal-Dosier-Acad-mico-3822ad0c842680b1859afaa0dee4e4bc?source=copy_link)**  
 Validación oficial de título profesional, ranking de egreso e historial de calificaciones
