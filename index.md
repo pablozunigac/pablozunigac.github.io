@@ -32,4 +32,3 @@ Real-time meeting management and asynchronous operational availability for strat
 ---
 
 **Inquiries:** [pablo.zuniga.c@gmail.com](mailto:pablo.zuniga.c@gmail.com)
-<-h Local infrastructure verification deployment -->
