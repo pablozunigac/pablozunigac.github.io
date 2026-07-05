@@ -5,6 +5,8 @@
 
 ---
 
+### Atelier Profesional
+
 **[Dosier Profesional (EN)](https://cuxhavenlabs.notion.site/Professional-Positioning-Dossier-21a2ad0c842680749956e17239a36e4d?source=copy_link)**  
 Introducción sin fricción para comprender mi trabajo en entornos de alta complejidad  
 
