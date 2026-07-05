@@ -9,38 +9,46 @@ Ingeniero Civil Industrial especializado en el diseño, la validación técnica 
 
 **Cuxhaven Labs   
 Consultor Independiente de Arquitectura de Datos y Gobernanza  
-Abril 2026 – Presente (SpA en Formación – Fundador)**
+Abril 2026 – Presente (SpA en Formación – Fundador)**  
 Diseño e implementación de arquitecturas de datos y flujos ETL bajo estándares de gobernanza y trazabilidad corporativa. Liderazgo en modelado de metadatos, auditorías para la mitigación de deuda técnica e integración de sistemas, junto al desarrollo de mecanismos de resiliencia para la continuidad operacional y recuperación de activos críticos.  
 
 **Práctica Independiente  
 Ingeniero de Sistemas y Analítica Cuantitativa   
-Julio 2022 – Presente / Consultoría Técnica Independiente**
+Julio 2022 – Presente / Consultoría Técnica Independiente**  
 Enfoque en la ejecución técnica y el modelado matemático. Diseño e implementación de bases de datos relacionales orientadas a objetos y flujos automatizados de ingesta y transformación. Despliegue de modelos analíticos avanzados en R para el análisis de variabilidad y el procesamiento complejo de series de tiempo mediante validación de métricas de rendimiento biométrico.  
 
 **Ecosistemas Distribuidos  
 Ingeniero de Infraestructura y Redes Digitales   
-Enero 2020 – Julio 2022 / Remoto**
+Enero 2020 – Julio 2022 / Remoto**  
 Gestión y diagnóstico de infraestructura en redes descentralizadas (DeFi), con resolución de incidencias por congestión, mitigación de duplicidad transaccional (nonce) y optimización de costos de ejecución en cadena (gas fees). Análisis de sistemas distribuidos de alta carga bajo condiciones de latencia crítica en tiempo real, garantizando soporte operacional para una base global de +1,000 usuarios concurrentes. Administración de protocolos de interoperabilidad y puentes de liquidez cross-chain para la conversión eficiente de activos (swaps) y el aseguramiento de la consistencia operativa de activos digitales estables (stablecoins).  
 
 **Pontificia Universidad Católica de Valparaíso   
 Consultor de Datos y Docente Adjunto (en asociación con la Escuela de Negocios de la UAI)   
-Agosto 2018 – Junio 2021 (Bajo Demanda) / Región Metropolitana – Región de Valparaíso**
+Agosto 2018 – Junio 2021 (Bajo Demanda) / Región Metropolitana – Región de Valparaíso**  
 Consolidación de fuentes de datos y diseño de pipelines ETL para análisis estadístico exploratorio en entorno académico, la visualización de datos como soporte a decisiones y apoyo en docencia ingenieril en la cátedra “Ciencia de Datos Aplicada”. Asesoría en proyectos finales de pregrado, modelado de datos, estructuras lógicas y automatización de flujos de información en contextos educativos y analíticos. Asesor técnico, editor de material académico y expositor internacional.  
 
 **Banco de Crédito e Inversiones (Bci) – Gerencia Corporativa de Data & Analytics – Gobierno de Datos  
 Ingeniero de Procesos   
-Mayo 2019 – Septiembre 2019 / Las Condes, Región Metropolitana**
+Mayo 2019 – Septiembre 2019 / Las Condes, Región Metropolitana**  
 Orquestación de pipelines para la integración de metadatos desde sistemas operacionales hacia repositorios de gobierno de datos en Microsoft Azure, respaldada por modelado de flujos y estandarización BPMN. Fiscalización de arquitecturas de datos en entornos financieros regulados, asegurando la consistencia, calidad y control de acceso en la gestión de la información institucional.  
 
 **ESVAL – Departamento de Gestión de Redes   
 Líder de Proyecto (Proyecto de Título)  
-Julio 2017 – Diciembre 2017 / Viña del Mar, Región de Valparaíso**
-Liderazgo en proyecto de modelado estadístico mediante software para la red de agua potable de la Región de Valparaíso, incluyendo el diseño y el desarrollo de un modelo espaciotemporal de riesgos mediante regresión de Cox en R sobre una red de 5,300 km (+1.9 millones de usuarios) de extensión. Coordinación bajo estándar PMO y ejecución mediante metodologías ágiles (Kanban, SCRUM), análisis de datos y generación de métricas para dar soporte a la optimización del mantenimiento de la red de agua potable de la región.
-Empresa Nacional de Minería (ENAMI) – División de Finanzas y Administración Práctica Profesional de Ingeniería Enero 2016 – Marzo 2016 / Región Metropolitana – Región de Atacama (Despliegue en terreno)
-Análisis exploratorio, consolidación de datos sobre +75,000 SKUs minero-metalúrgicos e identificación de USD $2.5 millones en inconsistencias de inventario para procesos de auditoría y control financiero. Diseño de estructuras de almacenamiento para la cadena de abastecimiento de la Fundición Hernán Videla Lira y despliegues gráficos en AutoCAD para la gestión del inventario nacional.
-Antofagasta Minerals – Minera Los Pelambres – Superintendencia de Geotecnia Práctica de Ingeniería Enero 2014 – Marzo 2014 / Salamanca, Región de Coquimbo
-Monitoreo de procesos críticos en faena minera mediante captura, registro y trazabilidad de datos. Consolidación de información de inspecciones y sistemas automatizados para la detección temprana de riesgos y desviaciones. Elaboración de informes y registros históricos para control de procesos, continuidad operacional y apoyo a decisiones en infraestructura crítica.
-Competencias Tecnológicas
+Julio 2017 – Diciembre 2017 / Viña del Mar, Región de Valparaíso**  
+Liderazgo en proyecto de modelado estadístico mediante software para la red de agua potable de la Región de Valparaíso, incluyendo el diseño y el desarrollo de un modelo espaciotemporal de riesgos mediante regresión de Cox en R sobre una red de 5,300 km (+1.9 millones de usuarios) de extensión. Coordinación bajo estándar PMO y ejecución mediante metodologías ágiles (Kanban, SCRUM), análisis de datos y generación de métricas para dar soporte a la optimización del mantenimiento de la red de agua potable de la región.  
+
+**Empresa Nacional de Minería (ENAMI) – División de Finanzas y Administración  
+Práctica Profesional de Ingeniería  
+Enero 2016 – Marzo 2016 / Región Metropolitana – Región de Atacama (Despliegue en terreno)**  
+Análisis exploratorio, consolidación de datos sobre +75,000 SKUs minero-metalúrgicos e identificación de USD $2.5 millones en inconsistencias de inventario para procesos de auditoría y control financiero. Diseño de estructuras de almacenamiento para la cadena de abastecimiento de la Fundición Hernán Videla Lira y despliegues gráficos en AutoCAD para la gestión del inventario nacional.  
+
+**Antofagasta Minerals – Minera Los Pelambres – Superintendencia de Geotecnia  
+Práctica de Ingeniería   
+Enero 2014 – Marzo 2014 / Salamanca, Región de Coquimbo**
+Monitoreo de procesos críticos en faena minera mediante captura, registro y trazabilidad de datos. Consolidación de información de inspecciones y sistemas automatizados para la detección temprana de riesgos y desviaciones. Elaboración de informes y registros históricos para control de procesos, continuidad operacional y apoyo a decisiones en infraestructura crítica.  
+
+## Competencias Tecnológicas  
+
 Lenguajes de Programación y Analítica Avanzada Herramientas: Modelado Estadístico e Inferencial · Series de Tiempo · Python · R
 Tratamiento estadístico y estocástico de series de tiempo para el modelado de tendencias y volatilidad. Desarrollo de analítica avanzada orientada a la mitigación de variabilidad, la estructuración de pronósticos y el control de riesgos operacionales mediante certeza estadística.
 Ingeniería e Infraestructura de Datos Especialidades: ETL/ELT · Arquitectura de Metadatos · Modelado de Datos
