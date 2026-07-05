@@ -1,3 +1,87 @@
+# ==============================================================================
+# 1. SISTEMAS OPERATIVOS (Evita basura local de trackers de archivos)
+# ==============================================================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.VolumeIcon.icns
+.com.apple.timemachine.donotbackups
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.lnk
+
+# ==============================================================================
+# 2. CAPA CRÍTICA DE GOBERNANZA DE DATOS & SEGURIDAD (Innegociable)
+# ==============================================================================
+# Bloqueo total de almacenamiento local de datos (Evita fugas corporativas)
+data/
+artifacts/
+storage/
+*.csv
+*.xlsx
+*.parquet
+*.jsonl
+*.db
+*.sqlite
+*.sqlite3
+
+# Archivos de configuración local y credenciales protegidas
+.env
+.env.*
+secrets/
+credentials.json
+*.pem
+*.key
+
+# ==============================================================================
+# 3. ENTORNO PYTHON (Canónico estable)
+# ==============================================================================
+# Archivos compilados de bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribuciones y empaquetamiento
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Entornos virtuales locales
+.venv/
+venv/
+ENV/
+env/
+pythonenv/
+
+# Jupyter Notebook (Archivos temporales de ejecución)
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# ==============================================================================
+# 4. ENTORNO R & RSTUDIO (Tu base validada y estructurada)
+# ==============================================================================
 # History files
 .Rhistory
 .Rapp.history
@@ -21,14 +105,14 @@
 # RStudio files
 .Rproj.user/
 
-# produced vignettes
+# Produced vignettes
 vignettes/*.html
 vignettes/*.pdf
 
-# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
+# OAuth2 token
 .httr-oauth
 
-# knitr and R markdown default cache directories
+# Knitr and R markdown default cache directories
 *_cache/
 /cache/
 
@@ -39,10 +123,10 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# pkgdown site
+# Pkgdown site
 docs/
 
-# translation temp files
+# Translation temp files
 po/*~
 
 # RStudio Connect folder
