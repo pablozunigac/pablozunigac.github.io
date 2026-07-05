@@ -49,19 +49,24 @@ Monitoreo de procesos críticos en faena minera mediante captura, registro y tra
 
 ## Competencias Tecnológicas  
 
-**Lenguajes de Programación y Analítica Avanzada Herramientas: Modelado Estadístico e Inferencial · Series de Tiempo · Python · R**  
+**Lenguajes de Programación y Analítica Avanzada  
+Herramientas: Modelado Estadístico e Inferencial · Series de Tiempo · Python · R**  
 Tratamiento estadístico y estocástico de series de tiempo para el modelado de tendencias y volatilidad. Desarrollo de analítica avanzada orientada a la mitigación de variabilidad, la estructuración de pronósticos y el control de riesgos operacionales mediante certeza estadística.  
 
-**Ingeniería e Infraestructura de Datos Especialidades: ETL/ELT · Arquitectura de Metadatos · Modelado de Datos**  
+**Ingeniería e Infraestructura de Datos  
+Especialidades: ETL/ELT · Arquitectura de Metadatos · Modelado de Datos**  
 Construcción de repositorios y flujos de datos distribuidos bajo control de versiones (Git). Despliegue de procesos ETL/ELT orientados a la integridad, trazabilidad y calidad de los datos. Definición semántica de metadatos, interoperabilidad de sistemas de información y soporte arquitectónico para la continuidad operativa.  
 
-**Desarrollo de Software y Procesos de Negocios Metodologías: SQL · REST API · OOP · UML · Diagramación BPMN**  
+**Desarrollo de Software y Procesos de Negocios   
+Metodologías: SQL · REST API · OOP · UML · Diagramación BPMN**  
 Integración de datos en arquitecturas distribuidas mediante APIs para garantizar la interoperabilidad de sistemas de información. Modelado y estandarización de procesos bajo estándar BPMN para asegurar la trazabilidad operativa y el cumplimiento normativo ante auditorías técnicas de nivel corporativo.  
 
-**Gobernanza de Datos y Gestión del Conocimiento Ecosistemas: Microsoft Azure Purview · Modelado Geoespacial (Google Earth) · Notion**  
+**Gobernanza de Datos y Gestión del Conocimiento  
+Ecosistemas: Microsoft Azure Purview · Modelado Geoespacial (Google Earth) · Notion**  
 Gobernanza de datos, modelado geoespacial y gestión documental técnica. Arquitectura de sistemas de información en Notion mediante bases de datos relacionales complejas, dependencias transitivas (rollups) y programación de lógica condicional avanzada y matricial (arrays) para la orquestación de proyectos, recursos y personas mediante interfaces orientadas a la visualización de datos.  
 
-**Competencias Transversales Entornos: macOS / Windows · Microsoft 365 / iWork · Google Workspace · Markdown · LaTeX**  
+**Competencias Transversales   
+Entornos: macOS / Windows · Microsoft 365 / iWork · Google Workspace · Markdown · LaTeX**  
 Gestión avanzada de herramientas de productividad, ofimática y configuración empresarial de entornos multiplataforma. Documentación técnico-académica avanzada mediante Markdown y LaTeX.
 **Idiomas:** Español (Nativo), Inglés (Profesional técnico).  
 
@@ -69,7 +74,7 @@ Gestión avanzada de herramientas de productividad, ofimática y configuración 
 
 **Pontificia Universidad Católica de Valparaíso   
 Ingeniería Civil Industrial / 2011 – 2017  
-Licenciatura en Ciencias de la Ingeniería / 2016**
+Licenciatura en Ciencias de la Ingeniería / 2016**  
 Programa integrado de doce semestres con formación en ingeniería de sistemas, análisis cuantitativo, econometría y estadística aplicada. Enfoque en el modelado y análisis de sistemas complejos con especialización en tecnologías de la información y teoría de sistemas.
 Ayudante académico recurrente en Ingeniería Económica, Sistemas de Información y Matemática Aplicada con énfasis en análisis cuantitativo y herramientas computacionales para la ingeniería, las finanzas y la contabilidad.  
 
