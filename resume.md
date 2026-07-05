@@ -3,7 +3,7 @@
 Expediente · Repositorio**  
 
 ## Perfil Profesional  
-#### Ingeniero Civil Industrial especializado en el diseño, la validación técnica y el escalamiento de soluciones de datos para entornos industriales e infraestructura crítica (minería, energía y servicios regulados). Ocho años de experiencia diseñando y liderando implementaciones ETL, integración de datos y desarrollo de modelos para la optimización de procesos y mitigación de riesgos tecnológicos. Enfoque tecno-agnóstico y sistémico, orientado a la estandarización operacional, la gobernanza de datos y el modelado de sistemas complejos.  
+Ingeniero Civil Industrial especializado en el diseño, la validación técnica y el escalamiento de soluciones de datos para entornos industriales e infraestructura crítica (minería, energía y servicios regulados). Ocho años de experiencia diseñando y liderando implementaciones ETL, integración de datos y desarrollo de modelos para la optimización de procesos y mitigación de riesgos tecnológicos. Enfoque tecno-agnóstico y sistémico, orientado a la estandarización operacional, la gobernanza de datos y el modelado de sistemas complejos.  
 
 ## Experiencias Clave  
 
@@ -67,7 +67,7 @@ Gobernanza de datos, modelado geoespacial y gestión documental técnica. Arquit
 
 **Competencias Transversales   
 Entornos: macOS / Windows · Microsoft 365 / iWork · Google Workspace · Markdown · LaTeX**  
-Gestión avanzada de herramientas de productividad, ofimática y configuración empresarial de entornos multiplataforma. Documentación técnico-académica avanzada mediante Markdown y LaTeX.
+Gestión avanzada de herramientas de productividad, ofimática y configuración empresarial de entornos multiplataforma. Documentación técnico-académica avanzada mediante Markdown y LaTeX.  
 **Idiomas:** Español (Nativo), Inglés (Profesional técnico).  
 
 ## Credenciales Académicas
