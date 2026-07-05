@@ -10,6 +10,19 @@
 
 ---
 
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1;">
+    <h3>Columna Izquierda</h3>
+    <p>Este es el texto que irá en la primera columna.</p>
+  </div>
+  <div style="flex: 1;">
+    <h3>Columna Derecha</h3>
+    <p>Este es el texto que irá en la segunda columna.</p>
+  </div>
+</div>
+
+---
+
 **Atelier Profesional**  
 [Dosier Profesional (EN)](https://cuxhavenlabs.notion.site/Professional-Positioning-Dossier-21a2ad0c842680749956e17239a36e4d?source=copy_link)  
 A zero-friction onboarding layer for high-complexity environments, distributed teams, and cross-functional workflows  
