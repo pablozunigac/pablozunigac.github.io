@@ -1,21 +1,34 @@
-Ingeniero Civil Industrial – Pontificia Universidad Católica de Valparaíso   
-pablo.zuniga.c@gmail.com · +56 9 4941 9529 · Agenda  
-Expediente · Repositorio
+### Ingeniero Civil Industrial – Pontificia Universidad Católica de Valparaíso   
+### pablo.zuniga.c@gmail.com · +56 9 4941 9529 · Agenda  
+### Expediente · Repositorio
 
-Perfil Profesional  
+---
+
+## Perfil Profesional  
 Ingeniero Civil Industrial especializado en el diseño, la validación técnica y el escalamiento de soluciones de datos para entornos industriales e infraestructura crítica (minería, energía y servicios regulados). Ocho años de experiencia diseñando y liderando implementaciones ETL, integración de datos y desarrollo de modelos para la optimización de procesos y mitigación de riesgos tecnológicos. Enfoque tecno-agnóstico y sistémico, orientado a la estandarización operacional, la gobernanza de datos y el modelado de sistemas complejos.  
 
-Experiencias Clave  
+---
 
-Cuxhaven Labs Consultor Independiente de Arquitectura de Datos y Gobernanza Abril 2026 – Presente (SpA en Formación – Fundador)
-Diseño e implementación de arquitecturas de datos y flujos ETL bajo estándares de gobernanza y trazabilidad corporativa. Liderazgo en modelado de metadatos, auditorías para la mitigación de deuda técnica e integración de sistemas, junto al desarrollo de mecanismos de resiliencia para la continuidad operacional y recuperación de activos críticos.
-Práctica Independiente Ingeniero de Sistemas y Analítica Cuantitativa Julio 2022 – Presente / Consultoría Técnica Independiente
+## Experiencias Clave  
+
+**Cuxhaven Labs   
+Consultor Independiente de Arquitectura de Datos y Gobernanza  
+Abril 2026 – Presente (SpA en Formación – Fundador)**
+Diseño e implementación de arquitecturas de datos y flujos ETL bajo estándares de gobernanza y trazabilidad corporativa. Liderazgo en modelado de metadatos, auditorías para la mitigación de deuda técnica e integración de sistemas, junto al desarrollo de mecanismos de resiliencia para la continuidad operacional y recuperación de activos críticos.  
+
+**Práctica Independiente  
+Ingeniero de Sistemas y Analítica Cuantitativa   
+Julio 2022 – Presente / Consultoría Técnica Independiente**
 Enfoque en la ejecución técnica y el modelado matemático. Diseño e implementación de bases de datos relacionales orientadas a objetos y flujos automatizados de ingesta y transformación. Despliegue de modelos analíticos avanzados en R para el análisis de variabilidad y el procesamiento complejo de series de tiempo mediante validación de métricas de rendimiento biométrico.  
 
-Ecosistemas Distribuidos Ingeniero de Infraestructura y Redes Digitales Enero 2020 – Julio 2022 / Remoto
+**Ecosistemas Distribuidos  
+Ingeniero de Infraestructura y Redes Digitales   
+Enero 2020 – Julio 2022 / Remoto**
 Gestión y diagnóstico de infraestructura en redes descentralizadas (DeFi), con resolución de incidencias por congestión, mitigación de duplicidad transaccional (nonce) y optimización de costos de ejecución en cadena (gas fees). Análisis de sistemas distribuidos de alta carga bajo condiciones de latencia crítica en tiempo real, garantizando soporte operacional para una base global de +1,000 usuarios concurrentes. Administración de protocolos de interoperabilidad y puentes de liquidez cross-chain para la conversión eficiente de activos (swaps) y el aseguramiento de la consistencia operativa de activos digitales estables (stablecoins).  
 
-Pontificia Universidad Católica de Valparaíso Consultor de Datos y Docente Adjunto (en asociación con la Escuela de Negocios de la UAI) Agosto 2018 – Junio 2021 (Bajo Demanda) / Región Metropolitana – Región de Valparaíso
+**Pontificia Universidad Católica de Valparaíso   
+Consultor de Datos y Docente Adjunto (en asociación con la Escuela de Negocios de la UAI)   
+Agosto 2018 – Junio 2021 (Bajo Demanda) / Región Metropolitana – Región de Valparaíso**
 Consolidación de fuentes de datos y diseño de pipelines ETL para análisis estadístico exploratorio en entorno académico, la visualización de datos como soporte a decisiones y apoyo en docencia ingenieril en la cátedra “Ciencia de Datos Aplicada”. Asesoría en proyectos finales de pregrado, modelado de datos, estructuras lógicas y automatización de flujos de información en contextos educativos y analíticos. Asesor técnico, editor de material académico y expositor internacional.  
 
 **Banco de Crédito e Inversiones (Bci) – Gerencia Corporativa de Data & Analytics – Gobierno de Datos  
