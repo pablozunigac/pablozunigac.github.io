@@ -71,11 +71,19 @@ Gestión avanzada de herramientas de productividad, ofimática y configuración 
 Ingeniería Civil Industrial / 2011 – 2017  
 Licenciatura en Ciencias de la Ingeniería / 2016**
 Programa integrado de doce semestres con formación en ingeniería de sistemas, análisis cuantitativo, econometría y estadística aplicada. Enfoque en el modelado y análisis de sistemas complejos con especialización en tecnologías de la información y teoría de sistemas.
-Ayudante académico recurrente en Ingeniería Económica, Sistemas de Información y Matemática Aplicada con énfasis en análisis cuantitativo y herramientas computacionales para la ingeniería, las finanzas y la contabilidad.
-Ingeniería Civil / 2007 – 2010 (Estudios Fundamentales)
+Ayudante académico recurrente en Ingeniería Económica, Sistemas de Información y Matemática Aplicada con énfasis en análisis cuantitativo y herramientas computacionales para la ingeniería, las finanzas y la contabilidad.  
+
+**Ingeniería Civil / 2007 – 2010 (Estudios Fundamentales)**  
 Formación en ciencias básicas de la ingeniería con énfasis en matemática aplicada, herramientas computacionales (MATLAB) y dibujo técnico vectorial en AutoCAD.
-Docencia y Divulgación Técnica
-Pontificia Universidad Católica de Valparaíso – Escuela de Comercio Docente Invitado – Diplomado en Finanzas para la Toma de Decisiones 2019 / Valparaíso, Región de Valparaíso
+
+## Docencia y Divulgación Técnica
+
+**Pontificia Universidad Católica de Valparaíso – Escuela de Comercio   
+Docente Invitado – Diplomado en Finanzas para la Toma de Decisiones  
+2019 / Valparaíso, Región de Valparaíso**  
 Diseño y relatoría de módulos avanzados de matemática financiera y evaluación de proyectos, enfocados en la utilización de Microsoft Excel para la formulación de flujos de caja, análisis de rentabilidad, cuantificación del riesgo y simulación de escenarios de eficiencia operativa.
-BancoEstado (en convenio con Universidad Técnica Federico Santa María) Expositor Técnico – Curso: Análisis Financiero de Títulos de Renta Variable 2017, 2019 / Santiago de Chile, Región Metropolitana
+
+**BancoEstado (en convenio con Universidad Técnica Federico Santa María)   
+Expositor Técnico – Curso: Análisis Financiero de Títulos de Renta Variable  
+2017, 2019 / Santiago de Chile, Región Metropolitana**  
 Relatoría de programa intensivo en análisis técnico y series de tiempo para la Mesa de Dinero de BancoEstado. Modelado de datos de alta frecuencia (OHLC), calibración de volatilidad y análisis exploratorio para decisiones cuantitativas en entornos financieros dinámicos.
