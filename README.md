@@ -7,14 +7,14 @@
 
 ### Atelier Profesional
 
-**[Expediente Académico (ES)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-Carvajal-Dosier-Acad-mico-3822ad0c842680b1859afaa0dee4e4bc?source=copy_link)**  
-Validación oficial de título profesional, ranking de egreso e historial de calificaciones
-
 **[Dosier Profesional (EN)](https://cuxhavenlabs.notion.site/Professional-Positioning-Dossier-21a2ad0c842680749956e17239a36e4d?source=copy_link)**  
 Introducción sin fricción para comprender mi trabajo en entornos de alta complejidad  
 
 **[Metaportafolio (EN)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-s-Metaportfolio-2042ad0c842680569ab8f6109a7e0d4b?source=copy_link)**  
 Explora cómo estructuro, analizo y doy sentido a sistemas complejos
+
+**[Expediente Académico (ES)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-Carvajal-Dosier-Acad-mico-3822ad0c842680b1859afaa0dee4e4bc?source=copy_link)**  
+Validación oficial de título profesional, ranking de egreso e historial de calificaciones
 
 ---
 
