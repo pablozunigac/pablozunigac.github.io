@@ -12,71 +12,103 @@ options(repos = c(CRAN = "https://cloud.r-project.org"))
 # Dependency Index
 # -------------------------------------------------------------------------------
 packages <- c(
+  
+  # ============================================================================
+  # DEVELOPMENT, INFRASTRUCTURE & CONFIGURATION
+  # Core systems, environment runtimes, and local configuration layers
+  # ============================================================================
+  "renv",           # Reproducible project-specific package environments
+  "dotenv",         # Environment variable management from .env files
+  "here",           # Project-oriented file and directory management
+  "lintr",          # Static code analysis and style checking
 
   # ============================================================================
-  # Data Engineering & ETL
+  # DATA ENGINEERING, CONNECTIVITY & ETL
+  # Primary data abstraction, ingestion engines, and database abstraction layers
   # ============================================================================
-  "tidyverse",    # Data manipulation, transformation and visualization ecosystem
-  "arrow",        # Apache Arrow / Parquet support for high-performance analytics
-  "here",         # Project-oriented file and directory management
+  "tidyverse",      # Data manipulation, transformation and visualization ecosystem
+  "arrow",          # Apache Arrow / Parquet support for high-performance analytics
+  "DBI",            # Standard database interface for R
+  "RPostgres",      # PostgreSQL database driver
 
   # ============================================================================
-  # Statistical Modeling & Machine Learning
+  # TIME SERIES ANALYTICS
+  # Frameworks and data structures for temporal data modeling and forecasting
   # ============================================================================
-  "car",          # Regression diagnostics, ANOVA and statistical utilities
-  "fable",        # Forecasting models built on the tidy time-series framework
-  "tidymodels",   # Unified machine learning and predictive modeling framework
+  "tsibble",        # Tidy temporal data structures (Core structural engine)
+  "fable",          # Forecasting models built on the tidy time-series framework
+  "feasts",         # Time-series feature extraction and diagnostics
+  "timetk",         # Time-series feature engineering and visualization
+  "urca",           # Unit root and cointegration tests
 
   # ============================================================================
-  # Data Visualization
+  # GEOSPATIAL ANALYTICS
+  # Computational geometry, raster computation, and geostatistical modeling
   # ============================================================================
-  "patchwork",    # Multi-panel ggplot layout composition
-  "plotly",       # Interactive web-based visualizations
-  "ggpubr",       # Publication-ready statistical graphics
+  "sf",             # Simple Features standard for vector spatial data (Core engine)
+  "terra",          # Raster processing and spatial analysis (Core raster engine)
+  "gstat",          # Geostatistics, variograms and kriging
+  "stars",          # Spatiotemporal array and raster data structures
 
   # ============================================================================
-  # Database Connectivity & Configuration
+  # ADVANCED STATISTICAL INFERENCE & BIOSTATISTICS
+  # Classical inference, linear mixed-effects, and mathematical modeling
   # ============================================================================
-  "DBI",          # Standard database interface for R
-  "RPostgres",    # PostgreSQL database driver
-  "dotenv",       # Environment variable management from .env files
+  "car",            # Regression diagnostics, ANOVA and statistical utilities
+  "emmeans",        # Estimated marginal means and post-hoc comparisons
+  "lme4",           # Linear and generalized mixed-effects models
+  "mgcv",           # Generalized additive models (GAMs)
+  "survival",       # Survival analysis and time-to-event models
 
   # ============================================================================
-  # Time Series Analytics
+  # MACHINE LEARNING & PREDICTIVE WORKFLOWS
+  # Unified frameworks for algorithmic training, validation, and resampling
   # ============================================================================
-  "feasts",       # Time-series feature extraction and diagnostics
-  "tsibble",      # Tidy temporal data structures
-  "timetk",       # Time-series feature engineering and visualization
-  "urca",         # Unit root and cointegration tests
+  "tidymodels",     # Unified machine learning and predictive modeling framework
 
   # ============================================================================
-  # Geospatial Analytics
+  # DATA VISUALIZATION
+  # Static and web-interactive data communication layers
   # ============================================================================
-  "sf",           # Simple Features standard for vector spatial data
-  "terra",        # Raster processing and spatial analysis
-  "stars",        # Spatiotemporal array and raster data structures
-  "gstat",        # Geostatistics, variograms and kriging
+  "ggpubr",         # Publication-ready statistical graphics
+  "patchwork",      # Multi-panel ggplot layout composition
+  "plotly",         # Interactive web-based visualizations
 
   # ============================================================================
-  # Development, Testing & Quality Assurance
+  # DASHBOARDS & INTERACTIVE APPLICATIONS
+  # Production-grade web runtimes and interface layout utilities
   # ============================================================================
-  "testthat",     # Unit testing framework
-  "logger",       # Structured application logging
-  "lintr",        # Static code analysis and style checking
-  "renv"          # Reproducible project-specific package environments
+  "shiny",          # Interactive web applications and analytical dashboards (Core)
+  "bslib",          # Bootstrap-based UI customization and theming
+  "DT",             # Interactive data tables
+  "shinydashboard", # Dashboard layout components for Shiny applications
+
+  # ============================================================================
+  # REPORTING & REPRODUCIBLE DOCUMENTS
+  # Literary programming frameworks, automated publishing, and business delivery
+  # ============================================================================
+  "quarto",         # Scientific and business publishing framework (Next-gen core)
+  "rmarkdown",      # Dynamic reports in HTML, PDF and Word (Legacy core)
+  "knitr",          # Literate programming and report generation engine
+  "gt",             # Publication-quality tables
+  "officer",        # Microsoft Word and PowerPoint document generation
+
+  # ============================================================================
+  # QUALITY ASSURANCE, TESTING & LOGGING
+  # Enterprise-grade validation pipelines and runtime auditing
+  # ============================================================================
+  "testthat",       # Unit testing framework
+  "logger"          # Structured application logging
 
 )
 
 # -------------------------------------------------------------------------------
 # Detect Missing Packages
 # -------------------------------------------------------------------------------
-missing_packages <- packages[
-  !vapply(
-    packages,
-    requireNamespace,
-    logical(1),
-    quietly = TRUE
-  )
+missing_packages <- packages[!vapply(packages,
+                                     requireNamespace,
+                                     logical(1),
+                                     quietly = TRUE)
 ]
 
 # -------------------------------------------------------------------------------
