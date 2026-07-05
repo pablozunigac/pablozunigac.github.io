@@ -1,5 +1,5 @@
 **Ingeniero Civil Industrial – Pontificia Universidad Católica de Valparaíso   
-pablo.zuniga.c@gmail.com · +56 9 4941 9529 · Agenda  
+[pablo.zuniga.c@gmail.com](mailto:pablo.zuniga.c@gmail.com) · +56 9 4941 9529 · Agenda  
 Expediente · Repositorio**  
 
 ## Perfil Profesional  
