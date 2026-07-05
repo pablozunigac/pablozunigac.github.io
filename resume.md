@@ -35,7 +35,7 @@ Orquestación de pipelines para la integración de metadatos desde sistemas oper
 **ESVAL – Departamento de Gestión de Redes   
 Líder de Proyecto (Proyecto de Título)  
 Julio 2017 – Diciembre 2017 / Viña del Mar, Región de Valparaíso**  
-Liderazgo en proyecto de modelado estadístico mediante software para la red de agua potable de la Región de Valparaíso, incluyendo el diseño y el desarrollo de un modelo espaciotemporal de riesgos mediante regresión de Cox en R sobre una red de 5,300 km (+1.9 millones de usuarios) de extensión. Coordinación bajo estándar PMO y ejecución mediante metodologías ágiles (Kanban, SCRUM), análisis de datos y generación de métricas para dar soporte a la optimización del mantenimiento de la red de agua potable de la región.  
+Liderazgo en proyecto de modelado estadístico mediante software para la red de agua potable de la Región de Valparaíso, incluyendo el diseño y el desarrollo de un modelo espaciotemporal de riesgos mediante regresión de Cox en R sobre una red de 5,300 km (+1.9 millones de usuarios) de extensión. Coordinación bajo estándar PMO y ejecución mediante metodologías ágiles (Kanban, SCRUM para la generación de métricas que soportan el mantenimiento de la red de agua potable de la región.  
 
 **Empresa Nacional de Minería (ENAMI) – División de Finanzas y Administración  
 Práctica Profesional de Ingeniería  
