@@ -6,7 +6,7 @@ Designing the underlying structures that make complex work coherent, navigable, 
 
 ---
 
-### Key Impact Areas
+### Operational Focus & Systems Engineering
 
 * **Data Engineering & Infrastructure**  
 Design and implementation of automated pipelines (ETL/ELT) and metadata architectures. I transform raw data from complex industrial environments into clean, governed, and decision-ready information assets.  
@@ -17,7 +17,7 @@ Structuring integrated management control systems and technical documentation un
 
 ---
 
-### Async Work Ecosystem
+### Distributed Infrastructure & Live Nodes
 To ensure efficient coordination and immediate access to my ecosystem, I leverage live documentation platforms:
 
 * **[Professional Positioning Dossier (EN)](https://cuxhavenlabs.notion.site/Professional-Positioning-Dossier-21a2ad0c842680749956e17239a36e4d?source=copy_link)**  
@@ -31,5 +31,4 @@ Gestión de sesiones de trabajo y disponibilidad en tiempo real
 
 ---
 
-**Inquiries:** [pablo.zuniga.c@gmail.com](mailto:pablo.zuniga.c@gmail.com)  
-**More of my work:** [GitHub profile](https://github.com/pablozunigac)
+**Inquiries:** [pablo.zuniga.c@gmail.com](mailto:pablo.zuniga.c@gmail.com)
