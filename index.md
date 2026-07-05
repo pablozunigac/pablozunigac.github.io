@@ -21,13 +21,13 @@ Structuring integrated management control systems and technical documentation un
 To ensure efficient coordination and immediate access to my ecosystem, I leverage live documentation platforms:
 
 * **[Professional Positioning Dossier (EN)](https://cuxhavenlabs.notion.site/Professional-Positioning-Dossier-21a2ad0c842680749956e17239a36e4d?source=copy_link)**  
-Mi estructura de posicionamiento profesional
+Strategic consulting frameworks, core operational methodologies, and market positioning design.  
 * **[Pablo Zúñiga's Metaportfolio (EN)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-s-Metaportfolio-2042ad0c842680569ab8f6109a7e0d4b?source=copy_link)**  
-Un metaportafolio sobre como pienso, contruyo y escalo soluciones
-* **[Expediente Académico (ES)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-Carvajal-Dosier-Acad-mico-3822ad0c842680b1859afaa0dee4e4bc?source=copy_link)**  
-Repositorio de antecedentes y credenciales oficiales  
-* **[Agenda Profesional (ES)](https://calendar.notion.so/meet/cuxhavenlabs/pablo)**  
-Gestión de sesiones de trabajo y disponibilidad en tiempo real
+An architectural deep-dive into how I analyze, engineer, and scale systems under complexity.
+* **[Academic Records & Credentials (ES)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-Carvajal-Dosier-Acad-mico-3822ad0c842680b1859afaa0dee4e4bc?source=copy_link)**  
+Official academic repository, university degree background, and formal engineering validations.
+* **[Professional Scheduling (ES)](https://calendar.notion.so/meet/cuxhavenlabs/pablo)**  
+Real-time meeting management and asynchronous operational availability for strategic sessions.
 
 ---
 
