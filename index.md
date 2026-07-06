@@ -2,6 +2,10 @@
 **Eastern Time Aligned**  
 **Streamlined US Deployment ([H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) & [ESTA](https://cl.usembassy.gov/visa-waiver-program/))**
 
+---
+
+### High-complexity environments, distributed teams, and cross-functional workflows
+
 Designing the underlying structures that make complex work coherent, navigable, and executable. I build governance frameworks, information architectures, and operational systems that reduce coordination friction, improve decision quality, and preserve systemic integrity under conditions of scale, complexity, and ambiguity.
 
 ---
