@@ -8,7 +8,7 @@ Pontificia Universidad Católica de Valparaíso 
   <b><a href="https://pablozunigac.github.io/">Inicio (EN)</a></b>&nbsp;|&nbsp;
   <b><a href="https://pablozunigac.github.io/CV-Pablo-Zuniga-Carvajal.pdf">Descargar CV (PDF)</a></b>&nbsp;|&nbsp;
   <b><a href="https://github.com/pablozunigac">GitHub Profile ↗</a></b>&nbsp;|&nbsp;
-  <b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo">Scheduling (ES)</a></b>
+  <b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo">Agendar Llamada ↗</a></b>
 </p>
 
 ---
