@@ -1,8 +1,8 @@
 # Custom Navigation Architecture
 navigation:
   - text: "Inicio"
-    url: "https://pablozunigac.github.io/"
+  url: "https://pablozunigac.github.io/"
   - text: "Resume (ES)"
-    url: "https://pablozunigac.github.io/resume.html"
+  url: "https://pablozunigac.github.io/resume.html"
   - text: "GitHub Profile ↗"
-    url: "https://github.com/pablozunigac"
+  url: "https://github.com/pablozunigac"
