@@ -1,14 +1,14 @@
-**Industrial & Systems Engineer · PUCV, Chile**  
-**Eastern Time Aligned**  
-**Streamlined US Deployment ([H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) & [ESTA](https://cl.usembassy.gov/visa-waiver-program/))**
-
----
-
 <p align="center">
   <b><a href="https://pablozunigac.github.io/resume.html">Full Resume (ES)</a></b>&nbsp;|&nbsp;
   <b><a href="https://github.com/pablozunigac" target="_blank">GitHub Profile ↗</a></b>&nbsp;|&nbsp;
   <b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo" target="_blank">Scheduling ↗</a></b>
 </p>
+
+---
+
+**Industrial & Systems Engineer · PUCV, Chile**  
+**Eastern Time Aligned**  
+**Streamlined US Deployment ([H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) & [ESTA](https://cl.usembassy.gov/visa-waiver-program/))**
 
 ---
 
