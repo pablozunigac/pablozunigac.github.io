@@ -5,8 +5,9 @@ Pontificia Universidad Católica de Valparaíso 
 ---
 
 <p align="center">
-  <b><a href="https://pablozunigac.github.io/">Inicio (EN)</a></b> &nbsp;|&nbsp; 
-  <b><a href="https://github.com/pablozunigac" target="_blank">GitHub Profile↗</a></b>
+  <b><a href="https://pablozunigac.github.io/">Inicio (EN)</a></b>&nbsp;|&nbsp;
+  <b><a href="https://github.com/pablozunigac" target="_blank">GitHub Profile↗</a></b>&nbsp;|&nbsp;
+    <b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo" target="_blank">Scheduling (ES)</a></b>
 </p>
 
 ---
