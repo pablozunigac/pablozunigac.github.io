@@ -3,14 +3,12 @@ Pontificia Universidad Católica de Valparaíso 
 [pablo.zuniga.c@gmail.com](mailto:pablo.zuniga.c@gmail.com)** | **+56 9 4941 9529**  
 
 ---
-
 <p align="center">
-  <b><a href="https://pablozunigac.github.io/">Inicio (EN)</a></b>&nbsp;|&nbsp;
-  <b><a href="https://github.com/pablozunigac">Perfil GitHub ↗</a></b>&nbsp;|&nbsp;
-  <b><a href="https://pablozunigac.github.io/CV-Pablo-Zuniga-Carvajal.pdf">Descargar CV (PDF)</a></b>&nbsp;|&nbsp;
-  <b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo">Agendar Llamada ↗</a></b>
+  <a href="#experiencias-clave">Experiencias Clave</a> | 
+  <a href="#competencias-tecnológicas">Competencias Tecnológicas</a> | 
+  <a href="#credenciales-académicas">Credenciales Académicas</a> | 
+  <a href="#docencia-y-divulgación-técnica">Docencia y Divulgación Técnica</a>
 </p>
-
 ---
 
 [Perfil Profesional](#perfil-profesional)  
