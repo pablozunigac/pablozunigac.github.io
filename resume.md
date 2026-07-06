@@ -64,21 +64,21 @@ Monitoreo de procesos críticos en faena minera mediante captura, registro y tra
 Herramientas: Modelado Estadístico e Inferencial · Series de Tiempo · Python · R**  
 Tratamiento estadístico y estocástico de series de tiempo para el modelado de tendencias y volatilidad. Desarrollo de analítica avanzada orientada a la mitigación de variabilidad, la estructuración de pronósticos y el control de riesgos operacionales mediante certeza estadística.  
 
-**Ingeniería e Infraestructura de Datos  
+**Datos y Sistemas de Información  
 Especialidades: ETL/ELT · Arquitectura de Metadatos · Modelado de Datos**  
 Construcción de repositorios y flujos de datos distribuidos bajo control de versiones (Git). Despliegue de procesos ETL/ELT orientados a la integridad, trazabilidad y calidad de los datos. Definición semántica de metadatos, interoperabilidad de sistemas de información y soporte arquitectónico para la continuidad operativa.  
 
-**Desarrollo de Software y Procesos de Negocios   
+**Desarrollo de _Software_ y Procesos de Negocio     
 Metodologías: SQL · REST API · OOP · UML · Diagramación BPMN**  
 Integración de datos en arquitecturas distribuidas mediante APIs para garantizar la interoperabilidad de sistemas de información. Modelado y estandarización de procesos bajo estándar BPMN para asegurar la trazabilidad operativa y el cumplimiento normativo ante auditorías técnicas de nivel corporativo.  
 
-**Gobernanza de Datos y Gestión del Conocimiento  
+**Gestión del Conocimiento  
 Ecosistemas: Microsoft Azure Purview · Modelado Geoespacial (Google Earth) · Notion**  
-Gobernanza de datos, modelado geoespacial y gestión documental técnica. Arquitectura de sistemas de información en Notion mediante bases de datos relacionales complejas, dependencias transitivas (rollups) y programación de lógica condicional avanzada y matricial (arrays) para la orquestación de proyectos, recursos y personas mediante interfaces orientadas a la visualización de datos.  
+Gobernanza de datos, modelado geoespacial y análisis telemétrico. Arquitectura de sistemas de información en Notion mediante bases de datos relacionales complejas (_relations_, _rollups_), incluyendo la programación de lógica condicional avanzada y matricial (_arrays_) para el control de proyectos.  
 
 **Competencias Transversales   
-Entornos: macOS / Windows · Microsoft 365 / iWork · Google Workspace · Markdown · LaTeX**  
-Gestión avanzada de herramientas de productividad, ofimática y configuración empresarial de entornos multiplataforma. Documentación técnico-académica avanzada mediante Markdown y LaTeX.  
+Entornos: macOS / Windows · Microsoft 365 / iWork · Google Workspace · Git · Markdown · LaTeX**  
+Gestión avanzada de herramientas de productividad y ofimática en entornos multiplataforma. Orquestación y control de flujos de trabajo mediante Git y generación de documentación técnico-académica compleja mediante Markdown y LaTeX.  
 **Idiomas:** Español (Nativo), Inglés (Profesional técnico).  
 
 ## Credenciales Académicas
