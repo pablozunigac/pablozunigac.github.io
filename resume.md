@@ -36,12 +36,12 @@ Gestión y diagnóstico de infraestructura en redes descentralizadas (_DeFi_), c
 **Pontificia Universidad Católica de Valparaíso   
 Consultor de Datos y Docente Adjunto (en asociación con la Escuela de Negocios de la UAI)   
 Agosto 2018 – Junio 2021 (Bajo Demanda) / Región Metropolitana – Región de Valparaíso**  
-Consolidación de fuentes de datos y diseño de pipelines ETL para análisis estadístico exploratorio en entorno académico, la visualización de datos como soporte a decisiones y apoyo en docencia ingenieril en la cátedra “_Ciencia de Datos Aplicada_”. Asesoría en proyectos finales de pregrado, modelado de datos, estructuras lógicas y automatización de flujos de información en contextos educativos y analíticos. Asesor técnico, editor de material académico y expositor internacional.  
+Consolidación de fuentes de datos y diseño de _pipelines_ ETL para análisis estadístico exploratorio en entorno académico, la visualización de datos como soporte a decisiones y apoyo en docencia ingenieril en la cátedra “_Ciencia de Datos Aplicada_”. Asesoría en proyectos finales de pregrado, modelado de datos, estructuras lógicas y automatización de flujos de información en contextos educativos y analíticos. Asesor técnico, editor de material académico y expositor internacional.  
 
 **Banco de Crédito e Inversiones (Bci) – Gerencia Corporativa de Data & Analytics – Gobierno de Datos  
 Ingeniero de Procesos   
 Mayo 2019 – Septiembre 2019 / Las Condes, Región Metropolitana**  
-Orquestación de pipelines para la integración de metadatos desde sistemas operacionales hacia repositorios de gobierno de datos en Microsoft Azure, respaldada por modelado de flujos y estandarización BPMN. Fiscalización de arquitecturas de datos en entornos financieros regulados, asegurando la consistencia, calidad y control de acceso en la gestión de la información institucional.  
+Orquestación de _pipelines_ para la integración de metadatos desde sistemas operacionales hacia repositorios de gobierno de datos en Microsoft Azure, respaldada por modelado de flujos y estandarización BPMN. Fiscalización de arquitecturas de datos en entornos financieros regulados, asegurando la consistencia, calidad y control de acceso en la gestión de la información institucional.  
 
 **ESVAL – Departamento de Gestión de Redes   
 Líder de Proyecto (Proyecto de Título)  
