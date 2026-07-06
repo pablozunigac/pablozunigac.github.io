@@ -5,8 +5,9 @@
 ---
 
 <p align="center">
-  <b><a href="https://pablozunigac.github.io/resume.html">Full Resume (ES)</a></b> &nbsp;|&nbsp; 
-  <b><a href="https://github.com/pablozunigac" target="_blank">GitHub Profile ↗</a></b>
+  <b><a href="https://pablozunigac.github.io/resume.html">Full Resume (ES)</a></b>&nbsp;|&nbsp;
+  <b><a href="https://github.com/pablozunigac" target="_blank">GitHub Profile ↗</a></b>&nbsp;|&nbsp;
+  <b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo" target="_blank">Scheduling (ES)</a></b>
 </p>
 
 ---
@@ -43,7 +44,7 @@ An architectural deep-dive into how I analyze, engineer, and scale systems under
 * **[Academic Records & Credentials (ES)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-Carvajal-Dosier-Acad-mico-3822ad0c842680b1859afaa0dee4e4bc?source=copy_link)**  
 Official academic repository, university degree background, and formal engineering validations.
 
-* **[Professional Scheduling (ES)](https://calendar.notion.so/meet/cuxhavenlabs/pablo)**  
+* **[Scheduling (ES)](https://calendar.notion.so/meet/cuxhavenlabs/pablo)**  
 Real-time meeting management and asynchronous operational availability for strategic sessions.
 
 ---
