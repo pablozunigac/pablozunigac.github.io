@@ -31,7 +31,7 @@ Enfoque en la ejecución técnica y el modelado matemático. Diseño e implement
 **Ecosistemas Distribuidos  
 Ingeniero de Infraestructura y Redes Digitales   
 Enero 2020 – Julio 2022 / Remoto**  
-Gestión y diagnóstico de infraestructura en redes descentralizadas (DeFi), con resolución de incidencias por congestión, mitigación de duplicidad transaccional (nonce) y optimización de costos de ejecución en cadena (gas fees). Análisis de sistemas distribuidos de alta carga bajo condiciones de latencia crítica en tiempo real, garantizando soporte operacional para una base global de +1,000 usuarios concurrentes. Administración de protocolos de interoperabilidad y puentes de liquidez cross-chain para la conversión eficiente de activos (swaps) y el aseguramiento de la consistencia operativa de activos digitales estables (stablecoins).  
+Gestión y diagnóstico de infraestructura en redes descentralizadas (_DeFi_), con resolución de incidencias por congestión, mitigación de duplicidad transaccional (_nonce_) y optimización de costos de ejecución en cadena (_gas fees_). Análisis de sistemas distribuidos de alta carga bajo condiciones de latencia crítica en tiempo real, garantizando soporte operacional para una base global de +1,000 usuarios concurrentes. Administración de protocolos de interoperabilidad y puentes de liquidez cross-chain para la conversión eficiente de activos (_swaps_) y el aseguramiento de la consistencia operativa de activos digitales estables (_stablecoins_).  
 
 **Pontificia Universidad Católica de Valparaíso   
 Consultor de Datos y Docente Adjunto (en asociación con la Escuela de Negocios de la UAI)   
@@ -66,7 +66,7 @@ Tratamiento estadístico y estocástico de series de tiempo para el modelado de 
 
 **Datos y Sistemas de Información  
 Especialidades: ETL/ELT · Arquitectura de Metadatos · Modelado de Datos**  
-Construcción de repositorios y flujos de datos distribuidos bajo control de versiones (Git). Despliegue de procesos ETL/ELT orientados a la integridad, trazabilidad y calidad de los datos. Definición semántica de metadatos, interoperabilidad de sistemas de información y soporte arquitectónico para la continuidad operativa.  
+Construcción de repositorios y flujos de datos distribuidos bajo control de versiones. Despliegue de procesos ETL/ELT orientados a la integridad, trazabilidad y calidad de los datos. Definición semántica de metadatos, interoperabilidad de sistemas de información y soporte arquitectónico para la continuidad operativa.  
 
 **Desarrollo de _Software_ y Procesos de Negocio     
 Metodologías: SQL · REST API · OOP · UML · Diagramación BPMN**  
