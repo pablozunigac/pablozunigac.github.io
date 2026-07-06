@@ -1,3 +1,11 @@
+<p align="center">
+  <b><a href="https://pablozunigac.github.io/">Inicio</a></b> &nbsp;·&nbsp; 
+  <b><a href="https://pablozunigac.github.io/resume.html">Resume (ES)</a></b> &nbsp;·&nbsp; 
+  <b><a href="https://github.com/pablozunigac" target="_blank">GitHub Profile ↗</a></b>
+</p>
+
+---
+
 **Industrial & Systems Engineer · PUCV, Chile**  
 **Eastern Time Aligned**  
 **Streamlined US Deployment ([H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) & [ESTA](https://cl.usembassy.gov/visa-waiver-program/))**
