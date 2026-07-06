@@ -8,11 +8,11 @@ Designing the underlying structures that make complex work coherent, navigable, 
 
 ### Operational Focus & Systems Engineering
 
-* **Data Engineering & Infrastructure**  
+* **Raw Data & Databases Engineering**  
 Design and implementation of automated pipelines (ETL/ELT) and metadata architectures. I transform raw data from complex industrial environments into clean, governed, and decision-ready information assets.  
 * **Advanced Analytics & Modeling**  
 Statistical and inferential modeling, alongside time-series analysis, applied to risk mitigation and resource optimization across critical infrastructure sectors (such as mining, energy, and regulated utilities).  
-* **Governance & Knowledge Management**  
+* **Data Governance & Knowledge Management**  
 Structuring integrated management control systems and technical documentation under agile methodologies, ensuring operational continuity and end-to-end traceability in high-complexity projects.
 
 ---
