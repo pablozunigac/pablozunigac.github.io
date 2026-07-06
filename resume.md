@@ -17,15 +17,17 @@ Pontificia Universidad Católica de Valparaíso 
 
 Ingeniero Civil Industrial especializado en el diseño, la validación técnica y el escalamiento de soluciones de datos para entornos industriales e infraestructura crítica (minería, energía y servicios regulados). Ocho años de experiencia diseñando y liderando implementaciones ETL, integración de datos y desarrollo de modelos para la optimización de procesos y mitigación de riesgos tecnológicos. Enfoque _tecno-agnóstico_ y sistémico, orientado a la estandarización operacional, la gobernanza de datos y el modelado de sistemas complejos.  
 
+---
+
 <p align="center">
   <a href="#experiencias-clave">Experiencias Clave</a>  · 
   <a href="#competencias-tecnológicas">Competencias Tecnológicas</a>  · 
   <a href="#credenciales-académicas">Credenciales Académicas</a>  · 
   <a href="#docencia-y-divulgación-técnica">Docencia y Divulgación Técnica</a>
 </p>
-
----
-
+  
+  
+  
 ## Experiencias Clave  
 
 **Cuxhaven Labs   
