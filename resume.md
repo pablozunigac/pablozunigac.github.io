@@ -70,7 +70,7 @@ Práctica de Ingeniería 
 Enero 2014 – Marzo 2014 / Salamanca, Región de Coquimbo**  
 Monitoreo de procesos críticos en faena minera mediante captura, registro y trazabilidad de datos. Consolidación de información de inspecciones y sistemas automatizados para la detección temprana de riesgos y desviaciones. Elaboración de informes y registros históricos para control de procesos, continuidad operacional y apoyo a decisiones en infraestructura crítica.  
 
-<br>
+---
 
 ## Competencias Tecnológicas  
 
@@ -95,7 +95,7 @@ Entornos: macOS / Windows · Microsoft 365 / iWork · Google Workspace · Git ·
 Gestión avanzada de herramientas de productividad y ofimática en entornos multiplataforma. Orquestación y control de flujos de trabajo mediante Git y generación de documentación técnico-académica compleja mediante Markdown y LaTeX.  
 **Idiomas:** Español (Nativo), Inglés (Profesional técnico).  
 
-<br>
+---
 
 ## Credenciales Académicas
 
