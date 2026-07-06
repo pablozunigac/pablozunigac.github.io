@@ -1,13 +1,13 @@
 **Ingeniero Civil Industrial  
 Pontificia Universidad Católica de Valparaíso   
-[pablo.zuniga.c@gmail.com](mailto:pablo.zuniga.c@gmail.com) 
+[pablo.zuniga.c@gmail.com](mailto:pablo.zuniga.c@gmail.com)**  
 
 ---
 
 <p align="center">
   <b><a href="https://pablozunigac.github.io/">Inicio (EN)</a></b>&nbsp;|&nbsp;
   <b><a href="https://github.com/pablozunigac" target="_blank">GitHub Profile↗</a></b>&nbsp;|&nbsp;
-    <b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo" target="_blank">Scheduling (ES)</a></b>
+  <b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo" target="_blank">Scheduling (ES)</a></b>
 </p>
 
 ---
