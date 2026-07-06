@@ -21,9 +21,14 @@ Structuring integrated management control systems and technical documentation un
 To ensure efficient coordination and immediate access to my ecosystem, I leverage live documentation platforms:
 
 * **[Professional Positioning Dossier (EN)](https://cuxhavenlabs.notion.site/Professional-Positioning-Dossier-21a2ad0c842680749956e17239a36e4d?source=copy_link)**  
-Strategic consulting frameworks, core operational methodologies, and market positioning design.  
+Strategic consulting frameworks, core operational methodologies, and market positioning design.
+
 * **[Pablo Zúñiga's Metaportfolio (EN)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-s-Metaportfolio-2042ad0c842680569ab8f6109a7e0d4b?source=copy_link)**  
 An architectural deep-dive into how I analyze, engineer, and scale systems under complexity.
+
+* **[Full Resume](https://pablozunigac.github.io/resume.html)**
+Master index of professional experience, core engineering milestones, and localized industry deployments.
+
 * **[Academic Records & Credentials (ES)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-Carvajal-Dosier-Acad-mico-3822ad0c842680b1859afaa0dee4e4bc?source=copy_link)**  
 Official academic repository, university degree background, and formal engineering validations.
 * **[Professional Scheduling (ES)](https://calendar.notion.so/meet/cuxhavenlabs/pablo)**  
