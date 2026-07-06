@@ -25,8 +25,8 @@ Ingeniero Civil Industrial especializado en el diseño, la validación técnica 
   <a href="#credenciales-académicas">Credenciales Académicas</a>  · 
   <a href="#docencia-y-divulgación-técnica">Docencia y Divulgación Técnica</a>
 </p>
-  
-  
+
+<br>
   
 ## Experiencias Clave  
 
