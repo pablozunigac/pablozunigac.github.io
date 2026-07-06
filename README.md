@@ -10,22 +10,6 @@ Ingeniero Civil Industrial especializado en el diseño, la validación técnica 
 
 ---
 
-### Atelier Profesional  
-
-**[_Curriculum Vitae_ (ES)](https://pablozunigac.github.io/resume.html)**  
-Master index of professional experience, core engineering milestones, and localized industry deployments.
-
-**[Dosier Profesional (EN)](https://cuxhavenlabs.notion.site/Professional-Positioning-Dossier-21a2ad0c842680749956e17239a36e4d?source=copy_link)**  
-Una síntesis de mi trayectoria, metodologías y despliegue operativo
-
-**[Metaportafolio (EN)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-s-Metaportfolio-2042ad0c842680569ab8f6109a7e0d4b?source=copy_link)**  
-Mapa técnico que documenta cómo modelo y resuelvo sistemas complejos  
-
-**[Expediente Académico (ES)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-Carvajal-Dosier-Acad-mico-3822ad0c842680b1859afaa0dee4e4bc?source=copy_link)**  
-Validación oficial de mi título profesional y credenciales académicas
-
----
-
 ### Competencias Tecnológicas  
 * **Lenguajes de Programación y Analítica Avanzada**  
 **Herramientas:** Modelado Estadístico e Inferencial · Series de Tiempo · Python · R
