@@ -1,15 +1,15 @@
-**Ingeniero Civil Industrial  
-Pontificia Universidad Católica de Valparaíso   
-[pablo.zuniga.c@gmail.com](mailto:pablo.zuniga.c@gmail.com)** | **+56 9 4941 9529**  
-
----
-
 <p align="center">
   <b><a href="https://pablozunigac.github.io">Inicio (EN)</a></b>&nbsp;|&nbsp;
   <b><a href="https://github.com/pablozunigac" target="_blank">Perfil GitHub ↗</a></b>&nbsp;|&nbsp;
   <b><a href="https://pablozunigac.github.io/CV-Pablo-Zuniga-Carvajal.pdf" target="_blank">Descargar CV (PDF)</a></b>&nbsp;|&nbsp;
   <b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo" target="_blank">Agendar Llamada ↗</a></b>
 </p>
+
+---
+
+**Ingeniero Civil Industrial  
+Pontificia Universidad Católica de Valparaíso   
+[pablo.zuniga.c@gmail.com](mailto:pablo.zuniga.c@gmail.com)** | **+56 9 4941 9529**  
 
 ---
 
