@@ -26,11 +26,12 @@ Strategic consulting frameworks, core operational methodologies, and market posi
 * **[Pablo Zúñiga's Metaportfolio (EN)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-s-Metaportfolio-2042ad0c842680569ab8f6109a7e0d4b?source=copy_link)**  
 An architectural deep-dive into how I analyze, engineer, and scale systems under complexity.
 
-* **[Full Resume (ES)](https://pablozunigac.github.io/resume.html)**
+* **[Full Resume (ES)](https://pablozunigac.github.io/resume.html)**  
 Master index of professional experience, core engineering milestones, and localized industry deployments.
 
 * **[Academic Records & Credentials (ES)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-Carvajal-Dosier-Acad-mico-3822ad0c842680b1859afaa0dee4e4bc?source=copy_link)**  
-Official academic repository, university degree background, and formal engineering validations.  
+Official academic repository, university degree background, and formal engineering validations.
+
 * **[Professional Scheduling (ES)](https://calendar.notion.so/meet/cuxhavenlabs/pablo)**  
 Real-time meeting management and asynchronous operational availability for strategic sessions.
 
