@@ -105,7 +105,8 @@ Licenciatura en Ciencias de la Ingeniería / 2016**
 Programa integrado de doce semestres con formación en ingeniería de sistemas, análisis cuantitativo, econometría y estadística aplicada. Enfoque en el modelado y análisis de sistemas complejos con especialización en tecnologías de la información y teoría de sistemas.
 Ayudante académico recurrente en Ingeniería Económica, Sistemas de Información y Matemática Aplicada con énfasis en análisis cuantitativo y herramientas computacionales para la ingeniería, las finanzas y la contabilidad.  
 
-**Ingeniería Civil / 2007 – 2010 (Estudios Fundamentales)**  
+**Pontificia Universidad Católica de Valparaíso   
+Ingeniería Civil / 2007 – 2010 (Estudios Fundamentales)**  
 Formación en ciencias básicas de la ingeniería con énfasis en matemática aplicada, herramientas computacionales (MATLAB) y dibujo técnico vectorial en AutoCAD.
 
 ---
