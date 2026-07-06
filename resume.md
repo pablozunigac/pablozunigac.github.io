@@ -13,7 +13,7 @@ Pontificia Universidad Católica de Valparaíso 
 
 ---
 
-[## Competencias Tecnológicas](#competencias-tecnológicas)  
+[Competencias Tecnológicas](#competencias-tecnológicas)  
 [Credenciales Académicas](#credenciales-académicas)  
 [Docencia y Divulgación Técnica](#-docencia-y-divulgación-técnica)
 
