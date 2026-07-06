@@ -23,7 +23,7 @@ Pontificia Universidad Católica de Valparaíso 
 
 <p align="center">
   
-[Experiencias Clave](#experiencias-clave) | [Competencias Tecnológicas](#competencias-tecnológicas) | [Credenciales Académicas](#credenciales-académicas) | [Docencia y Divulgación Técnica](#docencia-y-divulgación-técnica)
+<a href="#experiencias-clave">Experiencias Clave</a> | [Competencias Tecnológicas](#competencias-tecnológicas) | [Credenciales Académicas](#credenciales-académicas) | [Docencia y Divulgación Técnica](#docencia-y-divulgación-técnica)
     
 </p>
 
