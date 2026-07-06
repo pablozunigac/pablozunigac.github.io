@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <b><a href="https://pablozunigac.github.io/resume.html">Resume (ES)</a></b> &nbsp;|&nbsp; 
+  <b><a href="https://pablozunigac.github.io/resume.html">Full Resume (ES)</a></b> &nbsp;|&nbsp; 
   <b><a href="https://github.com/pablozunigac" target="_blank">GitHub Profile ↗</a></b>
 </p>
 
