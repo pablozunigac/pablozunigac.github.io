@@ -7,6 +7,9 @@
 
 ### Atelier Profesional  
 
+* **[_Curriculum Vitae_ (ES)](https://pablozunigac.github.io/resume.html)**  
+Master index of professional experience, core engineering milestones, and localized industry deployments.
+
 **[Dosier Profesional (EN)](https://cuxhavenlabs.notion.site/Professional-Positioning-Dossier-21a2ad0c842680749956e17239a36e4d?source=copy_link)**  
 Una síntesis de mi trayectoria, metodologías y despliegue operativo
 
