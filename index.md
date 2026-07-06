@@ -7,7 +7,7 @@
 <p align="center">
   <b><a href="https://pablozunigac.github.io/resume.html">Full Resume (ES)</a></b>&nbsp;|&nbsp;
   <b><a href="https://github.com/pablozunigac" target="_blank">GitHub Profile ↗</a></b>&nbsp;|&nbsp;
-  <b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo" target="_blank">Scheduling (ES) ↗</a></b>
+  <b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo" target="_blank">Scheduling ↗</a></b>
 </p>
 
 ---
@@ -32,9 +32,6 @@ Structuring integrated management control systems and technical documentation un
 ### Distributed Infrastructure & Live Nodes
 To ensure efficient coordination and immediate access to my ecosystem, I leverage live documentation platforms:
 
-* **[Full Resume (ES)](https://pablozunigac.github.io/resume.html)**  
-Master index of professional experience, core engineering milestones, and localized industry deployments.
-
 * **[Professional Positioning Dossier (EN)](https://cuxhavenlabs.notion.site/Professional-Positioning-Dossier-21a2ad0c842680749956e17239a36e4d?source=copy_link)**  
 Strategic consulting frameworks, core operational methodologies, and market positioning design.
 
@@ -43,9 +40,6 @@ An architectural deep-dive into how I analyze, engineer, and scale systems under
 
 * **[Academic Records & Credentials (ES)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-Carvajal-Dosier-Acad-mico-3822ad0c842680b1859afaa0dee4e4bc?source=copy_link)**  
 Official academic repository, university degree background, and formal engineering validations.
-
-* **[Scheduling (ES)](https://calendar.notion.so/meet/cuxhavenlabs/pablo)**  
-Real-time meeting management and asynchronous operational availability for strategic sessions.
 
 ---
 
