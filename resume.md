@@ -13,7 +13,7 @@ Pontificia Universidad Católica de Valparaíso 
 
 ---
 
-[Credenciales Académicas](##-Credenciales-Académicas)
+[Credenciales Académicas](#credenciales-académicas)
 
 ---
 
