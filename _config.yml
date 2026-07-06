@@ -1,13 +1,8 @@
-# Configuration for Global Navigation Menu
-header_pages:
-  - index.md
-  - resume.md
-
-# Custom external links (Supported by themes like Minima or custom layouts)
-nav_links:
-  - title: "Ecosistema (EN)"
-    url: /
-  - title: "Resume (ES)"
-    url: /resume.html
-  - title: "GitHub Profile ↗"
-    url: https://github.com/pablozunigac
+# Custom Navigation Architecture
+navigation:
+  - text: "Inicio"
+    url: "https://pablozunigac.github.io/"
+  - text: "Resume (ES)"
+    url: "https://pablozunigac.github.io/resume.html"
+  - text: "GitHub Profile ↗"
+    url: "https://github.com/pablozunigac"
