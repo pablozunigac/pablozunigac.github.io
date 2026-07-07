@@ -90,11 +90,11 @@ Gobernanza de datos, modelado geoespacial y análisis telemétrico. Arquitectura
 
 ## Competencias Transversales  
 
-**Ecosistemas Operativos y Control de Versiones
+**Ecosistemas Operativos y Control de Versiones  
 Entornos y Herramientas: macOS / Windows · Git · Markdown · LaTeX**  
 Dominio de entornos macOS y Windows. Orquestación de flujos de trabajo mediante control de versiones y generación de documentación técnico-académica mediante Markdown y LaTeX.  
 
-**Comunicación Técnica y Divulgación
+**Comunicación Técnica y Divulgación  
 Capacidades: Producción Escrita · Transferencia de Conocimiento**  
 Producción de documentación técnica, material académico y contenidos de ingeniería orientados a negocio. Comunicación oral ejecutiva y traducción de complejidad ante comités corporativos, personal técnico y operaciones en terreno.  
 
