@@ -86,10 +86,19 @@ Integración de datos en arquitecturas distribuidas mediante APIs para garantiza
 Ecosistemas: Microsoft Azure Purview · Modelado Geoespacial (Google Earth) · Notion**  
 Gobernanza de datos, modelado geoespacial y análisis telemétrico. Arquitectura de sistemas de información en Notion mediante bases de datos relacionales complejas (_relations_, _rollups_), incluyendo la programación de lógica condicional avanzada y matricial (_arrays_) para el control de proyectos.  
 
-**Competencias Transversales   
-Entornos: macOS / Windows · Microsoft 365 / iWork · Google Workspace · Git · Markdown · LaTeX**  
-Gestión avanzada de herramientas de productividad y ofimática en entornos multiplataforma. Orquestación y control de flujos de trabajo mediante Git y generación de documentación técnico-académica compleja mediante Markdown y LaTeX.  
-**Idiomas:** Español (Nativo), Inglés (Profesional técnico).  
+---
+
+## Competencias Transversales  
+
+**Ecosistemas Operativos y Control de Versiones
+Entornos y Herramientas: macOS / Windows · Git · Markdown · LaTeX**  
+Dominio de entornos macOS y Windows. Orquestación de flujos de trabajo mediante control de versiones y generación de documentación técnico-académica mediante Markdown y LaTeX.  
+
+**Comunicación Técnica y Divulgación
+Capacidades: Producción Escrita · Transferencia de Conocimiento**  
+Producción de documentación técnica, material académico y contenidos de ingeniería orientados a negocio. Comunicación oral ejecutiva y traducción de complejidad ante comités corporativos, personal técnico y operaciones en terreno.  
+
+**Idiomas:** Español: (Nativo), Inglés (Profesional técnico).
 
 ---
 
