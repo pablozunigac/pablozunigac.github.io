@@ -131,4 +131,4 @@ Relatoría de programa intensivo en análisis técnico y series de tiempo para l
 
 ---
 
-**Inquiries: [pablo.zuniga.c@gmail.com](mailto:pablo.zuniga.c@gmail.com)**
+**Contacto: [pablo.zuniga.c@gmail.com](mailto:pablo.zuniga.c@gmail.com)**
