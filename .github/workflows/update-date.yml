@@ -24,10 +24,9 @@ jobs:
     
     - name: Inject Current Date and Time into Markdown
       run: |
-        # Fetch current date and time (e.g., '11 de julio de 2026 ,17:04:59')
+        # Fetch current date and time
         # sed 's/  / /g' removes any double spaces caused by single-digit days
-        CURRENT_DATE=$(LC_TIME="es_CL.UTF-8" date -u +'%e de %B de %Y, %H:%M UTC' | sed 's/  / /g')
-        
+        CURRENT_DATE=$(date -u +'%d-%m-%Y, %H:%M UTC')
         # Matches the absolute line starting with the prefix and overwrites it completely
         # The sed command remains identical because it wipes the line and injects the new string + tag
         sed -i "s|^\*\*Última actualización:\*\*.*|**Última actualización:** $CURRENT_DATE <!-- date -->|g" resume.md
