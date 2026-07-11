@@ -131,4 +131,4 @@ Relatoría de programa intensivo en análisis técnico y series de tiempo para l
 
 ---
 
-**Última Actualización: 11 de julio de 2026**
+**Última Actualización: 11 de julio de 2026.**
