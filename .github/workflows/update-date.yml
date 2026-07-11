@@ -1,4 +1,4 @@
-name: Automated Resume Timestamp Update
+name: Automated Profile Timestamp Update
 
 # Trigger the workflow on every push to the main or master branches
 on:
@@ -25,8 +25,8 @@ jobs:
         CURRENT_DATE=$(TZ="America/Santiago" date +'%B de %Y')
         
         # Replace the HTML comment template <!-- fecha --> with the actual formatted date
-        # Target file is resume.md
-        sed -i "s/<!-- fecha -->/$CURRENT_DATE/g" resume.md
+        # Target file is index.md
+        sed -i "s/<!-- fecha -->/$CURRENT_DATE/g" index.md
 
     # Step 3: Commit the modified file and push it back to the repository
     - name: Commit and Push Timestamp Changes
