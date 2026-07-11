@@ -42,7 +42,9 @@ An architectural deep-dive into how I analyze, engineer, and scale systems under
 Official academic repository, university degree background, and formal engineering validations.
 
 ---
-
-**© 2026 Pablo Zúñiga Carvajal.** All rights reserved.  
+  
+**Last Update:** 11 de julio de 2026, 21:33 UTC <!-- date -->  
 **Inquiries:** [pablo.zuniga.c@gmail.com](mailto:pablo.zuniga.c@gmail.com)  
-**Last Update:** 11 de julio de 2026, 21:33 UTC <!-- date -->
+  
+**© 2026 Pablo Zúñiga Carvajal.** All rights reserved. 
+
