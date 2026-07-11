@@ -28,7 +28,8 @@ jobs:
         CURRENT_DATE=$(TZ="America/Santiago" LC_TIME="es_CL.UTF-8" date +'%B de %Y')
         
         # KEY FIX: Replaces the tag with the date AND appends the tag again for future updates
-        sed -i "s/<!-- fecha -->/$CURRENT_DATE <!-- fecha -->/g" resume.md
+        # sed -i "s/<!-- fecha -->/$CURRENT_DATE <!-- fecha -->/g" resume.md
+        sed -i "s|^\*\*Última actualización:\*\*.*|**Última actualización:** $CURRENT_TIME <!-- fecha -->|g" resume.md
 
     - name: Commit and Push Timestamp Changes
       run: |
