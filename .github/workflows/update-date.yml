@@ -1,6 +1,6 @@
-name: Automated Profile Timestamp Update
+name: Automated Resume Timestamp Update
 
-# Trigger the workflow on every push to the main or master branches
+# Triggers the workflow on every push event to main or master branches
 on:
   push:
     branches: [ main, master ]
@@ -9,32 +9,34 @@ jobs:
   update-timestamp:
     runs-on: ubuntu-latest
     
-    # Required permissions to allow the GitHub Actions bot to write/commit back to the repository
     permissions:
       contents: write
 
     steps:
-    # Step 1: Check out the repository content so the runner can access and modify it
     - name: Checkout Repository
       uses: actions/checkout@v4
     
-    # Step 2: Calculate the current date in Chile's timezone and inject it into the Markdown file
-    - name: Inject Current Date into Markdown
+    # Ensures Spanish locale is installed on the Ubuntu runner
+    - name: Set up Spanish Locale
       run: |
-        # Fetch current month and year using Santiago, Chile timezone
-        CURRENT_DATE=$(TZ="America/Santiago" date +'%B de %Y')
+        sudo locale-gen es_CL.UTF-8
+        sudo update-locale
+    
+    - name: Inject Current Date and Time into Markdown
+      run: |
+        # Fetch current date and time (e.g., '11 de julio de 2026 ,17:04:59')
+        # sed 's/  / /g' removes any double spaces caused by single-digit days
+        CURRENT_DATE=$(LC_TIME="es_CL.UTF-8" date -u +'%e de %B de %Y, %H:%M UTC' | sed 's/  / /g')
         
-        # Replace the HTML comment template <!-- fecha --> with the actual formatted date
-        # Target file is index.md
-        sed -i "s/<!-- fecha -->/$CURRENT_DATE/g" index.md
+        # Matches the absolute line starting with the prefix and overwrites it completely
+        # The sed command remains identical because it wipes the line and injects the new string + tag
+        sed -i "s|^\*\*Última actualización:\*\*.*|**Última actualización:** $CURRENT_DATE <!-- fecha -->|g" resume.md
 
-    # Step 3: Commit the modified file and push it back to the repository
     - name: Commit and Push Timestamp Changes
       run: |
-        # Configure the official GitHub Actions bot as the Git author
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         
-        # Stage, commit, and push the changes. '|| exit 0' ensures the pipeline won't fail if there are no updates
-        git commit -am "Bot: Automatically updated last modification date" || exit 0
+        # Commits and pushes changes back. '|| exit 0' prevents failure if no content changed
+        git commit -am "Bot: Automatically updated last modification timestamp with hours, minutes, and seconds" || exit 0
         git push
