@@ -1,0 +1,38 @@
+name: Automated Resume Timestamp Update
+
+on:
+  push:
+    branches: [ main, master ]
+
+jobs:
+  update-timestamp:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+    
+    # New Step: Ensure Spanish locale is installed on the Ubuntu runner
+    - name: Set up Spanish Locale
+      run: |
+        sudo locale-gen es_CL.UTF-8
+        sudo update-locale
+    
+    - name: Inject Current Date into Markdown
+      run: |
+        # Fetch current date using Santiago timezone and forcing Spanish formatting
+        CURRENT_DATE=$(TZ="America/Santiago" LC_TIME="es_CL.UTF-8" date +'%B de %Y')
+        
+        # Replace the HTML comment template <!-- fecha --> with the actual formatted date
+        sed -i "s/<!-- fecha -->/$CURRENT_DATE/g" resume.md
+
+    - name: Commit and Push Timestamp Changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        
+        git commit -am "Bot: Automatically updated last modification date in Spanish" || exit 0
+        git push
