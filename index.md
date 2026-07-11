@@ -43,8 +43,7 @@ Official academic repository, university degree background, and formal engineeri
 
 ---
   
-**Last Update:** 11-07-2026, 22:47 UTC <!-- date -->
-  
+**Last Update:** 11-07-2026, 22:47 UTC <!-- date -->  
 **Inquiries:** [pablo.zuniga.c@gmail.com](mailto:pablo.zuniga.c@gmail.com)  
   
 **© 2026 Pablo Zúñiga Carvajal.** All rights reserved. 
