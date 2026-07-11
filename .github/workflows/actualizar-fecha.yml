@@ -26,10 +26,6 @@ jobs:
       run: |
         # Fetch current date and time (e.g., '11 de julio de 2026 ,17:04:59')
         # sed 's/  / /g' removes any double spaces caused by single-digit days
-        # CURRENT_DATE=$(TZ="America/Santiago" LC_TIME="es_CL.UTF-8" date +'%e de %B de %Y, %H:%M' | sed 's/  / /g')
-        # CURRENT_DATE=$(TZ="America/Santiago" LC_TIME="es_CL.UTF-8" date +'%e de %B de %Y a las %H:%M:%S (GMT%::z)' | sed -E 's/:00\)$/)/' | sed 's/  / /g')
-        # CURRENT_DATE=$(TZ="America/Santiago" LC_TIME="es_CL.UTF-8" date +'%e de %B de %Y, %H:%M (GMT%:z)' | sed 's/  / /g')
-        # CURRENT_DATE=$(date -u +'%e de %B de %Y, %H:%M UTC' | sed 's/  / /g')
         CURRENT_DATE=$(LC_TIME="es_CL.UTF-8" date -u +'%e de %B de %Y, %H:%M UTC' | sed 's/  / /g')
         
         # Matches the absolute line starting with the prefix and overwrites it completely
