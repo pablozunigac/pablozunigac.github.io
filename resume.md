@@ -132,6 +132,5 @@ Relatoría de programa intensivo en análisis técnico y series de tiempo para l
 ---
 
 2026 Pablo Zúñiga Carvajal  
-Disponible para proyectos de arquitectura de datos  
-Última actualización: julio de 2026  
-*Última actualización: July de 2026*
+Disponible para proyectos de arquitectura de datos   
+Última actualización: July de 2026
