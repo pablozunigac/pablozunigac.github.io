@@ -132,4 +132,4 @@ Relatoría de programa intensivo en análisis técnico y series de tiempo para l
 ---
 
 **© 2026 Pablo Zúñiga Carvajal.** Todos los derechos reservados.  
-**Última actualización:** 11 de julio de 2026, 21:55 UTC <!-- fecha -->
+**Última actualización:** 11 de julio de 2026, 21:56 UTC <!-- date -->
