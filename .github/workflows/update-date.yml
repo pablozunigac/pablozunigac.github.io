@@ -1,0 +1,40 @@
+name: Automated Resume Timestamp Update
+
+# Trigger the workflow on every push to the main or master branches
+on:
+  push:
+    branches: [ main, master ]
+
+jobs:
+  update-timestamp:
+    runs-on: ubuntu-latest
+    
+    # Required permissions to allow the GitHub Actions bot to write/commit back to the repository
+    permissions:
+      contents: write
+
+    steps:
+    # Step 1: Check out the repository content so the runner can access and modify it
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+    
+    # Step 2: Calculate the current date in Chile's timezone and inject it into the Markdown file
+    - name: Inject Current Date into Markdown
+      run: |
+        # Fetch current month and year using Santiago, Chile timezone
+        CURRENT_DATE=$(TZ="America/Santiago" date +'%B de %Y')
+        
+        # Replace the HTML comment template <!-- fecha --> with the actual formatted date
+        # Target file is index.md (change to README.md or your specific filename if needed)
+        sed -i "s/<!-- fecha -->/$CURRENT_DATE/g" index.md
+
+    # Step 3: Commit the modified file and push it back to the repository
+    - name: Commit and Push Timestamp Changes
+      run: |
+        # Configure the official GitHub Actions bot as the Git author
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        
+        # Stage, commit, and push the changes. '|| exit 0' ensures the pipeline won't fail if there are no updates
+        git commit -am "Bot: Automatically updated last modification date" || exit 0
+        git push
