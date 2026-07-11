@@ -131,12 +131,4 @@ Relatoría de programa intensivo en análisis técnico y series de tiempo para l
 
 ---
 
-**Contacto: [pablo.zuniga.c@gmail.com](mailto:pablo.zuniga.c@gmail.com) · [GitHub](https://github.com/pablozunigac)  
-Última Actualización: <span id="fecha-actualizacion"></span>**
-
-<script>
-  // Obtiene la fecha de la última modificación reportada por el servidor
-  const ultimaMod = new Date(document.lastModified);
-  const opciones = { month: 'long', year: 'numeric' };
-  document.getElementById('fecha-actualizacion').textContent = ultimaMod.toLocaleDateString('es-CL', opciones);
-</script>
+**Última Actualización: 11 de julio de 2026**
