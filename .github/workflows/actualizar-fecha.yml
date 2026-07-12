@@ -4,6 +4,8 @@ name: Automated Resume Timestamp Update
 on:
   push:
     branches: [ main, master ]
+    paths:
+      - 'resume.md'
 
 jobs:
   update-timestamp:
