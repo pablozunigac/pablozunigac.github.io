@@ -7,11 +7,10 @@
 
 ---
 
-<p style="font-size: 16px; font-weight: bold; line-height: 1.4;">
   Ingeniero Civil Industrial<br>
   Pontificia Universidad Católica de Valparaíso<br>
-  <a href="mailto:pablo.zuniga.c@gmail.com" style="color: #2B64CF">pablo.zuniga.c@gmail.com / +56 9 4941 9529</a>
-</p>
+  <a href="mailto:pablo.zuniga.c@gmail.com" style="color: #2B64CF">pablo.zuniga.c@gmail.com</a>
+
 
 ## Perfil Profesional  
 
