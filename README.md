@@ -21,5 +21,10 @@ Ingeniero Civil Industrial especializado en el diseño, la validación técnica 
 **Metodologías:** SQL · REST API · OOP · UML · Diagramación BPMN
 
 * **Competencias Transversales y Gestión del Conocimiento **  
-**Entornos:** Linux / macOS / Windows · Markdown · LaTeX  
+**Entornos:** macOS / Windows · Markdown · LaTeX  
 **Idiomas:** Español (Nativo), Inglés (Profesional técnico)
+
+---
+
+**Última Actualización:** <span id="timestamp">12-07-2026, 15:36 UTC</span>  
+**© 2026 Pablo Zúñiga Carvajal.** Todos los derechos reservados.  
