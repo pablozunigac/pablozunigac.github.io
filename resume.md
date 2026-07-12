@@ -7,7 +7,7 @@
 
 ---
 
-<p style="font-size: 17px; font-weight: bold; line-height: 1.5;">
+<p style="font-size: 16px; font-weight: bold; line-height: 1.4;">
   Ingeniero Civil Industrial<br>
   Pontificia Universidad Católica de Valparaíso<br>
   <a href="mailto:pablo.zuniga.c@gmail.com" style="color: #2B64CF">pablo.zuniga.c@gmail.com</a>
