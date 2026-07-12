@@ -7,9 +7,11 @@
 
 ---
 
-### Ingeniero Civil Industrial  
-### Pontificia Universidad Católica de Valparaíso   
-### [pablo.zuniga.c@gmail.com](mailto:pablo.zuniga.c@gmail.com)
+<p style="font-size: 15px;">
+  Ingeniero Civil Industrial  
+  Pontificia Universidad Católica de Valparaíso   
+  [pablo.zuniga.c@gmail.com](mailto:pablo.zuniga.c@gmail.com)
+</p>
 
 ## Perfil Profesional  
 
