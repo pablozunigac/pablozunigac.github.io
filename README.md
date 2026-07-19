@@ -2,6 +2,7 @@
 **Ingeniero Civil Industrial**  
 **Pontificia Universidad Católica de Valparaíso**  
 **[pablo.zuniga.c@gmail.com](mailto:pablo.zuniga.c@gmail.com)** | **[Agendar Llamada ↗](https://calendar.notion.so/meet/cuxhavenlabs/pablo)**
+**[CV (.pdf)](https://github.com/pablozunigac/pablozunigac.github.io/blob/main/CV-Pablo-Zuniga-Carvajal.pdf)**
 
 ---
 
