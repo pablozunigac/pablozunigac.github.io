@@ -1,6 +1,6 @@
 # Pablo Zúñiga
+<b> Ingeniero Civil Industrial – Pontificia Universidad Católica de Valparaíso </b>  
 <p align="center">
-  <b> Ingeniero Civil Industrial – Pontificia Universidad Católica de Valparaíso </b>  
   <b><a href="mailto:pablo.zuniga.c@gmail.com" target="_blank">pablo.zuniga.c@gmail.com</a></b>&nbsp; | &nbsp;
   <b><a href="https://pablozunigac.github.io/CV-Pablo-Zuniga-Carvajal.pdf" target="_blank">Descargar CV (.pdf)</a></b>&nbsp; | &nbsp;
   <b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo" target="_blank">Agendar Llamada ↗</a></b>
@@ -29,5 +29,5 @@ Ingeniero Civil Industrial especializado en el diseño, la validación técnica 
 
 ---
 
-**Última Actualización:** <span id="timestamp">20-07-2026, 20:03 UTC</span>  
+**Última Actualización:** <span id="timestamp">19-07-2026, 17:33 UTC</span>  
 **© 2026 Pablo Zúñiga Carvajal.** Todos los derechos reservados.
