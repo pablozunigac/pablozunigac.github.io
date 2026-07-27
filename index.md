@@ -22,11 +22,15 @@ Designing the underlying structures that make complex work coherent, navigable, 
 
 * **Raw Data & Databases Engineering**  
 Design and implementation of automated pipelines (ETL/ELT) and metadata architectures. I transform raw data from complex industrial environments into clean, governed, and decision-ready information assets.  
-`SQL` `REST API` `OOP` `UML` `BPMN`
+`ETL/ELT` `Metadata` `Data Modeling` `SQL` `REST API`
+
 * **Advanced Analytics & Modeling**  
-Statistical and inferential modeling, alongside time-series analysis, applied to risk mitigation and resource optimization across critical infrastructure sectors (such as mining, energy, and regulated utilities).  
+Statistical and inferential modeling, alongside time-series analysis, applied to risk mitigation and resource optimization across critical infrastructure sectors (such as mining, energy, and regulated utilities).
+`Statistics` `Inferential Modeling` `Time Series` `Python` `R`
+
 * **Data Governance & Knowledge Management**  
 Structuring integrated management control systems and technical documentation under agile methodologies, ensuring operational continuity and end-to-end traceability in high-complexity projects.
+`Notion` `BPMN` `UML` `OOP` `Geoespacial Modeling`
 
 ---
 
