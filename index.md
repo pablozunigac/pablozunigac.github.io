@@ -41,7 +41,7 @@ Strategic consulting frameworks, core operational methodologies, and market posi
 An architectural deep-dive into how I analyze, engineer, and scale systems under complexity.
 
 * **[Academic Records & Credentials (ES)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-Carvajal-Dosier-Acad-mico-3822ad0c842680b1859afaa0dee4e4bc?source=copy_link)**  
-<span style="background-color: #3bb877; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">Notion</span> <span style="background-color: #a9e39d; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">Credentials</span> <span style="background-color: #e39d9d; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">PDF</span>  
+<span style="background-color: #3bb877; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">Notion</span> <span style="background-color: #a9e39d; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">Credentials</span> <span style="background-color: #db4646; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">PDF</span>  
 Official academic repository, university degree background, and formal engineering validations.
 
 ---
