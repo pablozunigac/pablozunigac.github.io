@@ -24,6 +24,14 @@ Designing the underlying structures that make complex work coherent, navigable, 
 Design and implementation of automated pipelines (ETL/ELT) and metadata architectures. I transform raw data from complex industrial environments into clean, governed, and decision-ready information assets.  
 `ETL/ELT` `Metadata` `Data Modeling` `SQL` `REST API`
 
+<div style="font-family: monospace; font-size: 0.8em; margin-top: 3px;">
+  <span style="background: #88888a; color: #FFF; padding: 3px 5px; border-radius: 4px; margin-right: 3px;">ETL/ELT</span>
+  <span style="background: #88888a; color: #FFF; padding: 3px 5px; border-radius: 4px; margin-right: 3px;">Arquitectura de Metadatos</span>
+  <span style="background: #88888a; color: #FFF; padding: 3px 5px; border-radius: 4px; margin-right: 3px;">Modelado de Datos</span>
+  <span style="background: #88888a; color: #FFF; padding: 3px 5px; border-radius: 4px; margin-right: 3px;">SQL</span>
+  <span style="background: #88888a; color: #FFF; padding: 3px 5px; border-radius: 4px;">REST API</span>
+</div>
+
 * **Advanced Analytics & Modeling**  
 Statistical and inferential modeling, alongside time-series analysis, applied to risk mitigation and resource optimization across critical infrastructure sectors (such as mining, energy, and regulated utilities).  
 `Statistics` `Inferential Modeling` `Time Series` `Python` `R`
@@ -32,13 +40,7 @@ Statistical and inferential modeling, alongside time-series analysis, applied to
 Structuring integrated management control systems and technical documentation under agile methodologies, ensuring operational continuity and end-to-end traceability in high-complexity projects.  
 `Notion` `BPMN` `UML` `OOP` `Geoespacial Modeling`
 
-  <div style="font-family: monospace; font-size: 0.8em; margin-top: 6px;">
-    <span style="background: #6a6a6b; color: #FFF; padding: 2px 7px; border-radius: 4px; margin-right: 4px;">ETL/ELT</span>
-    <span style="background: #6a6a6b; color: #FFF; padding: 2px 7px; border-radius: 4px; margin-right: 4px;">Arquitectura de Metadatos</span>
-    <span style="background: #6a6a6b; color: #FFF; padding: 2px 7px; border-radius: 4px; margin-right: 4px;">Modelado de Datos</span>
-    <span style="background: #6a6a6b; color: #FFF; padding: 2px 7px; border-radius: 4px; margin-right: 4px;">SQL</span>
-    <span style="background: #6a6a6b; color: #FFF; padding: 2px 7px; border-radius: 4px;">REST API</span>
-  </div>
+
 
 ---
 
