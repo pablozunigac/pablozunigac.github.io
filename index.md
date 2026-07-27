@@ -25,12 +25,19 @@ Design and implementation of automated pipelines (ETL/ELT) and metadata architec
 `ETL/ELT` `Metadata` `Data Modeling` `SQL` `REST API`
 
 * **Advanced Analytics & Modeling**  
-Statistical and inferential modeling, alongside time-series analysis, applied to risk mitigation and resource optimization across critical infrastructure sectors (such as mining, energy, and regulated utilities).
+Statistical and inferential modeling, alongside time-series analysis, applied to risk mitigation and resource optimization across critical infrastructure sectors (such as mining, energy, and regulated utilities).  
 `Statistics` `Inferential Modeling` `Time Series` `Python` `R`
 
 * **Data Governance & Knowledge Management**  
-Structuring integrated management control systems and technical documentation under agile methodologies, ensuring operational continuity and end-to-end traceability in high-complexity projects.
+Structuring integrated management control systems and technical documentation under agile methodologies, ensuring operational continuity and end-to-end traceability in high-complexity projects.  
 `Notion` `BPMN` `UML` `OOP` `Geoespacial Modeling`
+
+* **Raw Data & Databases Engineering**
+  Design and implementation of automated pipelines (ETL/ELT) and metadata architectures. I transform raw data from complex industrial environments into clean, governed, and decision-ready information assets.
+
+  <div style="background-color: #27272a; color: #ffffff; padding: 4px 10px; border-radius: 6px; font-family: monospace; font-size: 0.82em; display: inline-block;">
+    ETL/ELT &nbsp;·&nbsp; Arquitectura de Metadatos &nbsp;·&nbsp; Modelado de Datos &nbsp;·&nbsp; SQL &nbsp;·&nbsp; REST API
+  </div>
 
 ---
 
