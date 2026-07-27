@@ -60,8 +60,8 @@ To ensure efficient coordination and immediate access to my ecosystem, I leverag
     <span style="background-color: #7bad7b; color: #fff; padding: 4px 8px; border-radius: 12px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Notion</span>
     <span style="background-color: #6f9cd6; color: #fff; padding: 4px 8px; border-radius: 12px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">CV</span>
     <span style="background-color: #d6ad6f; color: #fff; padding: 4px 8px; border-radius: 12px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Deep-Dive</span>
-  </div>  
-Strategic consulting frameworks, core operational methodologies, and market positioning design.
+  </div>
+  Strategic consulting frameworks, core operational methodologies, and market positioning design.
 
 * **[Pablo Zúñiga's Metaportfolio (EN)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-s-Metaportfolio-2042ad0c842680569ab8f6109a7e0d4b?source=copy_link)**    
   <div style="font-family: monospace; font-size: 1em; margin-top: 3px;">
@@ -69,7 +69,7 @@ Strategic consulting frameworks, core operational methodologies, and market posi
     <span style="background-color: #af6fd6; color: #fff; padding: 4px 8px; border-radius: 12px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Manifesto</span>
     <span style="background-color: #d6ad6f; color: #fff; padding: 4px 8px; border-radius: 12px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Deep-Dive</span>
   </div>
-An architectural deep-dive into how I analyze, engineer, and scale systems under complexity.
+  An architectural deep-dive into how I analyze, engineer, and scale systems under complexity.
 
 * **[Academic Records & Credentials (ES)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-Carvajal-Dosier-Acad-mico-3822ad0c842680b1859afaa0dee4e4bc?source=copy_link)**  
   <div style="font-family: monospace; font-size: 1em; margin-top: 3px;">
@@ -77,7 +77,7 @@ An architectural deep-dive into how I analyze, engineer, and scale systems under
     <span style="background-color: #e68d60; color: #fff; padding: 4px 8px; border-radius: 12px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Credentials</span>
     <span style="background-color: #d66f6f; color: #fff; padding: 4px 8px; border-radius: 12px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">PDF</span>
   </div>
-Official academic repository, university degree background, and formal engineering validations.
+  Official academic repository, university degree background, and formal engineering validations.
 
 ---
   
