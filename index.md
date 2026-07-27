@@ -41,9 +41,9 @@ An architectural deep-dive into how I analyze, engineer, and scale systems under
 * **[Academic Records & Credentials (ES)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-Carvajal-Dosier-Acad-mico-3822ad0c842680b1859afaa0dee4e4bc?source=copy_link)**   
 Official academic repository, university degree background, and formal engineering validations.
 
-<span style="background-color: #7d3c3c; color: #fff; padding: 3px 10px; border-radius: 12px; font-size: 11px; font-weight: 600; display: inline-block; vertical-align: middle;">Pop</span>
-<span style="background-color: #5a4a35; color: #fff; padding: 3px 10px; border-radius: 12px; font-size: 11px; font-weight: 600; display: inline-block; vertical-align: middle;">Synthpop</span>
-<span style="background-color: #315882; color: #fff; padding: 3px 10px; border-radius: 12px; font-size: 11px; font-weight: 600; display: inline-block; vertical-align: middle;">Alternative Rock</span>
+<span style="background-color: #2d6a4f; color: #fff; padding: 3px 10px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">PDF</span>
+<span style="background-color: #2b5c8f; color: #fff; padding: 3px 10px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">Notion</span>
+<span style="background-color: #8c6b18; color: #fff; padding: 3px 10px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">Proffesional Profile</span>
 
 <kbd style="background-color: #7d3c3c; color: #ffffff; border: none; padding: 3px 10px; border-radius: 12px; font-size: 11px; font-weight: 600;">Pop</kbd>
 <kbd style="background-color: #5a4a35; color: #ffffff; border: none; padding: 3px 10px; border-radius: 12px; font-size: 11px; font-weight: 600;">Synthpop</kbd>
