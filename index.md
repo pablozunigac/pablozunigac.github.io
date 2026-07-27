@@ -37,15 +37,15 @@ To ensure efficient coordination and immediate access to my ecosystem, I leverag
 ![](https://img.shields.io/badge/Profile-315882?style=flat-square)
 
 * **[Professional Positioning Dossier (EN)](https://cuxhavenlabs.notion.site/Professional-Positioning-Dossier-21a2ad0c842680749956e17239a36e4d?source=copy_link)**  
-![](https://img.shields.io/badge/Notion-7d3c3c?style=flat-square)
+![](https://img.shields.io/badge/Notion-7d3c3c?style=flat-square) ![](https://img.shields.io/badge/Profile-315882?style=flat-square)  
 Strategic consulting frameworks, core operational methodologies, and market positioning design.
 
 * **[Pablo Zúñiga's Metaportfolio (EN)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-s-Metaportfolio-2042ad0c842680569ab8f6109a7e0d4b?source=copy_link)**  
-![](https://img.shields.io/badge/Notion-7d3c3c?style=flat-square)
+![](https://img.shields.io/badge/Notion-7d3c3c?style=flat-square) ![](https://img.shields.io/badge/Profile-315882?style=flat-square)  
 An architectural deep-dive into how I analyze, engineer, and scale systems under complexity.
 
 * **[Academic Records & Credentials (ES)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-Carvajal-Dosier-Acad-mico-3822ad0c842680b1859afaa0dee4e4bc?source=copy_link)**  
-![](https://img.shields.io/badge/Notion-7d3c3c?style=flat-square) ![](https://img.shields.io/badge/PDF-5a4a35?style=flat-square)
+![](https://img.shields.io/badge/Notion-7d3c3c?style=flat-square) ![](https://img.shields.io/badge/PDF-5a4a35?style=flat-square)  
 Official academic repository, university degree background, and formal engineering validations.
 
 ---
