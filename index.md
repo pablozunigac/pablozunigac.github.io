@@ -36,7 +36,7 @@ To ensure efficient coordination and immediate access to my ecosystem, I leverag
 ![](https://img.shields.io/badge/PDF-5a4a35?style=flat-square)
 ![](https://img.shields.io/badge/Profile-315882?style=flat-square)
 
-* **[Professional Positioning Dossier (EN)](https://cuxhavenlabs.notion.site/Professional-Positioning-Dossier-21a2ad0c842680749956e17239a36e4d?source=copy_link)**  
+* **[Professional Positioning Dossier (EN)](https://cuxhavenlabs.notion.site/Professional-Positioning-Dossier-21a2ad0c842680749956e17239a36e4d?source=copy_link)** 
 ![](https://img.shields.io/badge/Notion-7d3c3c?style=flat-square) ![](https://img.shields.io/badge/Profile-315882?style=flat-square)  
 Strategic consulting frameworks, core operational methodologies, and market positioning design.
 
