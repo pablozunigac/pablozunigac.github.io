@@ -22,32 +22,27 @@ Designing the underlying structures that make complex work coherent, navigable, 
 
 * **Raw Data & Databases Engineering**  
 Design and implementation of automated pipelines (ETL/ELT) and metadata architectures. I transform raw data from complex industrial environments into clean, governed, and decision-ready information assets.  
+
   <div style="font-family: monospace; font-size: 0.8em; margin-top: 3px;">
-    <span style="background: #b3b3b5; color: #000; padding: 3px 5px; border-radius: 5px; margin-right: 3px;">ETL/ELT</span>
-    <span style="background: #b3b3b5; color: #000; padding: 3px 5px; border-radius: 5px; margin-right: 3px;">Data Modeling</span>
-    <span style="background: #b3b3b5; color: #000; padding: 3px 5px; border-radius: 5px; margin-right: 3px;">SQL</span>
-    <span style="background: #b3b3b5; color: #000; padding: 3px 5px; border-radius: 5px;">REST API</span>
+    <span style="background-color: #88888a; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">ETL/ELT</span>
+    <span style="background-color: #88888a; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">Data Modeling</span>
+    <span style="background-color: #88888a; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">SQL</span>
+    <span style="background-color: #88888a; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">REST API</span>
   </div>
 
 * **Advanced Analytics & Modeling**  
 Statistical and inferential modeling, alongside time-series analysis, applied to risk mitigation and resource optimization across critical infrastructure sectors (such as mining, energy, and regulated utilities).  
+
   <div style="font-family: monospace; font-size: 0.8em; margin-top: 3px;">
-    <span style="background: #b3b3b5; color: #000; padding: 3px 5px; border-radius: 5px; margin-right: 3px;">Statistics</span>
-    <span style="background: #b3b3b5; color: #000; padding: 3px 5px; border-radius: 5px; margin-right: 3px;">Inferential Modeling</span>
-    <span style="background: #b3b3b5; color: #000; padding: 3px 5px; border-radius: 5px; margin-right: 3px;">Time Series</span>
-    <span style="background: #b3b3b5; color: #000; padding: 3px 5px; border-radius: 5px;">Python</span>
-    <span style="background: #b3b3b5; color: #000; padding: 3px 5px; border-radius: 5px;">R</span>
+    <span style="background-color: #88888a; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">Statistics</span>
+    <span style="background-color: #88888a; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">Inferential Modeling</span>
+    <span style="background-color: #88888a; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">Time Series</span>
+    <span style="background-color: #88888a; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">Python</span>
+    <span style="background-color: #88888a; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">R</span>
   </div>
 
 * **Data Governance & Knowledge Management**  
 Structuring integrated management control systems and technical documentation under agile methodologies, ensuring operational continuity and end-to-end traceability in high-complexity projects.  
-  <div style="font-family: monospace; font-size: 0.8em; margin-top: 3px;">
-    <span style="background: #b3b3b5; color: #000; padding: 3px 5px; border-radius: 5px; margin-right: 3px;">Notion</span>
-    <span style="background: #b3b3b5; color: #000; padding: 3px 5px; border-radius: 5px; margin-right: 3px;">BPMN</span>
-    <span style="background: #b3b3b5; color: #000; padding: 3px 5px; border-radius: 5px; margin-right: 3px;">UML</span>
-    <span style="background: #b3b3b5; color: #000; padding: 3px 5px; border-radius: 5px;">OOP</span>
-    <span style="background: #b3b3b5; color: #000; padding: 3px 5px; border-radius: 5px;">Geoespacial Modeling</span>
-  </div>
 
   <div style="font-family: monospace; font-size: 0.8em; margin-top: 3px;">
     <span style="background-color: #88888a; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">Notion</span>
@@ -56,8 +51,6 @@ Structuring integrated management control systems and technical documentation un
     <span style="background-color: #88888a; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">OOP</span>
     <span style="background-color: #88888a; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">Geoespacial Modeling</span>
   </div>
-
-  
 
 ---
 
