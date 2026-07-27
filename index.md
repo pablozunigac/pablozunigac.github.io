@@ -32,6 +32,10 @@ Structuring integrated management control systems and technical documentation un
 ### Distributed Infrastructure & (Notion) Live Nodes
 To ensure efficient coordination and immediate access to my ecosystem, I leverage live documentation platforms:
 
+![](https://img.shields.io/badge/Pop-7d3c3c?style=flat-square)
+![](https://img.shields.io/badge/Synthpop-5a4a35?style=flat-square)
+![](https://img.shields.io/badge/Alternative_Rock-315882?style=flat-square)
+
 * **[Professional Positioning Dossier (EN)](https://cuxhavenlabs.notion.site/Professional-Positioning-Dossier-21a2ad0c842680749956e17239a36e4d?source=copy_link)**  
 Strategic consulting frameworks, core operational methodologies, and market positioning design.
 
