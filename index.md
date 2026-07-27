@@ -32,12 +32,6 @@ Statistical and inferential modeling, alongside time-series analysis, applied to
 Structuring integrated management control systems and technical documentation under agile methodologies, ensuring operational continuity and end-to-end traceability in high-complexity projects.  
 `Notion` `BPMN` `UML` `OOP` `Geoespacial Modeling`
 
-* **Raw Data & Databases Engineering**
-  Design and implementation of automated pipelines (ETL/ELT) and metadata architectures. I transform raw data from complex industrial environments into clean, governed, and decision-ready information assets.
-
-* **Raw Data & Databases Engineering**
-  Design and implementation of automated pipelines (ETL/ELT) and metadata architectures. I transform raw data from complex industrial environments into clean, governed, and decision-ready information assets.
-
   <div style="font-family: monospace; font-size: 0.8em; margin-top: 6px;">
     <span style="background: #6a6a6b; color: #FFF; padding: 2px 7px; border-radius: 4px; margin-right: 4px;">ETL/ELT</span>
     <span style="background: #6a6a6b; color: #FFF; padding: 2px 7px; border-radius: 4px; margin-right: 4px;">Arquitectura de Metadatos</span>
