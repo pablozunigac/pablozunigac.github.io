@@ -41,6 +41,10 @@ An architectural deep-dive into how I analyze, engineer, and scale systems under
 * **[Academic Records & Credentials (ES)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-Carvajal-Dosier-Acad-mico-3822ad0c842680b1859afaa0dee4e4bc?source=copy_link)**   
 Official academic repository, university degree background, and formal engineering validations.
 
+<span style="background-color: #7d3c3c; color: #fff; padding: 3px 10px; border-radius: 12px; font-size: 11px; font-weight: 600; display: inline-block; vertical-align: middle;">Pop</span>
+<span style="background-color: #5a4a35; color: #fff; padding: 3px 10px; border-radius: 12px; font-size: 11px; font-weight: 600; display: inline-block; vertical-align: middle;">Synthpop</span>
+<span style="background-color: #315882; color: #fff; padding: 3px 10px; border-radius: 12px; font-size: 11px; font-weight: 600; display: inline-block; vertical-align: middle;">Alternative Rock</span>
+
 
 ---
   
