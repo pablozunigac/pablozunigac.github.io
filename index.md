@@ -44,6 +44,10 @@ An architectural deep-dive into how I analyze, engineer, and scale systems under
 ![](https://img.shields.io/badge/Notion-7d3c3c?style=for-the-badge) ![](https://img.shields.io/badge/PDF-5a4a35?style=for-the-badge)  
 Official academic repository, university degree background, and formal engineering validations.
 
+<img src="https://img.shields.io/badge/Pop-7d3c3c?style=for-the-badge" align="center" height="24">
+<img src="https://img.shields.io/badge/Synthpop-5a4a35?style=for-the-badge" align="center" height="24">
+<img src="https://img.shields.io/badge/Alternative_Rock-315882?style=for-the-badge" align="center" height="24">
+
 ---
   
 **Last Update:** <span id="timestamp">27-07-2026, 10:01 UTC</span>  
