@@ -37,7 +37,7 @@ To ensure efficient coordination and immediate access to my ecosystem, I leverag
 Strategic consulting frameworks, core operational methodologies, and market positioning design.
 
 * **[Pablo Zúñiga's Metaportfolio (EN)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-s-Metaportfolio-2042ad0c842680569ab8f6109a7e0d4b?source=copy_link)**  
-<span style="background-color: #3bb877; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">Notion</span> <span style="background-color: #e39de3; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">Metaportfolio</span> <span style="background-color: #e39dce; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">Manifesto</span> <span style="background-color: #b88c3b; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">Deep-Dive</span>  
+<span style="background-color: #3bb877; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">Notion</span> <span style="background-color: #7346db; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">Metaportfolio</span> <span style="background-color: #d446db; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">Manifesto</span> <span style="background-color: #b88c3b; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">Deep-Dive</span>  
 An architectural deep-dive into how I analyze, engineer, and scale systems under complexity.
 
 * **[Academic Records & Credentials (ES)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-Carvajal-Dosier-Acad-mico-3822ad0c842680b1859afaa0dee4e4bc?source=copy_link)**  
@@ -46,6 +46,6 @@ Official academic repository, university degree background, and formal engineeri
 
 ---
   
-**Last Update:** <span id="timestamp">27-07-2026, 19:58 UTC</span>  
+**Last Update:** <span id="timestamp">27-07-2026, 19:53 UTC</span>  
 **Inquiries:** [pablo.zuniga.c@gmail.com](mailto:pablo.zuniga.c@gmail.com)  
 **© 2026 Pablo Zúñiga Carvajal.** All rights reserved.
