@@ -41,9 +41,9 @@ An architectural deep-dive into how I analyze, engineer, and scale systems under
 * **[Academic Records & Credentials (ES)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-Carvajal-Dosier-Acad-mico-3822ad0c842680b1859afaa0dee4e4bc?source=copy_link)**   
 Official academic repository, university degree background, and formal engineering validations.
 
-<span style="background-color: #8c2d2d; color: #fff; padding: 2px 7px; border-radius: 8px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">PDF</span>
-<span style="background-color: #2d6a4f; color: #fff; padding: 2px 7px; border-radius: 9px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">Notion</span>
-<span style="background-color: #2b5c8f; color: #fff; padding: 2px 7px; border-radius: 10px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">Professional Profile</span>
+<span style="background-color: #8c2d2d; color: #fff; padding: 2px 8px; border-radius: 10px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">PDF</span>
+<span style="background-color: #2d6a4f; color: #fff; padding: 2px 8px; border-radius: 11px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">Notion</span>
+<span style="background-color: #2b5c8f; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">Professional Profile</span>
 
 ---
   
