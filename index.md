@@ -22,7 +22,6 @@ Designing the underlying structures that make complex work coherent, navigable, 
 
 * **Raw Data & Databases Engineering**  
 Design and implementation of automated pipelines (ETL/ELT) and metadata architectures. I transform raw data from complex industrial environments into clean, governed, and decision-ready information assets.
-
   <div style="font-family: monospace; font-size: 1em; margin-top: 3px;">
     <span style="background-color: #88888a; color: #fff; padding: 4px 8px; border-radius: 12px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">ETL/ELT</span>
     <span style="background-color: #88888a; color: #fff; padding: 4px 8px; border-radius: 12px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Data Modeling</span>
@@ -33,7 +32,6 @@ Design and implementation of automated pipelines (ETL/ELT) and metadata architec
 
 * **Advanced Analytics & Modeling**  
 Statistical and inferential modeling, alongside time-series analysis, applied to risk mitigation and resource optimization across critical infrastructure sectors (such as mining, energy, and regulated utilities).
-
   <div style="font-family: monospace; font-size: 1em; margin-top: 3px;">
     <span style="background-color: #88888a; color: #fff; padding: 4px 8px; border-radius: 12px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Statistics</span>
     <span style="background-color: #88888a; color: #fff; padding: 4px 8px; border-radius: 12px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Inferential Modeling</span>
