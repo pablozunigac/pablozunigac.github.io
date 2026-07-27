@@ -21,7 +21,7 @@ Designing the underlying structures that make complex work coherent, navigable, 
 ### Operational Focus & Systems Engineering
 
 * **Raw Data & Databases Engineering**  
-Design and implementation of automated pipelines (ETL/ELT) and metadata architectures. I transform raw data from complex industrial environments into clean, governed, and decision-ready information assets.
+Design and implementation of automated pipelines (ETL/ELT) and metadata architectures. I transform raw data from complex industrial environments into clean, governed, and decision-ready information assets.  
 `SQL` `REST API` `OOP` `UML` `BPMN`
 * **Advanced Analytics & Modeling**  
 Statistical and inferential modeling, alongside time-series analysis, applied to risk mitigation and resource optimization across critical infrastructure sectors (such as mining, energy, and regulated utilities).  
@@ -47,6 +47,6 @@ Official academic repository, university degree background, and formal engineeri
 
 ---
   
-**Last Update:** <span id="timestamp">27-07-2026, 20:39 UTC</span>  
+**Last Update:** <span id="timestamp">27-07-2026, 20:32 UTC</span>  
 **Inquiries:** [pablo.zuniga.c@gmail.com](mailto:pablo.zuniga.c@gmail.com)  
 **© 2026 Pablo Zúñiga Carvajal.** All rights reserved.
