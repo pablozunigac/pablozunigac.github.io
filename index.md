@@ -22,7 +22,6 @@ Designing the underlying structures that make complex work coherent, navigable, 
 
 * **Raw Data & Databases Engineering**  
 Design and implementation of automated pipelines (ETL/ELT) and metadata architectures. I transform raw data from complex industrial environments into clean, governed, and decision-ready information assets.  
-
   <div style="font-family: monospace; font-size: 0.8em; margin-top: 3px;">
     <span style="background-color: #88888a; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">ETL/ELT</span>
     <span style="background-color: #88888a; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">Data Modeling</span>
@@ -32,7 +31,6 @@ Design and implementation of automated pipelines (ETL/ELT) and metadata architec
 
 * **Advanced Analytics & Modeling**  
 Statistical and inferential modeling, alongside time-series analysis, applied to risk mitigation and resource optimization across critical infrastructure sectors (such as mining, energy, and regulated utilities).  
-
   <div style="font-family: monospace; font-size: 0.8em; margin-top: 3px;">
     <span style="background-color: #88888a; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">Statistics</span>
     <span style="background-color: #88888a; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">Inferential Modeling</span>
@@ -43,7 +41,6 @@ Statistical and inferential modeling, alongside time-series analysis, applied to
 
 * **Data Governance & Knowledge Management**  
 Structuring integrated management control systems and technical documentation under agile methodologies, ensuring operational continuity and end-to-end traceability in high-complexity projects.  
-
   <div style="font-family: monospace; font-size: 0.8em; margin-top: 3px;">
     <span style="background-color: #88888a; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">Notion</span>
     <span style="background-color: #88888a; color: #fff; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 500; display: inline-block; vertical-align: middle;">BPMN</span>
