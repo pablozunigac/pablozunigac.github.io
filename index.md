@@ -6,8 +6,8 @@
 
 ---
 
-**Industrial & Systems Engineer · PUCV, Chile**  
-**Based in Chile · Eastern Time Aligned**  
+**Industrial & Systems Engineer, PUCV**  
+**Based in Chile · [Eastern Time](https://time.is/ET) Aligned**  
 **Streamlined US Deployment ([H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) & [ESTA](https://cl.usembassy.gov/visa-waiver-program/))**
 
 ---
