@@ -48,6 +48,10 @@ Official academic repository, university degree background, and formal engineeri
 <img src="https://img.shields.io/badge/Synthpop-5a4a35?style=for-the-badge" align="center" height="24">
 <img src="https://img.shields.io/badge/Alternative_Rock-315882?style=for-the-badge" align="center" height="24">
 
+<span style="background-color: #7d3c3c; color: #fff; padding: 3px 10px; border-radius: 12px; font-size: 11px; font-weight: 600; display: inline-block; vertical-align: middle;">Pop</span>
+<span style="background-color: #5a4a35; color: #fff; padding: 3px 10px; border-radius: 12px; font-size: 11px; font-weight: 600; display: inline-block; vertical-align: middle;">Synthpop</span>
+<span style="background-color: #315882; color: #fff; padding: 3px 10px; border-radius: 12px; font-size: 11px; font-weight: 600; display: inline-block; vertical-align: middle;">Alternative Rock</span>
+
 ---
   
 **Last Update:** <span id="timestamp">27-07-2026, 10:02 UTC</span>  
