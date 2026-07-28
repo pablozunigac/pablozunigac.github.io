@@ -32,21 +32,21 @@ Design and implementation of automated pipelines (ETL/ELT) and metadata architec
 * **Advanced Analytics & Modeling**  
 Statistical and inferential modeling, alongside time-series analysis, applied to risk mitigation and resource optimization across critical infrastructure sectors (such as mining, energy, and regulated utilities).
   <div style="font-family: monospace; font-size: 1em; margin-top: 3px;">
-    <span style="background-color: #88888a; color: #fff; padding: 4px 8px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Statistical Modeling</span>
-    <span style="background-color: #88888a; color: #fff; padding: 4px 8px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Time Series</span>
-    <span style="background-color: #88888a; color: #fff; padding: 4px 8px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">SQL</span>
-    <span style="background-color: #88888a; color: #fff; padding: 4px 8px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Python</span>
-    <span style="background-color: #88888a; color: #fff; padding: 4px 8px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">R</span>
+    <span style="background-color: #88888a; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Statistical Modeling</span>
+    <span style="background-color: #88888a; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Time Series</span>
+    <span style="background-color: #88888a; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">SQL</span>
+    <span style="background-color: #88888a; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Python</span>
+    <span style="background-color: #88888a; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">R</span>
   </div>  
 
 * **Data Governance & Knowledge Management**  
 Structuring integrated management control systems and technical documentation under agile methodologies, ensuring operational continuity and end-to-end traceability in high-complexity projects.
   <div style="font-family: monospace; font-size: 1em; margin-top: 3px;">
-    <span style="background-color: #88888a; color: #fff; padding: 4px 8px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">BPMN</span>
-    <span style="background-color: #88888a; color: #fff; padding: 4px 8px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">UML</span>
-     <span style="background-color: #88888a; color: #fff; padding: 4px 8px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Notion</span>
-    <span style="background-color: #88888a; color: #fff; padding: 4px 8px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Markdown</span>
-    <span style="background-color: #88888a; color: #fff; padding: 4px 8px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Git</span>
+    <span style="background-color: #88888a; color: #fff; padding: 4px 12px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">BPMN</span>
+    <span style="background-color: #88888a; color: #fff; padding: 4px 12px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">UML</span>
+     <span style="background-color: #88888a; color: #fff; padding: 4px 12px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Notion</span>
+    <span style="background-color: #88888a; color: #fff; padding: 4px 12px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Markdown</span>
+    <span style="background-color: #88888a; color: #fff; padding: 4px 12px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Git</span>
   </div>
 
 ---
