@@ -58,6 +58,8 @@ To ensure efficient coordination and immediate access to my ecosystem, I leverag
 * **[Professional Positioning Dossier (EN)](https://cuxhavenlabs.notion.site/Professional-Positioning-Dossier-21a2ad0c842680749956e17239a36e4d?source=copy_link)**  
     <span style="background-color: #7bad7b; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Notion</span>
     <span style="background-color: #6f9cd6; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">CV</span>
+    <span style="background-color: #b7bf5c; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Identity</span>
+    <span style="background-color: #1e1e1e; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Stack</span>
     <span style="background-color: #d6ad6f; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Deep-Dive</span>  
 Strategic consulting frameworks, core operational methodologies, and market positioning design.
 * **[Pablo Zúñiga's Metaportfolio (EN)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-s-Metaportfolio-2042ad0c842680569ab8f6109a7e0d4b?source=copy_link)**    
