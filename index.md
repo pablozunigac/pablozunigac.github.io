@@ -72,6 +72,6 @@ An architectural deep-dive into how I analyze, engineer, and scale systems under
 
 ---
   
-**Last Update:** <span id="timestamp">28-07-2026, 00:22 UTC</span>  
+**Last Update:** <span id="timestamp">28-07-2026, 00:25 UTC</span>  
 **Inquiries:** [pablo.zuniga.c@gmail.com](mailto:pablo.zuniga.c@gmail.com)  
 **© 2026 Pablo Zúñiga Carvajal.** All rights reserved.
