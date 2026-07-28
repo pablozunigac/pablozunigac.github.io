@@ -14,7 +14,7 @@
 
 ## Perfil Profesional  
 
-Ingeniero Civil Industrial especializado en el diseño, la validación técnica y el escalamiento de soluciones de datos para entornos industriales e infraestructura crítica (minería, energía y servicios regulados). Ocho años de experiencia diseñando y liderando implementaciones ETL, integración de datos y desarrollo de modelos para la optimización de procesos y mitigación de riesgos tecnológicos. Enfoque _tecno-agnóstico_ y sistémico, orientado a la estandarización operacional, la gobernanza de datos y el modelado de sistemas complejos.  
+Ingeniero Civil Industrial especializado en el diseño, la validación técnica y el escalamiento de soluciones de datos para entornos industriales e infraestructura crítica (minería, energía, banca y servicios regulados). Ocho años de experiencia diseñando y liderando implementaciones ETL/ELT, integración de datos y desarrollo de modelos para la optimización de procesos y mitigación de riesgos tecnológicos. Enfoque tecno-agnóstico y sistémico, orientado a la estandarización operacional, la gobernanza de datos y el modelado de sistemas complejos.
 
 ---
 
@@ -31,7 +31,7 @@ Ingeniero Civil Industrial especializado en el diseño, la validación técnica 
 **Cuxhaven Labs   
 Consultor Independiente de Arquitectura de Datos y Gobernanza  
 Abril 2026 – Presente (SpA en Formación – Fundador)**  
-Diseño e implementación de arquitecturas de datos y flujos ETL bajo estándares de gobernanza y trazabilidad corporativa. Liderazgo en modelado de metadatos, auditorías para la mitigación de deuda técnica e integración de sistemas, junto al desarrollo de mecanismos de resiliencia para la continuidad operacional y recuperación de activos críticos.  
+Diseño, prueba de concepto (PoC) y validación de arquitecturas de datos y flujos ETL bajo estándares de gobernanza y trazabilidad corporativa. Liderazgo en pilotos para el modelado de metadatos, auditorías de deuda técnica e integración de sistemas. Desarrollo e implementación de mecanismos de resiliencia para la continuidad operacional y la recuperación de activos digitales críticos.  
 
 **Práctica Independiente  
 Ingeniero de Sistemas y Analítica Cuantitativa   
@@ -46,7 +46,7 @@ Gestión y diagnóstico de infraestructura en redes descentralizadas (_DeFi_), c
 **Pontificia Universidad Católica de Valparaíso   
 Consultor de Datos y Docente Adjunto (en asociación con la Escuela de Negocios de la UAI)   
 Agosto 2018 – Junio 2021 (Bajo Demanda) / Región Metropolitana – Región de Valparaíso**  
-Consolidación de fuentes de datos y diseño de _pipelines_ ETL para análisis estadístico exploratorio en entorno académico, la visualización de datos como soporte a decisiones y apoyo en docencia ingenieril en la cátedra “_Ciencia de Datos Aplicada_”. Asesoría en proyectos finales de pregrado, modelado de datos, estructuras lógicas y automatización de flujos de información en contextos educativos y analíticos. Asesor técnico, editor de material académico y expositor internacional.  
+Consolidación de fuentes de datos y diseño de _pipelines_ ETL para análisis estadístico exploratorio en entorno académico, la visualización de datos como soporte a decisiones y apoyo docente en la cátedra “_Ciencia de Datos Aplicada_”. Asesoría en proyectos finales de pregrado, modelado de datos, estructuras lógicas y automatización de flujos de información en contextos educativos y analíticos. Asesor técnico, editor de material académico y expositor internacional.  
 
 **Banco de Crédito e Inversiones (Bci) – Gerencia Corporativa de Data & Analytics – Gobierno de Datos  
 Ingeniero de Procesos   
@@ -85,15 +85,15 @@ Metodologías: SQL · REST API · OOP · UML · Diagramación BPMN**
 Integración de datos en arquitecturas distribuidas mediante APIs para garantizar la interoperabilidad de sistemas de información. Modelado y estandarización de procesos bajo estándar BPMN para asegurar la trazabilidad operativa y el cumplimiento normativo ante auditorías técnicas de nivel corporativo.  
 
 **Gestión del Conocimiento  
-Ecosistemas: Microsoft Azure Purview · Modelado Geoespacial (Google Earth) · Notion**  
-Gobernanza de datos, modelado geoespacial y análisis telemétrico. Arquitectura de sistemas de información en Notion mediante bases de datos relacionales complejas (_relations_, _rollups_), incluyendo la programación de lógica condicional avanzada y matricial (_arrays_) para el control de proyectos.  
+Ecosistemas: Microsoft Azure · Modelado Geoespacial · Notion**  
+Transformación de telemetría geoespacial en inteligencia de negocio, liderando la gobernanza y el modelado de datos a partir de archivos .gpx, .fit y .kmz. Arquitectura de sistemas de información en Notion mediante bases de datos relacionales complejas (_relations_, _rollups_), incluyendo la programación de lógica condicional avanzada y matricial (_arrays_) para el control de proyectos.  
 
 ---
 
 ## Competencias Transversales  
 
 **Ecosistemas Operativos y Control de Versiones  
-Entornos y Herramientas: macOS / Windows · Git · Markdown · LaTeX**  
+Entornos y Herramientas: macOS / Windows · Git · LaTeX · Markdown**  
 Dominio de entornos macOS y Windows. Orquestación de flujos de trabajo mediante control de versiones y generación de documentación técnico-académica mediante Markdown y LaTeX.  
 
 **Comunicación Técnica y Divulgación  
@@ -134,4 +134,3 @@ Relatoría de programa intensivo en análisis técnico y series de tiempo para l
 
 **Última Actualización:** <span id="timestamp">28-07-2026, 02:07 UTC</span>  
 **© 2026 Pablo Zúñiga Carvajal.** Todos los derechos reservados.  
-
