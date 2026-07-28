@@ -70,14 +70,19 @@ To ensure efficient coordination and immediate access to my ecosystem, I leverag
     <span style="background-color: #e68d60; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Credentials</span>
     <span style="background-color: #d66f6f; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">PDF</span>  
     Official academic repository, university degree background, and formal engineering validations.
-
-  <!-- colores:
-         negro: #383838
-         verde: #b7bf5c -->
+* **[Academic Records & Credentials (ES)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-Carvajal-Dosier-Acad-mico-3822ad0c842680b1859afaa0dee4e4bc?source=copy_link)**  
+    <span style="background-color: #7bad7b; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Notion</span>
+    <span style="background-color: #e68d60; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Credentials</span>
+    <span style="background-color: #d66f6f; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">PDF</span>  
+    Official academic repository, university degree background, and formal engineering validations.
 
 ---
   
 **Last Update:** <span id="timestamp">28-07-2026, 23:36 UTC</span>  
 **Inquiries:** [pablo.zuniga.c@gmail.com](mailto:pablo.zuniga.c@gmail.com)  
 **© 2026 Pablo Zúñiga Carvajal.** All rights reserved.
+
+  <!-- colores:
+         negro: #383838
+         verde: #b7bf5c -->
 
