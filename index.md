@@ -23,10 +23,10 @@ Designing the underlying structures that make complex work coherent, navigable, 
 * **Raw Data & Databases Engineering**  
 Design and implementation of automated pipelines (ETL/ELT) and metadata architectures. I transform raw data from complex industrial environments into clean, governed, and decision-ready information assets.
   <div style="font-family: monospace; font-size: 1em; margin-top: 3px;">
-    <span style="background-color: #88888a; color: #fff; padding: 4px 9px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">ETL/ELT</span>
-    <span style="background-color: #88888a; color: #fff; padding: 4px 9px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Data Modeling</span>
-    <span style="background-color: #88888a; color: #fff; padding: 4px 9px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">OOP</span>
-    <span style="background-color: #88888a; color: #fff; padding: 4px 9px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">REST API</span>
+    <span style="background-color: #88888a; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">ETL/ELT</span>
+    <span style="background-color: #88888a; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Data Modeling</span>
+    <span style="background-color: #88888a; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">OOP</span>
+    <span style="background-color: #88888a; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">REST API</span>
   </div>  
 
 * **Advanced Analytics & Modeling**  
@@ -42,11 +42,11 @@ Statistical and inferential modeling, alongside time-series analysis, applied to
 * **Data Governance & Knowledge Management**  
 Structuring integrated management control systems and technical documentation under agile methodologies, ensuring operational continuity and end-to-end traceability in high-complexity projects.
   <div style="font-family: monospace; font-size: 1em; margin-top: 3px;">
-    <span style="background-color: #88888a; color: #fff; padding: 4px 11px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">BPMN</span>
-    <span style="background-color: #88888a; color: #fff; padding: 4px 11px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">UML</span>
-     <span style="background-color: #88888a; color: #fff; padding: 4px 11px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Notion</span>
-    <span style="background-color: #88888a; color: #fff; padding: 4px 11px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Markdown</span>
-    <span style="background-color: #88888a; color: #fff; padding: 4px 11px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Git</span>
+    <span style="background-color: #88888a; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">BPMN</span>
+    <span style="background-color: #88888a; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">UML</span>
+     <span style="background-color: #88888a; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Notion</span>
+    <span style="background-color: #88888a; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Markdown</span>
+    <span style="background-color: #88888a; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Git</span>
   </div>
 
 ---
@@ -55,19 +55,19 @@ Structuring integrated management control systems and technical documentation un
 To ensure efficient coordination and immediate access to my ecosystem, I leverage live documentation platforms:
 
 * **[Professional Positioning Dossier (EN)](https://cuxhavenlabs.notion.site/Professional-Positioning-Dossier-21a2ad0c842680749956e17239a36e4d?source=copy_link)**  
-    <span style="background-color: #7bad7b; color: #fff; padding: 4px 8px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Notion</span>
-    <span style="background-color: #6f9cd6; color: #fff; padding: 4px 8px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">CV</span>
-    <span style="background-color: #d6ad6f; color: #fff; padding: 4px 8px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Deep-Dive</span>  
+    <span style="background-color: #7bad7b; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Notion</span>
+    <span style="background-color: #6f9cd6; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">CV</span>
+    <span style="background-color: #d6ad6f; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Deep-Dive</span>  
 Strategic consulting frameworks, core operational methodologies, and market positioning design.
 * **[Pablo Zúñiga's Metaportfolio (EN)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-s-Metaportfolio-2042ad0c842680569ab8f6109a7e0d4b?source=copy_link)**    
-    <span style="background-color: #7bad7b; color: #fff; padding: 4px 8px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Notion</span>
-    <span style="background-color: #af6fd6; color: #fff; padding: 4px 8px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Manifesto</span>
-    <span style="background-color: #d6ad6f; color: #fff; padding: 4px 8px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Deep-Dive</span>  
+    <span style="background-color: #7bad7b; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Notion</span>
+    <span style="background-color: #af6fd6; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Manifesto</span>
+    <span style="background-color: #d6ad6f; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Deep-Dive</span>  
 An architectural deep-dive into how I analyze, engineer, and scale systems under complexity.
 * **[Academic Records & Credentials (ES)](https://cuxhavenlabs.notion.site/Pablo-Z-iga-Carvajal-Dosier-Acad-mico-3822ad0c842680b1859afaa0dee4e4bc?source=copy_link)**  
-    <span style="background-color: #7bad7b; color: #fff; padding: 4px 8px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Notion</span>
-    <span style="background-color: #e68d60; color: #fff; padding: 4px 8px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Credentials</span>
-    <span style="background-color: #d66f6f; color: #fff; padding: 4px 8px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">PDF</span>  
+    <span style="background-color: #7bad7b; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Notion</span>
+    <span style="background-color: #e68d60; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Credentials</span>
+    <span style="background-color: #d66f6f; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">PDF</span>  
   Official academic repository, university degree background, and formal engineering validations.
 
 ---
