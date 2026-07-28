@@ -44,9 +44,10 @@ Structuring integrated management control systems and technical documentation un
   <div style="font-family: monospace; font-size: 1em; margin-top: 3px;">
     <span style="background-color: #9d9d9e; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">BPMN</span>
     <span style="background-color: #9d9d9e; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">UML</span>
-     <span style="background-color: #9d9d9e; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Notion</span>
-    <span style="background-color: #9d9d9e; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Markdown</span>
     <span style="background-color: #9d9d9e; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Git</span>
+    <span style="background-color: #9d9d9e; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">LaTeX</span>
+    <span style="background-color: #9d9d9e; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Markdown</span>
+    <span style="background-color: #9d9d9e; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Notion</span>
   </div>
 
 ---
