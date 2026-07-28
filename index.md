@@ -6,9 +6,10 @@
 
 ---
 
-**Industrial & Systems Engineer, PUCV**  
-**Remote · Based in Chile · [Eastern Time](https://time.is/ET) Aligned**  
-**Streamlined US Deployment ([H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) & [ESTA](https://cl.usembassy.gov/visa-waiver-program/))**
+**Industrial & Systems Engineer – [Pontifical Catholic University of Valparaíso](https://www.pucv.cl/pucv/site/edic/base/port/universidad.html)**  
+**Remote · Based in Chile · Eastern Time Aligned**  
+**Streamlined US Deployment via [H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) & [ESTA](https://cl.usembassy.gov/visa-waiver-program/)**
+**Streamlined US Deployment via <a href="https://www.dol.gov/agencies/whd/immigration/h1b1" target="_blank" rel="noopener noreferrer">H-1B1</a> & <a href="https://cl.usembassy.gov/visa-waiver-program/" target="_blank" rel="noopener noreferrer">ESTA</a>**
 
 ---
 
