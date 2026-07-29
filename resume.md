@@ -28,13 +28,13 @@ Ingeniero Civil Industrial especializado en el diseño, la validación técnica 
   
 ## Experiencias Clave  
 
-**Cuxhaven Labs 
-Consultor Principal
+**Cuxhaven Labs   
+Consultor Principal. 
 Mayo 2026 – Presente [_SpA en Formación – Fundador, Consultoría a Demanda_]**  
 Diseño, prueba de concepto (PoC) y validación de arquitecturas de datos y flujos ETL bajo estándares de gobernanza y trazabilidad corporativa. Liderazgo en pilotos para el modelado de metadatos, auditorías de deuda técnica e integración de sistemas. Desarrollo e implementación de mecanismos de resiliencia para la continuidad operacional y la recuperación de activos digitales críticos.
 
-**Servicios de Consultoría en Analítica Avanzada
-Consultor de Sistemas Cuantitativos 
+**Servicios de Consultoría en Analítica Avanzada  
+Consultor de Sistemas Cuantitativos.  
 Julio 2022 – Presente / Región de Valparaíso [_Consultoría I+D Representativa_]**  
 Modelado de datos telemétricos de running mediante ajuste de funciones a series de tiempo de ritmo-distancia (400m a 21.1km) para la detección y cuantificación de brechas fisiológicas y la prescripción de ritmos en triatlones de mediana y larga distancia, basado en las desviaciones observadas entre la telemetría, medidas de tendencia central (+1.8k competidores) y _outliers_ de cada _age-group_. Análisis exploratorio de la variabilidad estadística según variables contextuales como clima, altimetría del circuito y transiciones. 
 
