@@ -38,10 +38,10 @@ Ingeniero de Sistemas y Analítica Cuantitativa 
 Julio 2022 – Presente / Consultoría Técnica Independiente**  
 Enfoque en la ejecución técnica y el modelado matemático. Diseño e implementación de bases de datos relacionales orientadas a objetos y flujos automatizados de ingesta y transformación. Despliegue de modelos analíticos avanzados en R para el análisis de variabilidad y el procesamiento complejo de series de tiempo mediante validación de métricas de rendimiento biométrico.  
 
-**Ecosistemas Distribuidos  
-Ingeniero de Infraestructura y Redes Digitales   
+**Ecosistemas Distribuidos & Protocolos Web3 
+Especialista en Operaciones _On-Chain_ & Protocolos Distribuidos 
 Enero 2020 – Julio 2022 / Remoto**  
-Gestión y diagnóstico de infraestructura en redes descentralizadas (_DeFi_), con resolución de incidencias por congestión, mitigación de duplicidad transaccional (_nonce_) y optimización de costos de ejecución en cadena (_gas fees_). Análisis de sistemas distribuidos de alta carga bajo condiciones de latencia crítica en tiempo real, garantizando soporte operacional para una base global de +1,000 usuarios concurrentes. Administración de protocolos de interoperabilidad y puentes de liquidez cross-chain para la conversión eficiente de activos (_swaps_) y el aseguramiento de la consistencia operativa de activos digitales estables (_stablecoins_).  
+Gestión y trazabilidad de tesorerías (US$10k–50k+) bajo custodia _DeFi_ (MetaMask, Ledger) sobre _relay-chains_/_parachains_ de Polkadot/Kusama y redes Bitcoin, ERC-20 y BSC. Ejecución de _swaps intra/cross-chain_, optimización de _gas fees_ y resolución de _nonces_. Coordinación de _smart contracts_ para el despliegue de NFTs sobre metaversos en servidores Minecraft (+1.000 usuarios). Redacción técnica de contenido web para tododecripto.com sobre arquitectura _blockchain_, _parachains_ y gobernanza Web3.  
 
 **Pontificia Universidad Católica de Valparaíso   
 Consultor de Datos y Docente Adjunto (en asociación con la Escuela de Negocios de la UAI)   
