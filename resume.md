@@ -35,8 +35,8 @@ Diseño, prueba de concepto (PoC) y validación de arquitecturas de datos y fluj
 
 **Servicios de Consultoría en Analítica Avanzada  
 Consultor de Sistemas Cuantitativos  
-Julio 2022 – Presente / Región de Valparaíso [_Consultoría I+D Representativa_]**  
-Modelado de datos telemétricos de running mediante ajuste de funciones a series de tiempo de ritmo-distancia (400m a 21.1km) para la detección y cuantificación de brechas fisiológicas y la prescripción de ritmos en triatlones de mediana y larga distancia, basado en las desviaciones observadas entre la telemetría, medidas de tendencia central (+1.8k competidores) y _outliers_ de cada _age-group_. Análisis exploratorio de la variabilidad estadística según variables contextuales como clima, altimetría del circuito y transiciones. 
+Julio 2022 – Presente / Región de Valparaíso**  
+**[_Proyecto Ancla_]** Modelado de datos telemétricos de running mediante ajuste de funciones a series de tiempo de ritmo-distancia (400m a 21.1km) para la detección y cuantificación de brechas fisiológicas y la prescripción de ritmos en triatlones de mediana y larga distancia, basado en las desviaciones observadas entre la telemetría, medidas de tendencia central (+1.8k competidores) y _outliers_ de cada _age-group_. Análisis exploratorio de la variabilidad estadística según variables contextuales como clima, altimetría del circuito y transiciones. 
 
 **Finanzas Descentralizadas y Protocolos Web3 (_en colaboración con [tododecripto.com](https://www.tododecripto.com)_)  
 Especialista en Operaciones _On-Chain_ e Infraestructura Distribuida  
