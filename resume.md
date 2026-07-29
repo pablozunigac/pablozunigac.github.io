@@ -29,17 +29,17 @@ Ingeniero Civil Industrial especializado en el diseño, la validación técnica 
 ## Experiencias Clave  
 
 **Cuxhaven Labs   
-Consultor Principal. 
+Consultor Principal  
 Mayo 2026 – Presente [_SpA en Formación – Fundador, Consultoría a Demanda_]**  
 Diseño, prueba de concepto (PoC) y validación de arquitecturas de datos y flujos ETL bajo estándares de gobernanza y trazabilidad corporativa. Liderazgo en pilotos para el modelado de metadatos, auditorías de deuda técnica e integración de sistemas. Desarrollo e implementación de mecanismos de resiliencia para la continuidad operacional y la recuperación de activos digitales críticos.
 
 **Servicios de Consultoría en Analítica Avanzada  
-Consultor de Sistemas Cuantitativos.  
+Consultor de Sistemas Cuantitativos   
 Julio 2022 – Presente / Región de Valparaíso [_Consultoría I+D Representativa_]**  
 Modelado de datos telemétricos de running mediante ajuste de funciones a series de tiempo de ritmo-distancia (400m a 21.1km) para la detección y cuantificación de brechas fisiológicas y la prescripción de ritmos en triatlones de mediana y larga distancia, basado en las desviaciones observadas entre la telemetría, medidas de tendencia central (+1.8k competidores) y _outliers_ de cada _age-group_. Análisis exploratorio de la variabilidad estadística según variables contextuales como clima, altimetría del circuito y transiciones. 
 
 **Finanzas Descentralizadas y Protocolos Web3 (_en colaboración con [tododecripto.com](https://www.tododecripto.com)_)  
-Especialista en Operaciones _On-Chain_ y Infraestructura Distribuida  
+Especialista en Operaciones _On-Chain_ e Infraestructura Distribuida  
 Enero 2020 – Julio 2022 / Remoto**  
 Gestión y trazabilidad de tesorerías (USD $10k–50k+) bajo custodia _DeFi_ (MetaMask, Ledger, DEX) sobre _relay-chains_/_parachains_ de Polkadot/Kusama y redes Bitcoin, ERC-20 y BSC. Gestión de _gas fees_, ejecución de _intra/cross-chain swaps_ y sobre-escritura de _nonces_. Coordinación de _smart contracts_ para el uso de NFTs en servidores de Minecraft (+1.000 usuarios) y redacción técnica de contenido web para tododecripto.com sobre arquitectura _blockchain_, _parachains_ y gobernanza Web3.  
 
