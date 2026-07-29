@@ -28,23 +28,23 @@ Ingeniero Civil Industrial especializado en el diseño, la validación técnica 
   
 ## Experiencias Clave  
 
-**Cuxhaven Labs   
-Consultor Independiente de Arquitectura de Datos y Gobernanza  
-Abril 2026 – Presente (SpA en Formación – Fundador)**  
-Diseño, prueba de concepto (PoC) y validación de arquitecturas de datos y flujos ETL bajo estándares de gobernanza y trazabilidad corporativa. Liderazgo en pilotos para el modelado de metadatos, auditorías de deuda técnica e integración de sistemas. Desarrollo e implementación de mecanismos de resiliencia para la continuidad operacional y la recuperación de activos digitales críticos.  
+**Cuxhaven Labs 
+Consultor Principal
+Mayo 2026 – Presente [_SpA en Formación – Fundador, Consultoría a Demanda_]**  
+Diseño, prueba de concepto (PoC) y validación de arquitecturas de datos y flujos ETL bajo estándares de gobernanza y trazabilidad corporativa. Liderazgo en pilotos para el modelado de metadatos, auditorías de deuda técnica e integración de sistemas. Desarrollo e implementación de mecanismos de resiliencia para la continuidad operacional y la recuperación de activos digitales críticos.
 
-**Práctica Independiente  
-Ingeniero de Sistemas y Analítica Cuantitativa   
-Julio 2022 – Presente / Consultoría Técnica Independiente**  
-Enfoque en la ejecución técnica y el modelado matemático. Diseño e implementación de bases de datos relacionales orientadas a objetos y flujos automatizados de ingesta y transformación. Despliegue de modelos analíticos avanzados en R para el análisis de variabilidad y el procesamiento complejo de series de tiempo mediante validación de métricas de rendimiento biométrico.  
+**Servicios de Consultoría en Analítica Avanzada
+Consultor de Sistemas Cuantitativos 
+Julio 2022 – Presente / Región de Valparaíso [_Consultoría I+D Representativa_]**  
+Modelado de datos telemétricos de running mediante ajuste de funciones a series de tiempo de ritmo-distancia (400m a 21.1km) para la detección y cuantificación de brechas fisiológicas y la prescripción de ritmos en triatlones de mediana y larga distancia, basado en las desviaciones observadas entre la telemetría, medidas de tendencia central (+1.8k competidores) y _outliers_ de cada _age-group_. Análisis exploratorio de la variabilidad estadística según variables contextuales como clima, altimetría del circuito y transiciones. 
 
-**Ecosistemas Distribuidos & Protocolos Web3 
-Especialista en Operaciones _On-Chain_ & Protocolos Distribuidos 
+**Finanzas Descentralizadas y Protocolos Web3 (_en colaboración con [tododecripto.com](https://www.tododecripto.com)_)  
+Especialista en Operaciones _On-Chain_ y Infraestructura Distribuida  
 Enero 2020 – Julio 2022 / Remoto**  
-Gestión y trazabilidad de tesorerías (US$10k–50k+) bajo custodia _DeFi_ (MetaMask, Ledger) sobre _relay-chains_/_parachains_ de Polkadot/Kusama y redes Bitcoin, ERC-20 y BSC. Ejecución de _swaps intra/cross-chain_, optimización de _gas fees_ y resolución de _nonces_. Coordinación de _smart contracts_ para el despliegue de NFTs sobre metaversos en servidores Minecraft (+1.000 usuarios). Redacción técnica de contenido web para tododecripto.com sobre arquitectura _blockchain_, _parachains_ y gobernanza Web3.  
+Gestión y trazabilidad de tesorerías (USD $10k–50k+) bajo custodia _DeFi_ (MetaMask, Ledger, DEX) sobre _relay-chains_/_parachains_ de Polkadot/Kusama y redes Bitcoin, ERC-20 y BSC. Gestión de _gas fees_, ejecución de _intra/cross-chain swaps_ y sobre-escritura de _nonces_. Coordinación de _smart contracts_ para el uso de NFTs en servidores de Minecraft (+1.000 usuarios) y redacción técnica de contenido web para tododecripto.com sobre arquitectura _blockchain_, _parachains_ y gobernanza Web3.  
 
-**Pontificia Universidad Católica de Valparaíso   
-Consultor de Datos y Docente Adjunto (en asociación con la Escuela de Negocios de la UAI)   
+**Pontificia Universidad Católica de Valparaíso  (_en asociación con la Escuela de Negocios de la UAI_)   
+Consultor de Datos y Docente Adjunto. 
 Agosto 2018 – Junio 2021 (Bajo Demanda) / Región Metropolitana – Región de Valparaíso**  
 Consolidación de fuentes de datos y diseño de _pipelines_ ETL para análisis estadístico exploratorio en entorno académico, la visualización de datos como soporte a decisiones y apoyo docente en la cátedra “_Ciencia de Datos Aplicada_”. Asesoría en proyectos finales de pregrado, modelado de datos, estructuras lógicas y automatización de flujos de información en contextos educativos y analíticos. Asesor técnico, editor de material académico y expositor internacional.  
 
@@ -54,13 +54,13 @@ Mayo 2019 – Septiembre 2019 / Las Condes, Región Metropolitana**
 Orquestación de _pipelines_ para la integración de metadatos desde sistemas operacionales hacia repositorios de gobierno de datos en Microsoft Azure, respaldada por modelado de flujos y estandarización BPMN. Fiscalización de arquitecturas de datos en entornos financieros regulados, asegurando la consistencia, calidad y control de acceso en la gestión de la información institucional.  
 
 **ESVAL – Departamento de Gestión de Redes   
-Líder de Proyecto (Proyecto de Título)  
+Líder de Proyecto (_Proyecto de Título_)  
 Julio 2017 – Diciembre 2017 / Viña del Mar, Región de Valparaíso**  
-Liderazgo en proyecto de modelado estadístico mediante _software_ para la red de agua potable de la Región de Valparaíso, incluyendo el diseño y el desarrollo de un modelo espaciotemporal de riesgos mediante regresión de Cox en R sobre una red de 5,300 km (+1.9 millones de usuarios) de extensión. Coordinación bajo estándar PMO y ejecución mediante metodologías ágiles (Kanban, SCRUM para la generación de métricas que soportan el mantenimiento de la red de agua potable de la región.  
+Liderazgo en proyecto de modelado estadístico mediante _software_ para la red de agua potable de la Región de Valparaíso, incluyendo el diseño y el desarrollo de un modelo espaciotemporal de riesgos mediante regresión de Cox en R sobre una red de 5,300 km (+1.9 millones de usuarios) de extensión. Coordinación bajo estándar PMO y ejecución mediante metodologías ágiles (Kanban, SCRUM) para la generación de métricas que soportan el mantenimiento de la red de agua potable de la región.  
 
 **Empresa Nacional de Minería (ENAMI) – División de Finanzas y Administración  
 Práctica Profesional de Ingeniería  
-Enero 2016 – Marzo 2016 / Región Metropolitana – Región de Atacama (Despliegue en terreno)**  
+Enero 2016 – Marzo 2016 / Región Metropolitana – Región de Atacama**  
 Análisis exploratorio, consolidación de datos sobre +75,000 SKUs minero-metalúrgicos e identificación de USD $2.5 millones en inconsistencias de inventario para procesos de auditoría y control financiero. Diseño de estructuras de almacenamiento para la cadena de abastecimiento de la Fundición Hernán Videla Lira y despliegues gráficos en AutoCAD para la gestión del inventario nacional.  
 
 **Antofagasta Minerals – Minera Los Pelambres – Superintendencia de Geotecnia  
@@ -113,7 +113,7 @@ Programa integrado de doce semestres con formación en ingeniería de sistemas, 
 Ayudante académico recurrente en Ingeniería Económica, Sistemas de Información y Matemática Aplicada con énfasis en análisis cuantitativo y herramientas computacionales para la ingeniería, las finanzas y la contabilidad.  
 
 **Pontificia Universidad Católica de Valparaíso   
-Ingeniería Civil / 2007 – 2010 (Estudios Fundamentales)**  
+Ingeniería Civil / 2007 – 2010 (_Estudios Fundamentales_)**  
 Formación en ciencias básicas de la ingeniería con énfasis en matemática aplicada, herramientas computacionales (MATLAB) y dibujo técnico vectorial en AutoCAD.
 
 ---
@@ -125,7 +125,7 @@ Docente Invitado – Diplomado en Finanzas para la Toma de Decisiones
 2019 / Valparaíso, Región de Valparaíso**  
 Diseño y relatoría de módulos avanzados de matemática financiera y evaluación de proyectos, enfocados en la utilización de Microsoft Excel para la formulación de flujos de caja, análisis de rentabilidad, cuantificación del riesgo y simulación de escenarios de eficiencia operativa.
 
-**BancoEstado (en convenio con Universidad Técnica Federico Santa María)   
+**BancoEstado (_en convenio con Universidad Técnica Federico Santa María_)   
 Expositor Técnico – Curso: Análisis Financiero de Títulos de Renta Variable  
 2017, 2019 / Santiago de Chile, Región Metropolitana**  
 Relatoría de programa intensivo en análisis técnico y series de tiempo para la Mesa de Dinero de BancoEstado. Modelado de datos de alta frecuencia (OHLC), calibración de volatilidad y análisis exploratorio para decisiones cuantitativas en entornos financieros dinámicos.  
