@@ -36,17 +36,17 @@ Diseño, prueba de concepto (PoC) y validación de arquitecturas de datos y fluj
 **Servicios de Consultoría en Analítica Avanzada  
 Consultor de Sistemas Cuantitativos  
 Julio 2022 – Presente / Región de Valparaíso**  
-**[_Proyecto Ancla_]** Modelado de datos telemétricos de running mediante ajuste de funciones a series de tiempo de ritmo-distancia (400m a 21.1km) para la detección y cuantificación de brechas fisiológicas y la prescripción de ritmos en triatlones de mediana y larga distancia, basado en las desviaciones observadas entre la telemetría, medidas de tendencia central (+1.8k competidores) y _outliers_ de cada _age-group_. Análisis exploratorio de la variabilidad estadística según variables contextuales como clima, altimetría del circuito y transiciones. 
+**[_Proyecto Ancla_]** Modelado de datos telemétricos de running mediante ajuste de funciones a series de tiempo de ritmo-distancia (400m a 21.1km) para la detección y cuantificación de brechas fisiológicas y la prescripción de ritmos en triatlones de mediana y larga distancia, basado en las desviaciones observadas entre la telemetría, medidas de tendencia central (+1.8k competidores) y _outliers_ de cada grupo de edad. Análisis exploratorio de la variabilidad estadística según variables contextuales como clima, altimetría del circuito y transiciones. 
 
 **Finanzas Descentralizadas y Protocolos Web3 (_en colaboración con [tododecripto.com](https://www.tododecripto.com)_)  
 Especialista en Operaciones _On-Chain_ e Infraestructura Distribuida  
 Enero 2020 – Julio 2022 / Remoto**  
-Gestión y trazabilidad de tesorerías (USD $10k–50k+) bajo custodia _DeFi_ (MetaMask, Ledger, DEX) sobre _relay-chains_/_parachains_ de Polkadot/Kusama y redes Bitcoin, ERC-20 y BSC. Gestión de _gas fees_, ejecución de _intra/cross-chain swaps_ y sobre-escritura de _nonces_. Coordinación de _smart contracts_ para el uso de NFTs en servidores de Minecraft (~1.1k usuarios) y redacción técnica de contenido web para tododecripto.com sobre arquitectura _blockchain_, _parachains_ y gobernanza Web3.  
+Gestión y trazabilidad de tesorerías (USD $10k–50k+) bajo custodia _DeFi_ (MetaMask, Ledger, DEX) sobre _relay-chains_/_parachains_ de Polkadot/Kusama y redes Bitcoin, ERC-20 y BSC. Gestión de _gas fees_, ejecución de _intra/cross-chain swaps_ y sobrescritura de _nonces_. Coordinación de _smart contracts_ para el uso de NFTs en servidores de Minecraft (~1.1k usuarios) y redacción técnica de contenido web para tododecripto.com sobre arquitectura _blockchain_, _parachains_ y gobernanza Web3.  
 
 **Pontificia Universidad Católica de Valparaíso  (_en asociación con la Escuela de Negocios de la UAI_)   
 Consultor de Datos y Docente Adjunto  
 Agosto 2018 – Junio 2021 (Bajo Demanda) / Región Metropolitana – Región de Valparaíso**  
-Consolidación de fuentes de datos y diseño de _pipelines_ ETL para análisis estadístico exploratorio en entorno académico, la visualización de datos como soporte a decisiones y apoyo docente en la cátedra “_Ciencia de Datos Aplicada_”. Asesoría en proyectos finales de pregrado, modelado de datos, estructuras lógicas y automatización de flujos de información en contextos educativos y analíticos. Asesor técnico, editor de material académico y expositor internacional.  
+Consolidación de fuentes de datos y diseño de _pipelines_ ETL para análisis estadístico exploratorio en entornos académicos, la visualización de datos como soporte a decisiones y apoyo docente en la cátedra “_Ciencia de Datos Aplicada_”. Asesoría en proyectos finales de pregrado, modelado de datos, estructuras lógicas y automatización de flujos de información en contextos educativos y analíticos. Asesor técnico, editor de material académico y expositor internacional.  
 
 **Banco de Crédito e Inversiones (Bci) – Gerencia Corporativa de Data & Analytics – Gobierno de Datos  
 Ingeniero de Procesos   
@@ -56,7 +56,7 @@ Orquestación de _pipelines_ para la integración de metadatos desde sistemas op
 **ESVAL – Departamento de Gestión de Redes   
 Líder de Proyecto (_Proyecto de Título_)  
 Julio 2017 – Diciembre 2017 / Viña del Mar, Región de Valparaíso**  
-Liderazgo en proyecto de modelado estadístico mediante _software_ para la red de agua potable de la Región de Valparaíso, incluyendo el diseño y el desarrollo de un modelo espaciotemporal de riesgos mediante regresión de Cox en R sobre una red de 5,300 km (+1.9M de usuarios) de extensión. Coordinación bajo estándar PMO y ejecución mediante metodologías ágiles (Kanban, SCRUM) para la generación de métricas que soportan el mantenimiento de la red de agua potable de la región.  
+Liderazgo en el proyecto de modelado estadístico mediante _software_ para la red de agua potable de la Región de Valparaíso, incluyendo el diseño y el desarrollo de un modelo espaciotemporal de riesgos mediante regresión de Cox en R sobre una red de 5,300 km (+1.9M de usuarios) de extensión. Coordinación bajo estándar PMO y ejecución mediante metodologías ágiles (Kanban, SCRUM) para la generación de métricas que soportan el mantenimiento de la red de agua potable de la región.  
 
 **Empresa Nacional de Minería (ENAMI) – División de Finanzas y Administración  
 Práctica Profesional de Ingeniería  
