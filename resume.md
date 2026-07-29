@@ -72,35 +72,17 @@ Monitoreo de procesos críticos en faena minera mediante captura, registro y tra
 
 ## Competencias Tecnológicas  
 
-**Lenguajes de Programación y Analítica Avanzada  
-Herramientas: Modelado Estadístico e Inferencial · Series de Tiempo · Python · R**  
-Tratamiento estadístico y estocástico de series de tiempo para el modelado de tendencias y volatilidad. Desarrollo de analítica avanzada orientada a la mitigación de variabilidad, la estructuración de pronósticos y el control de riesgos operacionales mediante certeza estadística.  
-
-**Datos y Sistemas de Información  
-Especialidades: ETL/ELT · Arquitectura de Metadatos · Modelado de Datos**  
-Construcción de repositorios y flujos de datos distribuidos bajo control de versiones. Despliegue de procesos ETL/ELT orientados a la integridad, trazabilidad y calidad de los datos. Definición semántica de metadatos, interoperabilidad de sistemas de información y soporte arquitectónico para la continuidad operativa.  
-
-**Desarrollo de _Software_ y Procesos de Negocio     
-Metodologías: SQL · REST API · OOP · UML · Diagramación BPMN**  
-Integración de datos en arquitecturas distribuidas mediante APIs para garantizar la interoperabilidad de sistemas de información. Modelado y estandarización de procesos bajo estándar BPMN para asegurar la trazabilidad operativa y el cumplimiento normativo ante auditorías técnicas de nivel corporativo.  
-
-**Gestión del Conocimiento  
-Ecosistemas: Microsoft Azure · Modelado Geoespacial · Notion**  
-Transformación de telemetría geoespacial en inteligencia de negocio, liderando la gobernanza y el modelado de datos a partir de archivos .gpx, .fit y .kmz. Arquitectura de sistemas de información en Notion mediante bases de datos relacionales complejas (_relations_, _rollups_), incluyendo la programación de lógica condicional avanzada y matricial (_arrays_) para el control de proyectos.  
-
----
-
-## Competencias Transversales  
-
-**Ecosistemas Operativos y Control de Versiones  
-Entornos y Herramientas: macOS / Windows · Git · LaTeX · Markdown**  
-Dominio de entornos macOS y Windows. Orquestación de flujos de trabajo mediante control de versiones y generación de documentación técnico-académica mediante Markdown y LaTeX.  
-
-**Comunicación Técnica y Divulgación  
-Capacidades: Producción Escrita · Transferencia de Conocimiento**  
-Producción de documentación técnica, material académico y contenidos de ingeniería orientados a negocio. Comunicación oral ejecutiva y traducción de complejidad ante comités corporativos, personal técnico y operaciones en terreno.  
-
-**Idiomas:** Español: (Nativo), Inglés (Profesional técnico).
+_Stack_ de herramientas, metodologías y filosofías orientado a articular la convergencia estratégica entre infraestructura heredada (_legacy_) y entornos de analítica avanzada, arquitectura de datos y gobernanza corporativa  
+**Ingeniería de Datos**
+Arquitectura de Metadatos / ETL/ELT / Diseño OLTP/OLAP / Modelado Geoespacial (.gpx, .fit, .kmz)  
+**Optimización, Analítica & Series de Tiempo**
+Python / R / Modelado Estadístico e Inferencial / Series de Tiempo / Programación Lineal y Entera (LINGO, LINDO) / Simulación Montecarlo (@RISK, Crystal Ball)  
+**Desarrollo de Sistemas & Procesos de Negocio**
+SQL / VBA (Microsoft Excel) / REST API / Programación Orientada a Objetos (OOP) / BPMN / UML  
+**Ecosistemas & Infraestructura**
+Microsoft Azure / Git / macOS / Windows / Notion (Incluye: Relaciones, Rollups, Fórmulas y Arrays)  
+Documentación Técnica
+Markdown / LaTeX / HTML / CSS
 
 ---
 
