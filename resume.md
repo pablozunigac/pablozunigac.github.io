@@ -56,12 +56,12 @@ Orquestación de _pipelines_ para la integración de metadatos desde sistemas op
 **ESVAL – Departamento de Gestión de Redes   
 Líder de Proyecto (_Proyecto de Título_)  
 Julio 2017 – Diciembre 2017 / Viña del Mar, Región de Valparaíso**  
-Liderazgo en proyecto de modelado estadístico mediante _software_ para la red de agua potable de la Región de Valparaíso, incluyendo el diseño y el desarrollo de un modelo espaciotemporal de riesgos mediante regresión de Cox en R sobre una red de 5,300 km (+1.9 millones de usuarios) de extensión. Coordinación bajo estándar PMO y ejecución mediante metodologías ágiles (Kanban, SCRUM) para la generación de métricas que soportan el mantenimiento de la red de agua potable de la región.  
+Liderazgo en proyecto de modelado estadístico mediante _software_ para la red de agua potable de la Región de Valparaíso, incluyendo el diseño y el desarrollo de un modelo espaciotemporal de riesgos mediante regresión de Cox en R sobre una red de 5,300 km (+1.9M de usuarios) de extensión. Coordinación bajo estándar PMO y ejecución mediante metodologías ágiles (Kanban, SCRUM) para la generación de métricas que soportan el mantenimiento de la red de agua potable de la región.  
 
 **Empresa Nacional de Minería (ENAMI) – División de Finanzas y Administración  
 Práctica Profesional de Ingeniería  
 Enero 2016 – Marzo 2016 / Región Metropolitana – Región de Atacama**  
-Análisis exploratorio, consolidación de datos sobre +75,000 SKUs minero-metalúrgicos e identificación de USD $2.5 millones en inconsistencias de inventario para procesos de auditoría y control financiero. Diseño de estructuras de almacenamiento para la cadena de abastecimiento de la Fundición Hernán Videla Lira y despliegues gráficos en AutoCAD para la gestión del inventario nacional.  
+Análisis exploratorio, consolidación de datos sobre +75k SKUs minero-metalúrgicos e identificación de USD $2.5M en inconsistencias de inventario para procesos de auditoría y control financiero. Diseño de estructuras de almacenamiento para la cadena de abastecimiento de la Fundición Hernán Videla Lira y despliegues gráficos en AutoCAD para la gestión del inventario nacional.  
 
 **Antofagasta Minerals – Minera Los Pelambres – Superintendencia de Geotecnia  
 Práctica de Ingeniería   
