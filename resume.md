@@ -31,7 +31,9 @@ Ingeniero Civil Industrial especializado en el diseño, la validación técnica 
 **Cuxhaven Labs [_SpA en Formación_]  
 Consultor Principal y Fundador   
 Mayo 2026 – Presente [_Consultoría a Demanda_]**  
-Diseño, prueba de concepto (PoC) y validación de arquitecturas de datos y flujos ETL bajo estándares de gobernanza y trazabilidad corporativa. Liderazgo en pilotos para el modelado de metadatos, auditorías de deuda técnica e integración de sistemas. Desarrollo e implementación de mecanismos de resiliencia para la continuidad operacional y la recuperación de activos digitales críticos.
+* Diseño, prueba de concepto (PoC) y validación de arquitecturas de datos y flujos ETL bajo estándares de gobernanza y trazabilidad corporativa.
+* Liderazgo en pilotos para el modelado de metadatos, auditorías de deuda técnica e integración de sistemas.
+* Desarrollo e implementación de mecanismos de resiliencia para la continuidad operacional y la recuperación de activos digitales críticos.
 
 **Servicios de Consultoría en Analítica Avanzada  
 Consultor de Sistemas Cuantitativos  
