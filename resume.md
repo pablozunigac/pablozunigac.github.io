@@ -55,10 +55,10 @@ Enero 2020 – Julio 2022 / Remoto**
 * Coordinación de _smart contracts_ para el uso de NFTs en servidores de Minecraft (~1.1k usuarios) y redacción técnica de contenido web para tododecripto.com sobre arquitectura _blockchain_, _parachains_ y gobernanza Web3.  
 
 **Pontificia Universidad Católica de Valparaíso  (_en asociación con la Escuela de Negocios de la UAI_)   
-Consultor de Datos y Docente Adjunto  
-Agosto 2018 – Junio 2021 (Bajo Demanda) / Región Metropolitana – Región de Valparaíso**
+Consultor de Datos y Docente Adjunto [_Bajo Demanda_]  
+Agosto 2018 – Junio 2021 / Región Metropolitana – Región de Valparaíso**
 {: style="margin-bottom: 0;"}
-* Consolidación de fuentes de datos y diseño de _pipelines_ ETL para análisis estadístico exploratorio en entornos académicos, la visualización de datos como soporte a decisiones y apoyo docente en la cátedra “_Ciencia de Datos Aplicada_”.
+* Consolidación de fuentes de datos y diseño de _pipelines_ ETL para análisis estadístico exploratorio en entornos académicos, visualización de datos como soporte a decisiones y apoyo docente en la cátedra “_Ciencia de Datos Aplicada_” de Ingeniería Civil Industrial PUCV.
 {: style="margin-bottom: 0;"}
 * Asesoría en proyectos finales de pregrado, modelado de datos, estructuras lógicas y automatización de flujos de información en contextos educativos y analíticos.
 {: style="margin-bottom: 0;"}
@@ -68,15 +68,15 @@ Agosto 2018 – Junio 2021 (Bajo Demanda) / Región Metropolitana – Región de
 Ingeniero de Procesos   
 Mayo 2019 – Septiembre 2019 / Las Condes, Región Metropolitana**
 {: style="margin-bottom: 0;"}
-* Orquestación de _pipelines_ para la integración de metadatos desde sistemas operacionales hacia repositorios de gobierno de datos en Microsoft Azure, respaldada por modelado de flujos y estandarización BPMN.
+* Orquestación de _pipelines_ para la integración de metadatos desde sistemas operacionales hacia repositorios del gobierno de datos en Microsoft Azure, respaldada por modelado de flujos y estandarización BPMN As-is/To-be.
 {: style="margin-bottom: 0;"}
-* Fiscalización de arquitecturas de datos en entornos financieros regulados, asegurando la consistencia, calidad y control de acceso en la gestión de la información institucional.  
+* Fiscalización de arquitecturas de datos en entornos financieros regulados, asegurando consistencia, calidad y control en el acceso a los procesos de almacenamiento, gestión y uso de la información institucional. 
 
 **ESVAL – Departamento de Gestión de Redes   
 Líder de Proyecto (_Proyecto de Título_)  
 Julio 2017 – Diciembre 2017 / Viña del Mar, Región de Valparaíso**
 {: style="margin-bottom: 0;"}
-* Liderazgo en el proyecto de modelado estadístico mediante _software_ para la red de agua potable de la Región de Valparaíso, incluyendo el diseño y el desarrollo de un modelo espaciotemporal de riesgos mediante regresión de Cox en R sobre una red de 5,300 km (+1.9M de usuarios) de extensión.
+* Liderazgo en el proyecto de modelado estadístico mediante _software_ para la red de agua potable de la Región de Valparaíso, incluyendo el desarrollo de un modelo espaciotemporal de riesgos mediante regresión de Cox en R sobre una red de 5,300km (+1.9M de usuarios) de extensión.
 {: style="margin-bottom: 0;"}
 * Coordinación bajo estándar PMO y ejecución mediante metodologías ágiles (Kanban, SCRUM) para la generación de métricas que soportan el mantenimiento de la red de agua potable de la región.  
 
@@ -84,9 +84,9 @@ Julio 2017 – Diciembre 2017 / Viña del Mar, Región de Valparaíso**
 Práctica Profesional de Ingeniería  
 Enero 2016 – Marzo 2016 / Región Metropolitana – Región de Atacama**
 {: style="margin-bottom: 0;"}
-* Análisis exploratorio, consolidación de datos sobre +75k SKUs minero-metalúrgicos e identificación de USD $2.5M en inconsistencias de inventario para procesos de auditoría y control financiero.
+* Análisis exploratorio y consolidación de datos sobre el inventario minero-metalúrgico nacional (+75k SKUs) e identificación _in situ_ de USD $2.5M en inconsistencias contables para los procesos de auditoría y control financiero de nivel corporativo.
 {: style="margin-bottom: 0;"}
-* Diseño de estructuras de almacenamiento para la cadena de abastecimiento de la Fundición Hernán Videla Lira y despliegues gráficos en AutoCAD para la gestión del inventario nacional.  
+* Diseño de estructuras de almacenamiento para la cadena de abastecimiento de la Fundición Hernán Videla Lira y despliegues gráficos en AutoCAD para la gestión del inventario nacional de ENAMI.  
 
 **Antofagasta Minerals – Minera Los Pelambres – Superintendencia de Geotecnia  
 Práctica de Ingeniería   
@@ -96,13 +96,13 @@ Enero 2014 – Marzo 2014 / Salamanca, Región de Coquimbo**
 {: style="margin-bottom: 0;"}
 * Consolidación de información de inspecciones y sistemas automatizados para la detección temprana de riesgos y desviaciones.
 {: style="margin-bottom: 0;"}
-* Elaboración de informes y registros históricos para control de procesos, continuidad operacional y apoyo a decisiones en infraestructura crítica.  
+* Elaboración de informes y registros históricos para el control de procesos, la continuidad operacional y el apoyo a decisiones en infraestructura minera crítica.  
 
 ---
 
 ## Competencias Tecnológicas  
 
-_Stack_ de herramientas, metodologías y filosofías orientado a articular la convergencia estratégica entre infraestructura heredada (_legacy_) y entornos de analítica avanzada, arquitectura de datos y gobernanza corporativa.
+_Stack_ de herramientas, metodologías y filosofías de trabajo orientado a la convergencia estratégica de infraestructura heredada (_legacy_) y entornos con presencia de analítica avanzada y gobernanza corporativa.
 {: style="margin-bottom: 6px;"}
 * **Ingeniería de Datos**  
 Arquitectura de Metadatos · ETL/ELT · Diseño OLTP/OLAP · Modelado Geoespacial (.gpx, .fit, .kmz)
@@ -111,7 +111,7 @@ Python · R · Modelado Estadístico e Inferencial · Series de Tiempo · Progra
 * **Desarrollo de Sistemas y Procesos de Negocio**  
 SQL · VBA (Microsoft Excel) · REST API · Programación Orientada a Objetos (OOP) · BPMN · UML  
 * **Ecosistemas e Infraestructura**  
-Microsoft Azure · Git · macOS/Windows · Notion (Incluye: Relaciones, _Rollups_, Fórmulas y _Arrays_)  
+Microsoft Azure · Git/GitHub · macOS/Windows · Notion (Incluye: Relaciones, _Rollups_, Fórmulas y _Arrays_)  
 * **Documentación Técnica**  
 Markdown · LaTeX · HTML/CSS
 
@@ -125,12 +125,12 @@ Licenciatura en Ciencias de la Ingeniería / 2016**
 {: style="margin-bottom: 0;"}
 * Programa integrado de doce semestres con formación en ingeniería de sistemas, análisis cuantitativo, econometría y estadística aplicada. Enfoque en el modelado y análisis de sistemas complejos con especialización en tecnologías de la información y teoría de sistemas.
 {: style="margin-bottom: 0;"}
-* Ayudante académico recurrente en Ingeniería Económica, Sistemas de Información y Matemática Aplicada con énfasis en análisis cuantitativo y herramientas computacionales para la ingeniería, las finanzas y la contabilidad.  
+* Ayudante académico recurrente en Ingeniería Económica, Sistemas de Información y Matemática Aplicada con énfasis en análisis cuantitativo y herramientas computacionales para la ingeniería, la contabilidad y las finanzas.
 
 **Pontificia Universidad Católica de Valparaíso   
 Ingeniería Civil / 2007 – 2010 (_Estudios Fundamentales_)**
 {: style="margin-bottom: 0;"}
-* Formación en ciencias básicas de la ingeniería con énfasis en matemática aplicada, herramientas computacionales (MATLAB) y dibujo técnico vectorial en AutoCAD.
+* Formación en ciencias básicas de la ingeniería con énfasis en matemática aplicada, ciencias básicas, herramientas computacionales (MATLAB) y dibujo técnico vectorial en AutoCAD.
 
 ---
 
@@ -146,9 +146,11 @@ Docente Invitado – Diplomado en Finanzas para la Toma de Decisiones
 Expositor Técnico – Curso: Análisis Financiero de Títulos de Renta Variable  
 2017, 2019 / Santiago de Chile, Región Metropolitana**
 {: style="margin-bottom: 0;"}
-* Relatoría de programa intensivo en análisis técnico y series de tiempo para la Mesa de Dinero de BancoEstado.
+* Relatoría en análisis técnico de títulos de renta variable en base a series de tiempo aplicadas a las operaciones de la Mesa de Dinero de BancoEstado.
 {: style="margin-bottom: 0;"}
-* Modelado de datos de alta frecuencia (OHLC), calibración de volatilidad y análisis exploratorio para decisiones cuantitativas en entornos financieros dinámicos.  
+* Modelado de datos de alta frecuencia (OHLC), calibración de volatilidad y análisis exploratorio para decisiones cuantitativas en contextos financieros dinámicos.
+{: style="margin-bottom: 0;"}
+* Validación técnica de documentación entregada por consultoras externas a BancoEstado.
 
 ---
 
