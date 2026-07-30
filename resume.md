@@ -9,7 +9,7 @@
 
 **Ingeniero Civil Industrial  
 Pontificia Universidad Católica de Valparaíso  
-Región Metropolitana, Chile · <a href="mailto:pablo.zuniga.c@gmail.com" style="color: #2B64CF; text-decoration: none;">pablo.zuniga.c@gmail.com</a>**
+Región de Valparaíso, Chile · <a href="mailto:pablo.zuniga.c@gmail.com" style="color: #2B64CF; text-decoration: none;">pablo.zuniga.c@gmail.com</a>**
 
 ## Perfil Profesional  
 
@@ -111,7 +111,7 @@ Python · R · Modelado Estadístico e Inferencial · Series de Tiempo · Progra
 * **Desarrollo de Sistemas y Procesos de Negocio**  
 SQL · VBA (Microsoft Excel) · REST API · Programación Orientada a Objetos (OOP) · BPMN · UML  
 * **Ecosistemas e Infraestructura**  
-Microsoft Azure · Git/GitHub · macOS/Windows · Notion (Incluye: Relaciones, _Rollups_, Fórmulas y _Arrays_)  
+Microsoft Azure · Git/GitHub · macOS/Windows · Notion (_rollups_, _arrays_ y Fórmulas 2.0)  
 * **Documentación Técnica**  
 Markdown · LaTeX · HTML/CSS
 
@@ -149,8 +149,6 @@ Expositor Técnico – Curso: Análisis Financiero de Títulos de Renta Variable
 * Relatoría en análisis técnico de títulos de renta variable en base a series de tiempo aplicadas a las operaciones de la Mesa de Dinero de BancoEstado.
 {: style="margin-bottom: 0;"}
 * Modelado de datos de alta frecuencia (OHLC), calibración de volatilidad y análisis exploratorio para decisiones cuantitativas en contextos financieros dinámicos.
-{: style="margin-bottom: 0;"}
-* Validación técnica de documentación entregada por consultoras externas a BancoEstado.
 
 ---
 
