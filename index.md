@@ -19,7 +19,7 @@ Designing the underlying structures that make complex work coherent, navigable, 
 ---
 
 ### Operational Focus & Systems Engineering
-
+{: style="margin-bottom: 6px;"}
 * **Raw Data & Databases Engineering**  
 Design and implementation of automated pipelines (ETL/ELT) and metadata architectures. I transform raw data from complex industrial environments into clean, governed, and decision-ready information assets.  
   <div style="font-family: monospace; font-size: 1em; margin-top: 3px;">
