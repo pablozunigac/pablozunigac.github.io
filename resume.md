@@ -27,24 +27,24 @@ Ingeniero Civil Industrial especializado en el diseño, la validación técnica 
   
 ## Experiencias Clave  
 
-**Cuxhaven Labs [_SpA en Formación_]  
-Consultor Principal y Fundador   
+**Cuxhaven Labs [_SpA en Formación_]
+Consultor Principal y Fundador 
 Mayo 2026 – Presente [_Consultoría a Demanda_]**
 {: style="margin-bottom: 0;"}
-* Diseño, prueba de concepto (PoC) y validación de arquitecturas de datos y flujos ETL bajo estándares de gobernanza y trazabilidad corporativa.
+* **Arquitectura de Datos y Gobernanza:** Diseño, prueba de concepto (PoC) y validación de flujos ETL/ELT bajo estándares de gobernanza, auditoría y trazabilidad para infraestructura crítica.
 {: style="margin-bottom: 0;"}
-* Liderazgo en pilotos para el modelado de metadatos, auditorías de deuda técnica e integración de sistemas.
+* **Ingeniería de Resiliencia y Continuidad:** Implementación de protocolos de resiliencia, respaldo de activos digitales y planes de mitigación para la continuidad operacional ante incidencias.
 {: style="margin-bottom: 0;"}
-* Desarrollo e implementación de mecanismos de resiliencia para la continuidad operacional y la recuperación de activos digitales críticos.
+* **Auditoría de Sistemas y Metadatos:** Pilotaje para el modelado de ontologías y metadatos, auditorías de deuda técnica e integración de sistemas conceptuales complejos.
 
-**Servicios de Consultoría en Analítica Avanzada  
-Consultor de Sistemas Cuantitativos  
+**Consultoría en Analítica Avanzada y Gestión del Conocimiento
+Consultor Independiente 
 Julio 2022 – Presente / Región de Valparaíso**  
-**[_Proyecto Ancla_] › _Analítica Telemétrica para running en Triatlón_**
-{: style="margin-bottom: 0;"}
-* Modelado de datos telemétricos de running mediante ajuste de funciones a series de tiempo de ritmo-distancia (400m a 21.1km) para la detección y cuantificación de brechas fisiológicas y la prescripción de ritmos en triatlones de mediana y larga distancia, basado en las desviaciones observadas entre la telemetría, medidas de tendencia central (+1.8k competidores) y _outliers_ de cada grupo de edad.
-{: style="margin-bottom: 0;"}
-* Análisis exploratorio de la variabilidad estadística según variables contextuales como clima, altimetría del circuito y transiciones.
+* **Proyecto Ancla › _Analítica Telemétrica para running en Triatlón_:** Modelado de datos telemétricos de running mediante ajuste de funciones a series de tiempo de ritmo-distancia (400m a 21.1km) para la cuantificación de brechas fisiológicas y la prescripción de ritmos en triatlones de mediana y larga distancia, basado en las desviaciones observadas entre la telemetría, las medidas de tendencia central (+1.8k competidores) y outliers de cada grupo de edad. Análisis exploratorio de la variabilidad estadística según variables contextuales (clima, altimetría del circuito y transiciones).
+* Otros Proyectos/Servicios:
+  * Diseño de arquitecturas de información y bases de datos relacionales en Notion (notion.site).
+  * Documentación técnica de sistemas mediante Markdown y control de versiones mediante Git.
+  * Construcción de backlog/changelog para gestión de conocimiento empresarial.
 
 **Finanzas Descentralizadas y Protocolos Web3 (_en colaboración con [tododecripto.com](https://www.tododecripto.com)_)  
 Especialista en Operaciones _On-Chain_ e Infraestructura Distribuida  
