@@ -102,8 +102,8 @@ Enero 2014 – Marzo 2014 / Salamanca, Región de Coquimbo**
 
 ## Competencias Tecnológicas  
 
-_Stack_ de herramientas, metodologías y filosofías orientado a articular la convergencia estratégica entre infraestructura heredada (_legacy_) y entornos de analítica avanzada, arquitectura de datos y gobernanza corporativa.
-{: style="margin-bottom: 0;"}
+_Stack_ de herramientas, metodologías y filosofías orientado a articular la convergencia estratégica entre infraestructura heredada (_legacy_) y entornos de analítica avanzada, arquitectura de datos y gobernanza corporativa.  
+{: style="margin-bottom: 0.5;"}
 * **Ingeniería de Datos**  
 Arquitectura de Metadatos · ETL/ELT · Diseño OLTP/OLAP · Modelado Geoespacial (.gpx, .fit, .kmz)  
 * **Optimización, Analítica & Series de Tiempo**  
