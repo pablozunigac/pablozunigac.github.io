@@ -8,7 +8,8 @@
 ---
 
 **Ingeniero Civil Industrial – Pontificia Universidad Católica de Valparaíso**  
-<b><a href="mailto:pablo.zuniga.c@gmail.com" style="color: #2B64CF; text-decoration: none;">pablo.zuniga.c@gmail.com · Región Metropolitana, Chile</a></b>
+<b><aRegión Metropolitana, Chile</a></b>
+<b><a href="mailto:pablo.zuniga.c@gmail.com" style="color: #2B64CF; text-decoration: none;">pablo.zuniga.c@gmail.com</a></b>
 
 
 ## Perfil Profesional  
@@ -154,5 +155,5 @@ Expositor Técnico – Curso: Análisis Financiero de Títulos de Renta Variable
 
 ---
 
-**Última Actualización:** <span id="timestamp">30-07-2026, 06:19 UTC</span>  
+**Última Actualización:** <span id="timestamp">29-07-2026, 22:58 UTC</span>  
 **© 2026 Pablo Zúñiga Carvajal.** Todos los derechos reservados.  
