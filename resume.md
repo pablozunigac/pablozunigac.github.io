@@ -113,7 +113,35 @@ SQL · VBA (Microsoft Excel) · REST API · Programación Orientada a Objetos (O
 Microsoft Azure · Git · macOS/Windows · Notion (Incluye: Relaciones, Rollups, Fórmulas y Arrays)  
 * **Documentación Técnica**  
 Markdown · LaTeX · HTML/CSS
-{: style="margin-top: 0; padding-top: 0;"}
+
+---
+
+## Competencias Tecnológicas
+
+*Stack de herramientas, metodologías y filosofías orientado a articular la convergencia estratégica entre infraestructura heredada (legacy) y entornos de analítica avanzada, arquitectura de datos y gobernanza corporativa.*
+
+<ul style="margin-top: 0.5em; padding-left: 1.2em;">
+  <li style="margin-bottom: 0.5em;">
+    <strong>Ingeniería de Datos</strong><br>
+    Arquitectura de Metadatos · ETL/ELT · Diseño OLTP/OLAP · Modelado Geoespacial (.gpx, .fit, .kmz)
+  </li>
+  <li style="margin-bottom: 0.5em;">
+    <strong>Optimización, Analítica &amp; Series de Tiempo</strong><br>
+    Python · R · Modelado Estadístico e Inferencial · Series de Tiempo · Programación Lineal y Entera (LINGO, LINDO) · Simulación Montecarlo (@RISK, Crystal Ball)
+  </li>
+  <li style="margin-bottom: 0.5em;">
+    <strong>Desarrollo de Sistemas &amp; Procesos de Negocio</strong><br>
+    SQL · VBA (Microsoft Excel) · REST API · Programación Orientada a Objetos (OOP) · BPMN · UML
+  </li>
+  <li style="margin-bottom: 0.5em;">
+    <strong>Ecosistemas &amp; Infraestructura</strong><br>
+    Microsoft Azure · Git · macOS/Windows · Notion (Incluye: Relaciones, Rollups, Fórmulas y Arrays)
+  </li>
+  <li style="margin-bottom: 0.5em;">
+    <strong>Documentación Técnica</strong><br>
+    Markdown · LaTeX · HTML/CSS
+  </li>
+</ul>
 
 ---
 
