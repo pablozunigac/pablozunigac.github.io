@@ -44,7 +44,7 @@ Julio 2022 – Presente / Región de Valparaíso**
 {: style="margin-bottom: 0;"}
 * Modelado de datos telemétricos de running mediante ajuste de funciones a series de tiempo de ritmo-distancia (400m a 21.1km) para la detección y cuantificación de brechas fisiológicas y la prescripción de ritmos en triatlones de mediana y larga distancia, basado en las desviaciones observadas entre la telemetría, medidas de tendencia central (+1.8k competidores) y _outliers_ de cada grupo de edad.
 {: style="margin-bottom: 0;"}
-* Análisis exploratorio de la variabilidad estadística según variables contextuales como clima, altimetría del circuito y transiciones.{: style="margin-bottom: 0;"}
+* Análisis exploratorio de la variabilidad estadística según variables contextuales como clima, altimetría del circuito y transiciones.
 
 **Finanzas Descentralizadas y Protocolos Web3 (_en colaboración con [tododecripto.com](https://www.tododecripto.com)_)  
 Especialista en Operaciones _On-Chain_ e Infraestructura Distribuida  
@@ -120,12 +120,15 @@ Markdown · LaTeX · HTML/CSS
 
 **Pontificia Universidad Católica de Valparaíso   
 Ingeniería Civil Industrial / 2011 – 2017  
-Licenciatura en Ciencias de la Ingeniería / 2016**  
+Licenciatura en Ciencias de la Ingeniería / 2016**
+{: style="margin-bottom: 0;"}
 * Programa integrado de doce semestres con formación en ingeniería de sistemas, análisis cuantitativo, econometría y estadística aplicada. Enfoque en el modelado y análisis de sistemas complejos con especialización en tecnologías de la información y teoría de sistemas.
+{: style="margin-bottom: 0;"}
 * Ayudante académico recurrente en Ingeniería Económica, Sistemas de Información y Matemática Aplicada con énfasis en análisis cuantitativo y herramientas computacionales para la ingeniería, las finanzas y la contabilidad.  
 
 **Pontificia Universidad Católica de Valparaíso   
-Ingeniería Civil / 2007 – 2010 (_Estudios Fundamentales_)**  
+Ingeniería Civil / 2007 – 2010 (_Estudios Fundamentales_)**
+{: style="margin-bottom: 0;"}
 * Formación en ciencias básicas de la ingeniería con énfasis en matemática aplicada, herramientas computacionales (MATLAB) y dibujo técnico vectorial en AutoCAD.
 
 ---
@@ -135,12 +138,15 @@ Ingeniería Civil / 2007 – 2010 (_Estudios Fundamentales_)**
 **Pontificia Universidad Católica de Valparaíso – Escuela de Comercio   
 Docente Invitado – Diplomado en Finanzas para la Toma de Decisiones  
 2019 / Valparaíso, Región de Valparaíso**
+{: style="margin-bottom: 0;"}
 * Diseño y relatoría de módulos avanzados de matemática financiera y evaluación de proyectos, enfocados en la utilización de Microsoft Excel para la formulación de flujos de caja, análisis de rentabilidad, cuantificación del riesgo y simulación de escenarios de eficiencia operativa.
 
 **BancoEstado (_en convenio con Universidad Técnica Federico Santa María_)   
 Expositor Técnico – Curso: Análisis Financiero de Títulos de Renta Variable  
 2017, 2019 / Santiago de Chile, Región Metropolitana**
+{: style="margin-bottom: 0;"}
 * Relatoría de programa intensivo en análisis técnico y series de tiempo para la Mesa de Dinero de BancoEstado.
+{: style="margin-bottom: 0;"}
 * Modelado de datos de alta frecuencia (OHLC), calibración de volatilidad y análisis exploratorio para decisiones cuantitativas en entornos financieros dinámicos.  
 
 ---
