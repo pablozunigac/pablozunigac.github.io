@@ -8,7 +8,7 @@
 ---
 
 **Ingeniero Civil Industrial – Pontificia Universidad Católica de Valparaíso**  
-<b><a>Región Metropolitana, Chile href="mailto:pablo.zuniga.c@gmail.com" style="color: #2B64CF; text-decoration: none;">pablo.zuniga.c@gmail.com</a></b>  
+<b>Región Metropolitana, Chile <a href="mailto:pablo.zuniga.c@gmail.com" style="color: #2B64CF; text-decoration: none;">pablo.zuniga.c@gmail.com</a></b>  
 <b><a href="mailto:pablo.zuniga.c@gmail.com" style="color: #2B64CF; text-decoration: none;">pablo.zuniga.c@gmail.com</a></b>
 
 
