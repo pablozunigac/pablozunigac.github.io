@@ -73,13 +73,13 @@ Monitoreo de procesos críticos en faena minera mediante captura, registro y tra
 ## Competencias Tecnológicas  
 
 _Stack_ de herramientas, metodologías y filosofías orientado a articular la convergencia estratégica entre infraestructura heredada (_legacy_) y entornos de analítica avanzada, arquitectura de datos y gobernanza corporativa  
-**Ingeniería de Datos**
+**Ingeniería de Datos**  
 Arquitectura de Metadatos / ETL/ELT / Diseño OLTP/OLAP / Modelado Geoespacial (.gpx, .fit, .kmz)  
-**Optimización, Analítica & Series de Tiempo**
+**Optimización, Analítica & Series de Tiempo**  
 Python / R / Modelado Estadístico e Inferencial / Series de Tiempo / Programación Lineal y Entera (LINGO, LINDO) / Simulación Montecarlo (@RISK, Crystal Ball)  
-**Desarrollo de Sistemas & Procesos de Negocio**
+**Desarrollo de Sistemas & Procesos de Negocio**. 
 SQL / VBA (Microsoft Excel) / REST API / Programación Orientada a Objetos (OOP) / BPMN / UML  
-**Ecosistemas & Infraestructura**
+**Ecosistemas & Infraestructura**. 
 Microsoft Azure / Git / macOS / Windows / Notion (Incluye: Relaciones, Rollups, Fórmulas y Arrays)  
 Documentación Técnica
 Markdown / LaTeX / HTML / CSS
