@@ -40,6 +40,7 @@ Mayo 2026 – Presente [_Consultoría a Demanda_]**
 **Consultoría en Analítica Avanzada y Gestión del Conocimiento  
 Consultor Independiente   
 Julio 2022 – Presente / Región de Valparaíso**
+{: style="margin-bottom: 0;"}
 * **Proyecto Ancla › _Analítica Telemétrica para running en Triatlón_:** Modelado de datos telemétricos de running mediante ajuste de funciones a series de tiempo de ritmo-distancia (400m a 21.1km) para la cuantificación de brechas fisiológicas y la prescripción de ritmos en triatlones de mediana y larga distancia, basado en las desviaciones observadas entre la telemetría, las medidas de tendencia central (+1.8k competidores) y outliers de cada grupo de edad. Análisis exploratorio de la variabilidad estadística según variables contextuales (clima, altimetría del circuito y transiciones).
 * **Otros Proyectos/Servicios:**
   * Diseño de arquitecturas de información y bases de datos relacionales en Notion ([notion.site](https://www.notion.com/product/sites)).
