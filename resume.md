@@ -86,15 +86,15 @@ Enero 2014 – Marzo 2014 / Salamanca, Región de Coquimbo**
 
 _Stack_ de herramientas, metodologías y filosofías orientado a articular la convergencia estratégica entre infraestructura heredada (_legacy_) y entornos de analítica avanzada, arquitectura de datos y gobernanza corporativa  
 * **Ingeniería de Datos**  
-Arquitectura de Metadatos / ETL/ELT / Diseño OLTP/OLAP / Modelado Geoespacial (.gpx, .fit, .kmz)  
+Arquitectura de Metadatos · ETL/ELT · Diseño OLTP/OLAP · Modelado Geoespacial (.gpx, .fit, .kmz)  
 * **Optimización, Analítica & Series de Tiempo**  
-Python / R / Modelado Estadístico e Inferencial / Series de Tiempo / Programación Lineal y Entera (LINGO, LINDO) / Simulación Montecarlo (@RISK, Crystal Ball)  
+Python · R · Modelado Estadístico e Inferencial · Series de Tiempo · Programación Lineal y Entera (LINGO, LINDO) · Simulación Montecarlo (@RISK, Crystal Ball)  
 * **Desarrollo de Sistemas & Procesos de Negocio**  
-SQL / VBA (Microsoft Excel) / REST API / Programación Orientada a Objetos (OOP) / BPMN / UML  
+SQL · VBA (Microsoft Excel) · REST API · Programación Orientada a Objetos (OOP) · BPMN · UML  
 * **Ecosistemas & Infraestructura**  
-Microsoft Azure / Git / macOS / Windows / Notion (Incluye: Relaciones, Rollups, Fórmulas y Arrays)  
+Microsoft Azure · Git · macOS/Windows · Notion (Incluye: Relaciones, Rollups, Fórmulas y Arrays)  
 * **Documentación Técnica**  
-Markdown / LaTeX / HTML / CSS
+Markdown · LaTeX · HTML/CSS
 
 ---
 
@@ -116,13 +116,14 @@ Ingeniería Civil / 2007 – 2010 (_Estudios Fundamentales_)**
 
 **Pontificia Universidad Católica de Valparaíso – Escuela de Comercio   
 Docente Invitado – Diplomado en Finanzas para la Toma de Decisiones  
-2019 / Valparaíso, Región de Valparaíso**  
-Diseño y relatoría de módulos avanzados de matemática financiera y evaluación de proyectos, enfocados en la utilización de Microsoft Excel para la formulación de flujos de caja, análisis de rentabilidad, cuantificación del riesgo y simulación de escenarios de eficiencia operativa.
+2019 / Valparaíso, Región de Valparaíso**
+* Diseño y relatoría de módulos avanzados de matemática financiera y evaluación de proyectos, enfocados en la utilización de Microsoft Excel para la formulación de flujos de caja, análisis de rentabilidad, cuantificación del riesgo y simulación de escenarios de eficiencia operativa.
 
 **BancoEstado (_en convenio con Universidad Técnica Federico Santa María_)   
 Expositor Técnico – Curso: Análisis Financiero de Títulos de Renta Variable  
-2017, 2019 / Santiago de Chile, Región Metropolitana**  
-Relatoría de programa intensivo en análisis técnico y series de tiempo para la Mesa de Dinero de BancoEstado. Modelado de datos de alta frecuencia (OHLC), calibración de volatilidad y análisis exploratorio para decisiones cuantitativas en entornos financieros dinámicos.  
+2017, 2019 / Santiago de Chile, Región Metropolitana**
+* Relatoría de programa intensivo en análisis técnico y series de tiempo para la Mesa de Dinero de BancoEstado.
+* Modelado de datos de alta frecuencia (OHLC), calibración de volatilidad y análisis exploratorio para decisiones cuantitativas en entornos financieros dinámicos.  
 
 ---
 
