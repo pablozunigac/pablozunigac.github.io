@@ -57,7 +57,7 @@ Enero 2020 – Julio 2022 / Remoto**
 
 **Pontificia Universidad Católica de Valparaíso  (_en asociación con la Escuela de Negocios de la UAI_)   
 Consultor de Datos y Docente Adjunto [_Ejecución por Proyectos_]
-Agosto 2018 – Junio 2021 / Región Metropolitana – Región de Valparaíso**
+Agosto 2018 – Junio 2021 / Región de Valparaíso**
 {: style="margin-bottom: 0;"}
 * Consolidación de fuentes de datos y diseño de _pipelines_ ETL para análisis estadístico exploratorio en entornos académicos, visualización de datos como soporte a decisiones y apoyo docente en la cátedra “_Ciencia de Datos Aplicada_” de Ingeniería Civil Industrial PUCV.
 {: style="margin-bottom: 0;"}
