@@ -29,7 +29,7 @@ Ingeniero Civil Industrial especializado en el diseño, la validación técnica 
 
 **Cuxhaven Labs [_SpA en Formación_]  
 Consultor Principal y Fundador  
-Mayo 2026 – Presente [_Consultoría a Demanda_]**
+Mayo 2026 – Presente [_Consultoría a Demanda_]**  
 {: style="margin-bottom: 0;"}
 * **Arquitectura de Datos y Gobernanza:** Diseño, prueba de concepto (PoC) y validación de flujos ETL/ELT bajo estándares de gobernanza, auditoría y trazabilidad para infraestructura crítica.
 {: style="margin-bottom: 0;"}
