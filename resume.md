@@ -111,7 +111,7 @@ Python · R · Modelado Estadístico e Inferencial · Series de Tiempo · Progra
 * **Desarrollo de Sistemas & Procesos de Negocio**  
 SQL · VBA (Microsoft Excel) · REST API · Programación Orientada a Objetos (OOP) · BPMN · UML  
 * **Ecosistemas & Infraestructura**  
-Microsoft Azure · Git · macOS/Windows · Notion (Incluye: Relaciones, Rollups, Fórmulas y Arrays)  
+Microsoft Azure · Git · macOS/Windows · Notion (Incluye: Relaciones, _Rollups_, Fórmulas y _Arrays_)  
 * **Documentación Técnica**  
 Markdown · LaTeX · HTML/CSS
 
