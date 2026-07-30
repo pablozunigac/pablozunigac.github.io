@@ -106,12 +106,12 @@ _Stack_ de herramientas, metodologías y filosofías de trabajo orientado a la c
 {: style="margin-bottom: 6px;"}
 * **Ingeniería de Datos**  
 Arquitectura de Metadatos · ETL/ELT · Diseño OLTP/OLAP · Modelado Geoespacial (.gpx, .fit, .kmz)
-* **Optimización, Analítica y Series de Tiempo**  
+* **Optimización y Analítica Avanzada**
 Python · R · Modelado Estadístico e Inferencial · Series de Tiempo · Programación Lineal y Entera (Solver, LINGO, LINDO) · Simulación Montecarlo (@RISK, Crystal Ball)
 * **Desarrollo de Sistemas y Procesos de Negocio**  
 SQL · VBA (Microsoft Excel) · REST API · Programación Orientada a Objetos (OOP) · BPMN · UML  
 * **Ecosistemas e Infraestructura**  
-Microsoft Azure · Git/GitHub · macOS/Windows · Notion (_rollups_, _arrays_ y Fórmulas 2.0)  
+macOS/Windows · Git/GitHub · Microsoft Azure · Notion (_rollups_, _arrays_ y Fórmulas 2.0)  
 * **Documentación Técnica**  
 Markdown · LaTeX · HTML/CSS
 
