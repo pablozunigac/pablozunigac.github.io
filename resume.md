@@ -38,37 +38,47 @@ Mayo 2026 – Presente [_Consultoría a Demanda_]**
 **Servicios de Consultoría en Analítica Avanzada  
 Consultor de Sistemas Cuantitativos  
 Julio 2022 – Presente / Región de Valparaíso**  
-**[_Proyecto Ancla_]** Modelado de datos telemétricos de running mediante ajuste de funciones a series de tiempo de ritmo-distancia (400m a 21.1km) para la detección y cuantificación de brechas fisiológicas y la prescripción de ritmos en triatlones de mediana y larga distancia, basado en las desviaciones observadas entre la telemetría, medidas de tendencia central (+1.8k competidores) y _outliers_ de cada grupo de edad. Análisis exploratorio de la variabilidad estadística según variables contextuales como clima, altimetría del circuito y transiciones. 
+**[_Proyecto Ancla_] › _Analítica Telemétrica para running en Triatlón_**  
+* Modelado de datos telemétricos de running mediante ajuste de funciones a series de tiempo de ritmo-distancia (400m a 21.1km) para la detección y cuantificación de brechas fisiológicas y la prescripción de ritmos en triatlones de mediana y larga distancia, basado en las desviaciones observadas entre la telemetría, medidas de tendencia central (+1.8k competidores) y _outliers_ de cada grupo de edad.
+* Análisis exploratorio de la variabilidad estadística según variables contextuales como clima, altimetría del circuito y transiciones. 
 
 **Finanzas Descentralizadas y Protocolos Web3 (_en colaboración con [tododecripto.com](https://www.tododecripto.com)_)  
 Especialista en Operaciones _On-Chain_ e Infraestructura Distribuida  
 Enero 2020 – Julio 2022 / Remoto**  
-Gestión y trazabilidad de tesorerías (USD $10k–50k+) bajo custodia _DeFi_ (MetaMask, Ledger, DEX) sobre _relay-chains_/_parachains_ de Polkadot/Kusama y redes Bitcoin, ERC-20 y BSC. Gestión de _gas fees_, ejecución de _intra/cross-chain swaps_ y sobrescritura de _nonces_. Coordinación de _smart contracts_ para el uso de NFTs en servidores de Minecraft (~1.1k usuarios) y redacción técnica de contenido web para tododecripto.com sobre arquitectura _blockchain_, _parachains_ y gobernanza Web3.  
+* Gestión y trazabilidad de tesorerías (USD $10k–50k+) bajo custodia _DeFi_ (MetaMask, Ledger, DEX) sobre _relay-chains_/_parachains_ de Polkadot/Kusama y redes Bitcoin, ERC-20 y BSC. Gestión de _gas fees_, ejecución de _intra/cross-chain swaps_ y sobrescritura de _nonces_.
+* Coordinación de _smart contracts_ para el uso de NFTs en servidores de Minecraft (~1.1k usuarios) y redacción técnica de contenido web para tododecripto.com sobre arquitectura _blockchain_, _parachains_ y gobernanza Web3.  
 
 **Pontificia Universidad Católica de Valparaíso  (_en asociación con la Escuela de Negocios de la UAI_)   
 Consultor de Datos y Docente Adjunto  
 Agosto 2018 – Junio 2021 (Bajo Demanda) / Región Metropolitana – Región de Valparaíso**  
-Consolidación de fuentes de datos y diseño de _pipelines_ ETL para análisis estadístico exploratorio en entornos académicos, la visualización de datos como soporte a decisiones y apoyo docente en la cátedra “_Ciencia de Datos Aplicada_”. Asesoría en proyectos finales de pregrado, modelado de datos, estructuras lógicas y automatización de flujos de información en contextos educativos y analíticos. Asesor técnico, editor de material académico y expositor internacional.  
+* Consolidación de fuentes de datos y diseño de _pipelines_ ETL para análisis estadístico exploratorio en entornos académicos, la visualización de datos como soporte a decisiones y apoyo docente en la cátedra “_Ciencia de Datos Aplicada_”.
+* Asesoría en proyectos finales de pregrado, modelado de datos, estructuras lógicas y automatización de flujos de información en contextos educativos y analíticos.
+* Asesor técnico, editor de material académico y expositor internacional.  
 
 **Banco de Crédito e Inversiones (Bci) – Gerencia Corporativa de Data & Analytics – Gobierno de Datos  
 Ingeniero de Procesos   
 Mayo 2019 – Septiembre 2019 / Las Condes, Región Metropolitana**  
-Orquestación de _pipelines_ para la integración de metadatos desde sistemas operacionales hacia repositorios de gobierno de datos en Microsoft Azure, respaldada por modelado de flujos y estandarización BPMN. Fiscalización de arquitecturas de datos en entornos financieros regulados, asegurando la consistencia, calidad y control de acceso en la gestión de la información institucional.  
+* Orquestación de _pipelines_ para la integración de metadatos desde sistemas operacionales hacia repositorios de gobierno de datos en Microsoft Azure, respaldada por modelado de flujos y estandarización BPMN.
+* Fiscalización de arquitecturas de datos en entornos financieros regulados, asegurando la consistencia, calidad y control de acceso en la gestión de la información institucional.  
 
 **ESVAL – Departamento de Gestión de Redes   
 Líder de Proyecto (_Proyecto de Título_)  
 Julio 2017 – Diciembre 2017 / Viña del Mar, Región de Valparaíso**  
-Liderazgo en el proyecto de modelado estadístico mediante _software_ para la red de agua potable de la Región de Valparaíso, incluyendo el diseño y el desarrollo de un modelo espaciotemporal de riesgos mediante regresión de Cox en R sobre una red de 5,300 km (+1.9M de usuarios) de extensión. Coordinación bajo estándar PMO y ejecución mediante metodologías ágiles (Kanban, SCRUM) para la generación de métricas que soportan el mantenimiento de la red de agua potable de la región.  
+* Liderazgo en el proyecto de modelado estadístico mediante _software_ para la red de agua potable de la Región de Valparaíso, incluyendo el diseño y el desarrollo de un modelo espaciotemporal de riesgos mediante regresión de Cox en R sobre una red de 5,300 km (+1.9M de usuarios) de extensión.
+* Coordinación bajo estándar PMO y ejecución mediante metodologías ágiles (Kanban, SCRUM) para la generación de métricas que soportan el mantenimiento de la red de agua potable de la región.  
 
 **Empresa Nacional de Minería (ENAMI) – División de Finanzas y Administración  
 Práctica Profesional de Ingeniería  
 Enero 2016 – Marzo 2016 / Región Metropolitana – Región de Atacama**  
-Análisis exploratorio, consolidación de datos sobre +75k SKUs minero-metalúrgicos e identificación de USD $2.5M en inconsistencias de inventario para procesos de auditoría y control financiero. Diseño de estructuras de almacenamiento para la cadena de abastecimiento de la Fundición Hernán Videla Lira y despliegues gráficos en AutoCAD para la gestión del inventario nacional.  
+* Análisis exploratorio, consolidación de datos sobre +75k SKUs minero-metalúrgicos e identificación de USD $2.5M en inconsistencias de inventario para procesos de auditoría y control financiero.
+* Diseño de estructuras de almacenamiento para la cadena de abastecimiento de la Fundición Hernán Videla Lira y despliegues gráficos en AutoCAD para la gestión del inventario nacional.  
 
 **Antofagasta Minerals – Minera Los Pelambres – Superintendencia de Geotecnia  
 Práctica de Ingeniería   
 Enero 2014 – Marzo 2014 / Salamanca, Región de Coquimbo**  
-Monitoreo de procesos críticos en faena minera mediante captura, registro y trazabilidad de datos. Consolidación de información de inspecciones y sistemas automatizados para la detección temprana de riesgos y desviaciones. Elaboración de informes y registros históricos para control de procesos, continuidad operacional y apoyo a decisiones en infraestructura crítica.  
+* Monitoreo de procesos críticos en faena minera mediante captura, registro y trazabilidad de datos.
+* Consolidación de información de inspecciones y sistemas automatizados para la detección temprana de riesgos y desviaciones.
+* Elaboración de informes y registros históricos para control de procesos, continuidad operacional y apoyo a decisiones en infraestructura crítica.  
 
 ---
 
@@ -93,12 +103,12 @@ Markdown / LaTeX / HTML / CSS
 **Pontificia Universidad Católica de Valparaíso   
 Ingeniería Civil Industrial / 2011 – 2017  
 Licenciatura en Ciencias de la Ingeniería / 2016**  
-Programa integrado de doce semestres con formación en ingeniería de sistemas, análisis cuantitativo, econometría y estadística aplicada. Enfoque en el modelado y análisis de sistemas complejos con especialización en tecnologías de la información y teoría de sistemas.
-Ayudante académico recurrente en Ingeniería Económica, Sistemas de Información y Matemática Aplicada con énfasis en análisis cuantitativo y herramientas computacionales para la ingeniería, las finanzas y la contabilidad.  
+* Programa integrado de doce semestres con formación en ingeniería de sistemas, análisis cuantitativo, econometría y estadística aplicada. Enfoque en el modelado y análisis de sistemas complejos con especialización en tecnologías de la información y teoría de sistemas.
+* Ayudante académico recurrente en Ingeniería Económica, Sistemas de Información y Matemática Aplicada con énfasis en análisis cuantitativo y herramientas computacionales para la ingeniería, las finanzas y la contabilidad.  
 
 **Pontificia Universidad Católica de Valparaíso   
 Ingeniería Civil / 2007 – 2010 (_Estudios Fundamentales_)**  
-Formación en ciencias básicas de la ingeniería con énfasis en matemática aplicada, herramientas computacionales (MATLAB) y dibujo técnico vectorial en AutoCAD.
+* Formación en ciencias básicas de la ingeniería con énfasis en matemática aplicada, herramientas computacionales (MATLAB) y dibujo técnico vectorial en AutoCAD.
 
 ---
 
