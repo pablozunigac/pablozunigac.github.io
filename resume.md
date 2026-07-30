@@ -27,8 +27,8 @@ Ingeniero Civil Industrial especializado en el diseño, la validación técnica 
   
 ## Experiencias Clave  
 
-**Cuxhaven Labs [_SpA en Formación_]
-Consultor Principal y Fundador 
+**Cuxhaven Labs [_SpA en Formación_]  
+Consultor Principal y Fundador   
 Mayo 2026 – Presente [_Consultoría a Demanda_]**
 {: style="margin-bottom: 0;"}
 * **Arquitectura de Datos y Gobernanza:** Diseño, prueba de concepto (PoC) y validación de flujos ETL/ELT bajo estándares de gobernanza, auditoría y trazabilidad para infraestructura crítica.
@@ -37,12 +37,12 @@ Mayo 2026 – Presente [_Consultoría a Demanda_]**
 {: style="margin-bottom: 0;"}
 * **Auditoría de Sistemas y Metadatos:** Pilotaje para el modelado de ontologías y metadatos, auditorías de deuda técnica e integración de sistemas conceptuales complejos.
 
-**Consultoría en Analítica Avanzada y Gestión del Conocimiento
-Consultor Independiente 
-Julio 2022 – Presente / Región de Valparaíso**  
+**Consultoría en Analítica Avanzada y Gestión del Conocimiento  
+Consultor Independiente   
+Julio 2022 – Presente / Región de Valparaíso**
 * **Proyecto Ancla › _Analítica Telemétrica para running en Triatlón_:** Modelado de datos telemétricos de running mediante ajuste de funciones a series de tiempo de ritmo-distancia (400m a 21.1km) para la cuantificación de brechas fisiológicas y la prescripción de ritmos en triatlones de mediana y larga distancia, basado en las desviaciones observadas entre la telemetría, las medidas de tendencia central (+1.8k competidores) y outliers de cada grupo de edad. Análisis exploratorio de la variabilidad estadística según variables contextuales (clima, altimetría del circuito y transiciones).
-* Otros Proyectos/Servicios:
-  * Diseño de arquitecturas de información y bases de datos relacionales en Notion (notion.site).
+* **Otros Proyectos/Servicios:**
+  * Diseño de arquitecturas de información y bases de datos relacionales en Notion ([notion.site](https://www.notion.com/product/sites)).
   * Documentación técnica de sistemas mediante Markdown y control de versiones mediante Git.
   * Construcción de backlog/changelog para gestión de conocimiento empresarial.
 
