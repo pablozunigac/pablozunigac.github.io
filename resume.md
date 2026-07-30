@@ -7,9 +7,8 @@
 
 ---
 
-**Ingeniero Civil Industrial**  
-**Pontificia Universidad Católica de Valparaíso**  
-<b><a href="mailto:pablo.zuniga.c@gmail.com" style="color: #2B64CF; text-decoration: none;">pablo.zuniga.c@gmail.com</a></b>
+**Ingeniero Civil Industrial – Pontificia Universidad Católica de Valparaíso**  
+<b><a href="mailto:pablo.zuniga.c@gmail.com" style="color: #2B64CF; text-decoration: none;">pablo.zuniga.c@gmail.com · Región Metropolitana, Chile</a></b>
 
 
 ## Perfil Profesional  
@@ -29,7 +28,7 @@ Ingeniero Civil Industrial especializado en el diseño, la validación técnica 
 
 **Cuxhaven Labs [_SpA en Formación_]  
 Consultor Principal y Fundador  
-Mayo 2026 – Presente [_Consultoría a Demanda_]**  
+Mayo 2026 – Presente / Remoto – Región de Valparaíso – Región Metropolitana**  
 {: style="margin-bottom: 0;"}
 * **Arquitectura de Datos y Gobernanza:** Diseño, prueba de concepto (PoC) y validación de flujos ETL/ELT bajo estándares de gobernanza, auditoría y trazabilidad para infraestructura crítica.
 {: style="margin-bottom: 0;"}
@@ -39,7 +38,7 @@ Mayo 2026 – Presente [_Consultoría a Demanda_]**
 
 **Consultoría en Analítica Avanzada y Gestión del Conocimiento  
 Consultor Independiente   
-Julio 2022 – Presente / Región de Valparaíso**  
+Julio 2022 – Presente / Remoto – Región de Valparaíso – Región Metropolitana**  
 {: style="margin-bottom: 0;"}  
 * **Proyecto Ancla › _Analítica Telemétrica para running en Triatlón_:** Modelado de datos telemétricos de running mediante ajuste de funciones a series de tiempo de ritmo-distancia (400m a 21.1km) para la cuantificación de brechas fisiológicas y la prescripción de ritmos en triatlones de mediana y larga distancia, basado en las desviaciones observadas entre la telemetría, las medidas de tendencia central (+1.8k competidores) y outliers de cada grupo de edad. Análisis exploratorio de la variabilidad estadística según variables contextuales (clima, altimetría del circuito y transiciones).
 * **Otros Proyectos/Servicios:**
@@ -56,7 +55,7 @@ Enero 2020 – Julio 2022 / Remoto**
 * Coordinación de _smart contracts_ para el uso de NFTs en servidores de Minecraft (~1.1k usuarios) y redacción técnica de contenido web para tododecripto.com sobre arquitectura _blockchain_, _parachains_ y gobernanza Web3.  
 
 **Pontificia Universidad Católica de Valparaíso  (_en asociación con la Escuela de Negocios de la UAI_)   
-Consultor de Datos y Docente Adjunto [_Bajo Demanda_]  
+Consultor de Datos y Docente Adjunto [_Ejecución por Proyectos_]
 Agosto 2018 – Junio 2021 / Región Metropolitana – Región de Valparaíso**
 {: style="margin-bottom: 0;"}
 * Consolidación de fuentes de datos y diseño de _pipelines_ ETL para análisis estadístico exploratorio en entornos académicos, visualización de datos como soporte a decisiones y apoyo docente en la cátedra “_Ciencia de Datos Aplicada_” de Ingeniería Civil Industrial PUCV.
