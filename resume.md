@@ -7,7 +7,8 @@
     Perfil GitHub ↗</a></b>&nbsp; | &nbsp;
   <b><a href="mailto:pablo.zuniga.c@gmail.com?subject=Contacto%20Profesional" 
         onclick="navigator.clipboard.writeText('pablo.zuniga.c@gmail.com');" 
-        class="nav-link">
+        class="nav-link"
+        lang="es">
     Enviar Correo ↗</a></b>&nbsp; | &nbsp; 
   <b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo" target="_blank">
     Agendar Llamada ↗</a></b>
