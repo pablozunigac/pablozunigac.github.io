@@ -40,7 +40,7 @@ Julio 2022 – Presente / Remoto – Región de Valparaíso – Región Metropol
   * Documentación técnica de sistemas mediante Markdown y control de versiones mediante Git.
   * Construcción de backlog/changelog para gestión de conocimiento empresarial.
 
-**Finanzas Descentralizadas y Protocolos Web3 (_en colaboración con <a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo" >Agendar Llamada ↗</a>_)  
+**Finanzas Descentralizadas y Protocolos Web3 (_en colaboración con_** _<a href="https://www.tododecripto.com" >Agendar Llamada ↗</a>_**)  
 Especialista en Operaciones _On-Chain_ e Infraestructura Distribuida  
 Enero 2020 – Julio 2022 / Remoto**
 {: style="margin-bottom: 0;"}
