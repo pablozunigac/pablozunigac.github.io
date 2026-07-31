@@ -15,7 +15,7 @@ Ingeniero Civil Industrial especializado en el diseño, la validación técnica 
 ---
 
 <p align="center">
-<b><a href="#experiencias-clave">Experiencia</a></b>&nbsp;&nbsp;▪&nbsp;&nbsp;<b><a href="#competencias-tecnológicas">Tecnologías</a></b>&nbsp;&nbsp;·&nbsp;&nbsp;<b><a href="#credenciales-académicas">Educación</a></b>&nbsp;&nbsp;·&nbsp;&nbsp;<b><a href="#docencia-y-divulgación-técnica">Divulgación</a></b>
+<b><a href="#experiencias-clave">Experiencia</a></b>&nbsp;&nbsp;·&nbsp;&nbsp;<b><a href="#competencias-tecnológicas">Tecnologías</a></b>&nbsp;&nbsp;·&nbsp;&nbsp;<b><a href="#credenciales-académicas">Educación</a></b>&nbsp;&nbsp;·&nbsp;&nbsp;<b><a href="#docencia-y-divulgación-técnica">Divulgación</a></b>
 </p>
   
 ## Experiencias Clave  
