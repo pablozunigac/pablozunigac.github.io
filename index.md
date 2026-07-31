@@ -1,13 +1,13 @@
 <p align="center">
-<b><a href="https://pablozunigac.github.io/resume.html">Full Resume (ES)</a></b>&nbsp;&nbsp;|&nbsp;&nbsp;<b><a href="https://github.com/pablozunigac" target="_blank" rel="noopener noreferrer">GitHub Profile ↗</a></b>&nbsp;&nbsp;|&nbsp;&nbsp;<b><a href="mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Contact">Send Email ↗</a></b>&nbsp;&nbsp;|&nbsp;&nbsp;<b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo" target="_blank" rel="noopener noreferrer">Scheduling ↗</a></b>
+<b><a href="https://pablozunigac.github.io/resume.html">Full Resume (ES)</a></b>&nbsp;&nbsp;|&nbsp;&nbsp;<b><a href="https://github.com/pablozunigac" >GitHub Profile ↗</a></b>&nbsp;&nbsp;|&nbsp;&nbsp;<b><a href="mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Contact">Send Email ↗</a></b>&nbsp;&nbsp;|&nbsp;&nbsp;<b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo" >Scheduling ↗</a></b>
 </p>
 
 ---
 
-**Industrial & Systems Engineer – <a href="https://www.pucv.cl/pucv/site/edic/base/portss/universidad.html" target="_blank" rel="noopener noreferrer">
+**Industrial & Systems Engineer – <a href="https://www.pucv.cl/pucv/site/edic/base/portss/universidad.html" >
 Pontifical Catholic University of Valparaíso</a>**  
 **Remote · Based in Chile · Eastern Time Aligned**  
-**Streamlined US Deployment via <a href="https://www.dol.gov/agencies/whd/immigration/h1b1"  target="_blank" rel="noopener noreferrer">H-1B1</a> & <a href="https://cl.usembassy.gov/visa-waiver-program/"  target="_blank" rel="noopener noreferrer">ESTA</a>**
+**Streamlined US Deployment via <a href="https://www.dol.gov/agencies/whd/immigration/h1b1"  >H-1B1</a> & <a href="https://cl.usembassy.gov/visa-waiver-program/"  >ESTA</a>**
 
 ---
 
