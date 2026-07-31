@@ -2,7 +2,12 @@
   <b><a href="https://pablozunigac.github.io">Inicio (EN)</a></b>&nbsp; | &nbsp;
   <b><a href="https://pablozunigac.github.io/CV-Pablo-Zuniga-Carvajal.pdf">Descargar CV (.pdf)</a></b>&nbsp; | &nbsp;
   <b><a href="https://github.com/pablozunigac" target="_blank">Perfil GitHub ↗</a></b>&nbsp; | &nbsp;
-  <b><a href="mailto:pablo.zuniga.c@gmail.com?subject=Hola,%20Pablo" target="_blank">Enviar Correo ↗</a></b>&nbsp; | &nbsp;  
+  <b><a href="mailto:pablo.zuniga.c@gmail.com?subject=Hola,%20Pablo" >Enviar Correo ↗</a></b>&nbsp; | &nbsp; 
+  <b><a href="mailto:pablo.zuniga.c@gmail.com?subject=Consulta%20Profesional" 
+    onclick="navigator.clipboard.writeText('pablo.zuniga.c@gmail.com');" 
+    class="nav-link">
+  Enviar Correo ↗
+  </a></b>&nbsp; | &nbsp; 
   <b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo" target="_blank">Agendar Llamada ↗</a></b>
 </p>
 
