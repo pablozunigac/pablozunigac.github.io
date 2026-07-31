@@ -6,6 +6,8 @@ on:
     branches: [ main, master ]
     paths:
     - 'index.md'
+    - 'resume.md'
+    - 'README.md'
 
 jobs:
   update-timestamp:
