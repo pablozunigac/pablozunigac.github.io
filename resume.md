@@ -31,7 +31,7 @@ Mayo 2026 – Presente / Remoto – Región de Valparaíso – Región Metropoli
 * **Auditoría de Sistemas y Metadatos:** Pilotaje para el modelado de ontologías y metadatos, auditorías de deuda técnica e integración de sistemas conceptuales complejos.
 
 **Consultoría en Analítica Avanzada y Gestión del Conocimiento  
-Consultor Independiente   
+Consultor Independiente  
 Julio 2022 – Presente / Remoto – Región de Valparaíso – Región Metropolitana**  
 {: style="margin-bottom: 0;"}  
 * **Proyecto Ancla › _Analítica Telemétrica para running en Triatlón_:** Modelado de datos telemétricos de running mediante ajuste de funciones a series de tiempo de ritmo-distancia (400m a 21.1km) para la cuantificación de brechas fisiológicas y la prescripción de ritmos en triatlones de mediana y larga distancia, basado en las desviaciones observadas entre la telemetría, las medidas de tendencia central (+1.8k competidores) y outliers de cada grupo de edad. Análisis exploratorio de la variabilidad estadística según variables contextuales (clima, altimetría del circuito y transiciones).
@@ -40,7 +40,7 @@ Julio 2022 – Presente / Remoto – Región de Valparaíso – Región Metropol
   * Documentación técnica de sistemas mediante Markdown y control de versiones mediante Git.
   * Construcción de backlog/changelog para gestión de conocimiento empresarial.
 
-**Finanzas Descentralizadas y Protocolos Web3 (_en colaboración con [tododecripto.com](https://www.tododecripto.com)_)  
+**Finanzas Descentralizadas y Protocolos Web3 (_en colaboración con <a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo" >Agendar Llamada ↗</a>_)  
 Especialista en Operaciones _On-Chain_ e Infraestructura Distribuida  
 Enero 2020 – Julio 2022 / Remoto**
 {: style="margin-bottom: 0;"}
@@ -98,7 +98,7 @@ Enero 2014 – Marzo 2014 / Salamanca, Región de Coquimbo**
 _Stack_ de herramientas, metodologías y filosofías de trabajo orientado a la convergencia estratégica y tecnológica entre infraestructura heredada (_legacy_) y entornos con presencia de analítica avanzada, desarrollo de _software_ y gobernanza corporativa.
 {: style="margin-bottom: 6px;"}
 * **Ingeniería de Datos**  
-Arquitectura de Metadatos · ETL/ELT · Diseño OLTP/OLAP · Modelado Geoespacial (.gpx, .fit, .kmz)
+Arquitectura de Metadatos · ETL/ELT · Modelado Geoespacial (.gpx, .fit, .kmz)
 * **Optimización y Analítica Avanzada**
 Python · R · Modelado Estadístico e Inferencial · Series de Tiempo · Programación Lineal y Entera (Solver, LINGO, LINDO) · Simulación Montecarlo (@RISK, Crystal Ball)
 * **Desarrollo de Sistemas y Procesos de Negocio**  
