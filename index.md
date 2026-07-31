@@ -1,15 +1,19 @@
 <p align="center">
-  <b><a href="https://pablozunigac.github.io/resume.html">Full Resume (ES)</a></b>&nbsp;|&nbsp;
-  <b><a href="https://github.com/pablozunigac" target="_blank">GitHub Profile ↗</a></b>&nbsp;|&nbsp;
-  <b><a href="mailto:pablo.zuniga.c@gmail.com?subject=Hi,%20Pablo" target="_blank">Send Email ↗</a></b>&nbsp; | &nbsp;  
-  <b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo" target="_blank">Scheduling ↗</a></b>
+  <b><a href="https://pablozunigac.github.io/resume.html">
+    Full Resume (ES)</a></b>&nbsp;|&nbsp;
+  <b><a href="https://github.com/pablozunigac" target="_blank">
+    GitHub Profile ↗</a></b>&nbsp;|&nbsp;
+  <b><a href="mailto:pablo.zuniga.c@gmail.com?subject=Hi,%20Pablo">
+    Send Email ↗</a></b>&nbsp; | &nbsp;  
+  <b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo" target="_blank">
+    Scheduling ↗</a></b>
 </p>
 
 ---
 
 **Industrial & Systems Engineer – [Pontifical Catholic University of Valparaíso](https://www.pucv.cl/pucv/site/edic/base/port/universidad.html)**  
 **Remote · Based in Chile · Eastern Time Aligned**  
-**Streamlined US Deployment via <a href="https://www.dol.gov/agencies/whd/immigration/h1b1" target="_blank" rel="noopener noreferrer">H-1B1</a> & <a href="https://cl.usembassy.gov/visa-waiver-program/" target="_blank" rel="noopener noreferrer">ESTA</a>**
+**Streamlined US Deployment via <a href="https://www.dol.gov/agencies/whd/immigration/h1b1">H-1B1</a> & <a href="https://cl.usembassy.gov/visa-waiver-program/">ESTA</a>**
 
 ---
 
@@ -80,4 +84,3 @@ To ensure efficient coordination and immediate access to my ecosystem, I leverag
   <!-- colores:
          negro: #383838
          verde: #b7bf5c -->
-
