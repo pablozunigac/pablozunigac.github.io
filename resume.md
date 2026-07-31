@@ -7,6 +7,7 @@
         class="nav-link">
   Enviar Correo ↗
   </a></b>&nbsp; | &nbsp; 
+  <b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo" target="_blank">Agendar Llamada ↗</a></b>
 
 ---
 
