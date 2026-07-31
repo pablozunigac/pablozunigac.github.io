@@ -2,9 +2,9 @@
   <b><a href="https://pablozunigac.github.io/resume.html">
     Full Resume (ES)</a></b>&nbsp;|&nbsp;
   <b><a href="https://github.com/pablozunigac" target="_blank" rel="noopener noreferrer">
-    GitHub Profile ↗</a></b>&nbsp;|&nbsp;  
+    GitHub Profile ↗</a></b>&nbsp;|&nbsp;
   <b><a href="mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Contact">
-    Send Email ↗</a></b>&nbsp; | &nbsp; 
+    Send Email ↗</a></b>&nbsp; | &nbsp;
   <b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo" target="_blank" rel="noopener noreferrer">
     Scheduling ↗</a></b>
 </p>
