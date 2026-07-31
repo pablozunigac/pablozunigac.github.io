@@ -36,11 +36,11 @@ Julio 2022 – Presente / Remoto – Región de Valparaíso – Región Metropol
 {: style="margin-bottom: 0;"}  
 * **Proyecto Ancla › _Analítica Telemétrica para running en Triatlón_:** Modelado de datos telemétricos de running mediante ajuste de funciones a series de tiempo de ritmo-distancia (400m a 21.1km) para la cuantificación de brechas fisiológicas y la prescripción de ritmos en triatlones de mediana y larga distancia, basado en las desviaciones observadas entre la telemetría, las medidas de tendencia central (+1.8k competidores) y outliers de cada grupo de edad. Análisis exploratorio de la variabilidad estadística según variables contextuales (clima, altimetría del circuito y transiciones).
 * **Otros Proyectos/Servicios:**
-  * Diseño de arquitecturas de información y bases de datos relacionales en Notion ([notion.site](https://www.notion.com/product/sites)).
+  * Diseño de arquitecturas de información y bases de datos relacionales en Notion (_<a href="https://www.notion.com/product/sites">notion.site</a>_).
   * Documentación técnica de sistemas mediante Markdown y control de versiones mediante Git.
   * Construcción de backlog/changelog para gestión de conocimiento empresarial.
 
-**Finanzas Descentralizadas y Protocolos Web3 (_en colaboración con_** _<a href="https://www.tododecripto.com" >tododecripto.com</a>_**)  
+**Finanzas Descentralizadas y Protocolos Web3 (_en colaboración con_** _<a href="https://www.tododecripto.com">tododecripto.com</a>_**)  
 Especialista en Operaciones _On-Chain_ e Infraestructura Distribuida  
 Enero 2020 – Julio 2022 / Remoto**
 {: style="margin-bottom: 0;"}
