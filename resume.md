@@ -34,7 +34,7 @@ Mayo 2026 – Presente / Remoto – Región de Valparaíso – Región Metropoli
 Consultor Independiente  
 Julio 2022 – Presente / Remoto – Región de Valparaíso – Región Metropolitana**  
 {: style="margin-bottom: 0;"}  
-* **Proyecto Ancla › _Analítica Telemétrica para running en Triatlón_:** Modelado de datos telemétricos de running mediante ajuste de funciones a series de tiempo de ritmo-distancia (400m a 21.1km) para la cuantificación de brechas fisiológicas y la prescripción de ritmos en triatlones de mediana y larga distancia, basado en las desviaciones observadas entre la telemetría, las medidas de tendencia central (+1.8k competidores) y outliers de cada grupo de edad. Análisis exploratorio de la variabilidad estadística según variables contextuales (clima, altimetría del circuito y transiciones).
+* **Proyecto Ancla › _Analítica Telemétrica para running en Triatlón_:** Modelado de datos telemétricos de running mediante ajuste de funciones a series de tiempo de ritmo-distancia (**400m a 21.1km**) para la cuantificación de brechas fisiológicas y la prescripción de ritmos en triatlones de mediana y larga distancia, basado en las desviaciones observadas entre la telemetría, las medidas de tendencia central (**+1.8k competidores**) y outliers de cada grupo de edad. Análisis exploratorio de la variabilidad estadística según variables contextuales (clima, altimetría del circuito y transiciones).
 * **Otros Proyectos/Servicios:**
   * Diseño de arquitecturas de información y bases de datos relacionales en Notion (_<a href="https://www.notion.com/product/sites">notion.site</a>_).
   * Documentación técnica de sistemas mediante Markdown y control de versiones mediante Git.
@@ -44,9 +44,9 @@ Julio 2022 – Presente / Remoto – Región de Valparaíso – Región Metropol
 Especialista en Operaciones _On-Chain_ e Infraestructura Distribuida  
 Enero 2020 – Julio 2022 / Remoto**
 {: style="margin-bottom: 0;"}
-* Gestión y trazabilidad de tesorerías (USD $10k–50k+) bajo custodia _DeFi_ (MetaMask, Ledger, _DEX_) sobre _relay-chains_/_parachains_ de Polkadot/Kusama y redes Bitcoin, ERC-20 y BSC. Gestión de _gas fees_, ejecución de _intra/cross-chain swaps_ y sobrescritura de _nonces_.
+* Gestión y trazabilidad de tesorerías (**USD $10k–50k+**) bajo custodia _DeFi_ (MetaMask, Ledger, _DEX_) sobre _relay-chains_/_parachains_ de Polkadot/Kusama y redes Bitcoin, ERC-20 y BSC. Gestión de _gas fees_, ejecución de _intra/cross-chain swaps_ y sobrescritura de _nonces_.
 {: style="margin-bottom: 0;"}
-* Coordinación de _smart contracts_ para el uso de NFTs en servidores de Minecraft (~1.1k usuarios) y redacción técnica de contenido web para tododecripto.com sobre arquitectura _blockchain_, _parachains_ y gobernanza Web3.  
+* Coordinación de _smart contracts_ para el uso de NFTs en servidores de Minecraft (**~1.1k usuarios**) y redacción técnica de contenido web para tododecripto.com sobre arquitectura _blockchain_, _parachains_ y gobernanza Web3.  
 
 **Pontificia Universidad Católica de Valparaíso  (_en asociación con la Escuela de Negocios de la UAI_)   
 Consultor de Datos y Docente Adjunto [_Ejecución por Proyectos_]
@@ -70,7 +70,7 @@ Mayo 2019 – Septiembre 2019 / Las Condes, Región Metropolitana**
 Líder de Proyecto (_Proyecto de Título_)  
 Julio 2017 – Diciembre 2017 / Viña del Mar, Región de Valparaíso**
 {: style="margin-bottom: 0;"}
-* Liderazgo en el proyecto de modelado estadístico mediante _software_ para la red de agua potable de la Región de Valparaíso, incluyendo el desarrollo de un modelo espaciotemporal de riesgos mediante regresión de Cox en R sobre una red de 5,300km (+1.9M de usuarios) de extensión.
+* Liderazgo en el proyecto de modelado estadístico mediante _software_ para la red de agua potable de la Región de Valparaíso, incluyendo el desarrollo de un modelo espaciotemporal de riesgos mediante regresión de Cox en R sobre una red de **5,300km** (**+1.9M de usuarios**) de extensión.
 {: style="margin-bottom: 0;"}
 * Coordinación bajo estándar PMO y ejecución mediante metodologías ágiles (Kanban, SCRUM) para la generación de métricas que soportan el mantenimiento de la red de agua potable de la región.  
 
@@ -78,7 +78,7 @@ Julio 2017 – Diciembre 2017 / Viña del Mar, Región de Valparaíso**
 Práctica Profesional de Ingeniería  
 Enero 2016 – Marzo 2016 / Región Metropolitana – Región de Atacama**
 {: style="margin-bottom: 0;"}
-* Análisis exploratorio y consolidación de datos sobre el inventario minero-metalúrgico nacional (+75k SKUs) e identificación _in situ_ de USD $2.5M en inconsistencias contables para los procesos de auditoría y control financiero de nivel corporativo.
+* Análisis exploratorio y consolidación de datos sobre el inventario minero-metalúrgico nacional (**+75k SKUs**) e identificación _in situ_ de **USD $2.5M** en inconsistencias contables para los procesos de auditoría y control financiero de nivel corporativo.
 {: style="margin-bottom: 0;"}
 * Diseño de estructuras de almacenamiento para la cadena de abastecimiento de la Fundición Hernán Videla Lira y despliegues gráficos en AutoCAD para la gestión del inventario nacional de ENAMI.  
 
