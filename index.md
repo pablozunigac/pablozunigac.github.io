@@ -11,8 +11,7 @@
 
 ---
 
-**Industrial & Systems Engineer – [Pontifical Catholic University of Valparaíso](https://www.pucv.cl/pucv/site/edic/base/port/universidad.html)**  
-**Industrial & Systems Engineer – <a href="https://www.pucv.cl/pucv/site/edic/base/port/universidad.html">Pontifical Catholic University of Valparaíso ↗</a>**
+**Industrial & Systems Engineer – <a href="https://www.pucv.cl/pucv/site/edic/base/port/universidad.html">Pontifical Catholic University of Valparaíso ↗</a>**  
 **Remote · Based in Chile · Eastern Time Aligned**  
 **Streamlined US Deployment via <a href="https://www.dol.gov/agencies/whd/immigration/h1b1">H-1B1</a> & <a href="https://cl.usembassy.gov/visa-waiver-program/">ESTA</a>**
 
