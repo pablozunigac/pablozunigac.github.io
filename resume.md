@@ -1,5 +1,9 @@
 <p align="center">
-<b><a href="https://pablozunigac.github.io">Inicio (EN)</a></b>&nbsp;&nbsp;|&nbsp;&nbsp;<b><a href="https://pablozunigac.github.io/CV-Pablo-Zuniga-Carvajal.pdf">Descargar CV (.pdf)</a></b>&nbsp;&nbsp;|&nbsp;&nbsp;<b><a href="https://github.com/pablozunigac" >Perfil GitHub ↗</a></b>&nbsp;&nbsp;|&nbsp;&nbsp;<b><a href="mailto:pablo.zuniga.c@gmail.com?subject=Contacto%20Profesional">Enviar Correo ↗</a></b>&nbsp;&nbsp;|&nbsp;&nbsp;<b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo" >Agendar Llamada ↗</a></b>
+<b><a href="https://pablozunigac.github.io">Inicio (EN)</a></b>&nbsp;&nbsp;|&nbsp;
+<b><a href="https://pablozunigac.github.io/CV-Pablo-Zuniga-Carvajal.pdf">Descargar CV (.pdf)</a></b>&nbsp;&nbsp;|&nbsp;
+<b><a href="https://github.com/pablozunigac">Perfil GitHub ↗</a></b>&nbsp;&nbsp;|&nbsp;
+<b><a href="mailto:pablo.zuniga.c@gmail.com?subject=Contacto%20Profesional">Enviar Correo ↗</a></b>&nbsp;&nbsp;|&nbsp;
+<b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo" >Agendar Llamada ↗</a></b>
 </p>
 
 ---
