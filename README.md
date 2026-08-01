@@ -13,18 +13,24 @@ Ingeniero Civil Industrial especializado en el diseño, la validación técnica 
 ---
 
 ### Competencias Tecnológicas  
-* **Lenguajes de Programación y Analítica Avanzada**  
-**Herramientas:** Modelado Estadístico e Inferencial · Series de Tiempo · Python · R
 
-* **Ingeniería e Infraestructura de Datos **  
-**Especialidades:** ETL/ELT · Arquitectura de Metadatos · Modelado de Datos
+_Stack_ de herramientas, metodologías y filosofías de trabajo orientado a la convergencia estratégica y tecnológica entre infraestructura heredada (_legacy_) y entornos con presencia de analítica avanzada, desarrollo de _software_ y gobernanza corporativa.
 
-* **Desarrollo de Software y Procesos de Negocios**  
-**Metodologías:** SQL · REST API · OOP · UML · Diagramación BPMN
+**▪ Ingeniería de Datos**
+Arquitectura de Metadatos / ETL/ELT / Modelado Geoespacial (.gpx, .fit, .kmz)
 
-* **Competencias Transversales y Gestión del Conocimiento **  
-**Entornos:** macOS/Windows · Git · Markdown · LaTeX · Notion
-**Idiomas:** Español (Nativo), Inglés (Profesional técnico)
+**▪ Optimización y Analítica Avanzada**
+Python / R / Modelado Estadístico e Inferencial / Series de Tiempo / Programación Lineal y Entera
+(LINGO, LINDO) / Simulación Montecarlo (@RISK, Crystal Ball)
+
+**▪ Desarrollo de Sistemas y Procesos de Negocio**
+SQL / VBA (Microsoft Excel) / REST API / Programación Orientada a Objetos (OOP) / BPMN / UML
+
+**▪ Ecosistemas e Infraestructura**
+macOS / Windows / Microsoft Azure / Git / GitHub / YAML / Notion
+
+**▪ Documentación Técnica**
+Markdown / LaTeX / HTML / CSS
 
 ---
 
