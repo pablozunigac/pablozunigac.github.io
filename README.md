@@ -29,7 +29,7 @@ SQL / VBA (Microsoft Excel) / REST API / Programación Orientada a Objetos (OOP)
 * **Ecosistemas e Infraestructura**  
 macOS / Windows / Microsoft Azure / Git / GitHub / YAML / Notion
 
-**Documentación Técnica**  
+* **Documentación Técnica**  
 Markdown / LaTeX / HTML / CSS
 
 ---
