@@ -17,7 +17,7 @@ Ingeniero Civil Industrial especializado en el diseño, la validación técnica 
 _Stack_ de herramientas, metodologías y filosofías de trabajo orientado a la convergencia estratégica y tecnológica entre infraestructura heredada (_legacy_) y entornos con presencia de analítica avanzada, desarrollo de _software_ y gobernanza corporativa.
 
 **▪ Ingeniería de Datos**  
-&nbsp;Arquitectura de Metadatos / ETL/ELT / Modelado Geoespacial (.gpx, .fit, .kmz)
+    Arquitectura de Metadatos / ETL/ELT / Modelado Geoespacial (.gpx, .fit, .kmz)
 
 **▪ Optimización y Analítica Avanzada**  
   Python / R / Modelado Estadístico e Inferencial / Series de Tiempo / Programación Lineal y Entera
@@ -34,5 +34,5 @@ _Stack_ de herramientas, metodologías y filosofías de trabajo orientado a la c
 
 ---
 
-**Última Actualización:** <span id="timestamp">01-08-2026, 05:21 UTC</span>  
+**Última Actualización:** <span id="timestamp">01-08-2026, 05:20 UTC</span>  
 **© 2026 Pablo Zúñiga Carvajal.** Todos los derechos reservados.
