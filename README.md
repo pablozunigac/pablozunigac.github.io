@@ -23,7 +23,7 @@ Ingeniero Civil Industrial especializado en el diseño, la validación técnica 
 **Metodologías:** SQL · REST API · OOP · UML · Diagramación BPMN
 
 * **Competencias Transversales y Gestión del Conocimiento **  
-**Entornos:** macOS / Windows · Markdown · LaTeX  
+**Entornos:** macOS/Windows · Git · Markdown · LaTeX · Notion
 **Idiomas:** Español (Nativo), Inglés (Profesional técnico)
 
 ---
