@@ -1,8 +1,8 @@
 <p align="center">
-<b><a href="https://pablozunigac.github.io/resume.html" target="_self">Full Resume (ES)</a></b>&nbsp;&nbsp;|&nbsp;
-<b><a href="https://github.com/pablozunigac" target="_self">GitHub Profile ↗</a></b>&nbsp;&nbsp;|&nbsp;
+<b><a href="https://pablozunigac.github.io/resume.html">Full Resume (ES)</a></b>&nbsp;&nbsp;|&nbsp;
+<b><a href="https://github.com/pablozunigac">GitHub Profile ↗</a></b>&nbsp;&nbsp;|&nbsp;
 <b><a href="mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Contact">Send Email ↗</a></b>&nbsp;&nbsp;|&nbsp;
-<b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo" target="_self">Scheduling ↗</a></b>
+<b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo">Scheduling ↗</a></b>
 </p>
 
 ---
