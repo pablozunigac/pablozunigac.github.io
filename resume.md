@@ -19,9 +19,9 @@ Ingeniero Civil Industrial especializado en el diseño, la validación técnica 
 ---
 
 <p align="center">
-<b><a href="#experiencias-clave">Experiencia</a></b>&nbsp;&nbsp;·&nbsp;&nbsp;
-<b><a href="#competencias-tecnológicas">Tecnologías</a></b>&nbsp;&nbsp;·&nbsp;&nbsp;
-<b><a href="#credenciales-académicas">Educación</a></b>&nbsp;&nbsp;·&nbsp;&nbsp;
+<b><a href="#experiencias-clave">Experiencia</a></b>&nbsp;&nbsp;·&nbsp;
+<b><a href="#competencias-tecnológicas">Tecnologías</a></b>&nbsp;&nbsp;·&nbsp;
+<b><a href="#credenciales-académicas">Educación</a></b>&nbsp;&nbsp;·&nbsp;
 <b><a href="#docencia-y-divulgación-técnica">Divulgación</a></b>
 </p>
   
@@ -152,5 +152,5 @@ Expositor Técnico – Curso: Análisis Financiero de Títulos de Renta Variable
 
 ---
 
-**Última Actualización:** <span id="timestamp">01-08-2026, 05:19 UTC</span>  
+**Última Actualización:** <span id="timestamp">01-08-2026, 05:16 UTC</span>  
 **© 2026 Pablo Zúñiga Carvajal.** Todos los derechos reservados.  
