@@ -16,23 +16,23 @@ Ingeniero Civil Industrial especializado en el diseño, la validación técnica 
 
 _Stack_ de herramientas, metodologías y filosofías de trabajo orientado a la convergencia estratégica y tecnológica entre infraestructura heredada (_legacy_) y entornos con presencia de analítica avanzada, desarrollo de _software_ y gobernanza corporativa.
 
-* ** Ingeniería de Datos**
+* **Ingeniería de Datos**
 Arquitectura de Metadatos / ETL/ELT / Modelado Geoespacial (.gpx, .fit, .kmz)
 
-* ** Optimización y Analítica Avanzada**  
+* **Optimización y Analítica Avanzada**  
 Python / R / Modelado Estadístico e Inferencial / Series de Tiempo / Programación Lineal y Entera
 (LINGO, LINDO) / Simulación Montecarlo (@RISK, Crystal Ball)
 
-* ** Desarrollo de Sistemas y Procesos de Negocio**  
+* **Desarrollo de Sistemas y Procesos de Negocio**  
 SQL / VBA (Microsoft Excel) / REST API / Programación Orientada a Objetos (OOP) / BPMN / UML
 
-* ** Ecosistemas e Infraestructura**  
+* **Ecosistemas e Infraestructura**  
 macOS / Windows / Microsoft Azure / Git / GitHub / YAML / Notion
 
-**▪ Documentación Técnica**  
+**Documentación Técnica**  
 Markdown / LaTeX / HTML / CSS
 
 ---
 
-**Última Actualización:** <span id="timestamp">01-08-2026, 05:24 UTC</span>  
+**Última Actualización:** <span id="timestamp">01-08-2026, 05:21 UTC</span>  
 **© 2026 Pablo Zúñiga Carvajal.** Todos los derechos reservados.
