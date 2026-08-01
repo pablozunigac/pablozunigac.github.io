@@ -34,5 +34,5 @@ Markdown / LaTeX / HTML / CSS
 
 ---
 
-**Última Actualización:** <span id="timestamp">31-07-2026, 19:40 UTC</span>  
+**Última Actualización:** <span id="timestamp">01-08-2026, 02:42 UTC</span>  
 **© 2026 Pablo Zúñiga Carvajal.** Todos los derechos reservados.
