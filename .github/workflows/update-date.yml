@@ -33,6 +33,8 @@ jobs:
         CURRENT_DATE=$(date -u +'%d-%m-%Y, %H:%M UTC')
         # Matches the absolute line starting with the prefix and overwrites it completely
         sed -i "s|<span id=\"timestamp\">.*<\/span>|<span id=\"timestamp\">$CURRENT_DATE<\/span>|g" index.md
+        sed -i "s|<span id=\"timestamp\">.*<\/span>|<span id=\"timestamp\">$CURRENT_DATE<\/span>|g" resume.md
+        sed -i "s|<span id=\"timestamp\">.*<\/span>|<span id=\"timestamp\">$CURRENT_DATE<\/span>|g" README.md
 
     - name: Commit and Push Timestamp Changes
       run: |
