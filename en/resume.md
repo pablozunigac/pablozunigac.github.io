@@ -1,4 +1,3 @@
-# PABLO ZÚÑIGA CARVAJAL
 **Valparaíso, Chile • pablo.zuniga.c@gmail.com • [pablozunigac.github.io](https://pablozunigac.github.io)**  
 
 ---
@@ -58,12 +57,14 @@ Git/GitHub, MS Azure, AutoCAD, Web3 Protocols, Markdown, LaTeX, HTML/CSS
 
 **Pontificia Universidad Católica de Valparaíso** | Valparaíso, Chile  
 *B.S. & M.S. Equivalent in Industrial & Systems Engineering* | *2011 – 2017*
-{: style="margin-bottom: 6px;"}
+
 * **Relevant Coursework:** Statistics, Systems Theory, Operations Research, Econometrics, Simulation, Complex Systems Modeling.
 
 ---
 
 ## LEADERSHIP & TEACHING
 
-* **Graduate Teaching Assistant (PUCV):** Instructed Applied Data Science, MIS, and Quantitative Mathematics for 100+ engineering students (2018–2021).
-* **Technical Instructor (BancoEstado / UTFSM):** Delivered time-series analytics and high-frequency financial modeling training to institutional trading desk staff.
+* **Graduate Teaching Assistant (PUCV):**
+Instructed Applied Data Science, MIS, and Quantitative Mathematics for 100+ engineering students (2018–2021).
+* **Technical Instructor (BancoEstado / UTFSM):**
+Delivered time-series analytics and high-frequency financial modeling training to institutional trading desk staff.
