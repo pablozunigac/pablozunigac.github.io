@@ -55,7 +55,7 @@ Enero 2020 – Julio 2022 / Remoto**
 {: style="margin-bottom: 0;"}
 * Coordinación de _smart contracts_ para el uso de NFTs en servidores de Minecraft (**~1.1k usuarios**) y redacción técnica de contenido web para tododecripto.com sobre arquitectura _blockchain_, _parachains_ y gobernanza Web3.  
 
-**Pontificia Universidad Católica de Valparaíso  (_en asociación con la Escuela de Negocios de la UAI_)   
+**Pontificia Universidad Católica de Valparaíso (_en asociación con la Escuela de Negocios de la UAI_)  
 Consultor de Datos y Docente Adjunto [_Ejecución por Proyectos_]
 Agosto 2018 – Junio 2021 / Región de Valparaíso**
 {: style="margin-bottom: 0;"}
@@ -66,14 +66,14 @@ Agosto 2018 – Junio 2021 / Región de Valparaíso**
 * Asesor técnico, editor de material académico y expositor internacional.  
 
 **Banco de Crédito e Inversiones (Bci) – Gerencia Corporativa de Data & Analytics – Gobierno de Datos  
-Ingeniero de Procesos   
+Ingeniero de Procesos  
 Mayo 2019 – Septiembre 2019 / Las Condes, Región Metropolitana**
 {: style="margin-bottom: 0;"}
 * Orquestación de _pipelines_ para la integración de metadatos desde sistemas operacionales hacia repositorios del gobierno de datos en Microsoft Azure, respaldada por modelado de flujos y estandarización BPMN As-is/To-be.
 {: style="margin-bottom: 0;"}
 * Fiscalización de arquitecturas de datos en entornos financieros regulados, asegurando consistencia, calidad y control en el acceso a los procesos de almacenamiento, gestión y uso de la información institucional. 
 
-**ESVAL – Departamento de Gestión de Redes   
+**ESVAL – Departamento de Gestión de Redes  
 Líder de Proyecto (_Proyecto de Título_)  
 Julio 2017 – Diciembre 2017 / Viña del Mar, Región de Valparaíso**
 {: style="margin-bottom: 0;"}
@@ -90,7 +90,7 @@ Enero 2016 – Marzo 2016 / Región Metropolitana – Región de Atacama**
 * Diseño de estructuras de almacenamiento para la cadena de abastecimiento de la Fundición Hernán Videla Lira y despliegues gráficos en AutoCAD para la gestión del inventario nacional de ENAMI.  
 
 **Antofagasta Minerals – Minera Los Pelambres – Superintendencia de Geotecnia  
-Práctica de Ingeniería   
+Práctica de Ingeniería  
 Enero 2014 – Marzo 2014 / Salamanca, Región de Coquimbo**
 {: style="margin-bottom: 0;"}
 * Monitoreo de procesos críticos en faena minera mediante captura, registro y trazabilidad de datos.
@@ -119,7 +119,7 @@ Markdown · LaTeX · HTML/CSS
 
 ## Credenciales Académicas
 
-**Pontificia Universidad Católica de Valparaíso   
+**Pontificia Universidad Católica de Valparaíso  
 Ingeniería Civil Industrial / 2011 – 2017  
 Licenciatura en Ciencias de la Ingeniería / 2016**
 {: style="margin-bottom: 0;"}
@@ -127,7 +127,7 @@ Licenciatura en Ciencias de la Ingeniería / 2016**
 {: style="margin-bottom: 0;"}
 * Ayudante académico recurrente en Ingeniería Económica, Sistemas de Información y Matemática Aplicada con énfasis en análisis cuantitativo y herramientas computacionales para la ingeniería, la contabilidad y las finanzas.
 
-**Pontificia Universidad Católica de Valparaíso   
+**Pontificia Universidad Católica de Valparaíso  
 Ingeniería Civil / 2007 – 2010 (_Estudios Fundamentales_)**
 {: style="margin-bottom: 0;"}
 * Formación en ciencias básicas de la ingeniería con énfasis en matemática aplicada, ciencias básicas, herramientas computacionales (MATLAB) y dibujo técnico vectorial en AutoCAD.
@@ -136,13 +136,13 @@ Ingeniería Civil / 2007 – 2010 (_Estudios Fundamentales_)**
 
 ## Docencia y Divulgación Técnica
 
-**Pontificia Universidad Católica de Valparaíso – Escuela de Comercio   
+**Pontificia Universidad Católica de Valparaíso – Escuela de Comercio  
 Docente Invitado – Diplomado en Finanzas para la Toma de Decisiones  
 2019 / Valparaíso, Región de Valparaíso**
 {: style="margin-bottom: 0;"}
 * Diseño y relatoría de módulos avanzados de matemática financiera y evaluación de proyectos, enfocados en la utilización de Microsoft Excel para la formulación de flujos de caja, análisis de rentabilidad, cuantificación del riesgo y simulación de escenarios de eficiencia operativa.
 
-**BancoEstado (_en convenio con Universidad Técnica Federico Santa María_)   
+**BancoEstado (_en convenio con Universidad Técnica Federico Santa María_)  
 Expositor Técnico – Curso: Análisis Financiero de Títulos de Renta Variable  
 2017, 2019 / Santiago de Chile, Región Metropolitana**
 {: style="margin-bottom: 0;"}
