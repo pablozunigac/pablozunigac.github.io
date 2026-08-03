@@ -7,7 +7,7 @@ on:
     paths:
     - 'README.md'
     - 'index.md'
-    - 'resume.md'
+    - '**/resume.md' # <- Habilita la detección en cualquier nivel de carpetas
 
 jobs:
   update-timestamp:
@@ -29,12 +29,14 @@ jobs:
     - name: Inject Current Date and Time into Markdown
       run: |
         # Fetch current date and time
-        # sed 's/  / /g' removes any double spaces caused by single-digit days
         CURRENT_DATE=$(date -u +'%d-%m-%Y, %H:%M UTC')
-        # Matches the absolute line starting with the prefix and overwrites it completely
+        
+        # 1. Modificar archivos fijos de la raíz
         sed -i "s|<span id=\"timestamp\">.*<\/span>|<span id=\"timestamp\">$CURRENT_DATE<\/span>|g" README.md
         sed -i "s|<span id=\"timestamp\">.*<\/span>|<span id=\"timestamp\">$CURRENT_DATE<\/span>|g" index.md
-        sed -i "s|<span id=\"timestamp\">.*<\/span>|<span id=\"timestamp\">$CURRENT_DATE<\/span>|g" resume.md
+        
+        # 2. Buscar y modificar TODOS los resume.md de forma recursiva en el repo
+        find . -name "resume.md" -exec sed -i "s|<span id=\"timestamp\">.*<\/span>|<span id=\"timestamp\">$CURRENT_DATE<\/span>|g" {} +
 
     - name: Commit and Push Timestamp Changes
       run: |
