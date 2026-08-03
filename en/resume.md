@@ -4,11 +4,11 @@
 
 ## TECHNICAL SKILLS
 
-* **Data Engineering & Architecture:**  
+* **Data Engineering & Architecture**  
 ETL/ELT Pipelines, Metadata Modeling, Enterprise Lineage, Data Governance, SQL, REST APIs
-* **Languages & Analytics:**  
+* **Languages & Analytics**  
 Python, R, Statistical Modeling, Linear Programming
-* **Tools & Infrastructure:**  
+* **Tools & Infrastructure**  
 Git/GitHub, MS Azure, AutoCAD, Web3 Protocols, Markdown, LaTeX, HTML/CSS
 
 ---
@@ -63,7 +63,7 @@ Git/GitHub, MS Azure, AutoCAD, Web3 Protocols, Markdown, LaTeX, HTML/CSS
 
 ## LEADERSHIP & TEACHING
 
-* **Graduate Teaching Assistant (PUCV):**  
+* **Graduate Teaching Assistant (PUCV)**  
 Instructed Applied Data Science, MIS, and Quantitative Mathematics for 100+ engineering students (2018–2021).
-* **Technical Instructor (BancoEstado / UTFSM):**  
+* **Technical Instructor (BancoEstado / UTFSM)**  
 Delivered time-series analytics and high-frequency financial modeling training to institutional trading desk staff.
