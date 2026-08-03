@@ -5,7 +5,7 @@
 ## TECHNICAL SKILLS
 
 * **Data Engineering & Architecture**  
-ETL/ELT Pipelines, Metadata Modeling, Business Process, Data Governance, SQL, REST APIs
+ETL/ELT Pipelines, Metadata Modeling, Business Processes, Data Governance, SQL, REST APIs
 * **Languages & Analytics**  
 Python, R, Statistical Modeling, Linear Programming
 * **Tools & Infrastructure**  
