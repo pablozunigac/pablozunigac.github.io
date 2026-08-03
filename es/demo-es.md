@@ -8,7 +8,7 @@
 
 ---
 
-**Ingeniero Civil Industrial  
+**Ingeniero Civil Industrial  (ES)  
 Pontificia Universidad Católica de Valparaíso  
 Región de Valparaíso, Chile**
 
