@@ -152,10 +152,10 @@ Technical Lecturer – Equity Analytics & Trading Desk Course
 
 ---
 
-**Last Update:** <span id="timestamp">03-08-2026, 05:19 UTC</span>  
+**Last Update:** <span id="timestamp">03-08-2026, 05:27 UTC</span>  
 **© 2026 Pablo Zúñiga Carvajal.** All rights reserved.
 
 ---
 
-**Última Actualización:** <span id="timestamp">03-08-2026, 05:19 UTC</span>  
+**Última Actualización:** <span id="timestamp">03-08-2026, 05:27 UTC</span>  
 **© 2026 Pablo Zúñiga Carvajal.** Todos los derechos reservados.  
