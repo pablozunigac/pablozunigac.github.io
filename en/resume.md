@@ -1,12 +1,11 @@
 # PABLO ZÚÑIGA CARVAJAL
-Valparaíso, Chile • pablo.zuniga.c@gmail.com • [linkedin.com/in/pablozunigac](https://linkedin.com) • [github.com/pablozunigac](https://github.com/pablozunigac) • [pablozunigac.github.io](https://pablozunigac.github.io)
-
+**Valparaíso, Chile • pablo.zuniga.c@gmail.com • [pablozunigac.github.io](https://pablozunigac.github.io)**
 ---
 
 ## TECHNICAL SKILLS
 * **Data Engineering & Architecture:** ETL/ELT Pipelines, Metadata Modeling, Enterprise Lineage, Data Governance, SQL, REST APIs
-* **Languages & Analytics:** Python (Pandas, NumPy, SciPy), R, Time-Series Modeling, Cox Regression, Linear Programming (LINGO)
-* **Tools & Infrastructure:** Git/GitHub, MS Azure, PostgreSQL, AutoCAD, Web3 Protocols, Markdown, LaTeX, HTML/CSS
+* **Languages & Analytics:** Python, R, Time-Series Modeling, Cox Regression, Linear Programming (LINGO)
+* **Tools & Infrastructure:** Git/GitHub, MS Azure, AutoCAD, Web3 Protocols, Markdown, LaTeX, HTML/CSS
 
 ---
 
