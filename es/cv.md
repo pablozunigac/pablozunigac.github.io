@@ -101,33 +101,17 @@ Enero 2014 – Marzo 2014 / Salamanca, Región de Coquimbo**
 
 ---
 
-## Competencias Tecnológicas 1
+## Competencias Tecnológicas
+
 _Stack_ de herramientas, metodologías y filosofías de trabajo orientado a la convergencia estratégica y tecnológica entre infraestructura heredada (_legacy_) y entornos con presencia de analítica avanzada, desarrollo de _software_ y gobernanza corporativa.
 {: style="margin-bottom: 6px;"}
-* **Ingeniería de Datos**  
-Arquitectura de Metadatos • ETL/ELT • Modelado Geoespacial (.gpx, .fit, .kmz)
-* **Optimización y Analítica Avanzada**
-Python • R • Modelado Estadístico e Inferencial • Series de Tiempo • Programación Lineal y Entera (Solver, LINGO, LINDO) • Simulación Montecarlo (@RISK, Crystal Ball)
-* **Desarrollo de Sistemas y Procesos de Negocio**  
-SQL • VBA (Microsoft Excel) • REST API • Programación Orientada a Objetos (OOP) • BPMN • UML  
-* **Ecosistemas e Infraestructura**  
-macOS/Windows • Git/GitHub • Microsoft Azure • Notion (_rollups_, _arrays_ y Fórmulas 2.0)  
-* **Documentación Técnica**  
-Markdown • LaTeX • HTML/CSS
-
----
-
-## Competencias Tecnológicas 1
 
 * **Ingeniería & Arquitectura de Datos**  
 Modelado de Metadatos y Ontologías • ETL/ELT Pipelines • Gobernanza de Datos y Linaje Empresarial • Bases de Datos Relacionales • Procesamiento de Datos Geoespaciales (.gpx, .fit, .kmz) • APIs REST
-
 * **Optimización, Estadística y Analítica Avanzada**  
-Python (Pandas, NumPy, SciPy) • R (Quarto, Tidyverse, Tsibble) • Modelado Estadístico e Inferencial • Análisis de Series de Tiempo • Programación Lineal y Entera (LINGO, LINDO, Solver, What’sBest!) • Simulación Montecarlo y Análisis de Riesgo (@RISK, Crystal Ball)
-
+Python (Pandas, NumPy, SciPy) • R (Quarto, Tidyverse, Tsibble) • Modelado Estadístico e Inferencial • Análisis de Series de Tiempo • Programación Lineal y Entera (LINGO, LINDO, Solver, What’sBest!) • Simulación Monte Carlo y Análisis de Riesgo (@RISK, Crystal Ball)
 * **Desarrollo de Sistemas y Procesos de Negocio**  
 SQL • VBA (Microsoft Excel) • Programación Orientada a Objetos (POO) • Modelado de Procesos (BPMN, UML) • Arquitectura de Información y Motores de Conocimiento (Notion 2.0)
-
 * **Infraestructura, Nube y Herramientas Técnicas**  
 Git/GitHub • Microsoft Azure • Protocolos Distribuidos y Redes (Web3/On-Chain) • Orquestación de Entornos • Documentación Técnica Avanzada (Markdown, LaTeX, HTML/CSS)
 
