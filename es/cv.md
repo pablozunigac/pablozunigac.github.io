@@ -101,7 +101,7 @@ Enero 2014 – Marzo 2014 / Salamanca, Región de Coquimbo**
 
 ---
 
-## Competencias Tecnológicas  
+## Competencias Tecnológicas 1
 _Stack_ de herramientas, metodologías y filosofías de trabajo orientado a la convergencia estratégica y tecnológica entre infraestructura heredada (_legacy_) y entornos con presencia de analítica avanzada, desarrollo de _software_ y gobernanza corporativa.
 {: style="margin-bottom: 6px;"}
 * **Ingeniería de Datos**  
@@ -114,6 +114,22 @@ SQL • VBA (Microsoft Excel) • REST API • Programación Orientada a Objetos
 macOS/Windows • Git/GitHub • Microsoft Azure • Notion (_rollups_, _arrays_ y Fórmulas 2.0)  
 * **Documentación Técnica**  
 Markdown • LaTeX • HTML/CSS
+
+---
+
+## Competencias Tecnológicas 1
+
+* **Ingeniería & Arquitectura de Datos**  
+Modelado de Metadatos y Ontologías • ETL/ELT Pipelines • Gobernanza de Datos y Linaje Empresarial • Bases de Datos Relacionales • Procesamiento de Datos Geoespaciales (.gpx, .fit, .kmz) • APIs REST
+
+* **Optimización, Estadística y Analítica Avanzada**  
+Python (Pandas, NumPy, SciPy) • R (Quarto, Tidyverse, Tsibble) • Modelado Estadístico e Inferencial • Análisis de Series de Tiempo • Programación Lineal y Entera (LINGO, LINDO, Solver, What’sBest!) • Simulación Montecarlo y Análisis de Riesgo (@RISK, Crystal Ball)
+
+* **Desarrollo de Sistemas y Procesos de Negocio**  
+SQL • VBA (Microsoft Excel) • Programación Orientada a Objetos (POO) • Modelado de Procesos (BPMN, UML) • Arquitectura de Información y Motores de Conocimiento (Notion 2.0)
+
+* **Infraestructura, Nube y Herramientas Técnicas**  
+Git/GitHub • Microsoft Azure • Protocolos Distribuidos y Redes (Web3/On-Chain) • Orquestación de Entornos • Documentación Técnica Avanzada (Markdown, LaTeX, HTML/CSS)
 
 ---
 
