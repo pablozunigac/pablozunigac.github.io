@@ -2,7 +2,7 @@
 <b> Ingeniero Civil Industrial  
 Pontificia Universidad Católica de Valparaíso </b>  
 <b><a href="mailto:pablo.zuniga.c@gmail.com">pablo.zuniga.c@gmail.com</a></b>&nbsp; | &nbsp;
-<b><a href="https://pablozunigac.github.io/CV-Pablo-Zuniga-Carvajal.pdf">Descargar CV (.pdf)</a></b>&nbsp; | &nbsp;
+<b><a href="https://pablozunigac.github.io/es/CV-Pablo-Zuniga-Carvajal.pdf">Descargar CV (.pdf)</a></b>&nbsp; | &nbsp;
 <b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo">Agendar Llamada ↗</a></b>
 
 ---
