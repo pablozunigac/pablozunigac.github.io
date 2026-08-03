@@ -1,16 +1,16 @@
-**Valparaíso, Chile • <a href="mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Connection">pablo.zuniga.c@gmail.com</a> • [pablozunigac.github.io](https://pablozunigac.github.io)**  
+**Valparaíso, Chile • <a href="mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Connection">pablo.zuniga.c@gmail.com</a> • [pablozunigac.github.io](https://pablozunigac.github.io) • [Resume (PDF)](https://)**  
 
 ---
 
 ## TECHNICAL SKILLS
 
-* **Data Engineering & Platforms:**  
+* **Data Engineering & Platforms**  
 ETL/ELT Pipelines, Metadata & Ontology Modeling, Data Governance, Enterprise Lineage, Relational Databases, REST APIs
-* **Languages & Core Analytics:**  
+* **Languages & Core Analytics**  
 Python (Pandas, NumPy, SciPy), R, SQL, Statistical & Inferential Modeling, Time-Series Analysis, Optimization & Linear Programming
-* **Infrastructure, Systems & DevOps:**  
+* **Infrastructure, Systems & DevOps**  
 Git/GitHub, Cloud Systems (MS Azure), Distributed Protocols (Web3/On-Chain), Environment Orchestration
-* **Domain Architecture & Methodologies:**  
+* **Domain Architecture & Methodologies**  
 Complex Systems Modeling, BPMN / Process Engineering, Geospatial Data (.gpx, .fit, .kmz), Technical Documentation (Markdown, LaTeX)
 
 ---
