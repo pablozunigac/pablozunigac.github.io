@@ -5,20 +5,17 @@ pablo.zuniga.c@gmail.com**
 
 ---
 
-<details open>
 <summary><b>🇬🇧 English</b></summary>
 
-<br>
-
-> ### Knowledge Systems Architecture
-> *Designing the underlying structures that make complex work coherent, navigable, and executable. I build governance frameworks, information architectures, and operational systems that reduce coordination friction, improve decision quality, and preserve systemic integrity under conditions of scale, complexity, and ambiguity.*
+#### Knowledge Systems Architecture
+*Designing the underlying structures that make complex work coherent, navigable, and executable. I build governance frameworks, information architectures, and operational systems that reduce coordination friction, improve decision quality, and preserve systemic integrity under conditions of scale, complexity, and ambiguity.*
 
 #### Executive Overview
 **Industrial & Systems Engineer** with 8+ years of experience engineering ETL/ELT pipelines, data governance frameworks, and complex system models across critical infrastructure domains (banking, mining, and regulated utilities).
 
-📄 **Download Full Resume:** [Resume-Pablo-Zuniga.pdf](./en/Resume-Pablo-Zuniga.pdf)
+**[Download Full Resume](https://pablozunigac.github.io/en/resume-pablo-zuniga-carvajal.pdf)**
 
-</details>
+---
 
 <details>
 <summary><b>🇪🇸 Español</b></summary>
