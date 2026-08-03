@@ -1,5 +1,5 @@
 <p align="center">
-  **Resume:** <b><a href="https://pablozunigac.github.io/en/resume.html">EN</a></b> / <b><a href="https://pablozunigac.github.io/es/resume.html">ES</a></b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b>Resume: <a href="https://pablozunigac.github.io/en/resume.html">EN</a></b> / <b><a href="https://pablozunigac.github.io/es/resume.html">ES</a></b> &nbsp;&nbsp;|&nbsp;&nbsp;
   <b><a href="https://github.com">GitHub Profile ↗</a></b> &nbsp;&nbsp;|&nbsp;&nbsp;
   <b><a href="mailto:pablo.zuniga.c@://gmail.com">Send Email ↗</a></b> &nbsp;&nbsp;|&nbsp;&nbsp;
   <b><a href="https://notion.so">Scheduling ↗</a></b>
@@ -76,7 +76,7 @@ To ensure efficient coordination and immediate access to my ecosystem, I leverag
 
 ---
   
-**Last Update:** <span id="timestamp">03-08-2026, 04:03 UTC</span>  
+**Last Update:** <span id="timestamp">03-08-2026, 04:01 UTC</span>  
 **© 2026 Pablo Zúñiga Carvajal.** All rights reserved.
 
   <!-- colores:
