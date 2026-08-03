@@ -6,7 +6,7 @@
 
 ## TECHNICAL SKILLS
 
-* **Enterprise Data Architecture & Ontologies**
+* **Enterprise Data Architecture & Ontologies**  
 ETL/ELT Pipelines, Metadata & Ontology Modeling, Data Governance, Enterprise Lineage, Relational Databases, REST APIs
 * **Code Languages & Advanced Analytics**  
 Python (Pandas, NumPy, SciPy), R (Quarto, Tidyverse, Tsibble), SQL, VBA, Statistical & Inferential Modeling, Time-Series Analysis, Linear & Integer Programming (LINGO, LINDO, MS Excel Solver, What'sBest!)
