@@ -7,7 +7,7 @@
   </span>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <b><a href="https://github.com" style="text-decoration: none; color: #2B64CF; font-weight: 600;">GitHub Profile ↗</a></b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b><a href="mailto:pablo.zuniga.c@://gmail.com">Send Email ↗</a></b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b><a href="mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Connection">Send Email ↗</a></b> &nbsp;&nbsp;|&nbsp;&nbsp;
   <b><a href="https://notion.so">Scheduling ↗</a></b>
 </p>
 
