@@ -1,11 +1,11 @@
-**Valparaíso, Chile • pablo.zuniga.c@gmail.com • [pablozunigac.github.io](https://pablozunigac.github.io)**  
+**Valparaíso, Chile • <a href="mailto:pablo.zuniga.c@gmail.com?subject=Contacto%20Profesional">pablo.zuniga.c@gmail.com</a> • [pablozunigac.github.io](https://pablozunigac.github.io)**  
 
 ---
 
 ## TECHNICAL SKILLS
 
 * **Data Engineering & Architecture**  
-ETL/ELT Pipelines, Metadata Modeling, Enterprise Lineage, Data Governance, SQL, REST APIs
+ETL/ELT Pipelines, Metadata Modeling, Business Process, Data Governance, SQL, REST APIs
 * **Languages & Analytics**  
 Python, R, Statistical Modeling, Linear Programming
 * **Tools & Infrastructure**  
