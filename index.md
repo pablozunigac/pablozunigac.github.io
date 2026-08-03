@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  📄 Resume: <b><a href="https://github.io">EN</a></b> · <b><a href="https://github.io">ES</a></b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  Resume: <b><a href="https://pablozunigac.github.io/en/resume.html">EN</a></b> · <b><a [href="https://github.io](https://pablozunigac.github.io/es/resume.html)">ES</a></b> &nbsp;&nbsp;|&nbsp;&nbsp;
   <b><a href="https://github.com">GitHub Profile ↗</a></b> &nbsp;&nbsp;|&nbsp;&nbsp;
   <b><a href="mailto:pablo.zuniga.c@://gmail.com">Send Email ↗</a></b> &nbsp;&nbsp;|&nbsp;&nbsp;
   <b><a href="https://notion.so">Scheduling ↗</a></b>
