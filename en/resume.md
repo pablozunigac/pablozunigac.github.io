@@ -8,13 +8,10 @@
 
 * **Enterprise Data Architecture & Ontologies**  
 ETL/ELT Pipelines, Metadata & Ontology Modeling, Data Governance, Enterprise Lineage, Relational Databases, Spatial Data Infrastructure (.gpx, .fit, .kmz), REST APIs
-
 * **Code Languages & Advanced Analytics**  
 Python (Pandas, NumPy, SciPy), R (Quarto, Tidyverse, Tsibble), SQL, VBA, Statistical & Inferential Modeling, Time-Series Analysis, Linear & Integer Programming (LINGO, LINDO, MS Excel Solver, What’sBest!), Stochastic Simulation & Monte Carlo Methods (@RISK, Crystal Ball)
-
 * **Infrastructure, Cloud & Orchestration**  
 Git/GitHub, Cloud Systems (MS Azure), Distributed Protocols (Web3/On-Chain), Environment Orchestration, Object-Oriented Programming (OOP)
-
 * **Systems Architecture & Technical Tooling**  
 Complex Systems Modeling, BPMN / Process Engineering, Systems Diagramming (UML), Knowledge Architecture (Notion 2.0 Engines), Technical Documentation (Markdown, LaTeX, HTML/CSS)
 
