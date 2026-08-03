@@ -7,6 +7,16 @@
 
 ---
 
+<p align="center">
+  📄 Resume: <b><a href="https://github.io">EN</a></b> · <b><a href="https://github.io">ES</a></b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b><a href="https://github.com">GitHub Profile ↗</a></b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b><a href="mailto:pablo.zuniga.c@://gmail.com">Send Email ↗</a></b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b><a href="https://notion.so">Scheduling ↗</a></b>
+</p>
+
+
+---
+
 **Industrial & Systems Engineer – <a href="https://www.pucv.cl/pucv/site/edic/base/port/universidad.html">
 Pontifical Catholic University of Valparaíso</a>**  
 **Remote · Based in Chile · Eastern Time Aligned**  
