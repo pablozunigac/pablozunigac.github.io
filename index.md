@@ -1,13 +1,4 @@
 <p align="center">
-  <b>Resume: <a href="https://pablozunigac.github.io/en/resume.html">EN</a></b> / <b><a href="https://pablozunigac.github.io/es/resume.html">ES</a></b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b><a href="https://github.com">GitHub Profile ↗</a></b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b><a href="mailto:pablo.zuniga.c@://gmail.com">Send Email ↗</a></b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b><a href="https://notion.so">Scheduling ↗</a></b>
-</p>
-
----
-
-<p align="center">
   <span style="font-size: 0.95em; color: #57606a;">Resume</span> 
   <span style="background-color: #f6f8fa; border: 1px solid #d0d7de; padding: 2px 6px; border-radius: 6px; font-size: 0.85em;">
     <a href="https://pablozunigac.github.io/en/resume.html" style="text-decoration: none; color: #0969da; font-weight: 600;">EN</a>
