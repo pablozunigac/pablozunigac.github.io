@@ -4,12 +4,10 @@
 
 ## TECHNICAL SKILLS
 
-* **Data Engineering & Architecture**  
-ETL/ELT Pipelines, Metadata Modeling, Business Processes, Data Governance, SQL, REST APIs
-* **Languages & Analytics**  
-Python, R, Statistical Modeling, Linear Programming
-* **Tools & Infrastructure**  
-Git/GitHub, MS Azure, AutoCAD, Web3 Protocols, Markdown, LaTeX, HTML/CSS
+* **Data Engineering & Platforms:** ETL/ELT Pipelines, Metadata & Ontology Modeling, Data Governance, Enterprise Lineage, Relational Databases, REST APIs
+* **Languages & Core Analytics:** Python (Pandas, NumPy, SciPy), R, SQL, Statistical & Inferential Modeling, Time-Series Analysis, Optimization (Linear Programming / LINGO)
+* **Infrastructure, Systems & DevOps:** Git/GitHub, Cloud Systems (MS Azure), Distributed Protocols (Web3/On-Chain), Environment Orchestration
+* **Domain Architecture & Methodologies:** Complex Systems Modeling, BPMN / Process Engineering, Geospatial Data (.gpx, .fit, .kmz), Technical Documentation (Markdown, LaTeX)
 
 ---
 
