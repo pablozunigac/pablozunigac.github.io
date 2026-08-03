@@ -1,9 +1,9 @@
 name: Automated Resume Timestamp Update
 
-# Triggers the workflow on every push event to main or master branches
+# Triggers the workflow on every push event to targeted branches
 on:
   push:
-    branches: [ main, master, i18n]
+    branches: [ main, master, i18n ]
     paths:
     - 'README.md'
     - 'index.md'
@@ -19,7 +19,9 @@ jobs:
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v4
-    
+      with:
+        fetch-depth: 2 # <- OBLIGATORIO: Trae los últimos dos commits para poder compararlos
+
     # Ensures Spanish locale is installed on the Ubuntu runner
     - name: Set up Spanish Locale
       run: |
@@ -31,12 +33,22 @@ jobs:
         # Fetch current date and time
         CURRENT_DATE=$(date -u +'%d-%m-%Y, %H:%M UTC')
 
-        # Main updates
-        sed -i "s|<span id=\"timestamp\">.*<\/span>|<span id=\"timestamp\">$CURRENT_DATE<\/span>|g" README.md
-        sed -i "s|<span id=\"timestamp\">.*<\/span>|<span id=\"timestamp\">$CURRENT_DATE<\/span>|g" index.md
+        echo "=== Auditando archivos modificados ==="
+        
+        # Obtiene la lista de nombres de archivos que cambiaron en el último push
+        CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD)
 
-        # Recursive updates (resume.md)
-        find . -name "resume.md" -exec sed -i "s|<span id=\"timestamp\">.*<\/span>|<span id=\"timestamp\">$CURRENT_DATE<\/span>|g" {} +
+        # Itera únicamente sobre los archivos que sufrieron cambios reales
+        for FILE in $CHANGED_FILES; do
+          # Valida si el archivo modificado es uno de nuestros objetivos estipulados
+          if [ "$FILE" = "README.md" ] || [ "$FILE" = "index.md" ] || [[ "$FILE" == *"resume.md" ]]; then
+            # Verifica si el archivo físicamente existe en el workspace actual antes de operar
+            if [ -f "$FILE" ]; then
+              echo "Inyectando marca de tiempo en: $FILE"
+              sed -i "s|<span id=\"timestamp\">.*<\/span>|<span id=\"timestamp\">$CURRENT_DATE<\/span>|g" "$FILE"
+            fi
+          fi
+        done
 
     - name: Commit and Push Timestamp Changes
       run: |
