@@ -1,4 +1,6 @@
-**Valparaíso, Chile • <a href="mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Connection">pablo.zuniga.c@gmail.com</a> • [pablozunigac.github.io](https://pablozunigac.github.io) • [Resume (PDF)](https://)**  
+**Valparaíso, Chile (Open to Relocation) • +56 9 4941 9529 • <a href="mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Connection">pablo.zuniga.c@gmail.com</a>  
+[github.com/pablozunigac](https://github.com/pablozunigac) • [pablozunigac.github.io](https://pablozunigac.github.io)  
+[Resume (.pdf)](https://)**  
 
 ---
 
