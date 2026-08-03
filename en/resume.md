@@ -1,7 +1,21 @@
-**B.S., M.S.Eq. | Industrial & Systems Engineer | Forward-Deployed Data & Systems Specialist  
+**B.S. & M.S.Eq. | Industrial & Systems Engineer | Forward-Deployed Data & Systems Specialist  
 Valparaíso, Chile (Open to Relocation) • +56 9 4941 9529 • <a href="mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Connection">pablo.zuniga.c@gmail.com</a>  
 [github.com/pablozunigac](https://github.com/pablozunigac) • [PDF Version](https://)  
 Work Authorization: US [Visa Waiver](https://cl.usembassy.gov/visa-waiver-program/) & [H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) Eligible (Chilean Citizen)**
+
+---
+
+**B.S. & M.S.Eq. | Industrial & Systems Engineer | Forward-Deployed Data & Systems Specialist  
+Valparaíso, Chile | Open to Relocation: US [Visa Waiver](https://cl.usembassy.gov/visa-waiver-program/) & [H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) Eligible  
+<a href="mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Connection">pablo.zuniga.c@gmail.com</a>  
+[github.com/pablozunigac](https://github.com/pablozunigac) • +56 9 4941 9529 • [PDF Version](https://)**
+
+---
+
+**B.S. & M.S.Eq. | Industrial & Systems Engineer | Forward-Deployed Data & Systems Specialist  
+Valparaíso, Chile • US [Visa Waiver](https://cl.usembassy.gov/visa-waiver-program/) & [H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) Eligible  
+<a href="mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Connection">pablo.zuniga.c@gmail.com</a>  
+[github.com/pablozunigac](https://github.com/pablozunigac) • +56 9 4941 9529 • [PDF Version](https://)**
 
 ---
 
