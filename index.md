@@ -1,8 +1,14 @@
 <p align="center">
-<b><a href="https://pablozunigac.github.io/resume.html">Full Resume (ES)</a></b>&nbsp;&nbsp;|&nbsp;
-<b><a href="https://github.com/pablozunigac">GitHub Profile ↗</a></b>&nbsp;&nbsp;|&nbsp;
-<b><a href="mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Contact">Send Email ↗</a></b>&nbsp;&nbsp;|&nbsp;
-<b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo">Scheduling ↗</a></b>
+  <span style="font-size: 1em; color: #57606a;"></span> 
+  <span style="background-color: #f6f8fa; border: 1px solid #d0d7de; padding: 2px 6px; border-radius: 6px; font-size: 0.85em;">
+    <a href="https://pablozunigac.github.io/en/resume.html" style="text-decoration: none; color: #2B64CF; font-weight: 600;">US Market (Resume)</a>
+    <span style="color: #d0d7de; margin: 0 3px;">|</span>
+    <a href="https://pablozunigac.github.io/es/cv.html" style="text-decoration: none; color: #2B64CF; font-weight: 600;">LATAM (CV)</a>
+  </span>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b><a href="https://github.com/pablozunigac" style="text-decoration: none; color: #2B64CF; font-weight: 600;">GitHub Profile ↗</a></b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b><a href="mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Connection">Send Email ↗</a></b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo">Scheduling ↗</a></b>
 </p>
 
 ---
@@ -75,7 +81,7 @@ To ensure efficient coordination and immediate access to my ecosystem, I leverag
 
 ---
   
-**Last Update:** <span id="timestamp">03-08-2026, 09:33 UTC</span>  
+**Last Update:** <span id="timestamp">03-08-2026, 06:47 UTC</span>  
 **© 2026 Pablo Zúñiga Carvajal.** All rights reserved.
 
   <!-- colores:
