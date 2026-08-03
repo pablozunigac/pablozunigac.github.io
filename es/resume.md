@@ -19,9 +19,9 @@ Ingeniero Civil Industrial especializado en el diseño, la validación técnica 
 ---
 
 <p align="center">
-<b><a href="#experiencias-clave">Experiencia</a></b>&nbsp;&nbsp;·&nbsp;
-<b><a href="#competencias-tecnológicas">Tecnologías</a></b>&nbsp;&nbsp;·&nbsp;
-<b><a href="#credenciales-académicas">Educación</a></b>&nbsp;&nbsp;·&nbsp;
+<b><a href="#experiencias-clave">Experiencia</a></b>&nbsp;&nbsp;•&nbsp;
+<b><a href="#competencias-tecnológicas">Tecnologías</a></b>&nbsp;&nbsp;•&nbsp;
+<b><a href="#credenciales-académicas">Educación</a></b>&nbsp;&nbsp;•&nbsp;
 <b><a href="#docencia-y-divulgación-técnica">Divulgación</a></b>
 </p>
   
@@ -105,15 +105,15 @@ Enero 2014 – Marzo 2014 / Salamanca, Región de Coquimbo**
 _Stack_ de herramientas, metodologías y filosofías de trabajo orientado a la convergencia estratégica y tecnológica entre infraestructura heredada (_legacy_) y entornos con presencia de analítica avanzada, desarrollo de _software_ y gobernanza corporativa.
 {: style="margin-bottom: 6px;"}
 * **Ingeniería de Datos**  
-Arquitectura de Metadatos · ETL/ELT · Modelado Geoespacial (.gpx, .fit, .kmz)
+Arquitectura de Metadatos • ETL/ELT • Modelado Geoespacial (.gpx, .fit, .kmz)
 * **Optimización y Analítica Avanzada**
-Python · R · Modelado Estadístico e Inferencial · Series de Tiempo · Programación Lineal y Entera (Solver, LINGO, LINDO) · Simulación Montecarlo (@RISK, Crystal Ball)
+Python • R • Modelado Estadístico e Inferencial • Series de Tiempo • Programación Lineal y Entera (Solver, LINGO, LINDO) • Simulación Montecarlo (@RISK, Crystal Ball)
 * **Desarrollo de Sistemas y Procesos de Negocio**  
-SQL · VBA (Microsoft Excel) · REST API · Programación Orientada a Objetos (OOP) · BPMN · UML  
+SQL • VBA (Microsoft Excel) • REST API • Programación Orientada a Objetos (OOP) • BPMN • UML  
 * **Ecosistemas e Infraestructura**  
-macOS/Windows · Git/GitHub · Microsoft Azure · Notion (_rollups_, _arrays_ y Fórmulas 2.0)  
+macOS/Windows • Git/GitHub • Microsoft Azure • Notion (_rollups_, _arrays_ y Fórmulas 2.0)  
 * **Documentación Técnica**  
-Markdown · LaTeX · HTML/CSS
+Markdown • LaTeX • HTML/CSS
 
 ---
 
