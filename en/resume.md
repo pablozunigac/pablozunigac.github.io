@@ -58,7 +58,7 @@ Complex Systems Modeling, BPMN / Process Engineering, Geospatial Data (.gpx, .fi
 ## EDUCATION
 
 **Pontificia Universidad Católica de Valparaíso** | Valparaíso, Chile  
-*B.S. & M.S. Equivalent in Industrial & Systems Engineering* | *2011 – 2017*
+*B.S. & M.S. Equivalent in Industrial & Systems Engineering* | *2011 – 2017*  
 {: style="margin-bottom: 6px;"}
 * **Relevant Coursework:** Statistics, Systems Theory, Operations Research, Econometrics, Simulation, Complex Systems Modeling.
 
