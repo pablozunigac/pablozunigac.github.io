@@ -1,9 +1,9 @@
 <p align="center">
   <span style="font-size: 0.95em; color: #57606a;"></span> 
   <span style="background-color: #f6f8fa; border: 1px solid #d0d7de; padding: 2px 6px; border-radius: 6px; font-size: 0.85em;">
-    <a href="https://pablozunigac.github.io/en/resume.html" style="text-decoration: none; color: #2B64CF; font-weight: 600;">EN</a>
+    <a href="https://pablozunigac.github.io/en/resume.html" style="text-decoration: none; color: #2B64CF; font-weight: 600;">US Market (Resume)</a>
     <span style="color: #d0d7de; margin: 0 3px;">|</span>
-    <a href="https://pablozunigac.github.io/es/resume.html" style="text-decoration: none; color: #2B64CF; font-weight: 600;">ES</a>
+    <a href="https://pablozunigac.github.io/es/resume.html" style="text-decoration: none; color: #2B64CF; font-weight: 600;">LATAM (CV)</a>
   </span>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <b><a href="https://github.com">GitHub Profile ↗</a></b> &nbsp;&nbsp;|&nbsp;&nbsp;
