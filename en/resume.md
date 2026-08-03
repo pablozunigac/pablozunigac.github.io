@@ -7,8 +7,8 @@
 
 * **Data Engineering & Platforms**  
 ETL/ELT Pipelines, Metadata & Ontology Modeling, Data Governance, Enterprise Lineage, Relational Databases, REST APIs
-* **Languages & Core Analytics**
-Python (Pandas, NumPy, SciPy), R, SQL, Statistical & Inferential Modeling, Time-Series Analysis, Linear & Integer Programming (LINGO, LINDO, MS Excel Solver, What'sBest!)
+* **Languages & Core Analytics**  
+Python (Pandas, NumPy, SciPy), R, SQL, VBA, Statistical & Inferential Modeling, Time-Series Analysis, Linear & Integer Programming (LINGO, LINDO, MS Excel Solver, What'sBest!)
 * **Infrastructure, Systems & DevOps**  
 Git/GitHub, Cloud Systems (MS Azure), Distributed Protocols (Web3/On-Chain), Environment Orchestration
 * **Domain Architecture & Methodologies**  
