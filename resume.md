@@ -152,5 +152,5 @@ Expositor Técnico – Curso: Análisis Financiero de Títulos de Renta Variable
 
 ---
 
-**Última Actualización:** <span id="timestamp">01-08-2026, 05:26 UTC</span>  
+**Última Actualización:** <span id="timestamp">03-08-2026, 09:33 UTC</span>  
 **© 2026 Pablo Zúñiga Carvajal.** Todos los derechos reservados.  
