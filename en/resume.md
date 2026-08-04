@@ -15,7 +15,7 @@ Python (Pandas, NumPy, SciPy), R (Quarto, Tidyverse, Tsibble), SQL, VBA, Statist
 * **Infrastructure, Cloud & Orchestration**  
 Git/GitHub, Cloud Systems (MS Azure), Distributed Protocols (Web3/On-Chain), Environment Orchestration, Object-Oriented Programming (OOP)
 * **Systems Architecture & Technical Tooling**  
-Complex Systems Modeling, BPMN / Process Engineering, Systems Diagramming (UML), Knowledge Architecture (Notion 2.0 Engines), Technical Documentation (Markdown, LaTeX, HTML/CSS)
+Complex Systems Modeling, BPMN, Process Engineering, Systems Diagramming (UML), Knowledge Architecture (Notion 2.0 Engines), Technical Documentation (Markdown, LaTeX, HTML/CSS)
 
 ---
 
@@ -61,10 +61,10 @@ Complex Systems Modeling, BPMN / Process Engineering, Systems Diagramming (UML),
 
 ## EDUCATION
 
-**Pontificia Universidad Católica de Valparaíso** • Valparaíso, Chile  
-*Industrial & Systems Engineering (Integrated 6-Year Program — BSc & MSc Equivalent)* • *2011 – 2017*  
+**Pontificia Universidad Católica de Valparaíso** | Valparaíso, Chile  
+*Industrial & Systems Engineering (Integrated 6-Year Program – BSc & MSc Equivalent)* | *2011 – 2017*  
 {: style="margin-bottom: 6px;"}  
-**Relevant Coursework:** Statistics, Systems Theory, Operations Research, Econometrics, Simulation, Complex Systems Modeling.
+**Core Academic Foundations:** Statistics, Systems Theory, Operations Research, Econometrics, Systems Modeling.
 
 ---
 
