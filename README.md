@@ -32,13 +32,5 @@ Diseño de estructuras fundamentales que hacen que el trabajo complejo sea coher
 
 ---
 
-### Tech Stack & Core Tooling
-* **Data & Ontologies:**
-ETL/ELT, Metadata Modeling, Enterprise Lineage, Azure, SQL.
-* **Analytics & Code:**
-Python (Pandas, NumPy, SciPy), R (Quarto, Tidyverse), LINGO, Solver.
-
----
-
 **Última Actualización:** <span id="timestamp">03-08-2026, 09:47 UTC</span>  
 **© 2026 Pablo Zúñiga Carvajal.** Todos los derechos reservados.
