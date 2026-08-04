@@ -106,13 +106,13 @@ Enero 2014 – Marzo 2014 / Salamanca, Región de Coquimbo**
 
 ## Competencias Tecnológicas y Herramientas
 
-* **Ingeniería y Arquitectura de Datos**
+* **Ingeniería y Arquitectura de Datos**  
 Modelado de Metadatos y Ontologías – ETL/ELT Pipelines – Gobernanza de Datos y Linaje Empresarial – Bases de Datos Relacionales – Procesamiento de Datos Geoespaciales (.gpx, .fit, .kmz) – APIs REST
-* **Optimización, Estadística y Analítica Avanzada**
+* **Optimización, Estadística y Analítica Avanzada**  
 Python (Pandas, NumPy, SciPy) – R (Quarto, Tidyverse, Tsibble) – Modelado Estadístico e Inferencial – Análisis de Series de Tiempo – Programación Lineal y Entera (LINGO, LINDO, Solver, What’sBest!) – Simulación Monte Carlo y Análisis de Riesgo (@RISK, Crystal Ball)
-* **Desarrollo de Sistemas y Procesos de Negocio**
+* **Desarrollo de Sistemas y Procesos de Negocio**  
 SQL – VBA (Microsoft Excel) – Programación Orientada a Objetos (POO) – Modelado de Procesos (BPMN, UML) – Arquitectura de Información y Motores de Conocimiento (Notion 2.0)
-* **Infraestructura, Nube y Herramientas Técnicas**
+* **Infraestructura, Nube y Herramientas Técnicas**  
 Git/GitHub – Microsoft Azure – Protocolos Distribuidos (Web3/On-Chain) – Orque
 
 ---
