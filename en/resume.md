@@ -1,4 +1,4 @@
-**Industrial & Systems Engineer | BSc & MSc Equivalent  
+**Industrial & Systems Engineer, BSc & MSc Equivalent  
 Data Modeling, Applied Statistics & Complex Systems Thinking  
 Valparaíso, Chile • [ESTA](https://cl.usembassy.gov/visa-waiver-program/) & [H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) Visa Eligible  
 <a href="mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Connection">pablo.zuniga.c@gmail.com</a> • +56 9 4941 9529  
