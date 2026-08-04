@@ -17,12 +17,13 @@
 <a href="https://www.pucv.cl/pucv/site/edic/base/port/universidad.html">
 Pontificia Universidad Católica de Valparaíso</a>  
 Data Modeling · Applied Statistics · Complex Systems Thinking**  
-`Remote` · `Based in Chile` · `Eastern Time Aligned` 
-<span style="background-color: #bedcfa; border: 1px solid #d0d7de; padding: 2px 6px; border-radius: 6px; font-size: 0.85em;">
-  parte 1
-  <span style="color: #909499; margin: 0 3px;">|</span>
-  parte 2
-</span>
+`Remote` · `Based in Chile` · `Eastern Time Aligned`  
+<span style="background-color: #bedcfa;
+      border: 1px solid #d0d7de;
+      padding: 2px 6px; 
+      border-radius: 6px;
+      font-size: 0.85em;">Remote
+</span>  
 **Streamlined US Deployment via <a href="https://www.dol.gov/agencies/whd/immigration/h1b1">H-1B1</a> & <a href="https://cl.usembassy.gov/visa-waiver-program/">ESTA</a>**
 
 ---
