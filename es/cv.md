@@ -17,6 +17,7 @@ Región de Valparaíso, Chile**
 Ingeniero Civil Industrial especializado en el diseño, la validación técnica y el escalamiento de soluciones de datos para entornos industriales e infraestructura crítica (banca, minería y servicios regulados). Ocho años de experiencia liderando implementaciones ETL/ELT, integración de datos y desarrollo de modelos para la optimización de procesos y la mitigación de riesgos tecnológicos. Enfoque tecno-agnóstico y sistémico, orientado a la estandarización operacional, la gobernanza de datos y el modelado de sistemas complejos.
 
 **Áreas de Dominio Técnico**
+{: style="margin-bottom: 0;"}
 * Arquitectura y Gobernanza de Datos (Pipelines ETL/ELT, Metadatos, Control de Versiones)
 * Modelado de Sistemas Complejos y Optimización Cuantitativa
 * Diseño y Optimización de Procesos (BPMN/UML)
