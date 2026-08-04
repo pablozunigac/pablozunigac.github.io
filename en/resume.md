@@ -61,8 +61,8 @@ Complex Systems Modeling, BPMN, Process Engineering, Systems Diagramming (UML), 
 
 ## EDUCATION
 
-**Pontificia Universidad Católica de Valparaíso** | Valparaíso, Chile  
-*Industrial & Systems Engineering (Integrated 6-Year Program – BSc & MSc Equivalent)* | *2011 – 2017*  
+**Pontificia Universidad Católica de Valparaíso** / Valparaíso, Chile  
+*Industrial & Systems Engineering (Integrated 6-Year Program – BSc & MSc Equivalent)* / *2011 – 2017*  
 {: style="margin-bottom: 6px;"}  
 **Core Academic Foundations:** Statistics, Systems Theory, Operations Research, Econometrics, Systems Modeling.
 
