@@ -13,10 +13,21 @@
 
 ---
 
-  <span style="background-color: #f6f8fa; border: 1px solid #d0d7de; padding: 2px 6px; border-radius: 6px; font-size: 0.85em;">
+  <span style="background-color: #g277fa; border: 1px solid #d0d7de; padding: 2px 6px; border-radius: 6px; font-size: 0.85em;">
     <a href="https://pablozunigac.github.io/en/resume.html" style="text-decoration: none; color: #2B64CF; font-weight: 600;">hjkhjk</a>
   </span>
 
+---
+
+<p align="center">
+ <span style="background-color: #c8E5F7; border: 1px solid #d0d7de; padding: 2px 6px; border-radius: 6px; font-size: 0.85em;">
+    <a href="https://pablozunigac.github.io/en/resume.html" style="text-decoration: none; color: #2B64CF; font-weight: 600;">hjkhjk</a>
+ </span>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+ <span style="background-color: #C71BCF; border: 1px solid #d0d7de; padding: 2px 6px; border-radius: 6px; font-size: 0.85em;">
+    <a href="https://pablozunigac.github.io/en/resume.html" style="text-decoration: none; color: #2B64CF; font-weight: 600;">hjkhjk</a>
+ </span>
+</p>p
 ---
 
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
