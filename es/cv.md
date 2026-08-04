@@ -32,11 +32,14 @@ Ingeniero Civil Industrial especializado en el diseño, la validación técnica 
 Consultor Principal y Fundador  
 Mayo 2026 – Presente / Remoto – Región de Valparaíso – Región Metropolitana**  
 {: style="margin-bottom: 0;"}
-* **Arquitectura de Datos y Gobernanza:** Diseño, prueba de concepto (PoC) y validación de flujos ETL/ELT bajo estándares de gobernanza, auditoría y trazabilidad para infraestructura crítica.
+* **Arquitectura de Datos y Gobernanza**
+Diseño, prueba de concepto (PoC) y validación de flujos ETL/ELT bajo estándares de gobernanza, auditoría y trazabilidad para infraestructura crítica.
 {: style="margin-bottom: 0;"}
-* **Ingeniería de Resiliencia y Continuidad:** Implementación de protocolos de resiliencia, respaldo de activos digitales y planes de mitigación para la continuidad operacional ante incidencias.
+* **Ingeniería de Resiliencia y Continuidad**
+Implementación de protocolos de resiliencia, respaldo de activos digitales y planes de mitigación para la continuidad operacional ante incidencias.
 {: style="margin-bottom: 0;"}
-* **Auditoría de Sistemas y Metadatos:** Pilotaje para el modelado de ontologías y metadatos, auditorías de deuda técnica e integración de sistemas conceptuales complejos.
+* **Auditoría de Sistemas y Metadatos**
+Pilotaje para el modelado de ontologías y metadatos, auditorías de deuda técnica e integración de sistemas conceptuales complejos.
 
 **Consultoría en Analítica Avanzada y Gestión del Conocimiento  
 Consultor Independiente  
@@ -52,7 +55,7 @@ Julio 2022 – Presente / Remoto – Región de Valparaíso – Región Metropol
 Especialista en Operaciones _On-Chain_ e Infraestructura Distribuida  
 Enero 2020 – Julio 2022 / Remoto**
 {: style="margin-bottom: 0;"}
-* Gestión y trazabilidad de tesorerías (**USD $10k–50k+**) bajo custodia _DeFi_ (MetaMask, Ledger, _DEX_) sobre _relay-chains_/_parachains_ de Polkadot/Kusama y redes Bitcoin, ERC-20 y BSC. Gestión de _gas fees_, ejecución de _intra/cross-chain swaps_ y sobrescritura de _nonces_.
+* Gestión y trazabilidad de tesorerías (**USD 10k–50k+**) bajo custodia _DeFi_ (MetaMask, Ledger, _DEX_) sobre _relay-chains_/_parachains_ de Polkadot/Kusama y redes Bitcoin, ERC-20 y BSC. Gestión de _gas fees_, ejecución de _intra/cross-chain swaps_ y sobrescritura de _nonces_.
 {: style="margin-bottom: 0;"}
 * Coordinación de _smart contracts_ para el uso de NFTs en servidores de Minecraft (**~1.1k usuarios**) y redacción técnica de contenido web para tododecripto.com sobre arquitectura _blockchain_, _parachains_ y gobernanza Web3.  
 
@@ -88,7 +91,7 @@ Julio 2017 – Diciembre 2017 / Viña del Mar, Región de Valparaíso**
 Práctica Profesional de Ingeniería  
 Enero 2016 – Marzo 2016 / Región Metropolitana – Región de Atacama**
 {: style="margin-bottom: 0;"}
-* Análisis exploratorio y consolidación de datos sobre el inventario minero-metalúrgico nacional (**+75k SKUs**) e identificación _in situ_ de **USD $2.5M** en inconsistencias contables para los procesos de auditoría y control financiero de nivel corporativo.
+* Análisis exploratorio y consolidación de datos sobre el inventario minero-metalúrgico nacional (**+75k SKUs**) e identificación _in situ_ de **USD 2.5M** en inconsistencias contables para los procesos de auditoría y control financiero de nivel corporativo.
 {: style="margin-bottom: 0;"}
 * Diseño de estructuras de almacenamiento para la cadena de abastecimiento de la Fundición Hernán Videla Lira y despliegues gráficos en AutoCAD para la gestión del inventario nacional.
 
