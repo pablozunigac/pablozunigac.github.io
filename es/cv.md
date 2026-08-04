@@ -32,13 +32,13 @@ Ingeniero Civil Industrial especializado en el diseño, la validación técnica 
 Consultor Principal y Fundador  
 Mayo 2026 – Presente / Remoto – Región de Valparaíso – Región Metropolitana**  
 {: style="margin-bottom: 0;"}
-* **Arquitectura de Datos y Gobernanza**
+* **Arquitectura de Datos y Gobernanza**  
 Diseño, prueba de concepto (PoC) y validación de flujos ETL/ELT bajo estándares de gobernanza, auditoría y trazabilidad para infraestructura crítica.
 {: style="margin-bottom: 0;"}
-* **Ingeniería de Resiliencia y Continuidad**
+* **Ingeniería de Resiliencia y Continuidad**  
 Implementación de protocolos de resiliencia, respaldo de activos digitales y planes de mitigación para la continuidad operacional ante incidencias.
 {: style="margin-bottom: 0;"}
-* **Auditoría de Sistemas y Metadatos**
+* **Auditoría de Sistemas y Metadatos**  
 Pilotaje para el modelado de ontologías y metadatos, auditorías de deuda técnica e integración de sistemas conceptuales complejos.
 
 **Consultoría en Analítica Avanzada y Gestión del Conocimiento  
