@@ -35,20 +35,18 @@
 
 <p align="center">
  <span style="background-color: #c8E5F7; border: 1px solid #d0d7de; padding: 2px 6px; border-radius: 6px; font-size: 0.85em;">
-    <a href="https://pablozunigac.github.io/en/resume.html" style="text-decoration: none; color: #2B64CF; font-weight: 600;">One-Page Resume (US)</a>
- </span>
+    <a href="https://pablozunigac.github.io/en/resume.html" style="text-decoration: none; color: #2B64CF; font-weight: 600;">One-Page Resume (US)</a></span>&nbsp;
  <span style="background-color: #c8E5F7; border: 1px solid #d0d7de; padding: 2px 6px; border-radius: 6px; font-size: 0.85em;">
     <a href="https://pablozunigac.github.io/es/cv.html" style="text-decoration: none; color: #2B64CF; font-weight: 600;">Extended CV (LATAM)</a>
- </span>
+ </span>&nbsp;
  <span style="background-color: #c8E5F7; border: 1px solid #d0d7de; padding: 2px 6px; border-radius: 6px; font-size: 0.85em;">
     <a href="https://github.com/pablozunigac" style="text-decoration: none; color: #2B64CF; font-weight: 600;">GitHub Profile ↗</a>
- </span>
+ </span>&nbsp;
  <span style="background-color: #c8E5F7; border: 1px solid #d0d7de; padding: 2px 6px; border-radius: 6px; font-size: 0.85em;">
     <a href="mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Connection" style="text-decoration: none; color: #2B64CF; font-weight: 600;">Send Email ↗</a>
- </span>
+ </span>&nbsp;
  <span style="background-color: #c8E5F7; border: 1px solid #d0d7de; padding: 2px 6px; border-radius: 6px; font-size: 0.85em;">
-    <a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo" style="text-decoration: none; color: #2B64CF; font-weight: 600;">Scheduling ↗</a>
- </span>
+    <a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo" style="text-decoration: none; color: #2B64CF; font-weight: 600;">Scheduling ↗</a></span>
 </p>
 
 ---
