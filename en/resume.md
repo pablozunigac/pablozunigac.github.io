@@ -63,7 +63,7 @@ Complex Systems Modeling, BPMN / Process Engineering, Systems Diagramming (UML),
 
 **Pontificia Universidad Católica de Valparaíso** • Valparaíso, Chile  
 *B.S. & M.S. Equivalent in Industrial & Systems Engineering* • *2011 – 2017*  
-{: style="margin-bottom: 6px;"}
+{: style="margin-bottom: 6px;"}  
 **Relevant Coursework:** Statistics, Systems Theory, Operations Research, Econometrics, Simulation, Complex Systems Modeling.
 
 ---
