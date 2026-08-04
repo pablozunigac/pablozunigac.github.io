@@ -1,6 +1,6 @@
-**B.S. & M.S.Eq. | Industrial & Systems Engineer  
-Forward-Deployed Data & Systems Specialist  
-Valparaíso, Chile • US [Visa Waiver](https://cl.usembassy.gov/visa-waiver-program/) & [H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) Eligible  
+**Industrial & Systems Engineer | B.S. & M.S. Equivalent
+Data Architecture, Governance & Complex Systems
+Valparaíso, Chile • [ESTA](https://cl.usembassy.gov/visa-waiver-program/) & [H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) Visa Eligible  
 <a href="mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Connection">pablo.zuniga.c@gmail.com</a> • +56 9 4941 9529  
 [github.com/pablozunigac](https://github.com/pablozunigac) • [PDF Version](https://)**
 
