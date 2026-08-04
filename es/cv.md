@@ -90,7 +90,7 @@ Enero 2016 – Marzo 2016 / Región Metropolitana – Región de Atacama**
 {: style="margin-bottom: 0;"}
 * Análisis exploratorio y consolidación de datos sobre el inventario minero-metalúrgico nacional (**+75k SKUs**) e identificación _in situ_ de **USD $2.5M** en inconsistencias contables para los procesos de auditoría y control financiero de nivel corporativo.
 {: style="margin-bottom: 0;"}
-* Diseño de estructuras de almacenamiento para la cadena de abastecimiento de la Fundición Hernán Videla Lira y despliegues gráficos en AutoCAD para la gestión del inventario nacional de ENAMI.  
+* Diseño de estructuras de almacenamiento para la cadena de abastecimiento de la Fundición Hernán Videla Lira y despliegues gráficos en AutoCAD para la gestión del inventario nacional.
 
 **Antofagasta Minerals – Minera Los Pelambres – Superintendencia de Geotecnia  
 Práctica de Ingeniería   
