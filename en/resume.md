@@ -19,7 +19,7 @@ Valparaíso, Chile – [ESTA](https://cl.usembassy.gov/visa-waiver-program/) & [
 <b><a href="#technical-skills">TECHNICAL SKILLS</a></b>&nbsp;&nbsp;•&nbsp;
 <b><a href="#work-experience">WORK EXPERIENCE</a></b>&nbsp;&nbsp;•&nbsp;
 <b><a href="#education">EDUCATION</a></b>&nbsp;&nbsp;•&nbsp;
-<b><a href="#leadership-&-teaching">LEADERSHIP & TEACHING</a></b>
+<b><a href="#leadership-%26-teaching">LEADERSHIP &amp; TEACHING</a></b>
 </p>
 
 ## TECHNICAL SKILLS
