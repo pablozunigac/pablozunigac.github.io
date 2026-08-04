@@ -58,7 +58,7 @@ Enero 2020 – Julio 2022 / Remoto**
 {: style="margin-bottom: 0;"}
 * Gestión y trazabilidad de tesorerías (**USD 10k–50k+**) bajo custodia _DeFi_ (MetaMask, Ledger, _DEX_) sobre _relay-chains_/_parachains_ de Polkadot/Kusama y redes Bitcoin, ERC-20 y BSC. Gestión de _gas fees_, ejecución de _intra/cross-chain swaps_ y sobrescritura de _nonces_.
 {: style="margin-bottom: 0;"}
-* Coordinación de _smart contracts_ para el uso de NFTs en servidores de Minecraft (**~1.1k usuarios**) y redacción técnica de contenido web para tododecripto.com sobre arquitectura _blockchain_, _parachains_ y gobernanza Web3.  
+* Coordinación de _smart contracts_ para NFTs en entornos virtuales distribuidos de alta concurrencia (**~1.1k usuarios**). Editor en tododecripto.com sobre _blockchain_, _parachains_ y gobernanza Web3.
 
 **Pontificia Universidad Católica de Valparaíso  (_en asociación con la Escuela de Negocios de la UAI_)   
 Consultor de Datos y Docente Adjunto [_Ejecución por Proyectos_]  
