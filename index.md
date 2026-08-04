@@ -13,6 +13,12 @@
 
 ---
 
+  <span style="background-color: #f6f8fa; border: 1px solid #d0d7de; padding: 2px 6px; border-radius: 6px; font-size: 0.85em;">
+    <a href="https://pablozunigac.github.io/en/resume.html" style="text-decoration: none; color: #2B64CF; font-weight: 600;">hjkhjk</a>
+  </span>
+
+---
+
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
 <a href="https://www.pucv.cl/pucv/site/edic/base/port/universidad.html">
 Pontificia Universidad Católica de Valparaíso</a>  
