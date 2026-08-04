@@ -1,5 +1,6 @@
 # Pablo Zúñiga
-**Industrial & Systems Engineer | Forward-Deployed Data & Systems Specialist  
+**Industrial & Systems Engineer  
+Data Modeling, Applied Statistics & Complex Systems Thinking  
 Valparaíso, Chile (Open to Relocation)  
 pablo.zuniga.c@gmail.com**
 
