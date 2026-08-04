@@ -16,7 +16,7 @@
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
 <a href="https://www.pucv.cl/pucv/site/edic/base/port/universidad.html">
 Pontificia Universidad Católica de Valparaíso</a>  
-Data Modeling, Applied Statistics & Complex Systems Thinking**  
+Data Modeling · Applied Statistics · Complex Systems Thinking**  
 `Remote` · `Based in Chile` · `Eastern Time Aligned`  
 **Remote · Based in Chile · Eastern Time Aligned  
 Based in Chile · Eastern Time Aligned  
