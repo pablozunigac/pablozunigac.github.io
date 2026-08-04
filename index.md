@@ -1,7 +1,7 @@
 <p align="center">
   <span style="font-size: 1em; color: #57606a;"></span> 
   <span style="background-color: #f6f8fa; border: 1px solid #d0d7de; padding: 2px 6px; border-radius: 6px; font-size: 0.85em;">
-    <a href="https://pablozunigac.github.io/en/resume.html" style="text-decoration: none; color: #2B64CF; font-weight: 600;">1-Page Resume (US)</a>
+    <a href="https://pablozunigac.github.io/en/resume.html" style="text-decoration: none; color: #2B64CF; font-weight: 600;">One-Page Resume (US)</a>
     <span style="color: #d0d7de; margin: 0 3px;">|</span>
     <a href="https://pablozunigac.github.io/es/cv.html" style="text-decoration: none; color: #2B64CF; font-weight: 600;">Extended CV (LATAM)</a>
   </span>
