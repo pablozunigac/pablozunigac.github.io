@@ -54,7 +54,7 @@ Complex Systems Modeling, BPMN / Process Engineering, Systems Diagramming (UML),
 **ENAMI & Antofagasta Minerals** | *Industrial Engineering Intern* | Chile  
 *2014 & 2016*
 {: style="margin-bottom: 6px;"}
-* Audited metallurgical inventory database (**75k+ SKUs**), uncovering **$2.5M USD** in accounting discrepancies for corporate financial audits.
+* Audited metallurgical inventory database (**75k+ SKUs**), uncovering **2.5M USD** in accounting discrepancies for corporate financial audits.
 * Monitored open-pit mining geotechnical telemetry for slope failure prediction and early risk mitigation in mission-critical environments.
 
 ---
