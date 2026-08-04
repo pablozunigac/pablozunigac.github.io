@@ -1,6 +1,6 @@
 <p align="center">
   <span style="font-size: 1em; color: #57606a;"></span> 
-  <span style="background-color: #d2e7fc; border: 1px solid #d0d7de; padding: 2px 6px; border-radius: 6px; font-size: 0.85em;">
+  <span style="background-color: #d2e7fc; border: 1px solid #d2e7fc; padding: 2px 6px; border-radius: 6px; font-size: 0.85em;">
     <a href="https://pablozunigac.github.io/en/resume.html" style="text-decoration: none; color: #2B64CF; font-weight: 600;">One-Page Resume (US)</a>
   <span style="color: #909499; margin: 0 3px;">|</span>
     <a href="https://pablozunigac.github.io/es/cv.html" style="text-decoration: none; color: #2B64CF; font-weight: 600;">Extended CV (LATAM)</a>
@@ -16,9 +16,9 @@
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
 <a href="https://www.pucv.cl/pucv/site/edic/base/port/universidad.html">
 Pontificia Universidad Católica de Valparaíso</a>  
-Data Modeling · Applied Statistics · Complex Systems Thinking**  
+Data Modeling · Applied Statistics · Complex Systems Thinking  
 Remote · Based in Chile · Eastern Time Aligned  
-**Streamlined US Deployment via <a href="https://www.dol.gov/agencies/whd/immigration/h1b1">H-1B1</a> & <a href="https://cl.usembassy.gov/visa-waiver-program/">ESTA</a>**
+Streamlined US Deployment via <a href="https://www.dol.gov/agencies/whd/immigration/h1b1">H-1B1</a> & <a href="https://cl.usembassy.gov/visa-waiver-program/">ESTA</a>**
 
 ---
 
