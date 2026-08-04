@@ -19,7 +19,7 @@ Valparaíso, Chile – [ESTA](https://cl.usembassy.gov/visa-waiver-program/) & [
 <b><a href="#technical-skills">TECHNICAL SKILLS</a></b>&nbsp;&nbsp;•&nbsp;
 <b><a href="#work-experience">WORK EXPERIENCE</a></b>&nbsp;&nbsp;•&nbsp;
 <b><a href="#education">EDUCATION</a></b>&nbsp;&nbsp;•&nbsp;
-<a href="#leadership-&amp;-teaching">LEADERSHIP &amp; TEACHING</a>
+<a href="#leadership-and-teaching">LEADERSHIP AND TEACHING</a>
 </p>
 
 ## TECHNICAL SKILLS
@@ -84,7 +84,7 @@ Industrial & Systems Engineering (Integrated 6-Year Program – BSc & MSc Equiva
 
 ---
 
-## LEADERSHIP & TEACHING
+## LEADERSHIP AND TEACHING
 
 * **Graduate Teaching Assistant (PUCV)**  
 Instructed Applied Data Science, MIS, and Quantitative Mathematics for 100+ engineering students (2018–2021).
