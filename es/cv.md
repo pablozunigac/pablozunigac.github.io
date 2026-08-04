@@ -20,12 +20,13 @@ Ingeniero Civil Industrial especializado en el diseño, la validación técnica 
 
 <p align="center">
 <b><a href="#experiencias-clave">Experiencia</a></b>&nbsp;&nbsp;•&nbsp;
-<b><a href="#competencias-tecnológicas">Tecnologías</a></b>&nbsp;&nbsp;•&nbsp;
+<b><a href="#prácticas-e-inicios-profesionales">Prácticas</a></b>&nbsp;&nbsp;•&nbsp;
+<b><a href="#competencias-tecnológicas-y-herramientas">Tecnologías</a></b>&nbsp;&nbsp;•&nbsp;
 <b><a href="#credenciales-académicas">Educación</a></b>&nbsp;&nbsp;•&nbsp;
 <b><a href="#docencia-y-divulgación-técnica">Divulgación</a></b>
 </p>
   
-## Experiencias Clave  
+## Experiencias Clave 
 
 **Cuxhaven Labs [_SpA en Formación_]  
 Consultor Principal y Fundador  
@@ -79,7 +80,9 @@ Julio 2017 – Diciembre 2017 / Viña del Mar, Región de Valparaíso**
 {: style="margin-bottom: 0;"}
 * Liderazgo en el proyecto de modelado estadístico mediante _software_ para la red de agua potable de la Región de Valparaíso, incluyendo el desarrollo de un modelo espaciotemporal de riesgos mediante regresión de Cox en R sobre una red de **5,300km** (**+1.9M de usuarios**) de extensión.
 {: style="margin-bottom: 0;"}
-* Coordinación bajo estándar PMO y ejecución mediante metodologías ágiles (Kanban, SCRUM) para la generación de métricas que soportan el mantenimiento de la red de agua potable de la región.  
+* Coordinación bajo estándar PMO y ejecución mediante metodologías ágiles (Kanban, SCRUM) para la generación de métricas que soportan el mantenimiento de la red de agua potable de la región.
+
+## Prácticas e Inicios Profesionales
 
 **Empresa Nacional de Minería (ENAMI) – División de Finanzas y Administración  
 Práctica Profesional de Ingeniería  
@@ -101,19 +104,16 @@ Enero 2014 – Marzo 2014 / Salamanca, Región de Coquimbo**
 
 ---
 
-## Competencias Tecnológicas
+## Competencias Tecnológicas y Herramientas
 
-_Stack_ de herramientas, metodologías y filosofías de trabajo orientado a la convergencia estratégica y tecnológica entre infraestructura heredada (_legacy_) y entornos con presencia de analítica avanzada, desarrollo de _software_ y gobernanza corporativa.
-{: style="margin-bottom: 6px;"}
-
-* **Ingeniería & Arquitectura de Datos**  
-Modelado de Metadatos y Ontologías • ETL/ELT Pipelines • Gobernanza de Datos y Linaje Empresarial • Bases de Datos Relacionales • Procesamiento de Datos Geoespaciales (.gpx, .fit, .kmz) • APIs REST
-* **Optimización, Estadística y Analítica Avanzada**  
-Python (Pandas, NumPy, SciPy) • R (Quarto, Tidyverse, Tsibble) • Modelado Estadístico e Inferencial • Análisis de Series de Tiempo • Programación Lineal y Entera (LINGO, LINDO, Solver, What’sBest!) • Simulación Monte Carlo y Análisis de Riesgo (@RISK, Crystal Ball)
-* **Desarrollo de Sistemas y Procesos de Negocio**  
-SQL • VBA (Microsoft Excel) • Programación Orientada a Objetos (POO) • Modelado de Procesos (BPMN, UML) • Arquitectura de Información y Motores de Conocimiento (Notion 2.0)
-* **Infraestructura, Nube y Herramientas Técnicas**  
-Git/GitHub • Microsoft Azure • Protocolos Distribuidos y Redes (Web3/On-Chain) • Orquestación de Entornos • Documentación Técnica Avanzada (Markdown, LaTeX, HTML/CSS)
+* **Ingeniería y Arquitectura de Datos**
+Modelado de Metadatos y Ontologías – ETL/ELT Pipelines – Gobernanza de Datos y Linaje Empresarial – Bases de Datos Relacionales – Procesamiento de Datos Geoespaciales (.gpx, .fit, .kmz) – APIs REST
+* **Optimización, Estadística y Analítica Avanzada**
+Python (Pandas, NumPy, SciPy) – R (Quarto, Tidyverse, Tsibble) – Modelado Estadístico e Inferencial – Análisis de Series de Tiempo – Programación Lineal y Entera (LINGO, LINDO, Solver, What’sBest!) – Simulación Monte Carlo y Análisis de Riesgo (@RISK, Crystal Ball)
+* **Desarrollo de Sistemas y Procesos de Negocio**
+SQL – VBA (Microsoft Excel) – Programación Orientada a Objetos (POO) – Modelado de Procesos (BPMN, UML) – Arquitectura de Información y Motores de Conocimiento (Notion 2.0)
+* **Infraestructura, Nube y Herramientas Técnicas**
+Git/GitHub – Microsoft Azure – Protocolos Distribuidos (Web3/On-Chain) – Orque
 
 ---
 
