@@ -57,7 +57,7 @@ Enero 2020 – Julio 2022 / Remoto**
 * Coordinación de _smart contracts_ para el uso de NFTs en servidores de Minecraft (**~1.1k usuarios**) y redacción técnica de contenido web para tododecripto.com sobre arquitectura _blockchain_, _parachains_ y gobernanza Web3.  
 
 **Pontificia Universidad Católica de Valparaíso  (_en asociación con la Escuela de Negocios de la UAI_)   
-Consultor de Datos y Docente Adjunto [_Ejecución por Proyectos_]
+Consultor de Datos y Docente Adjunto [_Ejecución por Proyectos_]  
 Agosto 2018 – Junio 2021 / Región de Valparaíso**
 {: style="margin-bottom: 0;"}
 * Consolidación de fuentes de datos y diseño de _pipelines_ ETL para análisis estadístico exploratorio en entornos académicos, visualización de datos como soporte a decisiones y apoyo docente en la cátedra “_Ciencia de Datos Aplicada_” de Ingeniería Civil Industrial PUCV.
