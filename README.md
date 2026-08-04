@@ -1,7 +1,7 @@
 # Pablo Zúñiga
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
 Data Modeling · Applied Statistics · Complex Systems Thinking  
-Valparaíso, Chile (Open to Relocation) · pablo.zuniga.c@gmail.com**
+Based in Valparaíso, Chile (Open to Relocation)**
 
 ---
 
@@ -13,7 +13,7 @@ Designing the underlying structures that make complex work coherent, navigable, 
 #### Executive Overview
 **Industrial & Systems Engineer** with 8+ years of experience engineering ETL/ELT pipelines, data governance frameworks, and complex system models across critical infrastructure domains (banking, mining, and regulated utilities).
 
-**[Download Full Resume](https://pablozunigac.github.io/en/resume-pablo-zuniga-carvajal.pdf)**
+**[One-Page Resume (US)](https://pablozunigac.github.io/en/resume-pablo-zuniga.pdf)**
 
 ---
 
@@ -26,7 +26,7 @@ Diseño de estructuras fundamentales que hacen que el trabajo complejo sea coher
 #### Resumen Ejecutivo
 **Ingeniero Civil Industrial** con más de 8 años de experiencia liderando implementaciones ETL/ELT, marcos de gobernanza de datos y modelos de sistemas complejos para entornos industriales e infraestructura crítica (banca, minería y servicios regulados).
 
-**[Descargar CV Completo](https://pablozunigac.github.io/es/cv-pablo-zuniga-carvajal.pdf)**
+**[Extended CV (LATAM)](https://pablozunigac.github.io/es/cv-pablo-zuniga.pdf)**
 
 </details>
 
