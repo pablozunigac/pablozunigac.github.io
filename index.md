@@ -1,6 +1,6 @@
 <p align="center">
   <span style="font-size: 1em; color: #57606a;"></span> 
-  <span style="background-color: #f6f8fa; border: 1px solid #d0d7de; padding: 2px 6px; border-radius: 6px; font-size: 0.85em;">
+  <span style="background-color: #bedcfa; border: 1px solid #d0d7de; padding: 2px 6px; border-radius: 6px; font-size: 0.85em;">
     <a href="https://pablozunigac.github.io/en/resume.html" style="text-decoration: none; color: #2B64CF; font-weight: 600;">One-Page Resume (US)</a>
   <span style="color: #909499; margin: 0 3px;">|</span>
     <a href="https://pablozunigac.github.io/es/cv.html" style="text-decoration: none; color: #2B64CF; font-weight: 600;">Extended CV (LATAM)</a>
@@ -9,44 +9,6 @@
   <b><a href="https://github.com/pablozunigac" style="text-decoration: none; color: #2B64CF; font-weight: 600;">GitHub Profile ↗</a></b> &nbsp;&nbsp;|&nbsp;&nbsp;
   <b><a href="mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Connection">Send Email ↗</a></b> &nbsp;&nbsp;|&nbsp;&nbsp;
   <b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo">Scheduling ↗</a></b>
-</p>
-
----
-
-<p align="center">
- <span style="background-color: #c8E5F7; border: 1px solid #d0d7de; padding: 2px 6px; border-radius: 6px; font-size: 0.85em;">
-    <a href="https://pablozunigac.github.io/en/resume.html" style="text-decoration: none; color: #2B64CF; font-weight: 600;">One-Page Resume (US)</a>
- </span> &nbsp;&nbsp;|&nbsp;&nbsp;
- <span style="background-color: #c8E5F7; border: 1px solid #d0d7de; padding: 2px 6px; border-radius: 6px; font-size: 0.85em;">
-    <a href="https://pablozunigac.github.io/es/cv.html" style="text-decoration: none; color: #2B64CF; font-weight: 600;">Extended CV (LATAM)</a>
- </span> &nbsp;&nbsp;|&nbsp;&nbsp;
- <span style="background-color: #c8E5F7; border: 1px solid #d0d7de; padding: 2px 6px; border-radius: 6px; font-size: 0.85em;">
-    <a href="https://github.com/pablozunigac" style="text-decoration: none; color: #2B64CF; font-weight: 600;">GitHub Profile ↗</a>
- </span> &nbsp;&nbsp;|&nbsp;&nbsp;
- <span style="background-color: #c8E5F7; border: 1px solid #d0d7de; padding: 2px 6px; border-radius: 6px; font-size: 0.85em;">
-    <a href="mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Connection" style="text-decoration: none; color: #2B64CF; font-weight: 600;">Send Email ↗</a>
- </span> &nbsp;&nbsp;|&nbsp;&nbsp;
- <span style="background-color: #c8E5F7; border: 1px solid #d0d7de; padding: 2px 6px; border-radius: 6px; font-size: 0.85em;">
-    <a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo" style="text-decoration: none; color: #2B64CF; font-weight: 600;">Scheduling ↗</a>
- </span>
-</p>
-
----
-
-<p align="center">
- <span style="background-color: #c8E5F7; border: 1px solid #d0d7de; padding: 2px 6px; border-radius: 6px; font-size: 0.85em;">
-    <a href="https://pablozunigac.github.io/en/resume.html" style="text-decoration: none; color: #2B64CF; font-weight: 600;">One-Page Resume (US)</a></span>&nbsp;
- <span style="background-color: #c8E5F7; border: 1px solid #d0d7de; padding: 2px 6px; border-radius: 6px; font-size: 0.85em;">
-    <a href="https://pablozunigac.github.io/es/cv.html" style="text-decoration: none; color: #2B64CF; font-weight: 600;">Extended CV (LATAM)</a>
- </span>&nbsp;
- <span style="background-color: #c8E5F7; border: 1px solid #d0d7de; padding: 2px 6px; border-radius: 6px; font-size: 0.85em;">
-    <a href="https://github.com/pablozunigac" style="text-decoration: none; color: #2B64CF; font-weight: 600;">GitHub Profile ↗</a>
- </span>&nbsp;
- <span style="background-color: #c8E5F7; border: 1px solid #d0d7de; padding: 2px 6px; border-radius: 6px; font-size: 0.85em;">
-    <a href="mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Connection" style="text-decoration: none; color: #2B64CF; font-weight: 600;">Send Email ↗</a>
- </span>&nbsp;
- <span style="background-color: #c8E5F7; border: 1px solid #d0d7de; padding: 2px 6px; border-radius: 6px; font-size: 0.85em;">
-    <a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo" style="text-decoration: none; color: #2B64CF; font-weight: 600;">Scheduling ↗</a></span>
 </p>
 
 ---
