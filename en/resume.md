@@ -1,8 +1,18 @@
+<p align="center">
+<b><a href="https://pablozunigac.github.io">Home</a></b>&nbsp;&nbsp;|&nbsp;
+<b><a href="https://pablozunigac.github.io/en/resume-pablo-zuniga.pdf">PDF Version</a></b>&nbsp;&nbsp;|&nbsp;
+<b><a href="https://github.com/pablozunigac">GitHub Profile↗</a></b>&nbsp;&nbsp;|&nbsp;
+<b><a href="mailto:pablo.zuniga.c@gmail.com?subject=Profesional%20Connection">Send Email ↗</a></b>&nbsp;&nbsp;|&nbsp;
+<b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo" >Scheduling ↗</a></b>
+</p>
+
+---
+
+---
+
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
 Data Modeling, Applied Statistics & Complex Systems Thinking  
-Valparaíso, Chile • [ESTA](https://cl.usembassy.gov/visa-waiver-program/) & [H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) Visa Eligible  
-<a href="mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Connection">pablo.zuniga.c@gmail.com</a> • +56 9 4941 9529  
-[github.com/pablozunigac](https://github.com/pablozunigac) • [PDF Version](https://pablozunigac.github.io/en/resume-pablo-zuniga.pdf)**
+Valparaíso, Chile • [ESTA](https://cl.usembassy.gov/visa-waiver-program/) & [H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) Visa Eligible**
 
 ---
 
