@@ -39,7 +39,7 @@ Complex Systems Modeling, BPMN / Process Engineering, Systems Diagramming (UML),
 * Managed multi-sig and non-custodial treasury assets (**$10k–$50k+**) across Polkadot, Ethereum, and BSC networks.
 * Executed dynamic gas optimization, cross-chain messaging, and smart contract utilities serving **1,100+ active users**.
 
-**Banco de Crédito e Inversiones (Bci)** | *Process Engineer (Data Governance)* | Santiago, Chile  
+**Banco de Crédito e Inversiones** | *Process Engineer (Data Governance)* | Santiago, Chile  
 *May 2019 – Sep 2019*
 {: style="margin-bottom: 6px;"}
 * Orchestrated automated metadata integration pipelines from core transactional systems into MS Azure, standardizing BPMN workflows.
