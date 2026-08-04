@@ -1,8 +1,7 @@
 # Pablo Zúñiga
-**Industrial & Systems Engineer  
-Data Modeling, Applied Statistics & Complex Systems Thinking  
-Valparaíso, Chile (Open to Relocation)  
-pablo.zuniga.c@gmail.com**
+**Industrial & Systems Engineer, BSc & MSc Equivalent  
+Data Modeling · Applied Statistics · Complex Systems Thinking  
+Valparaíso, Chile (Open to Relocation) · pablo.zuniga.c@gmail.com**
 
 ---
 
