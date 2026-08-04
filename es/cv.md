@@ -66,7 +66,7 @@ Agosto 2018 – Junio 2021 / Región de Valparaíso**
 {: style="margin-bottom: 0;"}
 * Asesor técnico, editor de material académico y expositor internacional.  
 
-**Banco de Crédito e Inversiones (Bci) – Gerencia Corporativa de Data & Analytics – Gobierno de Datos  
+**Banco de Crédito e Inversiones – Gerencia Corporativa de Data & Analytics – Gobierno de Datos  
 Ingeniero de Procesos   
 Mayo 2019 – Septiembre 2019 / Las Condes, Región Metropolitana**
 {: style="margin-bottom: 0;"}
