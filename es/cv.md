@@ -54,11 +54,11 @@ Consultor Independiente
 Julio 2022 – Presente / Remoto – Región de Valparaíso – Región Metropolitana**  
 {: style="margin-bottom: 0;"}  
 * **Proyecto Ancla › _Analítica Telemétrica para running en Triatlón_**
-  * **Modelado de Series de Tiempo:** Ajuste de funciones a telemetría de running (_400m a 21.1km_) para la cuantificación de brechas fisiológicas y la prescripción de ritmos en triatlón.
-  * **_Benchmark_ Poblacional:** Análisis de desviaciones respecto a medidas de tendencia central y _outliers_ por grupo de edad sobre cohortes de _+1.8k competidores_.
+  * **Modelado de Series de Tiempo:** Ajuste de funciones a telemetría de running (**400m a 21.1km**) para la cuantificación de brechas fisiológicas y la prescripción de ritmos en triatlón.
+  * **_Benchmark_ Poblacional:** Análisis de desviaciones respecto a medidas de tendencia central y _outliers_ por grupo de edad sobre cohortes de **+1.8k competidores**.
   * **Análisis Exploratorio Contextual:** Evaluación de variabilidad estadística según impacto de altimetría, condiciones climáticas y dinámicas en transiciones.
 
-* **Otros Proyectos/Servicios:**
+* **Otros Proyectos y Servicios:**
   * Diseño de arquitecturas de información y bases de datos relacionales en Notion (_<a href="https://www.notion.com/product/sites">notion.site</a>_).
   * Documentación técnica de sistemas mediante Markdown y control de versiones mediante Git.
   * Construcción de backlog/changelog para gestión de conocimiento empresarial.
