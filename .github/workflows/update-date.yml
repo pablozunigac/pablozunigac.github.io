@@ -3,11 +3,11 @@ name: Automated Resume Timestamp Update
 # Triggers the workflow on every push event to targeted branches
 on:
   push:
-    branches: [ main, master ]
+    branches: [ i18n ]
     paths:
-    - 'README.md'
-    - 'index.md'
-    - '**/resume.md'
+    - 'README2.md'
+    - 'index2.md'
+    - 'resume2.md'
 
 jobs:
   update-timestamp:
