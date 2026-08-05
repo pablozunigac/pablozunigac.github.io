@@ -17,22 +17,33 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Update Timestamp in Markdown Files
+      - name: Update Timestamp & Push Directly
         run: |
+          # 1. Configurar usuario bot
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # 2. Generar fecha UTC
           TIMESTAMP=$(date -u +'%d-%m-%Y, %H:%M UTC')
-          
+
+          # 3. Inyectar timestamp en los archivos
           FILES=("es/cv.md" "en/resume.md" "index.md" "README.md")
-          
           for FILE in "${FILES[@]}"; do
             if [ -f "$FILE" ]; then
               sed -i "s|<span id=\"footer_timestamp\">.*</span>|<span id=\"footer_timestamp\">${TIMESTAMP}</span>|g" "$FILE"
             fi
           done
 
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "docs: auto-update timestamp [skip ci]"
-          git_action_options: '--no-verify'
-          # ESTA LÍNEA ES LA CLAVE: sincroniza con el remoto antes de pushear
-          git_pull_args: '--rebase --autostash'
+          # 4. Verificar si hubo cambios reales en el workspace
+          if git diff --quiet; then
+            echo "Sin cambios detectados en el timestamp."
+            exit 0
+          fi
+
+          # 5. Commit + Sincronización estricta antes del push
+          git commit -am "docs: auto-update timestamp [skip ci]"
+          git pull --rebase origin main
+          git push origin main
