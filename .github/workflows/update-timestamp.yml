@@ -1,0 +1,54 @@
+name: Update Footer Timestamp
+
+concurrency:
+  group: timestamp-${{ github.ref }}
+  cancel-in-progress: true
+
+on:
+  push:
+    branches: [ main, master ]
+    paths:
+      - 'es/cv.md'
+      - 'en/resume.md'
+      - 'index.md'
+      - 'README.md'
+
+jobs:
+  update-timestamp:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update Modified Markdown Timestamps
+        run: |
+          python3 -c '
+          import os, re, datetime
+
+          # Archivos objetivo a monitorear
+          targets = {"es/cv.md", "en/resume.md", "index.md", "README.md"}
+          now = datetime.datetime.now(datetime.timezone.utc).strftime("%d-%m-%Y, %H:%M UTC")
+
+          # Expresión regular para localizar exactamente la etiqueta por ID
+          pattern = re.compile(r"(<span\s+id=[\"\']footer_timestamp[\"\']\s*>)(.*?)(</span>)", re.IGNORECASE)
+
+          for file_path in targets:
+              if os.path.exists(file_path):
+                  with open(file_path, "r", encoding="utf-8") as f:
+                      content = f.read()
+                  
+                  # Reemplaza de forma segura preservando la estructura HTML
+                  updated_content = pattern.sub(rf"\g<1>{now}\g<3>", content)
+
+                  if updated_content != content:
+                      with open(file_path, "w", encoding="utf-8") as f:
+                          f.write(updated_content)
+                      print(f"Updated: {file_path}")
+          '
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: auto-update footer timestamp [skip ci]"
+          file_pattern: "es/cv.md en/resume.md index.md README.md"
