@@ -1,4 +1,4 @@
-# GitHub Pages Professional Positioning Platform
+# GitHub Pages Professional Positioning Repo
 
 ### Pablo Zúñiga
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
@@ -8,7 +8,7 @@ Streamlined US Deployment via [H-1B1](https://www.dol.gov/agencies/whd/immigrati
 
 ---
 
-### GitHub Pages Infrastructure: `pablozunigac.github.io`
+### System Overview & Architecture: `pablozunigac.github.io`
 Architected under a strict Doc-as-Code framework, this repository serves as the single source of truth for my professional metadata, web endpoints, and CI/CD-compiled artifacts.
 
 * `README.md` — Repository entry point and architecture schema. (You are here!)
@@ -19,5 +19,5 @@ Architected under a strict Doc-as-Code framework, this repository serves as the 
 
 ---
 
-**Last Update:** <span id="footer_timestamp">05-08-2026, 23:10 UTC</span>  
+**Last Update:** <span id="footer_timestamp">05-08-2026, 22:54 UTC</span>  
 **© 2026 Pablo Zúñiga Carvajal.** All rights reserved.
