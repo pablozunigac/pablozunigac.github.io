@@ -18,8 +18,8 @@ Valparaíso, Chile (UTC-4) · Relocalización Internacional Negociable**
 Ingeniero Civil Industrial especializado en el diseño, la validación técnica y el escalamiento de soluciones de datos para entornos industriales e infraestructura crítica (banca, minería y servicios regulados). Ocho años de experiencia liderando implementaciones ETL/ELT, integración de datos y desarrollo de modelos para la optimización de procesos y la mitigación de riesgos tecnológicos. Enfoque tecno-agnóstico y sistémico, orientado a la estandarización operacional, la gobernanza de datos y el modelado de sistemas complejos.
 
 **Áreas de Dominio Técnico**
-{: style="margin-bottom: 0;"}
-* Arquitectura y Gobernanza de Datos
+{: style="margin-bottom: 0;"})
+* Arquitectura de Datos, Ontologías y Gobernanza Empresarial
 * Estadística Aplicada a Sistemas Complejos
 * Modelamiento y Optimización de Procesos de Negocio (BPMN, UML)
 * Gestión del Conocimiento y Documentación Técnica Avanzada (_Doc-as-Code_)
@@ -131,9 +131,9 @@ Git/GitHub – Microsoft Azure – Protocolos Distribuidos (Web3/On-Chain) – O
 Ingeniería Civil Industrial / 2011 – 2017  
 Licenciatura en Ciencias de la Ingeniería / 2016**
 {: style="margin-bottom: 0;"}
-* Programa integrado de doce semestres con formación en ingeniería de sistemas, análisis cuantitativo, econometría y estadística aplicada. Enfoque en el modelado y análisis de sistemas complejos con especialización en tecnologías de la información y teoría de sistemas.
+* Programa de 12 semestres enfocado en ingeniería de sistemas, teoría de sistemas complejos, econometría y analítica cuantitativa avanzada.
 {: style="margin-bottom: 0;"}
-* Ayudante académico recurrente en Ingeniería Económica, Sistemas de Información y Matemática Aplicada con énfasis en análisis cuantitativo y herramientas computacionales.
+* Ayudante académico recurrente en Ingeniería Económica, Sistemas de Información y Matemática Aplicada, liderando talleres computacionales y modelado cuantitativo.
 
 **Pontificia Universidad Católica de Valparaíso   
 Ingeniería Civil / 2007 – 2010 (_Estudios Fundamentales_)**
