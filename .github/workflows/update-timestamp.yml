@@ -1,9 +1,5 @@
 name: Update Footer Timestamp
 
-concurrency:
-  group: timestamp-${{ github.ref }}
-  cancel-in-progress: false # Permite que las ejecuciones en cola terminen en orden secuencial
-
 on:
   push:
     branches: [ main, master ]
@@ -22,74 +18,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fetch-depth: 0 # Garantiza historial completo para resolver referencias exactas
+          fetch-depth: 0
 
-      - name: Process Timestamps (Node.js Engine)
-        uses: actions/github-script@v7
-        with:
-          script: |
-            const fs = require('fs');
-            const path = require('path');
-            const { execSync } = require('child_process');
-
-            // 1. Obtener archivos realmente modificados en los commits de este push
-            const targets = new Set(['es/cv.md', 'en/resume.md', 'index.md', 'README.md']);
-            
-            // Compara contra el commit anterior HEAD~1 o el merge-base
-            let changedFiles = [];
-            try {
-              const diffOutput = execSync('git diff-tree --no-commit-id --name-only -r HEAD').toString();
-              changedFiles = diffOutput.split('\n').map(f => f.trim()).filter(Boolean);
-            } catch (e) {
-              console.log('Error obteniendo git diff:', e.message);
-            }
-
-            // 2. Formatear marca de tiempo actual (UTC)
-            const now = new Date();
-            const day = String(now.getUTCDate()).padStart(2, '0');
-            const month = String(now.getUTCMonth() + 1).padStart(2, '0');
-            const year = now.getUTCFullYear();
-            const hours = String(now.getUTCHours()).padStart(2, '0');
-            const minutes = String(now.getUTCMinutes()).padStart(2, '0');
-            const timestampStr = `${day}-${month}-${year}, ${hours}:${minutes} UTC`;
-
-            const regex = /(<span\s+id=["']footer_timestamp["']\s*>)(.*?)(<\/span>)/gi;
-
-            let modifiedAny = false;
-
-            // 3. Modificar ÚNICAMENTE los archivos objetivo que hayan cambiado en este push
-            for (const file of changedFiles) {
-              if (targets.has(file) && fs.existsSync(file)) {
-                const content = fs.readFileSync(file, 'utf8');
-                const updated = content.replace(regex, `$1${timestampStr}$3`);
-
-                if (content !== updated) {
-                  fs.writeFileSync(file, updated, 'utf8');
-                  console.log(`[UPDATED] Timestamp actualizado en: ${file}`);
-                  modifiedAny = true;
-                }
-              }
-            }
-
-            if (!modifiedAny) {
-              core.notice('No se requirieron cambios de timestamp en los archivos objetivo.');
-            }
-
-      - name: Commit and Push Changes directly via Git
+      - name: Update Timestamp
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          TIMESTAMP=$(date -u +'%d-%m-%Y, %H:%M UTC')
+          
+          # Actualiza ÚNICAMENTE los archivos que el usuario modificó en su push
+          git diff --name-only HEAD~1 | grep -E '^(es/cv\.md|en/resume\.md|index\.md|README\.md)$' | while read -r FILE; do
+            sed -i "s|<span id=\"footer_timestamp\">.*</span>|<span id=\"footer_timestamp\">${TIMESTAMP}</span>|g" "$FILE"
+          done
 
-          # Agrega únicamente si hay cambios en el workspace
-          git add es/cv.md en/resume.md index.md README.md
-
-          if ! git diff --staged --quiet; then
-            git commit -m "docs: auto-update footer timestamp"
-            
-            # Rebase limpio antes del push para evitar rechazos en commits paralelos
-            git pull --rebase origin ${{ github.ref_name }}
-            git push origin HEAD:${{ github.ref_name }}
-          else
-            echo "Sin cambios staged para pushear."
-          fi
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: update timestamp"
