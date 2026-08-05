@@ -18,7 +18,7 @@ Valparaíso, Chile (UTC-4) · Relocalización Internacional Negociable**
 Ingeniero Civil Industrial especializado en el diseño, la validación técnica y el escalamiento de soluciones de datos para entornos industriales e infraestructura crítica (banca, minería y servicios regulados). Ocho años de experiencia liderando implementaciones ETL/ELT, integración de datos y desarrollo de modelos para la optimización de procesos y la mitigación de riesgos tecnológicos. Enfoque tecno-agnóstico y sistémico, orientado a la estandarización operacional, la gobernanza de datos y el modelado de sistemas complejos.
 
 **Áreas de Dominio Técnico**
-{: style="margin-bottom: 0;"})
+{: style="margin-bottom: 0;"}
 * Arquitectura de Datos, Ontologías y Gobernanza Empresarial
 * Estadística Aplicada a Sistemas Complejos
 * Modelamiento y Optimización de Procesos de Negocio (BPMN, UML)
@@ -54,12 +54,9 @@ Consultor Independiente
 Julio 2022 – Presente / Remoto – Región de Valparaíso – Región Metropolitana**  
 {: style="margin-bottom: 0;"}  
 * **Proyecto Ancla › _Analítica Telemétrica para running en Triatlón_**
-  * **Modelado de Series de Tiempo**  
-    Ajuste de funciones a telemetría de running (400m a 21.1km) para la cuantificación de brechas fisiológicas y la prescripción de ritmos en triatlón.
-  * **_Benchmark_ Poblacional**  
-    Análisis de desviaciones respecto a medidas de tendencia central y _outliers_ por grupo de edad sobre cohortes de +1.8k competidores.
-  * **Análisis Exploratorio Contextual**  
-    Evaluación de variabilidad estadística según impacto de altimetría, condiciones climáticas y dinámicas en transiciones.
+  * **Modelado de Series de Tiempo:** Ajuste de funciones a telemetría de running (400m a 21.1km) para la cuantificación de brechas fisiológicas y la prescripción de ritmos en triatlón.
+  * **_Benchmark_ Poblacional:** Análisis de desviaciones respecto a medidas de tendencia central y _outliers_ por grupo de edad sobre cohortes de +1.8k competidores.
+  * **Análisis Exploratorio Contextual:** Evaluación de variabilidad estadística según impacto de altimetría, condiciones climáticas y dinámicas en transiciones.
 
 * **Otros Proyectos/Servicios:**
   * Diseño de arquitecturas de información y bases de datos relacionales en Notion (_<a href="https://www.notion.com/product/sites">notion.site</a>_).
