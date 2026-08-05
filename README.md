@@ -1,10 +1,10 @@
 # Pablo Zúñiga**
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
 Data Modeling · Applied Statistics · Complex Systems  
-Remote · Based in Chile · Eastern Time Aligned**  
+`Remote` · `Based in Chile` · `Eastern Time Aligned`**  
 **<a href="mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Contact">pablo.zuniga.c@gmail.com</a>**
 &nbsp; | &nbsp;
-**<a href="https://pablozunigac.github.io/"></a>**
+**<a href="https://pablozunigac.github.io/">pablozunigac.github.io</a>**
 
 ---
 
