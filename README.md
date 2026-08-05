@@ -1,4 +1,4 @@
-# Pablo Zúñi
+# Pablo Zúñiga  
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
 Data Modeling · Applied Statistics · Complex Systems  
 `Remote` · `Based in Chile` · `Eastern Time Aligned`**  
