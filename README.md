@@ -1,6 +1,6 @@
 # GitHub Pages Professional Positioning Platform
 
-### About the Autor
+### Pablo, The Repository Architect
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
 Data Modeling · Applied Statistics · Complex Systems  
 `Remote` · `Based in Chile` · `Eastern Time Aligned`**  
