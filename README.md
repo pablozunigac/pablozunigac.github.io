@@ -1,6 +1,6 @@
 # GitHub Pages Professional Positioning Platform
 
-### Pablo, The Engineer Behind the Code
+### Pablo Zúñiga
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
 Data Modeling · Applied Statistics · Complex Systems  
 `Remote` · `Based in Chile` · `Eastern Time Aligned`**  
@@ -10,7 +10,7 @@ Data Modeling · Applied Statistics · Complex Systems
 
 ---
 
-### GitHub Pages Infrastructure (`pablozunigac.github.io`)
+### GitHub Pages Infrastructure: `pablozunigac.github.io`
 Architected under a strict Doc-as-Code framework, this repository serves as the single source of truth for my professional metadata, web endpoints, and CI/CD-compiled artifacts.
 
 * `README.md` — Repository entry point and architecture schema.
