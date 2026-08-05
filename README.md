@@ -1,7 +1,3 @@
----
-permalink: /README.md
----
-
 # GitHub Pages Professional Positioning Platform
 
 ### Pablo Zúñiga
