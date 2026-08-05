@@ -1,4 +1,4 @@
-e<p align="center">
+<p align="center">
 <b><a href="https://pablozunigac.github.io">Inicio (EN)</a></b>&nbsp;&nbsp;|&nbsp;
 <b><a href="https://pablozunigac.github.io/es/cv-pablo-zuniga.pdf">Versión PDF</a></b>&nbsp;&nbsp;|&nbsp;
 <b><a href="https://github.com/pablozunigac">Perfil GitHub ↗</a></b>&nbsp;&nbsp;|&nbsp;
