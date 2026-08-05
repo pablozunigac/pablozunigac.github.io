@@ -81,10 +81,6 @@ To ensure efficient coordination and immediate access to my ecosystem, I leverag
     Official academic repository, university degree background, and formal engineering validations.
 
 ---
-  
-**Last Update:** 03-08-2026, 09:47 UTC</span>  
-**© 2026 Pablo Zúñiga Carvajal.** All rights reserved.
 
-  <!-- colores:
-         negro: #383838
-         verde: #b7bf5c -->
+**Last Update:** <span id="footer_timestamp">05-08-2026, 02:41 UTC</span>  
+**© 2026 Pablo Zúñiga Carvajal.** All rights reserved.
