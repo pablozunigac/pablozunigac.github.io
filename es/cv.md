@@ -9,7 +9,7 @@
 ---
 
 **Ingeniero Civil Industrial  
-Pontificia Universidad Católica de Valparaíso  
+Pontificia Universidad Católica de Valparaí   
 Modelado de Datos · Estadística Aplicada · Sistemas Complejos  
 Remoto · Valparaíso, Chile (UTC-4) · Relocalización Internacional Negociable**
 
