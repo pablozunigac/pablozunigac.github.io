@@ -1,4 +1,4 @@
-<p align="center">
+e<p align="center">
   <span style="font-size: 1em; color: #57606a;"></span> 
   <span style="background-color: #d2e7fc; border: 1px solid #d2e7fc; padding: 2px 6px; border-radius: 6px; font-size: 0.85em;">
     <a href="https://pablozunigac.github.io/en/resume.html" style="text-decoration: none; color: #2B64CF; font-weight: 600;">One-Page Resume (US)</a>
@@ -82,5 +82,7 @@ To ensure efficient coordination and immediate access to my ecosystem, I leverag
 
 ---
 
-**Last Update:** <span id="footer_timestamp">05-08-2026, 02:41 UTC</span>  
+<!-- TIMESTAMP_START -->
+**Last Update:** <span id="footer_timestamp">05-08-2026, 02:41 UTC</span>
+<!-- TIMESTAMP_END -->
 **© 2026 Pablo Zúñiga Carvajal.** All rights reserved.
