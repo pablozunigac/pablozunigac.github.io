@@ -24,10 +24,10 @@ Valparaíso, Chile · [ESTA](https://cl.usembassy.gov/visa-waiver-program/) & [H
 
 ## TECHNICAL SKILLS
 
-* **Enterprise Data Architecture & Ontologies**  
-ETL/ELT Pipelines, Metadata & Ontology Modeling, Data Governance, Enterprise Lineage, Relational Databases, Spatial Data Infrastructure (.gpx, .fit, .kmz), REST APIs
 * **Code Languages & Advanced Analytics**  
 Python (Pandas, NumPy, SciPy), R (Quarto, Tidyverse, Tsibble), SQL, VBA, Statistical & Inferential Modeling, Time-Series Analysis, Linear & Integer Programming (LINGO, LINDO, MS Excel Solver, What’sBest!), Stochastic Simulation & Monte Carlo Methods (@RISK, Crystal Ball)
+* **Enterprise Data Architecture & Ontologies**  
+ETL/ELT Pipelines, Metadata & Ontology Modeling, Data Governance, Enterprise Lineage, Relational Databases, Spatial Data Infrastructure (.gpx, .fit, .kmz), REST APIs
 * **Infrastructure, Cloud & Orchestration**  
 Git/GitHub, Cloud Systems (MS Azure), Distributed Protocols (Web3/On-Chain), Environment Orchestration, Object-Oriented Programming (OOP)
 * **Systems Architecture & Technical Tooling**  
@@ -52,8 +52,7 @@ Complex Systems Modeling, BPMN, Process Engineering, Systems Diagramming (UML), 
 **Decentralized Systems & Protocols** | *On-Chain Operations Specialist* | Remote  
 *Jan 2020 – Jul 2022*
 {: style="margin-bottom: 6px;"}
-* Managed multi-sig and non-custodial treasury assets (**$10k–$50k+**) across Polkadot, Ethereum, and BSC networks.
-* Executed dynamic gas optimization, cross-chain messaging, and smart contract utilities serving **1,100+ active users**.
+* Managed multi-sig treasury architecture ($50k+) across Polkadot, Ethereum, and BSC. Executed dynamic gas optimization, cross-chain messaging, and smart contract coordination for 1,100+ concurrent users.
 
 **Banco de Crédito e Inversiones** | *Process Engineer (Data Governance)* | Santiago, Chile  
 *May 2019 – Sep 2019*
