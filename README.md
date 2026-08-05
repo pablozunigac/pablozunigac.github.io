@@ -13,11 +13,11 @@ Data Modeling · Applied Statistics · Complex Systems
 ### GitHub Pages Infrastructure (pablozunigac.github.io)
 Architected under a strict Doc-as-Code framework, this repository serves as the single source of truth for my professional metadata, web endpoints, and CI/CD-compiled artifacts.
 
-`README.md` — Repository entry point and architecture schema.
-`index.md` — Core web profile and professional metadata portal (profile, contact, positioning, credentials and distributed portfolio componenets).
-`./en` — One-page resume ecosystem targeting US/Global markets (Markdown + PDF pipeline).
-`./es` — Extended CV infrastructure for LatAm & Spain enterprise markets (Markdown + PDF pipeline).
-`.github` — Automated CI/CD workflows for metadata synchronization and document compilation.
+`README.md` — Repository entry point and architecture schema.  
+`index.md` — Core web profile and professional metadata portal (profile, contact, positioning, credentials and distributed portfolio componenets).  
+`./en` — One-page resume ecosystem targeting US/Global markets (Markdown + PDF pipeline).  
+`./es` — Extended CV infrastructure for LatAm & Spain enterprise markets (Markdown + PDF pipeline).  
+`.github` — Automated CI/CD workflows for metadata synchronization and document compilation.  
 
 ---
 
