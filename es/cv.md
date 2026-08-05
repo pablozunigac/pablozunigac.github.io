@@ -22,7 +22,7 @@ Ingeniero Civil Industrial especializado en el diseño, la validación técnica 
 * Arquitectura y Gobernanza de Datos
 * Estadística Aplicada a Sistemas Complejos
 * Modelamiento y Optimización de Procesos de Negocio (BPMN, UML)
-* Gestión del Conocimiento y Documentación Técnica Avanzada (Doc-as-Code)
+* Gestión del Conocimiento y Documentación Técnica Avanzada (_Doc-as-Code_)
 
 ---
 
@@ -54,11 +54,11 @@ Consultor Independiente
 Julio 2022 – Presente / Remoto – Región de Valparaíso – Región Metropolitana**  
 {: style="margin-bottom: 0;"}  
 * **Proyecto Ancla › _Analítica Telemétrica para running en Triatlón_**
-  * Modelado de Series de Tiempo
+  * **Modelado de Series de Tiempo**  
     Ajuste de funciones a telemetría de running (400m a 21.1km) para la cuantificación de brechas fisiológicas y la prescripción de ritmos en triatlón.
-  * Benchmark Poblacional
-    Análisis de desviaciones respecto a medidas de tendencia central y outliers por grupo de edad sobre cohortes de +1.8k competidores.
-  * Análisis Exploratorio Contextual
+  * **_Benchmark_ Poblacional**  
+    Análisis de desviaciones respecto a medidas de tendencia central y _outliers_ por grupo de edad sobre cohortes de +1.8k competidores.
+  * **Análisis Exploratorio Contextual**  
     Evaluación de variabilidad estadística según impacto de altimetría, condiciones climáticas y dinámicas en transiciones.
 
 * **Otros Proyectos/Servicios:**
