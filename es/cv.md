@@ -1,4 +1,4 @@
-<p align="center">
+e<p align="center">
 <b><a href="https://pablozunigac.github.io">Inicio (EN)</a></b>&nbsp;&nbsp;|&nbsp;
 <b><a href="https://pablozunigac.github.io/es/cv-pablo-zuniga.pdf">Versión PDF</a></b>&nbsp;&nbsp;|&nbsp;
 <b><a href="https://github.com/pablozunigac">Perfil GitHub ↗</a></b>&nbsp;&nbsp;|&nbsp;
@@ -163,5 +163,5 @@ Expositor Técnico – Curso: Análisis Financiero de Títulos de Renta Variable
 
 ---
 
-**Última Actualización:** <span id="footer_timestamp">05-08-2026, 02:41 UTC</span>  
-**© 2026 Pablo Zúñiga Carvajal.** Todos los derechos reservados.  
+**Last Update:** <span id="footer_timestamp">05-08-2026, 06:38 UTC</span>  
+**© 2026 Pablo Zúñiga Carvajal.** Todos los derechos reservados.
