@@ -10,7 +10,13 @@
 
 **Ingeniero Civil Industrial  
 Pontificia Universidad Católica de Valparaíso  
-Región de Valparaíso, Chile**
+Modelado de Datos · Estadística Aplicada · Sistemas Complejas  
+Valparaíso, Chile (GMT-4) · Relocalización Internacional Negociable**
+
+
+Pontificia Universidad Católica de Valparaíso
+Data Modeling · Applied Statistics · Complex Systems Thinking
+Valparaíso, Chile – ESTA & H-1B1 Visa Eligible
 
 ## Perfil Profesional  
 
