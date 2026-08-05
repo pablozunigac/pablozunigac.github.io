@@ -1,60 +1,37 @@
-name: Automated Resume Timestamp Update
+name: Update Footer Timestamp
 
-# Triggers the workflow on every push event to targeted branches
+concurrency:
+  group: timestamp-${{ github.ref }}
+  cancel-in-progress: true
+
 on:
   push:
-    branches: [ i18n ]
+    branches: [ main ]
     paths:
-    - 'README2.md'
-    - 'index2.md'
-    - 'resume2.md'
+      - 'README.md'
+      - 'index.md'
+      - 'en/resume.md'
+      - 'es/cv.md'
 
 jobs:
   update-timestamp:
     runs-on: ubuntu-latest
-    
     permissions:
       contents: write
 
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v4
-      with:
-        fetch-depth: 2 # <- OBLIGATORIO: Trae los últimos dos commits para poder compararlos
+      - uses: actions/checkout@v4
 
-    # Ensures Spanish locale is installed on the Ubuntu runner
-    - name: Set up Spanish Locale
-      run: |
-        sudo locale-gen es_CL.UTF-8
-        sudo update-locale
-    
-    - name: Inject Current Date and Time into Markdown
-      run: |
-        # Fetch current date and time
-        CURRENT_DATE=$(date -u +'%d-%m-%Y, %H:%M UTC')
+      - name: Update Timestamp in Changed Files
+        run: |
+          TIMESTAMP=$(date -u +'%d-%m-%Y, %H:%M UTC')
+          
+          # Filtra archivos modificados en este commit que estén en la lista objetivo
+          git diff-tree --no-commit-id --name-only -r ${{ github.sha }} \
+            | grep -xE 'es/cv\.md|en/resume\.md|index\.md|README\.md' \
+            | xargs -r sed -i "s|<span id=\"footer_timestamp\">.*<\/span>|<span id=\"footer_timestamp\">${TIMESTAMP}<\/span>|g"
 
-        echo "=== Auditando archivos modificados ==="
-        
-        # Obtiene la lista de nombres de archivos que cambiaron en el último push
-        CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD)
-
-        # Itera únicamente sobre los archivos que sufrieron cambios reales
-        for FILE in $CHANGED_FILES; do
-          # Valida si el archivo modificado es uno de nuestros objetivos estipulados
-          if [ "$FILE" = "README.md" ] || [ "$FILE" = "index.md" ] || [[ "$FILE" == *"resume.md" ]]; then
-            # Verifica si el archivo físicamente existe en el workspace actual antes de operar
-            if [ -f "$FILE" ]; then
-              echo "Inyectando marca de tiempo en: $FILE"
-              sed -i "s|<span id=\"timestamp\">.*<\/span>|<span id=\"timestamp\">$CURRENT_DATE<\/span>|g" "$FILE"
-            fi
-          fi
-        done
-
-    - name: Commit and Push Timestamp Changes
-      run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        
-        # Commits and pushes changes back. '|| exit 0' prevents failure if no content changed
-        git commit -am "Bot: Automatically updated last modification timestamp with hours, minutes, and seconds" || exit 0
-        git push
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: auto-update footer timestamp [skip ci]"
+          file_pattern: "es/cv.md en/resume.md index.md README.md"
