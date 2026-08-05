@@ -8,10 +8,10 @@ on:
   push:
     branches: [ main ]
     paths:
-      - 'README.md'
-      - 'index.md'
-      - 'en/resume.md'
       - 'es/cv.md'
+      - 'en/resume.md'
+      - 'index.md'
+      - 'README.md'
 
 jobs:
   update-timestamp:
@@ -21,15 +21,17 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2 # Necesario para comparar HEAD con el commit previo (HEAD~1)
 
       - name: Update Timestamp in Changed Files
         run: |
           TIMESTAMP=$(date -u +'%d-%m-%Y, %H:%M UTC')
-          
-          # Filtra archivos modificados en este commit que estén en la lista objetivo
-          git diff-tree --no-commit-id --name-only -r ${{ github.sha }} \
+
+          # Identifica los archivos cambiados en este push
+          git diff --name-only HEAD~1 HEAD \
             | grep -xE 'es/cv\.md|en/resume\.md|index\.md|README\.md' \
-            | xargs -r sed -i "s|<span id=\"footer_timestamp\">.*<\/span>|<span id=\"footer_timestamp\">${TIMESTAMP}<\/span>|g"
+            | xargs -r sed -i "s|<span id=\"footer_timestamp\">[^<]*</span>|<span id=\"footer_timestamp\">${TIMESTAMP}</span>|g"
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
