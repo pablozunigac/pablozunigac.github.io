@@ -22,7 +22,6 @@ jobs:
         run: |
           TIMESTAMP=$(date -u +'%d-%m-%Y, %H:%M UTC')
           
-          # Lista exacta de archivos a auditar
           FILES=("es/cv.md" "en/resume.md" "index.md" "README.md")
           
           for FILE in "${FILES[@]}"; do
@@ -34,3 +33,6 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "docs: auto-update timestamp [skip ci]"
+          git_action_options: '--no-verify'
+          # ESTA LÍNEA ES LA CLAVE: sincroniza con el remoto antes de pushear
+          git_pull_args: '--rebase --autostash'
