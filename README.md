@@ -1,4 +1,6 @@
-# Pablo Zúñiga  
+# Pablo Zúñiga GitHub Page
+
+### About the Autor
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
 Data Modeling · Applied Statistics · Complex Systems  
 `Remote` · `Based in Chile` · `Eastern Time Aligned`**  
@@ -8,10 +10,14 @@ Data Modeling · Applied Statistics · Complex Systems
 
 ---
 
-### About Me
-Polymath, techno-agnostic engineer designing the underlying structures that make complex work coherent, navigable, and executable. I build governance frameworks, information architectures, and operational systems that reduce coordination friction, improve decision quality, and preserve systemic integrity under conditions of scale, complexity, and ambiguity.
+### GitHub Pages Infrastructure (pablozunigac.github.io)
+Architected under a strict Doc-as-Code framework, this repository serves as the single source of truth for my professional metadata, web endpoints, and CI/CD-compiled artifacts.
 
-**Core Areas:** Statistics, Systems Theory, Operations Research, Econometrics, Systems Modeling.
+`README.md` — Repository entry point and architecture schema.
+`index.md` — Core web profile and professional metadata portal (profile, contact, positioning, credentials and distributed portfolio componenets).
+`./en` — One-page resume ecosystem targeting US/Global markets (Markdown + PDF pipeline).
+`./es` — Extended CV infrastructure for LatAm & Spain enterprise markets (Markdown + PDF pipeline).
+`.github` — Automated CI/CD workflows for metadata synchronization and document compilation.
 
 ---
 
