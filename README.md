@@ -1,6 +1,6 @@
 # GitHub Pages Professional Positioning Platform
 
-### Pablo, The Repository Architect
+### Pablo, The Engineer Behind de Code
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
 Data Modeling · Applied Statistics · Complex Systems  
 `Remote` · `Based in Chile` · `Eastern Time Aligned`**  
@@ -17,7 +17,7 @@ Architected under a strict Doc-as-Code framework, this repository serves as the 
 * `index.md` — Professional metadata web portal (profile, positioning, credentials and portfolio-grade components).
 * `./en` — One-page resume ecosystem targeting US/Global markets (Markdown + PDF pipeline).
 * `./es` — Extended CV infrastructure for LatAm & Spain enterprise markets (Markdown + PDF pipeline).
-* `.github` — Automated CI/CD workflows for metadata synchronization and document compilation.  
+* `.github` — Automated CI/CD workflows (GitHub Actions) for metadata synchronization and document compilation. 
 
 ---
 
