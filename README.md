@@ -15,5 +15,5 @@ Polymath engineer designing the underlying structures that make complex work coh
 
 ---
 
-**Última Actualización:** <span id="footer_timestamp">05-08-2026, 02:41 UTC</span>  
+**Last Update:** <span id="footer_timestamp">05-08-2026, 02:41 UTC</span>  
 **© 2026 Pablo Zúñiga Carvajal.** Todos los derechos reservados.
