@@ -20,30 +20,37 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Update Timestamp & Push Directly
+      - name: Update Timestamp (Only Edited File)
         run: |
-          # 1. Configurar usuario bot
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # 2. Generar fecha UTC
           TIMESTAMP=$(date -u +'%d-%m-%Y, %H:%M UTC')
 
-          # 3. Inyectar timestamp en los archivos
-          FILES=("es/cv.md" "en/resume.md" "index.md" "README.md")
-          for FILE in "${FILES[@]}"; do
-            if [ -f "$FILE" ]; then
-              sed -i "s|<span id=\"footer_timestamp\">.*</span>|<span id=\"footer_timestamp\">${TIMESTAMP}</span>|g" "$FILE"
+          # 1. Obtiene la lista exacta de archivos modificados exclusivamente en el commit del push
+          CHANGED_FILES=$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }})
+
+          # Lista delimitada de archivos objetivo permitidos
+          TARGETS="es/cv.md en/resume.md index.md README.md"
+
+          # 2. Itera únicamente sobre los archivos que efectivamente cambiaron en tu push
+          for FILE in $CHANGED_FILES; do
+            if echo "$TARGETS" | grep -qw "$FILE"; then
+              if [ -f "$FILE" ]; then
+                echo "Actualizando timestamp solo en: $FILE"
+                sed -i "s|<span id=\"footer_timestamp\">.*</span>|<span id=\"footer_timestamp\">${TIMESTAMP}</span>|g" "$FILE"
+                git add "$FILE"
+              fi
             fi
           done
 
-          # 4. Verificar si hubo cambios reales en el workspace
-          if git diff --quiet; then
-            echo "Sin cambios detectados en el timestamp."
+          # 3. Si no hay archivos en stage, termina sin hacer commit
+          if git diff --staged --quiet; then
+            echo "Ningún archivo objetivo requiere actualización."
             exit 0
           fi
 
-          # 5. Commit + Sincronización estricta antes del push
-          git commit -am "docs: auto-update timestamp [skip ci]"
+          # 4. Commit y Push atómico
+          git commit -m "docs: auto-update timestamp [skip ci]"
           git pull --rebase origin main
           git push origin main
