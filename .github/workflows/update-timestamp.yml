@@ -2,7 +2,7 @@ name: Update Footer Timestamp
 
 on:
   push:
-    branches: [ main, master ]
+    branches: [ main ]
     paths:
       - 'es/cv.md'
       - 'en/resume.md'
@@ -17,18 +17,20 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: Update Timestamp
+      - name: Update Timestamp in Markdown Files
         run: |
           TIMESTAMP=$(date -u +'%d-%m-%Y, %H:%M UTC')
           
-          # Actualiza ÚNICAMENTE los archivos que el usuario modificó en su push
-          git diff --name-only HEAD~1 | grep -E '^(es/cv\.md|en/resume\.md|index\.md|README\.md)$' | while read -r FILE; do
-            sed -i "s|<span id=\"footer_timestamp\">.*</span>|<span id=\"footer_timestamp\">${TIMESTAMP}</span>|g" "$FILE"
+          # Lista exacta de archivos a auditar
+          FILES=("es/cv.md" "en/resume.md" "index.md" "README.md")
+          
+          for FILE in "${FILES[@]}"; do
+            if [ -f "$FILE" ]; then
+              sed -i "s|<span id=\"footer_timestamp\">.*</span>|<span id=\"footer_timestamp\">${TIMESTAMP}</span>|g" "$FILE"
+            fi
           done
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "docs: update timestamp"
+          commit_message: "docs: auto-update timestamp [skip ci]"
