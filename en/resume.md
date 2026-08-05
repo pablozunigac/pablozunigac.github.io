@@ -90,3 +90,8 @@ Industrial & Systems Engineering (Integrated 6-Year Program – BSc & MSc Equiva
 Instructed Applied Data Science, MIS, and Quantitative Mathematics for 100+ engineering students (2018–2021).
 * **Technical Instructor (BancoEstado / UTFSM)**  
 Delivered time-series analytics and high-frequency financial modeling training to institutional trading desk staff.
+
+---
+
+**Última Actualización:** <span id="footer_timestamp">05-08-2026, 02:41 UTC</span>  
+**© 2026 Pablo Zúñiga Carvajal.** Todos los derechos reservados.  
