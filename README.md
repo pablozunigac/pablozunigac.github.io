@@ -3,10 +3,8 @@
 ### Pablo Zúñiga
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
 Data Modeling · Applied Statistics · Complex Systems  
-`Remote` · `Based in Chile` · `Eastern Time Aligned`**  
-**<a href="https://pablozunigac.github.io/">pablozunigac.github.io</a>**
-&nbsp;|&nbsp;
-**<a href="mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Contact">pablo.zuniga.c@gmail.com</a>**
+`Remote` · `Based in Chile` · `Eastern Time Aligned`   
+Streamlined US Deployment via [H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) & [ESTA](https://cl.usembassy.gov/visa-waiver-program/)**
 
 ---
 
