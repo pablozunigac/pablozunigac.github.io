@@ -15,7 +15,7 @@
 
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
 Pontificia Universidad Católica de Valparaíso  
-Data Modeling · Applied Statistics · Complex Systems Thinking  
+Data Modeling · Applied Statistics · Complex Systems  
 Remote · Based in Chile · Eastern Time Aligned  
 Streamlined US Deployment via <a href="https://www.dol.gov/agencies/whd/immigration/h1b1">H-1B1</a> & <a href="https://cl.usembassy.gov/visa-waiver-program/">ESTA</a>**
 
