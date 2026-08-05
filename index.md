@@ -4,10 +4,9 @@
     <a href="https://pablozunigac.github.io/en/resume.html" style="text-decoration: none; color: #2B64CF; font-weight: 600;">US Market (Resume)</a>
     <span style="color: #d0d7de; margin: 0 3px;">|</span>
     <a href="https://pablozunigac.github.io/es/cv.html" style="text-decoration: none; color: #2B64CF; font-weight: 600;">LATAM (CV)</a>
-  </span>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b><a href="https://github.com/pablozunigac" style="text-decoration: none; color: #2B64CF; font-weight: 600;">GitHub Profile ↗</a></b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b><a href="mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Connection">Send Email ↗</a></b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  </span>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <b><a href="https://github.com/pablozunigac" style="text-decoration: none; color: #2B64CF; font-weight: 600;">GitHub Profile ↗</a></b>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <b><a href="mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Connection">Send Email ↗</a></b>&nbsp;&nbsp;|&nbsp;&nbsp;
   <b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo">Scheduling ↗</a></b>
 </p>
 
