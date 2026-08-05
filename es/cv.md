@@ -19,9 +19,10 @@ Ingeniero Civil Industrial especializado en el diseño, la validación técnica 
 
 **Áreas de Dominio Técnico**
 {: style="margin-bottom: 0;"}
-* Arquitectura y Gobernanza de Datos (Pipelines ETL/ELT, Metadatos, Control de Versiones)
-* Modelado de Sistemas Complejos y Optimización Cuantitativa
-* Diseño y Optimización de Procesos (BPMN/UML)
+* Arquitectura y Gobernanza de Datos
+* Estadística Aplicada a Sistemas Complejos
+* Modelamiento y Optimización de Procesos de Negocio (BPMN, UML)
+* Gestión del Conocimiento y Documentación Técnica Avanzada (Doc-as-Code)
 
 ---
 
@@ -53,7 +54,13 @@ Consultor Independiente
 Julio 2022 – Presente / Remoto – Región de Valparaíso – Región Metropolitana**  
 {: style="margin-bottom: 0;"}  
 * **Proyecto Ancla › _Analítica Telemétrica para running en Triatlón_**
-Modelado de datos telemétricos de running mediante ajuste de funciones a series de tiempo de ritmo-distancia (**400m a 21.1km**) para la cuantificación de brechas fisiológicas y la prescripción de ritmos en triatlones de mediana y larga distancia, basado en las desviaciones observadas entre la telemetría, las medidas de tendencia central (**+1.8k competidores**) y outliers de cada grupo de edad. Análisis exploratorio de la variabilidad estadística según variables contextuales (clima, altimetría del circuito y transiciones).
+  * Modelado de Series de Tiempo
+    Ajuste de funciones a telemetría de running (400m a 21.1km) para la cuantificación de brechas fisiológicas y la prescripción de ritmos en triatlón.
+  * Benchmark Poblacional
+    Análisis de desviaciones respecto a medidas de tendencia central y outliers por grupo de edad sobre cohortes de +1.8k competidores.
+  * Análisis Exploratorio Contextual
+    Evaluación de variabilidad estadística según impacto de altimetría, condiciones climáticas y dinámicas en transiciones.
+
 * **Otros Proyectos/Servicios:**
   * Diseño de arquitecturas de información y bases de datos relacionales en Notion (_<a href="https://www.notion.com/product/sites">notion.site</a>_).
   * Documentación técnica de sistemas mediante Markdown y control de versiones mediante Git.
@@ -93,25 +100,15 @@ Julio 2017 – Diciembre 2017 / Viña del Mar, Región de Valparaíso**
 {: style="margin-bottom: 0;"}
 * Coordinación bajo estándar PMO y ejecución mediante metodologías ágiles (Kanban, SCRUM) para la generación de métricas que soportan el mantenimiento de la red de agua potable de la región.
 
-## Prácticas e Inicios Profesionales
+## Experiencia Profesional Temprana
 
 **Empresa Nacional de Minería (ENAMI) – División de Finanzas y Administración  
 Práctica Profesional de Ingeniería  
 Enero 2016 – Marzo 2016 / Región Metropolitana – Región de Atacama**
-{: style="margin-bottom: 0;"}
-* Análisis exploratorio y consolidación de datos sobre el inventario minero-metalúrgico nacional (**+75k SKUs**) e identificación _in situ_ de **USD 2.5M** en inconsistencias contables para los procesos de auditoría y control financiero de nivel corporativo.
-{: style="margin-bottom: 0;"}
-* Diseño de estructuras de almacenamiento para la cadena de abastecimiento de la Fundición Hernán Videla Lira y despliegues gráficos en AutoCAD para la gestión del inventario nacional.
 
 **Antofagasta Minerals – Minera Los Pelambres – Superintendencia de Geotecnia  
 Práctica de Ingeniería   
 Enero 2014 – Marzo 2014 / Salamanca, Región de Coquimbo**
-{: style="margin-bottom: 0;"}
-* Monitoreo de procesos críticos en faena minera mediante captura, registro y trazabilidad de datos.
-{: style="margin-bottom: 0;"}
-* Consolidación de información de inspecciones y sistemas automatizados para la detección temprana de riesgos y desviaciones.
-{: style="margin-bottom: 0;"}
-* Elaboración de informes y registros históricos para el control de procesos, la continuidad operacional y el apoyo a decisiones en infraestructura minera crítica.  
 
 ---
 
@@ -151,15 +148,13 @@ Ingeniería Civil / 2007 – 2010 (_Estudios Fundamentales_)**
 Docente Invitado – Diplomado en Finanzas para la Toma de Decisiones  
 2019 / Valparaíso, Región de Valparaíso**
 {: style="margin-bottom: 0;"}
-* Diseño y relatoría de módulos avanzados de matemática financiera y evaluación de proyectos, enfocados en la utilización de Microsoft Excel para la formulación de flujos de caja, análisis de rentabilidad, cuantificación del riesgo y simulación de escenarios de eficiencia operativa.
+* Diseño y relatoría de módulos en matemática financiera y evaluación de proyectos, aplicando Excel avanzado para modelado de flujos de caja, simulación de riesgo y análisis de rentabilidad.
 
 **BancoEstado (_en convenio con Universidad Técnica Federico Santa María_)   
 Expositor Técnico – Curso: Análisis Financiero de Títulos de Renta Variable  
 2017, 2019 / Santiago de Chile, Región Metropolitana**
 {: style="margin-bottom: 0;"}
-* Relatoría en análisis técnico de títulos de renta variable en base a series de tiempo aplicadas a las operaciones de la Mesa de Dinero de BancoEstado.
-{: style="margin-bottom: 0;"}
-* Modelado de datos de alta frecuencia (OHLC), calibración de volatilidad y análisis exploratorio para decisiones cuantitativas en contextos financieros dinámicos.
+* Relatoría técnica sobre análisis de series de tiempo de alta frecuencia (OHLC) y calibración de volatilidad para soporte en decisiones cuantitativas de la Mesa de Dinero.
 
 ---
 
