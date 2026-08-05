@@ -3,8 +3,8 @@
 ### Pablo Zúñiga
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
 Data Modeling · Applied Statistics · Complex Systems  
-`Remote` · `Based in Chile` · `Eastern Time Aligned`**. 
-_Streamlined US Deployment via [H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) & [ESTA](https://cl.usembassy.gov/visa-waiver-program/)_
+`Remote` · `Based in Chile` · `Eastern Time Aligned`**  
+_**Streamlined US Deployment via [H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) & [ESTA](https://cl.usembassy.gov/visa-waiver-program/)**_
 
 ---
 
@@ -19,5 +19,5 @@ Architected under a strict Doc-as-Code framework, this repository serves as the 
 
 ---
 
-**Last Update:** <span id="footer_timestamp">05-08-2026, 23:15 UTC</span>  
+**Last Update:** <span id="footer_timestamp">05-08-2026, 23:13 UTC</span>  
 **© 2026 Pablo Zúñiga Carvajal.** All rights reserved.
