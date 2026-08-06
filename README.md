@@ -4,7 +4,8 @@
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
 Data Modeling · Applied Statistics · Complex Systems  
 `Remote` · `Based in Chile` · `Eastern Time Aligned`**  
-`International Relocation Ready` · `Fluent Spanish / English Professional Proficiency` · `US H-1B1/ESTA Eligible`**
+`International Relocation Ready` · `US H-1B1/ESTA Eligible`  
+`Native Spanish / Full Professional English`
 
 ---
 
@@ -49,5 +50,5 @@ The ultimate objective is not information, but understanding. Every framework, p
 **_Conceptual Foundations:_** `Decision Theory` · `Sensemaking` · `Organizational Learning`
 
 ---
-**Last Update:** <span id="footer_timestamp">06-08-2026, 03:32 UTC</span>  
+**Last Update:** <span id="footer_timestamp">06-08-2026, 03:23 UTC</span>  
 **© 2026 Pablo Zúñiga Carvajal.** All rights reserved.
