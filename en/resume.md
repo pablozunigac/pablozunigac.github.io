@@ -25,7 +25,7 @@ Valparaíso, Chile · [ESTA](https://cl.usembassy.gov/visa-waiver-program/) & [H
 ## TECHNICAL SKILLS
 
 * **Code Languages & Advanced Analytics**  
-Python (Pandas, NumPy, SciPy), R (Quarto, Tidyverse, Tsibble), SQL, VBA, Statistical & Inferential Modeling, Time-Series Analysis, Linear & Integer Programming (LINGO, LINDO, MS Excel Solver, What’sBest!), Stochastic Simulation & Monte Carlo Methods (@RISK, Crystal Ball)
+Python (Pandas, NumPy, SciPy), R (Quarto, Tidyverse, Tsibble), SQL, Statistical & Inferential Modeling, Time-Series Analysis, Linear & Integer Programming, Stochastic Simulation & Monte Carlo Methods
 * **Enterprise Data Architecture & Ontologies**  
 ETL/ELT Pipelines, Metadata & Ontology Modeling, Data Governance, Enterprise Lineage, Relational Databases, Spatial Data Infrastructure (.gpx, .fit, .kmz), REST APIs
 * **Infrastructure, Cloud & Orchestration**  
