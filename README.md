@@ -1,4 +1,4 @@
-# Pablo Zúñiga – Professional Positioning System
+# Professional Positioning System
 
 ## Pablo Zúñiga
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
