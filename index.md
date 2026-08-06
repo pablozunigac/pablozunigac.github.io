@@ -37,6 +37,7 @@ Design and implementation of automated pipelines (ETL/ELT) and metadata architec
     <span style="background-color: #9d9d9e; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">OOP</span>
     <span style="background-color: #9d9d9e; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">REST API</span>
   </div>
+
 * **Advanced Analytics & Modeling**  
 Statistical and inferential modeling, alongside time-series analysis, applied to risk mitigation and resource optimization across critical infrastructure sectors (such as mining, energy, and regulated utilities).  
   <div style="font-family: monospace; font-size: 1em; margin-top: 3px;">
@@ -46,6 +47,7 @@ Statistical and inferential modeling, alongside time-series analysis, applied to
     <span style="background-color: #9d9d9e; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Python</span>
     <span style="background-color: #9d9d9e; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">R</span>
   </div>
+
 * **Data Governance & Knowledge Management**  
 Structuring integrated management control systems and technical documentation under agile methodologies, ensuring operational continuity and end-to-end traceability in high-complexity projects.  
   <div style="font-family: monospace; font-size: 1em; margin-top: 3px;">
@@ -80,5 +82,5 @@ To ensure efficient coordination and immediate access to my ecosystem, I leverag
 
 ---
 
-**Last Update:** <span id="footer_timestamp">06-08-2026, 05:17 UTC</span>  
+**Last Update:** <span id="footer_timestamp">06-08-2026, 05:13 UTC</span>  
 **© 2026 Pablo Zúñiga Carvajal.** All rights reserved.
