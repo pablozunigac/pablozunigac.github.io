@@ -10,7 +10,7 @@
 
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
 Pontificia Universidad Católica de Valparaíso  
-Data Modeling · Applied Statistics · Complex System      
+Data Modeling · Applied Statistics · Complex Systems      
 Valparaíso, Chile · International Relocation Ready · US [H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) & [ESTA](https://cl.usembassy.gov/visa-waiver-program/) Eligible**
 
 ---
