@@ -1,4 +1,4 @@
-# Pablo Zuñiga – Professional Positioning System
+# Pablo Zúñiga – Professional Positioning System
 
 ### Pablo Zúñiga
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
@@ -22,7 +22,8 @@ Architected under a strict Doc-as-Code framework, this repository serves as the 
 ### Distributed Knowledge Network & Live Nodes
 Anchored within `index.md`, this interface serves as the primary access layer to a distributed network of live Notion-backed knowledge nodes, providing real-time access to operational frameworks, architectural manifestos, and verified academic credentials.
 
-`index.md` — Central web portal and routing layer. Serves as the single access point for professional metadata and bridges static endpoints with three live, specialized Notion knowledge nodes (Strategic Dossier, Systems Metaportfolio, and Formal Academic Credentials).
+#### Central Web Portal and Routing Layer: `index.md`
+This file serves as the single access point for professional metadata and bridges static endpoints with three live, specialized Notion knowledge nodes (Strategic Dossier, Systems Metaportfolio, and Formal Academic Credentials).
 
 * `Strategic Positioning Dossier` — Comprehensive breakdown of consulting frameworks and market-facing capabilities.
 * `Systems & Engineering Metaportfolio` — Architectural deep-dive into complex systems modeling and execution patterns.
