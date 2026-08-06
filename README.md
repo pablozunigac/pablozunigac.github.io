@@ -36,17 +36,17 @@ Beyond compiled document artifacts, `index.md` acts as the primary gateway to a 
 #### Logic as Infrastructure
 The foundation of every effective system is structure. Before information can be communicated, analyzed, or acted upon, it must first be organized through clear definitions, relationships, and boundaries. My work begins by transforming ambiguity into coherent architectures that make complexity understandable, navigable, and operationally useful.  
 
-**Conceptual foundations:** `Set Theory` · `Ontologies` · `Systems Theory`
+**_Conceptual Foundations:_** `Set Theory` · `Ontologies` · `Systems Theory`
 
 #### Language as the Interface
 Systems only create value when people can interact with them effectively. Language serves as the interface between structure and execution, shaping how information is interpreted, communicated, and applied. Through semantic precision, documentation, and information design, I build environments where coordination becomes clearer, faster, and more reliable.  
 
-**Conceptual foundations:** `Semantics` · `Information Architecture` · `Human–Computer Interaction`
+**_Conceptual Foundations:_** `Semantics` · `Information Architecture` · `Human–Computer Interaction`
 
 #### Meaning as the Product
 The ultimate objective is not information, but understanding. Every framework, process, document, or model exists to support better decisions and more coherent action. Meaning emerges when structure and communication align, transforming complexity into insight and insight into tangible outcomes.  
 
-**Conceptual foundations:** `Decision Theory` `Sensemaking` `Organizational Learning`
+**_Conceptual foundations:_** `Decision Theory` `Sensemaking` `Organizational Learning`
 
 ---
 **Last Update:** <span id="footer_timestamp">06-08-2026, 03:06 UTC</span>  
