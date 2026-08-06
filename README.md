@@ -13,8 +13,8 @@ Architected under a strict Doc-as-Code framework, this repository serves as the 
 
 * `README.md` — Repository entry point and architecture schema. (You are here!)
 * `index.md` — Professional metadata web portal (profile, positioning, credentials and portfolio-grade components).
-* `./en` — One-page resume ecosystem targeting US/Global markets (Markdown + PDF pipeline).
-* `./es` — Extended CV infrastructure for LatAm & Spain enterprise markets (Markdown + PDF pipeline).
+* `./en` — One-page Resume infrastructure: compiles & deploys dual Web/PDF endpoints for US/Global markets.
+* `./es` — Extended CV infrastructure: compiles & deploys dual Web/PDF endpoints for LatAm & EU/Spain markets.
 * `.github` — Automated CI/CD workflows (GitHub Actions) for metadata synchronization and document compilation. 
 
 ---
