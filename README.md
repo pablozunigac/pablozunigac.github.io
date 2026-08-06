@@ -1,4 +1,4 @@
-# GitHub Pages Professional Positioning Repo
+# GitHub Pages Professional Positioning System
 
 ### Pablo Zúñiga
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
