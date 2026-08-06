@@ -11,7 +11,7 @@
 **Ingeniero Civil Industrial  
 Pontificia Universidad Católica de Valparaíso  
 Modelado de Datos · Estadística Aplicada · Sistemas Complejos  
-Valparaíso, Chile (UTC-4) · Relocalización Internacional Negociable**
+Valparaíso, Chile (UTC-4) · Disponibilidad para Relocalización Internacional**
 
 ## Perfil Profesional  
 
