@@ -46,7 +46,7 @@ Systems only create value when people can interact with them effectively. Langua
 #### Meaning as the Product
 The ultimate objective is not information, but understanding. Every framework, process, document, or model exists to support better decisions and more coherent action. Meaning emerges when structure and communication align, transforming complexity into insight and insight into tangible outcomes.  
 
-**_Conceptual foundations:_** `Decision Theory` `Sensemaking` `Organizational Learning`
+**_Conceptual Foundations:_** `Decision Theory` `Sensemaking` `Organizational Learning`
 
 ---
 **Last Update:** <span id="footer_timestamp">06-08-2026, 03:06 UTC</span>  
