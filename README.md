@@ -33,7 +33,7 @@ Beyond compiled document artifacts, `index.md` acts as the primary gateway to a 
 
 <details>
 <summary>
-  ### Strategic Manifesto: Logic, Language & Meaning
+  <h3>Strategic Manifesto: Logic, Language & Meaning</h3>
 </summary>
 
 #### Logic as Infrastructure
@@ -54,5 +54,5 @@ The ultimate objective is not information, but understanding. Every framework, p
 </details>
 
 ---
-**Last Update:** <span id="footer_timestamp">06-08-2026, 03:02 UTC</span>  
+**Last Update:** <span id="footer_timestamp">06-08-2026, 03:00 UTC</span>  
 **© 2026 Pablo Zúñiga Carvajal.** All rights reserved.
