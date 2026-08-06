@@ -22,13 +22,13 @@ Based in Chile · Eastern Time Aligned**
 ---
 
 ### High-complexity environments, distributed teams, and cross-functional workflows
-
+{: style="margin-bottom: 6;"}
 Designing the underlying structures that make complex work coherent, navigable, and executable. I build governance frameworks, information architectures, and operational systems that reduce coordination friction, improve decision quality, and preserve systemic integrity under conditions of scale, complexity, and ambiguity.
 
 ---
 
 ### Operational Focus & Systems Engineering
-{: style="margin-bottom: 0;"}
+{: style="margin-bottom: 6;"}
 * **Raw Data & Databases Engineering**  
 Design and implementation of automated pipelines (ETL/ELT) and metadata architectures. I transform raw data from complex industrial environments into clean, governed, and decision-ready information assets.  
   <div style="font-family: monospace; font-size: 1em; margin-top: 3px;">
@@ -62,9 +62,9 @@ Structuring integrated management control systems and technical documentation un
 ---
 
 ### Distributed Infrastructure & Live Nodes
-{: style="margin-bottom: 0;"}
+{: style="margin-bottom: 6;"}
 To ensure efficient coordination and immediate access to my ecosystem, I leverage live documentation platforms.  
-{: style="margin-bottom: 0;"}
+{: style="margin-bottom: 3;"}
 * **[Professional Positioning Dossier (EN) ↗](https://cuxhavenlabs.notion.site/Professional-Positioning-Dossier-21a2ad0c842680749956e17239a36e4d)**  
     <span style="background-color: #7bad7b; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Notion</span>
     <span style="background-color: #6f9cd6; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">CV</span>
