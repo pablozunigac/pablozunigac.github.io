@@ -25,13 +25,13 @@ Valparaíso, Chile · US [H-1B1](https://www.dol.gov/agencies/whd/immigration/h1
 ## TECHNICAL SKILLS
 
 * **Code Languages & Advanced Analytics**  
-Python (Pandas, NumPy, SciPy), R (Quarto, Tidyverse, Tsibble), SQL, Statistical & Inferential Modeling, Time-Series Analysis, Linear & Integer Programming, Stochastic Simulation & Monte Carlo Methods
+Python (FastAPI, PySpark, Polars), R (Tidyverse, Survival, Forecast), SQL, Statistical & Inferential Modeling, Time-Series Analysis, Linear & Integer Programming, Stochastic Simulation & Monte Carlo Methods
 * **Enterprise Data Architecture & Ontologies**  
 ETL/ELT Pipelines, Metadata & Ontology Modeling, Data Governance, Enterprise Lineage, Relational Databases, Spatial Data Infrastructure (.gpx, .fit, .kmz), REST APIs
 * **Infrastructure, Cloud & Orchestration**  
 Git/GitHub, Cloud Systems (MS Azure), Distributed Protocols (Web3/On-Chain), Environment Orchestration, Object-Oriented Programming (OOP)
 * **Systems Architecture & Technical Tooling**  
-Complex Systems Modeling, Process Engineering (BPMN), Systems Diagramming (UML), Knowledge Architectures, Technical Documentation (Markdown, LaTeX, HTML/CSS)
+Complex Systems Modeling, Process Engineering (BPMN), Systems Diagramming (UML), Knowledge Architectures, Technical Documentation (Quarto, Markdown, LaTeX, HTML/CSS)
 
 ---
 
