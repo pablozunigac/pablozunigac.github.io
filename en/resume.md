@@ -31,7 +31,7 @@ ETL/ELT Pipelines, Metadata & Ontology Modeling, Data Governance, Enterprise Lin
 * **Infrastructure, Cloud & Orchestration**  
 Git/GitHub, Cloud Systems (MS Azure), Distributed Protocols (Web3/On-Chain), Environment Orchestration, Object-Oriented Programming (OOP)
 * **Systems Architecture & Technical Tooling**  
-Complex Systems Modeling, BPMN, Process Engineering, Systems Diagramming (UML), Knowledge Architecture (Notion 2.0 Engines), Technical Documentation (Markdown, LaTeX, HTML/CSS)
+Complex Systems Modeling, Process Engineering (BPMN), Systems Diagramming (UML), Knowledge Architectures, Technical Documentation (Markdown, LaTeX, HTML/CSS)
 
 ---
 
