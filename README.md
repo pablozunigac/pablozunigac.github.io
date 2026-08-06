@@ -33,13 +33,13 @@ Beyond compiled document artifacts, `index.md` acts as the primary gateway to a 
 
 <details>
 <summary>
-  <b>Strategic Manifesto: Logic, Language & Meaning</b>
+  ### Strategic Manifesto: Logic, Language & Meaning
 </summary>
 
 #### Logic as Infrastructure
 The foundation of every effective system is structure. Before information can be communicated, analyzed, or acted upon, it must first be organized through clear definitions, relationships, and boundaries. My work begins by transforming ambiguity into coherent architectures that make complexity understandable, navigable, and operationally useful.
 
-* **Conceptual foundations:** `Set Theory` · `Ontologies` · `Systems Theory`
+**Conceptual foundations:** `Set Theory` · `Ontologies` · `Systems Theory`
 
 #### Language as the Interface
 Systems only create value when people can interact with them effectively. Language serves as the interface between structure and execution, shaping how information is interpreted, communicated, and applied. Through semantic precision, documentation, and information design, I build environments where coordination becomes clearer, faster, and more reliable.
