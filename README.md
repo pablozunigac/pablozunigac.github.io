@@ -31,7 +31,7 @@ Beyond compiled document artifacts, `index.md` acts as the primary gateway to a 
 
 ---
 
-### Strategic Manifesto: Logic, Language & Meaning
+### Strategic Manifesto: Logic, Language, Meaning
 
 #### Logic as Infrastructure
 The foundation of every effective system is structure. Before information can be communicated, analyzed, or acted upon, it must first be organized through clear definitions, relationships, and boundaries. My work begins by transforming ambiguity into coherent architectures that make complexity understandable, navigable, and operationally useful.  
