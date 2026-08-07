@@ -14,6 +14,7 @@
 ---
 
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
+Pontificia Universidad Católica de Valparaíso  
 Data Modeling · Applied Statistics · Complex Systems  
 Valparaíso, Chile · Open to Relocation · US H-1B1 & ESTA Eligible**  
 `Native Spanish` · `Full Professional English`
