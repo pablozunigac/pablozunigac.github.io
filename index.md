@@ -60,13 +60,11 @@ Structuring integrated management control systems and technical documentation un
 
 ---
 
-<div style="line-height: 1.2; margin-bottom: 8px;">
-### Distributed Infrastructure & Live Nodes
-</div>
+<h3>Distributed Infrastructure & Live Nodes</h3>
+To ensure efficient coordination and immediate access to my ecosystem, I leverage live documentation platforms.<br>
 
-<p style="margin-bottom: 8px;">
-To ensure efficient coordination and immediate access to my ecosystem, I leverage live documentation platforms.
-</p>
+### Distributed Infrastructure & Live Nodes
+<sub>To ensure efficient coordination and immediate access to my ecosystem, I leverage live documentation platforms.</sub>
 
 ### Distributed Infrastructure & Live Nodes
 {: style="margin-bottom: 3;"}
