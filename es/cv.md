@@ -8,10 +8,11 @@
 
 ---
 
-**Ingeniero Civil Industrial  
-Pontificia Universidad Católica de Valparaíso  
+**Ingeniero Civil Industrial – Pontificia Universidad Católica de Valparaíso  
 Modelado de Datos · Estadística Aplicada · Sistemas Complejos  
 Valparaíso, Chile (UTC-4) · Disponibilidad para Relocalización Internacional**
+
+
 
 ## Perfil Profesional  
 
