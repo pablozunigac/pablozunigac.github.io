@@ -3,7 +3,7 @@
 ## Pablo Zúñiga
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
 Data Modeling · Applied Statistics · Complex Systems  
-Valparaíso, Chile · Open to Relocation · US H-1B1 & ESTA Eligible  
+Valparaíso, Chile · Open to Relocation · US H-1B1 & ESTA Eligible**  
 `Native Spanish` · `Full Professional English`
 
 ---
@@ -49,5 +49,5 @@ The ultimate objective is not information, but understanding. Every framework, p
 **_Conceptual Foundations:_** `Decision Theory` · `Sensemaking` · `Organizational Learning`
 
 ---
-**Last Update:** <span id="footer_timestamp">07-08-2026, 01:48 UTC</span>  
+**Last Update:** <span id="footer_timestamp">07-08-2026, 01:47 UTC</span>  
 **© 2026 Pablo Zúñiga Carvajal.** All rights reserved.
