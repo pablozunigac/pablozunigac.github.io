@@ -33,6 +33,15 @@ Git/GitHub, Cloud Systems (MS Azure), Distributed Protocols (Web3/On-Chain), Env
 * **Systems Architecture & Technical Tooling**  
 Complex Systems Modeling, Process Engineering (BPMN), Systems Diagramming (UML), Knowledge Architectures, Technical Documentation (`Quarto`, `Markdown`, `LaTeX`, `HTML`/`CSS`)
 
+* **Languages & Applied Mathematics**  
+Python (`FastAPI`, `Polars`, `SciPy`), `TypeScript`, `SQL`, `R` (`Tidyverse`, `targets`, `forecast`), Inferential Modeling, Time-Series, MILP & Optimization, Discrete-Event Simulation, Monte Carlo Simulations
+* **Enterprise Data Architecture**  
+Containerization (`Docker`), ETL/ELT Pipelines, Metadata & Ontology Modeling, Data Governance, Enterprise Lineage, Relational Databases, Spatial & Telemetry Data Formats (`.gpx`, `.fit`, `.kmz`)
+* **Cloud Infrastructure & Orchestration**  
+MS Azure, Git/GitHub (Actions CI/CD, Pages), Environment Orchestration
+* **Systems Architecture & Engineering**  
+Systems Theory & Dynamics, Process Engineering (`BPMN`), System Diagramming (`UML`), Knowledge Architectures, Technical Documentation (`Quarto`, `Markdown`, `HTML`/`CSS`)
+
 ---
 
 ## WORK EXPERIENCE
