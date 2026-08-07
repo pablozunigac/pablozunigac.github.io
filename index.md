@@ -21,13 +21,11 @@ Valparaíso, Chile · Open to Relocation · US H-1B1 & ESTA Eligible**
 ---
 
 ### High-complexity environments, distributed teams, and cross-functional workflows
-{: style="margin-bottom: 3;"}
 Designing the underlying structures that make complex work coherent, navigable, and executable. I build governance frameworks, information architectures, and operational systems that reduce coordination friction, improve decision quality, and preserve systemic integrity under conditions of scale, complexity, and ambiguity.
 
 ---
 
 ### Operational Focus & Systems Engineering
-{: style="margin-bottom: 3;"}
 * **Raw Data & Databases Engineering**  
 Design and implementation of automated pipelines (ETL/ELT) and metadata architectures. I transform raw data from complex industrial environments into clean, governed, and decision-ready information assets.  
   <div style="font-family: monospace; font-size: 1em; margin-top: 3px;">
