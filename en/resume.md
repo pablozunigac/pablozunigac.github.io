@@ -18,7 +18,7 @@ Valparaíso, Chile · Open to Relocation · US [H-1B1](https://www.dol.gov/agenc
 <p align="center">
 <b><a href="#tech-stack-and-core-competencies">Tech Stack</a></b>&nbsp;&nbsp;•&nbsp;
 <b><a href="#work-experience">Work</a></b>&nbsp;&nbsp;•&nbsp;
-<b><a href="#education">Education/a></b>&nbsp;&nbsp;•&nbsp;
+<b><a href="#education">Education</a></b>&nbsp;&nbsp;•&nbsp;
 <b><a href="#leadership-and-teaching">Teaching</a></b>
 </p>
 
