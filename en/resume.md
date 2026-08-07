@@ -11,7 +11,7 @@
 **Industrial & Systems Engineer PUCV, BSc & MSc Equivalent  
 Data Modeling · Applied Statistics · Complex Systems  
 Valparaíso, Chile · Open to Relocation · US [H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) & [ESTA](https://cl.usembassy.gov/visa-waiver-program/) Eligible**  
-`Native Spanish` · `Full Professional English`
+`Native Spanish` · `Professional English`
 
 ---
 
