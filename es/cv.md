@@ -109,7 +109,7 @@ Enero 2014 – Marzo 2014 / Salamanca, Región de Coquimbo**
 
 ---
 
-## Competencias Tecnológicas y Herramientas
+## Dominio y Capacidades Técnicas
 
 * **Ingeniería y Arquitectura de Datos**  
 Modelado de Metadatos y Ontologías – ETL/ELT Pipelines – Gobernanza de Datos y Linaje Empresarial – Bases de Datos Relacionales – Procesamiento de Datos Geoespaciales (`.gpx`, `.fit`, `.kmz`) – APIs REST
@@ -119,6 +119,16 @@ Python (`FastAPI`, `PySpark`, `Polars`) – R (`Tidyverse`, `Survival`, `Forecas
 `SQL` – Programación Orientada a Objetos (POO) – Modelado de Procesos (BPMN, UML) – Arquitectura de Información y Gestión del Conocimiento (Notion 2.0)
 * **Infraestructura, Nube y Herramientas Técnicas**  
 Git/GitHub – Microsoft Azure – Protocolos Distribuidos (Web3/On-Chain) – Orquestación de Entornos – Documentación Técnica Avanzada (`Quarto`, `Markdown`, `LaTeX`, `HTML`/`CSS`)
+
+
+* **Lenguajes de Programación y Matemática Aplicada**
+`Python` (`FastAPI`, `Polars`, `SciPy`), `TypeScript`, `SQL`, `R` (`Tidyverse`, `targets`, `forecast`), Modelado Inferencial, Series de Tiempo, MILP y Optimización, Simulación de Eventos Discretos y Monte Carlo
+* **Arquitectura de Datos Empresariales**
+Contenerización (`Docker`), Tuberías ETL/ELT, Metadatos y Ontologías, Gobernanza de Datos, Trazabilidad de Datos, Bases de Datos Relacionales, Datos Espaciales y Telemetría (`.gpx`, `.fit`, `.kmz`)
+* **Nube y Orquestación**
+MS Azure, Git/GitHub (Actions CI/CD, Pages), Orquestación de Entornos
+* **Arquitectura e Ingeniería de Sistemas**
+Teoría y Dinámica de Sistemas, Ingeniería de Procesos (`BPMN`), Diagramación de Sistemas (`UML`), Gestión del Conocimiento, Documentación Técnica (`Quarto`, `Markdown`, `HTML`/`CSS`)
 
 ---
 
