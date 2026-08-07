@@ -10,8 +10,13 @@
 
 **Ingeniero Civil Industrial – Pontificia Universidad Católica de Valparaíso  
 Modelado de Datos · Estadística Aplicada · Sistemas Complejos  
-Valparaíso, Chile (UTC-4) · Disponibilidad para Relocalización Internacional**
+Valparaíso, Chile · Disponible para Reubicación  
+Elegible para Visas EE. UU. (H-1B1 & ESTA)**
 
+**Industrial & Systems Engineer PUCV, BSc & MSc Equivalent  
+Data Modeling · Applied Statistics · Complex Systems  
+Valparaíso, Chile · Open to Relocation · Elegible para Visas EE. UU. (H-1B1 & ESTA)**  
+`Native Spanish` · `Full Professional English`
 
 
 ## Perfil Profesional  
