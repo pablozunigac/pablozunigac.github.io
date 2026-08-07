@@ -111,7 +111,7 @@ Enero 2014 – Marzo 2014 / Salamanca, Región de Coquimbo**
 
 ## Dominio y Capacidades Técnicas
 
-* **Lenguajes de Programación y Matemática Aplicada**
+* **Lenguajes de Programación y Matemática Aplicada**  
 `Python` (`FastAPI`, `Polars`, `SciPy`), `TypeScript`, `SQL`, `R` (`Tidyverse`, `targets`, `forecast`), Modelado Inferencial, Series de Tiempo, MILP y Optimización, Simulación de Eventos Discretos y Monte Carlo
 * **Arquitectura de Datos Empresariales**
 Contenerización (`Docker`), Tuberías ETL/ELT, Metadatos y Ontologías, Gobernanza de Datos, Trazabilidad de Datos, Bases de Datos Relacionales, Datos Espaciales y Telemetría (`.parquet`, `.fit`)
