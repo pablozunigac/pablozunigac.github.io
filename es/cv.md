@@ -111,16 +111,6 @@ Enero 2014 – Marzo 2014 / Salamanca, Región de Coquimbo**
 
 ## Dominio y Capacidades Técnicas
 
-* **Ingeniería y Arquitectura de Datos**  
-Modelado de Metadatos y Ontologías – ETL/ELT Pipelines – Gobernanza de Datos y Linaje Empresarial – Bases de Datos Relacionales – Procesamiento de Datos Geoespaciales (`.gpx`, `.fit`, `.kmz`) – APIs REST
-* **Optimización, Estadística y Analítica Avanzada**  
-Python (`FastAPI`, `PySpark`, `Polars`) – R (`Tidyverse`, `Survival`, `Forecast`) – Modelado Estadístico e Inferencial – Análisis de Series de Tiempo – Programación Lineal y Entera – Simulación Monte Carlo y Análisis de Riesgo
-* **Desarrollo de Sistemas y Procesos de Negocio**  
-`SQL` – Programación Orientada a Objetos (POO) – Modelado de Procesos (BPMN, UML) – Arquitectura de Información y Gestión del Conocimiento (Notion 2.0)
-* **Infraestructura, Nube y Herramientas Técnicas**  
-Git/GitHub – Microsoft Azure – Protocolos Distribuidos (Web3/On-Chain) – Orquestación de Entornos – Documentación Técnica Avanzada (`Quarto`, `Markdown`, `LaTeX`, `HTML`/`CSS`)
-
-
 * **Lenguajes de Programación y Matemática Aplicada**
 `Python` (`FastAPI`, `Polars`, `SciPy`), `TypeScript`, `SQL`, `R` (`Tidyverse`, `targets`, `forecast`), Modelado Inferencial, Series de Tiempo, MILP y Optimización, Simulación de Eventos Discretos y Monte Carlo
 * **Arquitectura de Datos Empresariales**
