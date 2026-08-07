@@ -22,22 +22,13 @@ Valparaíso, Chile · Open to Relocation · US [H-1B1](https://www.dol.gov/agenc
 <b><a href="#leadership-and-teaching">LEADERSHIP AND TEACHING</a></b>
 </p>
 
-## TECHNICAL SKILLS
-
-* **Code Languages & Advanced Analytics**  
-Python (`FastAPI`, `PySpark`, `Polars`), R (`Tidyverse`, `Survival`, `Forecast`), `SQL`, Statistical & Inferential Modeling, Time-Series Analysis, Linear & Integer Programming, Stochastic Simulation & Monte Carlo Methods
-* **Enterprise Data Architecture & Ontologies**  
-ETL/ELT Pipelines, Metadata & Ontology Modeling, Data Governance, Enterprise Lineage, Relational Databases, Spatial Data Infrastructure (`.gpx`, `.fit`, `.kmz`), REST APIs
-* **Infrastructure, Cloud & Orchestration**  
-Git/GitHub, Cloud Systems (MS Azure), Distributed Protocols (Web3/On-Chain), Environment Orchestration, Object-Oriented Programming (OOP)
-* **Systems Architecture & Technical Tooling**  
-Complex Systems Modeling, Process Engineering (BPMN), Systems Diagramming (UML), Knowledge Architectures, Technical Documentation (`Quarto`, `Markdown`, `LaTeX`, `HTML`/`CSS`)
+### TECH STACK & CORE COMPETENCIES
 
 * **Languages & Applied Mathematics**  
-Python (`FastAPI`, `Polars`, `SciPy`), `TypeScript`, `SQL`, `R` (`Tidyverse`, `targets`, `forecast`), Inferential Modeling, Time-Series, MILP & Optimization, Discrete-Event Simulation, Monte Carlo Simulations
+`Python` (`FastAPI`, `Polars`, `SciPy`), `TypeScript`, `SQL`, `R` (`Tidyverse`, `targets`, `forecast`), Inferential Modeling, Time-Series, MILP & Optimization, Discrete-Event & Monte Carlo Simulations
 * **Enterprise Data Architecture**  
 Containerization (`Docker`), ETL/ELT Pipelines, Metadata & Ontology Modeling, Data Governance, Enterprise Lineage, Relational Databases, Spatial & Telemetry Data Formats (`.gpx`, `.fit`, `.kmz`)
-* **Cloud Infrastructure & Orchestration**  
+* **Cloud & Orchestration**  
 MS Azure, Git/GitHub (Actions CI/CD, Pages), Environment Orchestration
 * **Systems Architecture & Engineering**  
 Systems Theory & Dynamics, Process Engineering (`BPMN`), System Diagramming (`UML`), Knowledge Architectures, Technical Documentation (`Quarto`, `Markdown`, `HTML`/`CSS`)
