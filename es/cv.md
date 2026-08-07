@@ -59,7 +59,7 @@ Julio 2022 – Presente / Remoto – Región de Valparaíso – Región Metropol
   * **Análisis Exploratorio Contextual:** Evaluación de variabilidad estadística según impacto de altimetría, condiciones climáticas y dinámicas en transiciones.
 
 * **Otros Proyectos y Servicios:**
-  * Diseño de arquitecturas de información y bases de datos relacionales en Notion (_<a href="https://www.notion.com/product/sites">notion.site</a>_).
+  * Diseño de arquitecturas de información y bases de datos relacionales.
   * Documentación técnica de sistemas mediante Markdown y control de versiones mediante Git.
   * Construcción de backlog/changelog para gestión de conocimiento empresarial.
 
