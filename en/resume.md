@@ -16,13 +16,13 @@ Valparaíso, Chile · Open to Relocation · US [H-1B1](https://www.dol.gov/agenc
 ---
 
 <p align="center">
-<b><a href="#technical-skills">TECHNICAL SKILLS</a></b>&nbsp;&nbsp;•&nbsp;
-<b><a href="#work-experience">WORK EXPERIENCE</a></b>&nbsp;&nbsp;•&nbsp;
-<b><a href="#education">EDUCATION</a></b>&nbsp;&nbsp;•&nbsp;
-<b><a href="#leadership-and-teaching">LEADERSHIP AND TEACHING</a></b>
+<b><a href="#tech-stack-and-core-competencies">Tech Stack</a></b>&nbsp;&nbsp;•&nbsp;
+<b><a href="#work-experience">Work</a></b>&nbsp;&nbsp;•&nbsp;
+<b><a href="#education">Education/a></b>&nbsp;&nbsp;•&nbsp;
+<b><a href="#leadership-and-teaching">Teaching</a></b>
 </p>
 
-### TECH STACK & CORE COMPETENCIES
+### TECH STACK AND CORE COMPETENCIES
 
 * **Languages & Applied Mathematics**  
 `Python` (`FastAPI`, `Polars`, `SciPy`), `TypeScript`, `SQL`, `R` (`Tidyverse`, `targets`, `forecast`), Inferential Modeling, Time-Series, MILP & Optimization, Discrete-Event & Monte Carlo Simulations
@@ -35,7 +35,7 @@ Systems Theory & Dynamics, Process Engineering (`BPMN`), System Diagramming (`UM
 
 ---
 
-## WORK EXPERIENCE
+### WORK EXPERIENCE
 
 **Cuxhaven Labs** | *Principal Data & Systems Consultant* | Remote  
 *May 2026 – Present*
@@ -74,7 +74,7 @@ Systems Theory & Dynamics, Process Engineering (`BPMN`), System Diagramming (`UM
 
 ---
 
-## EDUCATION
+### EDUCATION
 
 **Pontificia Universidad Católica de Valparaíso** / Valparaíso, Chile  
 Industrial & Systems Engineering (Integrated 6-Year Program – BSc & MSc Equivalent) / *2011 – 2017*
@@ -83,7 +83,7 @@ Industrial & Systems Engineering (Integrated 6-Year Program – BSc & MSc Equiva
 
 ---
 
-## LEADERSHIP AND TEACHING
+### LEADERSHIP AND TEACHING
 
 * **Graduate Teaching Assistant (PUCV)**  
 Instructed Applied Data Science, MIS, and Quantitative Mathematics for 100+ engineering students (2018–2021).
