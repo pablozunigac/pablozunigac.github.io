@@ -60,16 +60,8 @@ Structuring integrated management control systems and technical documentation un
 
 ---
 
-<h3>Distributed Infrastructure & Live Nodes</h3>
-To ensure efficient coordination and immediate access to my ecosystem, I leverage live documentation platforms.<br>
-
 ### Distributed Infrastructure & Live Nodes
-<sub>To ensure efficient coordination and immediate access to my ecosystem, I leverage live documentation platforms.</sub>
-
-### Distributed Infrastructure & Live Nodes
-{: style="margin-bottom: 3;"}
 To ensure efficient coordination and immediate access to my ecosystem, I leverage live documentation platforms.  
-{: style="margin-bottom: 3;"}
 * **[Professional Positioning Dossier (EN) ↗](https://cuxhavenlabs.notion.site/Professional-Positioning-Dossier-21a2ad0c842680749956e17239a36e4d)**  
     <span style="background-color: #7bad7b; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Notion</span>
     <span style="background-color: #6f9cd6; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">CV</span>
