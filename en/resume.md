@@ -16,13 +16,13 @@ Valparaíso, Chile · Open to Relocation · US [H-1B1](https://www.dol.gov/agenc
 ---
 
 <p align="center">
-<b><a href="#tech-stack-and-core-competencies">Tech Stack</a></b>&nbsp;&nbsp;•&nbsp;
+<b><a href="#tech-stack">Tech Stack</a></b>&nbsp;&nbsp;•&nbsp;
 <b><a href="#work-experience">Work</a></b>&nbsp;&nbsp;•&nbsp;
 <b><a href="#education">Education</a></b>&nbsp;&nbsp;•&nbsp;
-<b><a href="#leadership-and-teaching">Teaching</a></b>
+<b><a href="#teaching-and-technical-teaching">Teaching</a></b>
 </p>
 
-### TECH STACK AND CORE COMPETENCIES
+### TECH STACK
 
 * **Languages & Applied Mathematics**  
 `Python` (`FastAPI`, `Polars`, `SciPy`), `TypeScript`, `SQL`, `R` (`Tidyverse`, `targets`, `forecast`), Inferential Modeling, Time-Series, MILP & Optimization, Discrete-Event & Monte Carlo Simulations
@@ -83,7 +83,7 @@ Industrial & Systems Engineering (Integrated 6-Year Program – BSc & MSc Equiva
 
 ---
 
-### LEADERSHIP AND TEACHING
+### TEACHING AND TECHNICAL TRAINING
 
 * **Graduate Teaching Assistant (PUCV)**  
 Instructed Applied Data Science, MIS, and Quantitative Mathematics for 100+ engineering students (2018–2021).
