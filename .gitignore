@@ -1,0 +1,65 @@
+# ==========================================
+# macOS & Apple System / Apps
+# ==========================================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# Pages / Numbers / Keynote (Archivos temporales/previsualización)
+*.pages
+*.numbers
+*.key
+*.merged-assets
+
+# ==========================================
+# VS Code & Editores
+# ==========================================
+.vscode/
+*.code-workspace
+*.swp
+*.swo
+*~
+
+# ==========================================
+# Python
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.pytest_cache/
+.ipynb_checkpoints/
+*.egg-info/
+
+# ==========================================
+# R Language
+# ==========================================
+.Rhistory
+.RData
+.RDataTmp
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# ==========================================
+# Shell / Bash
+# ==========================================
+*.log
+*.tmp
+*.bak
+.bash_history
+.zsh_history
+
+# ==========================================
+# Markdown / Previsualización / Exportaciones
+# ==========================================
+*.tmp.md
+.obsidian/
+*.pdf.bak
