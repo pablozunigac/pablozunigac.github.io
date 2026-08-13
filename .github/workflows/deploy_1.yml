@@ -2,7 +2,7 @@ name: Update Footer Timestamp
 
 on:
   push:
-    branches: [ main2 ]
+    branches: [ main ]
     paths:
       - 'es/cv.md'
       - 'en/resume.md'
