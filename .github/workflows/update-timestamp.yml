@@ -38,11 +38,11 @@ jobs:
               if [ -f "$FILE" ]; then
                 echo "Actualizando timestamp en: $FILE"
                 
-                # Lógica condicional por idioma/archivo
+                # Lógica condicional por idioma/archivo con regex restrictivo [^<]*
                 if [ "$FILE" = "en/resume.md" ] || [ "$FILE" = "README.md" ]; then
-                  sed -i "s|<span id=\"timestamp_en\">.*</span>|<span id=\"timestamp_en\">${TIMESTAMP_EN}</span>|g" "$FILE"
+                  sed -i "s|<span id=\"timestamp_en\">[^<]*</span>|<span id=\"timestamp_en\">${TIMESTAMP_EN}</span>|g" "$FILE"
                 elif [ "$FILE" = "es/cv.md" ] || [ "$FILE" = "index.md" ]; then
-                  sed -i "s|<span id=\"timestamp_es\">.*</span>|<span id=\"timestamp_es\">${TIMESTAMP_ES}</span>|g" "$FILE"
+                  sed -i "s|<span id=\"timestamp_es\">[^<]*</span>|<span id=\"timestamp_es\">${TIMESTAMP_ES}</span>|g" "$FILE"
                 fi
                 
                 git add "$FILE"
