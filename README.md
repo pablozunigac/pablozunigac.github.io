@@ -16,9 +16,9 @@ Architected under a strict Doc-as-Code framework, this repository serves as the 
 ```bash
 pablozunigac.github.io
 ├── index.md                        # Professional metadata web portal (profile, positioning, credentials and portfolio-grade components)
-├── ./en                            # One-page `Resume` infrastructure: compiles & deploys dual Web/PDF endpoints for US/Global markets
-├── ./es                            # Extended `CV` infrastructure: compiles & deploys dual Web/PDF endpoints for LATAM & EU/Spain markets
-├── .github/worflows/
+├── en/                             # One-page resume infrastructure: compiles & deploys dual Web/PDF endpoints for US/Global markets
+├── es/                             # Extended CV infrastructure: compiles & deploys dual Web/PDF endpoints for LATAM & EU/Spain markets
+├── .github/workflows/
 │   └── update-timestamp.yml        # Automatic last updated timestamp in .md files via a CI/CD pipeline upon each commit
 └── README.md                       # This file
 ```
@@ -26,14 +26,14 @@ pablozunigac.github.io
 ---
 
 ### Distributed Knowledge Network & Live Nodes
-Anchored within `index.md`, this interface serves as the primary access layer to a distributed network of live Notion-backed knowledge nodes, providing real-time access to operational frameworks, architectural manifestos, and verified academic credentials.
+This architecture uses `index.md` as its centralized routing layer, bridging local static configurations with a distributed network of dynamic, Notion-backed knowledge nodes. This configuration exposes live operational frameworks, architectural manifestos, and verified academic credentials through a single, unified access point.
 
 #### Central Web Portal and Routing Layer: `index.md`
 This file serves as the single access point for professional metadata and bridges static endpoints with three live, specialized Notion knowledge nodes (Strategic Dossier, Systems Metaportfolio, and Formal Academic Credentials).
 
 * `Strategic Positioning Dossier` — Comprehensive breakdown of consulting frameworks and market-facing capabilities.
 * `Systems & Engineering Metaportfolio` — Architectural deep-dive into complex systems modeling and execution patterns.
-* `Academic Records & Credentials` — Centralized academic repository, degree certifications, and legal validations.
+* `Academic Records & Credentials` (Upon) — Centralized academic repository, degree certifications, and legal validations.
 
 ---
 
@@ -55,5 +55,5 @@ The ultimate objective is not information, but understanding. Every framework, p
 **_Conceptual Foundations:_** `Decision Theory` · `Sensemaking` · `Organizational Learning`
 
 ---
-**Last Update:** <span id="footer_timestamp">13-08-2026, 00:43 UTC</span>  
+**Last Update:** <span id="footer_timestamp_en">13-08-2026, 00:43 UTC</span>  
 **© 2026 Pablo Zúñiga Carvajal.** All rights reserved.

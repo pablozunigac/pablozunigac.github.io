@@ -25,20 +25,26 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          TIMESTAMP=$(date -u +'%d-%m-%Y, %H:%M UTC')
+          TIMESTAMP_EN=$(date -u +'%Y-%m-%d, %H:%M UTC')
+          TIMESTAMP_ES=$(date -u +'%d-%m-%Y, %H:%M UTC')
 
-          # 1. Obtiene la lista exacta de archivos modificados exclusivamente en el commit del push
-          CHANGED_FILES=$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }})
-
-          # Lista delimitada de archivos objetivo permitidos
+          # 1. Rango seguro para capturar todos los archivos del push
+          CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }})
           TARGETS="es/cv.md en/resume.md index.md README.md"
 
           # 2. Itera únicamente sobre los archivos que efectivamente cambiaron en tu push
           for FILE in $CHANGED_FILES; do
             if echo "$TARGETS" | grep -qw "$FILE"; then
               if [ -f "$FILE" ]; then
-                echo "Actualizando timestamp solo en: $FILE"
-                sed -i "s|<span id=\"footer_timestamp\">.*</span>|<span id=\"footer_timestamp\">${TIMESTAMP}</span>|g" "$FILE"
+                echo "Actualizando timestamp en: $FILE"
+                
+                # Lógica condicional por idioma/archivo
+                if [ "$FILE" = "en/resume.md" ] || [ "$FILE" = "README.md" ]; then
+                  sed -i "s|<span id=\"timestamp_en\">.*</span>|<span id=\"timestamp_en\">${TIMESTAMP_EN}</span>|g" "$FILE"
+                elif [ "$FILE" = "es/cv.md" ] || [ "$FILE" = "index.md" ]; then
+                  sed -i "s|<span id=\"timestamp_es\">.*</span>|<span id=\"timestamp_es\">${TIMESTAMP_ES}</span>|g" "$FILE"
+                fi
+                
                 git add "$FILE"
               fi
             fi
