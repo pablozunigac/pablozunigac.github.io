@@ -72,10 +72,10 @@ Enero 2020 – Julio 2022 / Remoto**
 * Coordinación de _smart contracts_ para NFTs en entornos virtuales distribuidos de alta concurrencia (**~1.1k usuarios**). Editor en tododecripto.com sobre _blockchain_, _parachains_ y gobernanza Web3.
 
 **Pontificia Universidad Católica de Valparaíso (_en asociación con la Escuela de Negocios de la UAI_)  
-Consultor de Datos y Docente Adjunto [_Ejecución por Proyectos_]  
+Consultor de Datos y Docente Adjunto [*Ejecución por Proyectos*]  
 Agosto 2018 – Junio 2021 / Región de Valparaíso**
 {: style="margin-bottom: 0;"}
-* Consolidación de fuentes de datos y diseño de _pipelines_ ETL para análisis estadístico exploratorio en entornos académicos, visualización de datos como soporte a decisiones y apoyo docente en la cátedra “_Ciencia de Datos Aplicada_” de Ingeniería Civil Industrial PUCV.
+* Consolidación de fuentes de datos y diseño de *pipelines* ETL para análisis estadístico exploratorio en entornos académicos, visualización de datos como soporte a decisiones y apoyo docente en la cátedra “*Ciencia de Datos Aplicada*” de Ingeniería Civil Industrial PUCV.
 {: style="margin-bottom: 0;"}
 * Asesoría en proyectos finales de pregrado, modelado de datos, estructuras lógicas y automatización de flujos de información en contextos educativos y analíticos.
 {: style="margin-bottom: 0;"}
@@ -85,15 +85,15 @@ Agosto 2018 – Junio 2021 / Región de Valparaíso**
 Ingeniero de Procesos  
 Mayo 2019 – Septiembre 2019 / Las Condes, Región Metropolitana**
 {: style="margin-bottom: 0;"}
-* Orquestación de _pipelines_ para la integración de metadatos desde sistemas operacionales hacia repositorios del gobierno de datos en Microsoft Azure, respaldada por modelado de flujos y estandarización BPMN As-is/To-be.
+* Orquestación de *pipelines* para la integración de metadatos desde sistemas operacionales hacia repositorios del gobierno de datos en Microsoft Azure, respaldada por modelado de flujos y estandarización BPMN As-is/To-be.
 {: style="margin-bottom: 0;"}
 * Fiscalización de arquitecturas de datos en entornos financieros regulados, asegurando consistencia, calidad y control en el acceso a los procesos de almacenamiento, gestión y uso de la información institucional. 
 
 **ESVAL – Departamento de Gestión de Redes  
-Líder de Proyecto (_Proyecto de Título_)  
+Líder de Proyecto (*Proyecto de Título*)  
 Julio 2017 – Diciembre 2017 / Viña del Mar, Región de Valparaíso**
 {: style="margin-bottom: 0;"}
-* Liderazgo en el proyecto de modelado estadístico mediante _software_ para la red de agua potable de la Región de Valparaíso, incluyendo el desarrollo de un modelo espaciotemporal de riesgos mediante regresión de Cox en R sobre una red de **5,300km** (**+1.9M de usuarios**) de extensión.
+* Liderazgo en el proyecto de modelado estadístico mediante *software* para la red de agua potable de la Región de Valparaíso, incluyendo el desarrollo de un modelo espaciotemporal de riesgos mediante regresión de Cox en R sobre una red de **5,300km** (**+1.9M de usuarios**) de extensión.
 {: style="margin-bottom: 0;"}
 * Coordinación bajo estándar PMO y ejecución mediante metodologías ágiles (Kanban, SCRUM) para la generación de métricas que soportan el mantenimiento de la red de agua potable de la región.
 
@@ -133,7 +133,7 @@ Licenciatura en Ciencias de la Ingeniería / 2016**
 * Ayudante académico recurrente en Ingeniería Económica, Sistemas de Información y Matemática Aplicada, liderando talleres computacionales y modelado cuantitativo.
 
 **Pontificia Universidad Católica de Valparaíso  
-Ingeniería Civil / 2007 – 2010 (_Estudios Fundamentales_)**
+Ingeniería Civil / 2007 – 2010 (*Estudios Fundamentales*)**
 {: style="margin-bottom: 0;"}
 * Formación en ciencias básicas de la ingeniería con énfasis en matemática aplicada, ciencias básicas, herramientas computacionales (MATLAB) y dibujo técnico vectorial en AutoCAD.
 
