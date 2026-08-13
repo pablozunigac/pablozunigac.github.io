@@ -8,16 +8,10 @@ Valparaíso, Chile · Open to Relocation · US H-1B1 & ESTA Eligible**
 
 ---
 
-### System Overview & Architecture: `pablozunigac.github.io` sakdkasd
+### System Overview & Architecture: `pablozunigac.github.io`
 Architected under a strict Doc-as-Code framework, this repository serves as the single source of truth for my professional metadata, web endpoints, and CI/CD-compiled artifacts.
 
-#### Instalación, Entorno y Ejecución
-
-[pablozunigac.github.io](https://pablozunigac.github.io)
-
-```bash
-https://pablozunigac.github.io
-```
+**pablozunigac.github.io website: [pablozunigac.github.io](https://pablozunigac.github.io)**
 
 #### Core Repository Structure
 
