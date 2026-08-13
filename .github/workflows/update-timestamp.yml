@@ -8,6 +8,7 @@ on:
       - 'en/resume.md'
       - 'index.md'
       - 'README.md'
+      - 'yuuiyiu.md'
 
 # Evita colisiones si envías varios pushes seguidos
 concurrency:
