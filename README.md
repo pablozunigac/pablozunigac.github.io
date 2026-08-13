@@ -1,6 +1,6 @@
 # Professional Positioning System
 
-## Pablo Zúñiga C.
+## Pablo Zúñiga
 **Industrial & Systems Engineer PUCV, BSc & MSc Equivalent  
 Data Modeling · Applied Statistics · Complex Systems  
 Valparaíso, Chile · Open to Relocation · US H-1B1 & ESTA Eligible**  
@@ -59,4 +59,4 @@ The ultimate objective is not information, but understanding. Every framework, p
 ---
 
 **Last Update:** <span id="timestamp_en">2026-08-13, 05:52 UTC</span>  
-**© 2026 Pablo Zúñiga Carvajal.** All rights reserved.
+**© 2026 Pablo Zúñiga Carvajal.** All rights reserved...

@@ -1,14 +1,8 @@
-name: Deploy Pages with Build-Time Timestamp
+name: Deploy Pages with Dynamic Timestamp
 
 on:
   push:
     branches: [ main ]
-    paths:
-      - 'es/cv.md'
-      - 'en/resume.md'
-      - 'index.md'
-      - 'README.md'
-  workflow_dispatch:
 
 permissions:
   contents: read
@@ -29,14 +23,17 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
 
-      - name: Inject Timestamp strictly
+      - name: Inject Timestamp Script into Markdown
         run: |
-          TIMESTAMP_EN="$(date -u +'%Y-%m-%d, %H:%M UTC')"
-          TIMESTAMP_ES="$(date -u +'%d-%m-%Y, %H:%M UTC')"
+          NOW=$(date -u +'%Y-%m-%d, %H:%M UTC')
+          NOW_ES=$(date -u +'%d-%m-%Y, %H:%M UTC')
 
-          # Reemplazo forzado en los archivos antes del build de Pages
-          sed -i "s|<span id=\"timestamp_en\">.*</span>|<span id=\"timestamp_en\">${TIMESTAMP_EN}</span>|g" README.md index.md en/resume.md || true
-          sed -i "s|<span id=\"timestamp_es\">.*</span>|<span id=\"timestamp_es\">${TIMESTAMP_ES}</span>|g" es/cv.md || true
+          # Inyección de texto estático directo para el HTML renderizado
+          find . -type f \( -name "index.md" -o -name "README.md" -o -name "resume.md" \) \
+            -exec sed -i "s|<span id=\"timestamp_en\">[^<]*</span>|${NOW}|g" {} +
+
+          find . -type f -name "cv.md" \
+            -exec sed -i "s|<span id=\"timestamp_es\">[^<]*</span>|${NOW_ES}|g" {} +
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
