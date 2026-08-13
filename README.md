@@ -15,19 +15,13 @@ Architected under a strict Doc-as-Code framework, this repository serves as the 
 
 ```bash
 pablozunigac.github.io
-├── index.md                            # Professional metadata web portal (profile, positioning, credentials and portfolio-grade components)
-├── ./en                                # One-page `Resume` infrastructure: compiles & deploys dual Web/PDF endpoints for US/Global markets
-├── ./es                                # Extended `CV` infrastructure: compiles & deploys dual Web/PDF endpoints for LATAM & EU/Spain markets
+├── index.md                        # Professional metadata web portal (profile, positioning, credentials and portfolio-grade components)
+├── ./en                            # One-page `Resume` infrastructure: compiles & deploys dual Web/PDF endpoints for US/Global markets
+├── ./es                            # Extended `CV` infrastructure: compiles & deploys dual Web/PDF endpoints for LATAM & EU/Spain markets
 ├── .github/worflows/
-│   └── update-timestamp.yml            # Automatic last updated timestamp in .md files via a CI/CD pipeline upon each commit
-└── README.md                           # This file
+│   └── update-timestamp.yml        # Automatic last updated timestamp in .md files via a CI/CD pipeline upon each commit
+└── README.md                       # This file
 ```
-
-* `README.md` — Repository entry point and architecture schema. (You are here!)
-* `index.md` — Professional metadata web portal (profile, positioning, credentials and portfolio-grade components).
-* `./en` — One-page `resume` infrastructure: compiles & deploys dual Web/PDF endpoints for US/Global markets.
-* `./es` — Extended `CV` infrastructure: compiles & deploys dual Web/PDF endpoints for LATAM & EU/Spain markets.
-* `.github` — Automated CI/CD workflows (GitHub Actions) for metadata synchronization and document compilation. 
 
 ---
 
