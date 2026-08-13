@@ -28,17 +28,17 @@ jobs:
           TIMESTAMP_EN=$(date -u +'%Y-%m-%d, %H:%M UTC')
           TIMESTAMP_ES=$(date -u +'%d-%m-%Y, %H:%M UTC')
 
-          # 1. Rango seguro para capturar todos los archivos del push
-          CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }})
+          # 1. Aislamiento preciso del último commit del push
+          CHANGED_FILES=$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }})
           TARGETS="es/cv.md en/resume.md index.md README.md"
 
-          # 2. Itera únicamente sobre los archivos que efectivamente cambiaron en tu push
+          # 2. Itera únicamente sobre los archivos modificados
           for FILE in $CHANGED_FILES; do
             if echo "$TARGETS" | grep -qw "$FILE"; then
               if [ -f "$FILE" ]; then
                 echo "Actualizando timestamp en: $FILE"
                 
-                # Lógica condicional por idioma/archivo con regex restrictivo [^<]*
+                # Expresión restrictiva [^<]* que aísla estrictamente el contenido del span
                 if [ "$FILE" = "en/resume.md" ] || [ "$FILE" = "README.md" ]; then
                   sed -i "s|<span id=\"timestamp_en\">[^<]*</span>|<span id=\"timestamp_en\">${TIMESTAMP_EN}</span>|g" "$FILE"
                 elif [ "$FILE" = "es/cv.md" ] || [ "$FILE" = "index.md" ]; then
