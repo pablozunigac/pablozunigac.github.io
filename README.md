@@ -9,7 +9,18 @@ Valparaíso, Chile · Open to Relocation · US H-1B1 & ESTA Eligible**
 ---
 
 ### System Overview & Architecture: `pablozunigac.github.io`
-Architected under a strict Doc-as-Code framework, this repository serves as the single source of truth for my professional metadata, web endpoints, and CI/CD-compiled artifacts. Core repository structure:
+Architected under a strict Doc-as-Code framework, this repository serves as the single source of truth for my professional metadata, web endpoints, and CI/CD-compiled artifacts.
+
+#### Core Repository Structure
+
+├── .github/
+│   └── workflows/
+│       └── update-timestamp.yml        # Automatic last updated timestamp in .md files via a CI/CD pipeline upon each commit.
+├── ./en                                # One-page `Resume` infrastructure: compiles & deploys dual Web/PDF endpoints for US/Global markets.
+├── ./es                                # Extended `CV` infrastructure: compiles & deploys dual Web/PDF endpoints for LATAM & EU/Spain markets.
+├── .gitignore                          # Exclusion rules for large and temporary files
+├── index.md                            # Professional metadata web portal (profile, positioning, credentials and portfolio-grade components).
+└── README.md                           # Repository entry point and architecture schema. (You are here!)
 
 * `README.md` — Repository entry point and architecture schema. (You are here!)
 * `index.md` — Professional metadata web portal (profile, positioning, credentials and portfolio-grade components).
