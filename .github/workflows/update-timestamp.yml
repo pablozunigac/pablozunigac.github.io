@@ -39,9 +39,9 @@ jobs:
                 echo "Actualizando timestamp en: $FILE"
                 
                 # Expresión restrictiva [^<]* que aísla estrictamente el contenido del span
-                if [ "$FILE" = "en/resume.md" ] || [ "$FILE" = "README.md" ]; then
+                if [ "$FILE" = "index.md" ] || [ "$FILE" = "en/resume.md" ] || [ "$FILE" = "README.md" ]; then
                   sed -i "s|<span id=\"timestamp_en\">[^<]*</span>|<span id=\"timestamp_en\">${TIMESTAMP_EN}</span>|g" "$FILE"
-                elif [ "$FILE" = "es/cv.md" ] || [ "$FILE" = "index.md" ]; then
+                elif [ "$FILE" = "es/cv.md" ]; then
                   sed -i "s|<span id=\"timestamp_es\">[^<]*</span>|<span id=\"timestamp_es\">${TIMESTAMP_ES}</span>|g" "$FILE"
                 fi
                 
