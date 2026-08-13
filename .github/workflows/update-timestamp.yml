@@ -9,6 +9,10 @@ on:
       - 'index.md'
       - 'README.md'
 
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
 jobs:
   update-timestamp:
     runs-on: ubuntu-latest
