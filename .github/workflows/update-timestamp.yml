@@ -1,66 +1,50 @@
-name: Update Footer Timestamp
+name: Deploy GitHub Pages with Dynamic Timestamp
 
 on:
   push:
-    branches: [ main ]
-    paths:
-      - 'es/cv.md'
-      - 'en/resume.md'
-      - 'index.md'
-      - 'README.md'
+    branches: [ main, new-timestamp ]
 
 concurrency:
   group: pages
   cancel-in-progress: true
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 jobs:
-  update-timestamp:
+  build-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+      - name: Checkout Source Code
+        uses: actions/checkout@v4
 
-      - name: Update Timestamp (Only Edited File)
+      - name: Inject Timestamps in-memory (Build Time)
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
           TIMESTAMP_EN=$(date -u +'%Y-%m-%d, %H:%M UTC')
           TIMESTAMP_ES=$(date -u +'%d-%m-%Y, %H:%M UTC')
 
-          # 1. Aislamiento preciso del último commit del push
-          CHANGED_FILES=$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }})
-          TARGETS="es/cv.md en/resume.md index.md README.md"
+          echo "Inyectando marca de tiempo en la etapa de compilación..."
 
-          # 2. Itera únicamente sobre los archivos modificados
-          for FILE in $CHANGED_FILES; do
-            if echo "$TARGETS" | grep -qw "$FILE"; then
-              if [ -f "$FILE" ]; then
-                echo "Actualizando timestamp en: $FILE"
-                
-                # Expresión restrictiva [^<]* que aísla estrictamente el contenido del span
-                if [ "$FILE" = "index.md" ] || [ "$FILE" = "en/resume.md" ] || [ "$FILE" = "README.md" ]; then
-                  sed -i "s|<span id=\"timestamp_en\">[^<]*</span>|<span id=\"timestamp_en\">${TIMESTAMP_EN}</span>|g" "$FILE"
-                elif [ "$FILE" = "es/cv.md" ]; then
-                  sed -i "s|<span id=\"timestamp_es\">[^<]*</span>|<span id=\"timestamp_es\">${TIMESTAMP_ES}</span>|g" "$FILE"
-                fi
-                
-                git add "$FILE"
-              fi
-            fi
-          done
+          find . -type f \( -name "index.md" -o -name "README.md" -o -name "resume.md" \) \
+            -exec sed -i "s|<span id=\"timestamp_en\">[^<]*</span>|<span id=\"timestamp_en\">${TIMESTAMP_EN}</span>|g" {} +
 
-          # 3. Si no hay archivos en stage, termina sin hacer commit
-          if git diff --staged --quiet; then
-            echo "Ningún archivo objetivo requiere actualización."
-            exit 0
-          fi
+          find . -type f -name "cv.md" \
+            -exec sed -i "s|<span id=\"timestamp_es\">[^<]*</span>|<span id=\"timestamp_es\">${TIMESTAMP_ES}</span>|g" {} +
 
-          # 4. Commit y Push atómico
-          git commit -m "docs: auto-update timestamp [skip ci]"
-          git pull --rebase origin main
-          git push origin main
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload HTML/Markdown Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
