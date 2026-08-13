@@ -83,7 +83,7 @@ Industrial & Systems Engineering (Integrated 6-Year Program – BSc & MSc Equiva
 
 ---
 
-### TEACHING AND TECHNICAL TRAINING
+### TEACHING AND TECHNICAL TEACHING
 
 * **Graduate Teaching Assistant (PUCV)**  
 Instructed Applied Data Science, MIS, and Quantitative Mathematics for 100+ engineering students (2018–2021).
