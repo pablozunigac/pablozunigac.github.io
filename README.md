@@ -13,14 +13,15 @@ Architected under a strict Doc-as-Code framework, this repository serves as the 
 
 #### Core Repository Structure
 
-├── .github/
-│   └── workflows/
-│       └── update-timestamp.yml        # Automatic last updated timestamp in .md files via a CI/CD pipeline upon each commit.
-├── ./en                                # One-page `Resume` infrastructure: compiles & deploys dual Web/PDF endpoints for US/Global markets.
-├── ./es                                # Extended `CV` infrastructure: compiles & deploys dual Web/PDF endpoints for LATAM & EU/Spain markets.
-├── .gitignore                          # Exclusion rules for large and temporary files
-├── index.md                            # Professional metadata web portal (profile, positioning, credentials and portfolio-grade components).
-└── README.md                           # Repository entry point and architecture schema. (You are here!)
+```bash
+pablozunigac.github.io
+├── index.md                            # Professional metadata web portal (profile, positioning, credentials and portfolio-grade components)
+├── ./en                                # One-page `Resume` infrastructure: compiles & deploys dual Web/PDF endpoints for US/Global markets
+├── ./es                                # Extended `CV` infrastructure: compiles & deploys dual Web/PDF endpoints for LATAM & EU/Spain markets
+├── .github/worflows/
+│   └── update-timestamp.yml            # Automatic last updated timestamp in .md files via a CI/CD pipeline upon each commit
+└── README.md                           # This file
+```
 
 * `README.md` — Repository entry point and architecture schema. (You are here!)
 * `index.md` — Professional metadata web portal (profile, positioning, credentials and portfolio-grade components).
