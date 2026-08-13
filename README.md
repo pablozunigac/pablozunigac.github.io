@@ -33,7 +33,7 @@ This file serves as the single access point for professional metadata and bridge
 
 * `Strategic Positioning Dossier` — Comprehensive breakdown of consulting frameworks and market-facing capabilities.
 * `Systems & Engineering Metaportfolio` — Architectural deep-dive into complex systems modeling and execution patterns.
-* `Academic Records & Credentials` (Upon) — Centralized academic repository, degree certifications, and legal validations.
+* `Academic Records & Credentials` – (*Upon Inquiry*) — Centralized academic repository, degree certifications, and legal validations.
 
 ---
 

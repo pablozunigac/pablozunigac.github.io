@@ -71,7 +71,7 @@ Enero 2020 – Julio 2022 / Remoto**
 {: style="margin-bottom: 0;"}
 * Coordinación de _smart contracts_ para NFTs en entornos virtuales distribuidos de alta concurrencia (**~1.1k usuarios**). Editor en tododecripto.com sobre _blockchain_, _parachains_ y gobernanza Web3.
 
-**Pontificia Universidad Católica de Valparaíso  (_en asociación con la Escuela de Negocios de la UAI_)   
+**Pontificia Universidad Católica de Valparaíso (_en asociación con la Escuela de Negocios de la UAI_)  
 Consultor de Datos y Docente Adjunto [_Ejecución por Proyectos_]  
 Agosto 2018 – Junio 2021 / Región de Valparaíso**
 {: style="margin-bottom: 0;"}
@@ -82,14 +82,14 @@ Agosto 2018 – Junio 2021 / Región de Valparaíso**
 * Asesor técnico, editor de material académico y expositor internacional.  
 
 **Banco de Crédito e Inversiones – Gerencia Corporativa de Data & Analytics – Gobierno de Datos  
-Ingeniero de Procesos   
+Ingeniero de Procesos  
 Mayo 2019 – Septiembre 2019 / Las Condes, Región Metropolitana**
 {: style="margin-bottom: 0;"}
 * Orquestación de _pipelines_ para la integración de metadatos desde sistemas operacionales hacia repositorios del gobierno de datos en Microsoft Azure, respaldada por modelado de flujos y estandarización BPMN As-is/To-be.
 {: style="margin-bottom: 0;"}
 * Fiscalización de arquitecturas de datos en entornos financieros regulados, asegurando consistencia, calidad y control en el acceso a los procesos de almacenamiento, gestión y uso de la información institucional. 
 
-**ESVAL – Departamento de Gestión de Redes   
+**ESVAL – Departamento de Gestión de Redes  
 Líder de Proyecto (_Proyecto de Título_)  
 Julio 2017 – Diciembre 2017 / Viña del Mar, Región de Valparaíso**
 {: style="margin-bottom: 0;"}
@@ -104,7 +104,7 @@ Práctica Profesional de Ingeniería
 Enero 2016 – Marzo 2016 / Región Metropolitana – Región de Atacama**
 
 **Antofagasta Minerals – Minera Los Pelambres – Superintendencia de Geotecnia  
-Práctica de Ingeniería   
+Práctica de Ingeniería  
 Enero 2014 – Marzo 2014 / Salamanca, Región de Coquimbo**
 
 ---
@@ -124,7 +124,7 @@ Teoría y Dinámica de Sistemas, Ingeniería de Procesos (`BPMN`), Diagramación
 
 ## Credenciales Académicas
 
-**Pontificia Universidad Católica de Valparaíso   
+**Pontificia Universidad Católica de Valparaíso  
 Ingeniería Civil Industrial / 2011 – 2017  
 Licenciatura en Ciencias de la Ingeniería / 2016**
 {: style="margin-bottom: 0;"}
@@ -132,7 +132,7 @@ Licenciatura en Ciencias de la Ingeniería / 2016**
 {: style="margin-bottom: 0;"}
 * Ayudante académico recurrente en Ingeniería Económica, Sistemas de Información y Matemática Aplicada, liderando talleres computacionales y modelado cuantitativo.
 
-**Pontificia Universidad Católica de Valparaíso   
+**Pontificia Universidad Católica de Valparaíso  
 Ingeniería Civil / 2007 – 2010 (_Estudios Fundamentales_)**
 {: style="margin-bottom: 0;"}
 * Formación en ciencias básicas de la ingeniería con énfasis en matemática aplicada, ciencias básicas, herramientas computacionales (MATLAB) y dibujo técnico vectorial en AutoCAD.
@@ -141,13 +141,13 @@ Ingeniería Civil / 2007 – 2010 (_Estudios Fundamentales_)**
 
 ## Docencia y Divulgación Técnica
 
-**Pontificia Universidad Católica de Valparaíso – Escuela de Comercio   
+**Pontificia Universidad Católica de Valparaíso – Escuela de Comercio  
 Docente Invitado – Diplomado en Finanzas para la Toma de Decisiones  
 2019 / Valparaíso, Región de Valparaíso**
 {: style="margin-bottom: 0;"}
 * Diseño y relatoría de módulos en matemática financiera y evaluación de proyectos, aplicando Excel avanzado para modelado de flujos de caja, simulación de riesgo y análisis de rentabilidad.
 
-**BancoEstado (_en convenio con Universidad Técnica Federico Santa María_)   
+**BancoEstado (_en convenio con Universidad Técnica Federico Santa María_)  
 Expositor Técnico – Curso: Análisis Financiero de Títulos de Renta Variable  
 2017, 2019 / Santiago de Chile, Región Metropolitana**
 {: style="margin-bottom: 0;"}
@@ -155,5 +155,5 @@ Expositor Técnico – Curso: Análisis Financiero de Títulos de Renta Variable
 
 ---
 
-**Last Update:** <span id="footer_timestamp">07-08-2026, 16:12 UTC</span>  
+**Last Update:** <span id="timestamp_esdjashd">07-08-2026, 16:12 UTC</span>  
 **© 2026 Pablo Zúñiga Carvajal.** Todos los derechos reservados.
