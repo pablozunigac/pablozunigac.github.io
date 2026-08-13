@@ -92,7 +92,7 @@ Delivered time-series analytics and high-frequency financial modeling training t
 
 ---
 
-**Last Update:** <span id="timestamp_en">2026-08-13, 02:47 UTC</span>  
+**Last Update:** <span id="timestamp_en">2026-08-13, 03:06 UTC</span>  
 **© 2026 Pablo Zúñiga Carvajal.** All rights reserved.
 
 asd
