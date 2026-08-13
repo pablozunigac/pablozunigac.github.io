@@ -55,5 +55,9 @@ The ultimate objective is not information, but understanding. Every framework, p
 **_Conceptual Foundations:_** `Decision Theory` · `Sensemaking` · `Organizational Learning`
 
 ---
+<<<<<<< HEAD
 **Last Update:** <span id="footer_timestamp_en">13-08-2026, 00:43 UTC</span>  
+=======
+**Last Update:** <span id="footer_timestamp">13-08-2026, 01:08 UTC</span>  
+>>>>>>> f651e35614874963bbdbbe3015908383ad27d3e2
 **© 2026 Pablo Zúñiga Carvajal.** All rights reserved.
