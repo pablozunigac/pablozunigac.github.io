@@ -32,7 +32,6 @@ jobs:
           TIMESTAMP_EN=$(date -u +'%Y-%m-%d, %H:%M UTC')
           TIMESTAMP_ES=$(date -u +'%d-%m-%Y, %H:%M UTC')
 
-          # Analiza el cambio respecto al ancestro directo
           CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD)
           TARGETS="es/cv.md en/resume.md index.md README.md"
 
