@@ -3,6 +3,7 @@ name: Deploy Pages with Dynamic Timestamp
 on:
   push:
     branches: [ main ]
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -23,17 +24,20 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
 
-      - name: Inject Timestamp Script into Markdown
+      - name: Inject Timestamp strictly
         run: |
-          NOW=$(date -u +'%Y-%m-%d, %H:%M UTC')
-          NOW_ES=$(date -u +'%d-%m-%Y, %H:%M UTC')
+          NOW_EN="$(date -u +'%Y-%m-%d, %H:%M UTC')"
+          NOW_ES="$(date -u +'%d-%m-%Y, %H:%M UTC')"
 
-          # Inyección de texto estático directo para el HTML renderizado
+          # Desactivar Jekyll para que no pise los cambios hechos en memoria
+          touch .nojekyll
+
+          # Reemplazo exacto sobre las etiquetas span
           find . -type f \( -name "index.md" -o -name "README.md" -o -name "resume.md" \) \
-            -exec sed -i "s|<span id=\"timestamp_en\">[^<]*</span>|${NOW}|g" {} +
+            -exec sed -i "s|<span id=\"timestamp_en\">[^<]*</span>|<span id=\"timestamp_en\">${NOW_EN}</span>|g" {} +
 
           find . -type f -name "cv.md" \
-            -exec sed -i "s|<span id=\"timestamp_es\">[^<]*</span>|${NOW_ES}|g" {} +
+            -exec sed -i "s|<span id=\"timestamp_es\">[^<]*</span>|<span id=\"timestamp_es\">${NOW_ES}</span>|g" {} +
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
