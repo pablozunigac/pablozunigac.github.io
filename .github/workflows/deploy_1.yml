@@ -57,5 +57,6 @@ jobs:
           fi
 
           git commit -m "docs: auto-update timestamp [skip ci]"
-          git pull --rebase origin main
+          git fetch origin main
+          git rebase origin/main
           git push origin main
