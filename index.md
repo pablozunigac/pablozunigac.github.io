@@ -11,7 +11,6 @@
   <b><a href="https://calendar.notion.so/meet/cuxhavenlabs/pablo">Scheduling ↗</a></b>
 </p>
 
-
 ---
 
 **Industrial & Systems Engineer PUCV, BSc & MSc Equivalent  

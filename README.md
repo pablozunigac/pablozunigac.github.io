@@ -19,9 +19,9 @@ pablozunigac.github.io
 ├── en/                             # One-page resume infrastructure: compiles & deploys dual Web/PDF endpoints for US/Global markets
 ├── es/                             # Extended CV infrastructure: compiles & deploys dual Web/PDF endpoints for LATAM & EU/Spain markets
 ├── .github/workflows/
-│   └── deploy.yml                  # Automatic last updated timestamp in .md files via a CI/CD pipeline upon each commit
-│   └── jekyll-gh-pages.yml         # 
-└── README.md                       # This file
+│   ├── ci.yml                      # Validation, timestamp injection & PDF compilation pipeline
+│   └── deploy.yml                  # GitHub Pages CDN edge deployment pipeline
+└── README.md                       # This file: Repository architecture & documentation
 ```
 
 ---
