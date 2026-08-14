@@ -1,40 +1,63 @@
-name: Deploy GitHub Pages
+name: Deploy GitHub Pages with Dynamic Timestamps
 
 on:
   push:
-    branches: [ main2 ]
-  workflow_dispatch: # Permite disparar el despliegue manualmente si es necesario
+    branches: [ main ]
 
+# Cancela ejecuciones anteriores en progreso para la misma rama
 concurrency:
-  group: pages
-  cancel-in-progress: false
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+# Permisos requeridos para el despliegue nativo OIDC de GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
-  deploy:
-    name: Build & Deploy Static Site
-    runs-on: ubuntu-latest
-
-    permissions:
-      contents: read
-      pages: write
-      id-token: write
-
+  build-and-deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Setup GitHub Pages Engine
+      - name: Inject Dynamic Timestamps (In-Memory)
+        run: |
+          # Generar marcas de tiempo en formato internacional
+          TIMESTAMP_EN="$(date -u +'%Y-%m-%d, %H:%M UTC')"
+          TIMESTAMP_ES="$(date -u +'%d-%m-%Y, %H:%M UTC')"
+
+          echo "Injecting Timestamps..."
+          echo "EN: $TIMESTAMP_EN"
+          echo "ES: $TIMESTAMP_ES"
+
+          # Actualizar archivos en formato EN (index.md, README.md, en/resume.md si existe)
+          for file in index.md README.md en/resume.md en/index.md; do
+            if [ -f "$file" ]; then
+              sed -i "s|<span id=\"timestamp_en\">[^<]*</span>|<span id=\"timestamp_en\">${TIMESTAMP_EN}</span>|g" "$file"
+            fi
+          done
+
+          # Actualizar archivos en formato ES (es/cv.md, es/index.md si existe)
+          for file in es/cv.md es/index.md; do
+            if [ -f "$file" ]; then
+              sed -i "s|<span id=\"timestamp_es\">[^<]*</span>|<span id=\"timestamp_es\">${TIMESTAMP_ES}</span>|g" "$file"
+            fi
+          done
+
+      - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      - name: Upload Site & Artifacts
+      - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.' # Directorio raíz a publicar
+          path: '.'
 
-      - name: Deploy to GitHub Pages CDN
+      - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
