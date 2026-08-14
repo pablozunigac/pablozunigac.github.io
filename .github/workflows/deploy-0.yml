@@ -1,4 +1,4 @@
-name: Update Footer Timestamp
+name: Deploy Pages with Timestamps
 
 on:
   push:
@@ -19,7 +19,7 @@ permissions:
   id-token: write
 
 jobs:
-  update-timestamp:
+  deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -28,30 +28,17 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: Update Timestamp In-Memory
+      - name: Update Timestamps In-Memory
         run: |
           TIMESTAMP_EN=$(date -u +'%Y-%m-%d, %H:%M UTC')
           TIMESTAMP_ES=$(date -u +'%d-%m-%Y, %H:%M UTC')
 
-          CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD)
-          TARGETS="es/cv.md en/resume.md index.md README.md"
-
-          for FILE in $CHANGED_FILES; do
-            if echo "$TARGETS" | grep -qw "$FILE"; then
-              if [ -f "$FILE" ]; then
-                echo "Actualizando timestamp en: $FILE"
-                
-                if [ "$FILE" = "index.md" ] || [ "$FILE" = "en/resume.md" ] || [ "$FILE" = "README.md" ]; then
-                  sed -i "s|<span id=\"timestamp_en\">[^<]*</span>|<span id=\"timestamp_en\">${TIMESTAMP_EN}</span>|g" "$FILE"
-                elif [ "$FILE" = "es/cv.md" ]; then
-                  sed -i "s|<span id=\"timestamp_es\">[^<]*</span>|<span id=\"timestamp_es\">${TIMESTAMP_ES}</span>|g" "$FILE"
-                fi
-              fi
-            fi
-          done
+          # Inyecta la fecha directamente en los objetivos siempre
+          sed -i "s|<span id=\"timestamp_en\">[^<]*</span>|<span id=\"timestamp_en\">${TIMESTAMP_EN}</span>|g" index.md || true
+          sed -i "s|<span id=\"timestamp_en\">[^<]*</span>|<span id=\"timestamp_en\">${TIMESTAMP_EN}</span>|g" en/resume.md || true
+          sed -i "s|<span id=\"timestamp_en\">[^<]*</span>|<span id=\"timestamp_en\">${TIMESTAMP_EN}</span>|g" README.md || true
+          sed -i "s|<span id=\"timestamp_es\">[^<]*</span>|<span id=\"timestamp_es\">${TIMESTAMP_ES}</span>|g" es/cv.md || true
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
