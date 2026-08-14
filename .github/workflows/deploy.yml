@@ -29,12 +29,11 @@ jobs:
           TS_EN=$(date -u +'%Y-%m-%d, %H:%M UTC')
           TS_ES=$(date -u +'%d-%m-%Y, %H:%M UTC')
 
-          # Reemplaza el contenido dentro de los spans en todos los archivos .md
-          find . -type f -name "*.md" -exec sed -i "s|<span id=\"timestamp_en\">.*</span>|<span id=\"timestamp_en\">${TS_EN}</span>|g" {} +
-          find . -type f -name "*.md" -exec sed -i "s|<span id=\"timestamp_es\">.*</span>|<span id=\"timestamp_es\">${TS_ES}</span>|g" {} +
+          # Aquí va tu comando sed:
+          sed -i "s|<span id=\"timestamp_en\">.*</span>|<span id=\"timestamp_en\">${TS_EN}</span>|g" index.md
+          sed -i "s|<span id=\"timestamp_es\">.*</span>|<span id=\"timestamp_es\">${TS_ES}</span>|g" index.md
 
-          # Evita que Jekyll procese o filtre la estructura de carpetas
-          # touch .nojekyll
+          touch .nojekyll
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -42,8 +41,8 @@ jobs:
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'
+          path: '.' # Empaqueta la carpeta con los .md YA modificados
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v4 # Entrega el paquete al servidor web
