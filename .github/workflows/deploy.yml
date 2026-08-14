@@ -34,7 +34,7 @@ jobs:
           find . -type f -name "*.md" -exec sed -i "s|<span id=\"timestamp_es\">.*</span>|<span id=\"timestamp_es\">${TS_ES}</span>|g" {} +
 
           # Evita que Jekyll procese o filtre la estructura de carpetas
-          touch .nojekyll
+          # touch .nojekyll
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
