@@ -8,7 +8,7 @@ Valparaíso, Chile · Open to Relocation · US H-1B1 & ESTA Eligible**
 
 ---
 
-## Architecture of `pablozunigac.github.io`    
+## Architecture of pablozunigac.github.io
 Central Docs-as-Code repository powering my professional profile, multi-language CVs, and automated CI/CD deployment pipelines.
 
 ### Core Repository Structure
