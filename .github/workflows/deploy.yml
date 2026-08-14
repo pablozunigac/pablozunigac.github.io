@@ -29,9 +29,9 @@ jobs:
           TIMESTAMP_EN=$(date -u +'%Y-%m-%d, %H:%M UTC')
           TIMESTAMP_ES=$(date -u +'%d-%m-%Y, %H:%M UTC')
 
-          # Reemplaza los spans en todos los .md solo para la compilación web
-          find . -type f -name "*.md" -exec sed -i "s|<span id=\"timestamp_en\">[^<]*</span>|<span id=\"timestamp_en\">${TIMESTAMP_EN}</span>|g" {} +
-          find . -type f -name "*.md" -exec sed -i "s|<span id=\"timestamp_es\">[^<]*</span>|<span id=\"timestamp_es\">${TIMESTAMP_ES}</span>|g" {} +
+          # Expresión regular extendida (-E) para forzar la sustitución
+          find . -type f -name "*.md" -exec sed -i -E 's|<span id="timestamp_en">.*</span>|<span id="timestamp_en">'${TIMESTAMP_EN}'</span>|g' {} +
+          find . -type f -name "*.md" -exec sed -i -E 's|<span id="timestamp_es">.*</span>|<span id="timestamp_es">'${TIMESTAMP_ES}'</span>|g' {} +
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
