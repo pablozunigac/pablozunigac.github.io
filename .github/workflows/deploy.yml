@@ -2,7 +2,7 @@ name: Deploy GitHub Pages with Dynamic Timestamps
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main2 ]
 
 # Cancela ejecuciones anteriores en progreso para la misma rama
 concurrency:
