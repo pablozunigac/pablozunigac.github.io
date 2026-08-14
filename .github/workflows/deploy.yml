@@ -27,23 +27,31 @@ jobs:
       - name: Inject Timestamps In-Memory
         run: |
           python3 -c '
-          import os, glob, datetime
+          import os, glob, datetime, re
 
           ts_en = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d, %H:%M UTC")
           ts_es = datetime.datetime.now(datetime.timezone.utc).strftime("%d-%m-%Y, %H:%M UTC")
 
-          for filepath in glob.glob("**/*.md", recursive=True):
+          print(f"--- Inyectando Fechas: EN={ts_en} | ES={ts_es} ---")
+
+          files = glob.glob("**/*.md", recursive=True)
+          for filepath in files:
               if os.path.isfile(filepath):
                   with open(filepath, "r", encoding="utf-8") as f:
                       content = f.read()
                   
-                  import re
-                  content = re.sub(r"<span id=\"timestamp_en\">.*?</span>", f"<span id=\"timestamp_en\">{ts_en}</span>", content)
-                  content = re.sub(r"<span id=\"timestamp_es\">.*?</span>", f"<span id=\"timestamp_es\">{ts_es}</span>", content)
+                  new_content = re.sub(r"<span id=[\"\']timestamp_en[\"\'].*?>.*?</span>", f"<span id=\"timestamp_en\">{ts_en}</span>", content)
+                  new_content = re.sub(r"<span id=[\"\']timestamp_es[\"\'].*?>.*?</span>", f"<span id=\"timestamp_es\">{ts_es}</span>", new_content)
                   
-                  with open(filepath, "w", encoding="utf-8") as f:
-                      f.write(content)
+                  if content != new_content:
+                      print(f"Modificado: {filepath}")
+                      with open(filepath, "w", encoding="utf-8") as f:
+                          f.write(new_content)
+                  else:
+                      print(f"Sin cambios (no se encontró la etiqueta): {filepath}")
           '
+          # Crear .nojekyll para evitar que Jekyll saltee la generación
+          touch .nojekyll
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
