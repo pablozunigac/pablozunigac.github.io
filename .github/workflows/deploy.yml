@@ -24,25 +24,14 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Inject Timestamps In-Memory
+      - name: Inject Last Commit Date
         run: |
-          TS_EN=$(date -u +'%Y-%m-%d, %H:%M UTC')
-          TS_ES=$(date -u +'%d-%m-%Y, %H:%M UTC')
-
-          echo "=== 1. FECHA GENERADA ==="
-          echo "EN: ${TS_EN}"
-          echo "ES: ${TS_ES}"
-
-          echo "=== 2. CONTENIDO ANTES DEL SED ==="
-          grep -n "timestamp" index.md || echo "NO SE ENCONTRÓ LA ETIQUETA EN INDEX.MD"
-
-          # Ejecutar reemplazo
-          sed -i "s|<span id=\"timestamp_en\">.*</span>|<span id=\"timestamp_en\">${TS_EN}</span>|g" index.md
-          sed -i "s|<span id=\"timestamp_es\">.*</span>|<span id=\"timestamp_es\">${TS_ES}</span>|g" index.md
-
-          echo "=== 3. CONTENIDO DESPUÉS DEL SED ==="
-          grep -n "timestamp" index.md || echo "FALLÓ EL REEMPLAZO"
-
+          # Extrae la fecha del ÚLTIMO COMMIT REAL que tocó index.md
+          LAST_COMMIT_DATE=$(git log -1 --format="%cd" --date=format:'%Y-%m-%d, %H:%M UTC' -- index.md)
+          
+          # Reemplaza la etiqueta solo con la fecha real del cambio de contenido
+          sed -i "s|<span id=\"timestamp_en\">.*</span>|<span id=\"timestamp_en\">${LAST_COMMIT_DATE}</span>|g" index.md
+          
           touch .nojekyll
 
       - name: Setup Pages
