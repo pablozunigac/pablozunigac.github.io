@@ -1,22 +1,20 @@
-name: Deploy GitHub Pages with Dynamic Timestamps
+name: Deploy Pages
 
 on:
   push:
-    branches: [ main2 ]
+    branches: [ main ]
 
-# Cancela ejecuciones anteriores en progreso para la misma rama
-concurrency:
-  group: pages-${{ github.ref }}
-  cancel-in-progress: true
-
-# Permisos requeridos para el despliegue nativo OIDC de GitHub Pages
 permissions:
   contents: read
   pages: write
   id-token: write
 
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
 jobs:
-  build-and-deploy:
+  deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -26,29 +24,14 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Inject Dynamic Timestamps (In-Memory)
+      - name: Update Timestamps in Memory
         run: |
-          # Generar marcas de tiempo en formato internacional
-          TIMESTAMP_EN="$(date -u +'%Y-%m-%d, %H:%M UTC')"
-          TIMESTAMP_ES="$(date -u +'%d-%m-%Y, %H:%M UTC')"
+          TIMESTAMP_EN=$(date -u +'%Y-%m-%d, %H:%M UTC')
+          TIMESTAMP_ES=$(date -u +'%d-%m-%Y, %H:%M UTC')
 
-          echo "Injecting Timestamps..."
-          echo "EN: $TIMESTAMP_EN"
-          echo "ES: $TIMESTAMP_ES"
-
-          # Actualizar archivos en formato EN (index.md, README.md, en/resume.md)
-          for file in index.md README.md en/resume.md en/index.md; do
-            if [ -f "$file" ]; then
-              perl -i -pe "s|<span id=\"timestamp_en\">.*?</span>|<span id=\"timestamp_en\">${TIMESTAMP_EN}</span>|g" "$file"
-            fi
-          done
-
-          # Actualizar archivos en formato ES (es/cv.md, es/index.md)
-          for file in es/cv.md es/index.md; do
-            if [ -f "$file" ]; then
-              perl -i -pe "s|<span id=\"timestamp_es\">.*?</span>|<span id=\"timestamp_es\">${TIMESTAMP_ES}</span>|g" "$file"
-            fi
-          done
+          # Inyecta la fecha en los HTML/MD renderizados antes de empaquetar
+          find . -type f -name "*.md" -exec sed -i "s|<span id=\"timestamp_en\">[^<]*</span>|<span id=\"timestamp_en\">${TIMESTAMP_EN}</span>|g" {} +
+          find . -type f -name "*.md" -exec sed -i "s|<span id=\"timestamp_es\">[^<]*</span>|<span id=\"timestamp_es\">${TIMESTAMP_ES}</span>|g" {} +
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
