@@ -32,11 +32,11 @@ This architecture uses `index.md` as its centralized routing layer, bridging loc
 #### Central Web Portal and Routing Layer: `index.md`
 This file serves as the single access point for professional metadata and bridges static endpoints with three live, specialized Notion knowledge nodes (Strategic Dossier, Systems Metaportfolio, and Formal Academic Credentials).
 
-* `Strategic Positioning Dossier`
+* `Strategic Positioning Dossier` [`Strategic Positioning Dossier`](https://cuxhavenlabs.notion.site/Professional-Positioning-Dossier-21a2ad0c842680749956e17239a36e4d)  
 Comprehensive breakdown of consulting frameworks and market-facing capabilities.
-* `Systems & Engineering Metaportfolio`
+* `Systems & Engineering Metaportfolio`  
 Architectural deep-dive into complex systems modeling and execution patterns.
-* `Academic Records & Credentials` (*Upon Inquiry*)
+* `Academic Records & Credentials` (*Upon Inquiry*)  
 Centralized academic repository, degree certifications, and legal validations.
 
 ---
