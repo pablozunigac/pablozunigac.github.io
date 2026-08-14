@@ -29,9 +29,19 @@ jobs:
           TS_EN=$(date -u +'%Y-%m-%d, %H:%M UTC')
           TS_ES=$(date -u +'%d-%m-%Y, %H:%M UTC')
 
-          # Aquí va tu comando sed:
+          echo "=== 1. FECHA GENERADA ==="
+          echo "EN: ${TS_EN}"
+          echo "ES: ${TS_ES}"
+
+          echo "=== 2. CONTENIDO ANTES DEL SED ==="
+          grep -n "timestamp" index.md || echo "NO SE ENCONTRÓ LA ETIQUETA EN INDEX.MD"
+
+          # Ejecutar reemplazo
           sed -i "s|<span id=\"timestamp_en\">.*</span>|<span id=\"timestamp_en\">${TS_EN}</span>|g" index.md
           sed -i "s|<span id=\"timestamp_es\">.*</span>|<span id=\"timestamp_es\">${TS_ES}</span>|g" index.md
+
+          echo "=== 3. CONTENIDO DESPUÉS DEL SED ==="
+          grep -n "timestamp" index.md || echo "FALLÓ EL REEMPLAZO"
 
           touch .nojekyll
 
