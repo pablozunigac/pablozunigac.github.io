@@ -36,17 +36,17 @@ jobs:
           echo "EN: $TIMESTAMP_EN"
           echo "ES: $TIMESTAMP_ES"
 
-          # Actualizar archivos en formato EN (index.md, README.md, en/resume.md si existe)
+          # Actualizar archivos en formato EN (index.md, README.md, en/resume.md)
           for file in index.md README.md en/resume.md en/index.md; do
             if [ -f "$file" ]; then
-              sed -i "s|<span id=\"timestamp_en\">[^<]*</span>|<span id=\"timestamp_en\">${TIMESTAMP_EN}</span>|g" "$file"
+              perl -i -pe "s|<span id=\"timestamp_en\">.*?</span>|<span id=\"timestamp_en\">${TIMESTAMP_EN}</span>|g" "$file"
             fi
           done
 
-          # Actualizar archivos en formato ES (es/cv.md, es/index.md si existe)
+          # Actualizar archivos en formato ES (es/cv.md, es/index.md)
           for file in es/cv.md es/index.md; do
             if [ -f "$file" ]; then
-              sed -i "s|<span id=\"timestamp_es\">[^<]*</span>|<span id=\"timestamp_es\">${TIMESTAMP_ES}</span>|g" "$file"
+              perl -i -pe "s|<span id=\"timestamp_es\">.*?</span>|<span id=\"timestamp_es\">${TIMESTAMP_ES}</span>|g" "$file"
             fi
           done
 
