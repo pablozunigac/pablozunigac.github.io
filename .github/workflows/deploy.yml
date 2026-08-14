@@ -26,12 +26,24 @@ jobs:
 
       - name: Inject Timestamps In-Memory
         run: |
-          TIMESTAMP_EN=$(date -u +'%Y-%m-%d, %H:%M UTC')
-          TIMESTAMP_ES=$(date -u +'%d-%m-%Y, %H:%M UTC')
+          python3 -c '
+          import os, glob, datetime
 
-          # Expresión regular extendida (-E) para forzar la sustitución
-          find . -type f -name "*.md" -exec sed -i -E 's|<span id="timestamp_en">.*</span>|<span id="timestamp_en">'${TIMESTAMP_EN}'</span>|g' {} +
-          find . -type f -name "*.md" -exec sed -i -E 's|<span id="timestamp_es">.*</span>|<span id="timestamp_es">'${TIMESTAMP_ES}'</span>|g' {} +
+          ts_en = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d, %H:%M UTC")
+          ts_es = datetime.datetime.now(datetime.timezone.utc).strftime("%d-%m-%Y, %H:%M UTC")
+
+          for filepath in glob.glob("**/*.md", recursive=True):
+              if os.path.isfile(filepath):
+                  with open(filepath, "r", encoding="utf-8") as f:
+                      content = f.read()
+                  
+                  import re
+                  content = re.sub(r"<span id=\"timestamp_en\">.*?</span>", f"<span id=\"timestamp_en\">{ts_en}</span>", content)
+                  content = re.sub(r"<span id=\"timestamp_es\">.*?</span>", f"<span id=\"timestamp_es\">{ts_es}</span>", content)
+                  
+                  with open(filepath, "w", encoding="utf-8") as f:
+                      f.write(content)
+          '
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
