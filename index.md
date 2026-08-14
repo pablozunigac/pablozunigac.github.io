@@ -18,8 +18,6 @@ Data Modeling · Applied Statistics · Complex Systems
 Valparaíso, Chile · Open to Relocation · US H-1B1 & ESTA Eligible**  
 `Native Spanish` · `Professional English`
 
-tag-tdg
-
 ---
 
 ### High-complexity environments, distributed teams, and cross-functional workflows
