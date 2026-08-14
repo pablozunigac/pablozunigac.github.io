@@ -31,8 +31,6 @@ jobs:
           
           # Reemplaza la etiqueta solo con la fecha real del cambio de contenido
           sed -i "s|<span id=\"timestamp_en\">.*</span>|<span id=\"timestamp_en\">${LAST_COMMIT_DATE}</span>|g" index.md
-          
-          touch .nojekyll
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
