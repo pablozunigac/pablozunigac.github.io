@@ -13,22 +13,26 @@ concurrency:
   group: timestamp-${{ github.ref }}
   cancel-in-progress: true
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 jobs:
   update-timestamp:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Update Timestamp (Only Edited File)
+      - name: Update Timestamp In-Memory
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
           TIMESTAMP_EN=$(date -u +'%Y-%m-%d, %H:%M UTC')
           TIMESTAMP_ES=$(date -u +'%d-%m-%Y, %H:%M UTC')
 
@@ -45,18 +49,18 @@ jobs:
                 elif [ "$FILE" = "es/cv.md" ]; then
                   sed -i "s|<span id=\"timestamp_es\">[^<]*</span>|<span id=\"timestamp_es\">${TIMESTAMP_ES}</span>|g" "$FILE"
                 fi
-                
-                git add "$FILE"
               fi
             fi
           done
 
-          if git diff --staged --quiet; then
-            echo "Ningún archivo objetivo requiere actualización."
-            exit 0
-          fi
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
 
-          git commit -m "docs: auto-update timestamp [skip ci]"
-          git fetch origin main
-          git rebase origin/main
-          git push origin main
+      - name: Upload Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
