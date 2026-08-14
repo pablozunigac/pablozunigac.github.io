@@ -1,62 +1,40 @@
-name: Update Footer Timestamp
+name: Deploy GitHub Pages
 
 on:
   push:
     branches: [ main ]
-    paths:
-      - 'index.md'
-      - 'es/cv.md'
-      - 'en/resume.md'
-      - 'README.md'
+  workflow_dispatch: # Permite disparar el despliegue manualmente si es necesario
 
 concurrency:
-  group: timestamp-${{ github.ref }}
-  cancel-in-progress: true
+  group: pages
+  cancel-in-progress: false
 
 jobs:
-  update-timestamp:
+  deploy:
+    name: Build & Deploy Static Site
     runs-on: ubuntu-latest
+
     permissions:
-      contents: write
+      contents: read
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup GitHub Pages Engine
+        uses: actions/configure-pages@v5
+
+      - name: Upload Site & Artifacts
+        uses: actions/upload-pages-artifact@v3
         with:
-          fetch-depth: 0
+          path: '.' # Directorio raíz a publicar
 
-      - name: Update Timestamp (Only Edited File)
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          TIMESTAMP_EN=$(date -u +'%Y-%m-%d, %H:%M UTC')
-          TIMESTAMP_ES=$(date -u +'%d-%m-%Y, %H:%M UTC')
-
-          CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD)
-          TARGETS="es/cv.md en/resume.md index.md README.md"
-
-          for FILE in $CHANGED_FILES; do
-            if echo "$TARGETS" | grep -qw "$FILE"; then
-              if [ -f "$FILE" ]; then
-                echo "Actualizando timestamp en: $FILE"
-                
-                if [ "$FILE" = "index.md" ] || [ "$FILE" = "en/resume.md" ] || [ "$FILE" = "README.md" ]; then
-                  sed -i "s|<span id=\"timestamp_en\">[^<]*</span>|<span id=\"timestamp_en\">${TIMESTAMP_EN}</span>|g" "$FILE"
-                elif [ "$FILE" = "es/cv.md" ]; then
-                  sed -i "s|<span id=\"timestamp_es\">[^<]*</span>|<span id=\"timestamp_es\">${TIMESTAMP_ES}</span>|g" "$FILE"
-                fi
-                
-                git add "$FILE"
-              fi
-            fi
-          done
-
-          if git diff --staged --quiet; then
-            echo "Ningún archivo objetivo requiere actualización."
-            exit 0
-          fi
-
-          git commit -m "docs: auto-update timestamp [skip ci]"
-          git fetch origin main
-          git rebase origin/main
-          git push origin main
+      - name: Deploy to GitHub Pages CDN
+        id: deployment
+        uses: actions/deploy-pages@v4

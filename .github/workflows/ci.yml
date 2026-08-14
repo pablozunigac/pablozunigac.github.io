@@ -1,0 +1,119 @@
+name: CI & Artifact Compilation
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - '**.md'
+      - 'package*.json'
+      - '.github/workflows/ci.yml'
+  pull_request:
+    branches: [ main ]
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  # ------------------------------------------------------------------
+  # JOB 1: Validation & Quality Control (CI)
+  # ------------------------------------------------------------------
+  validate:
+    name: Validate Markdown & Environment
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: |
+          if [ -f "package.json" ]; then
+            npm ci
+          fi
+
+      - name: Run Linters & Tests
+        run: |
+          if [ -f "package.json" ]; then
+            npm run lint --if-present
+            npm test --if-present
+          fi
+
+  # ------------------------------------------------------------------
+  # JOB 2: Timestamp Injection & PDF Artifact Compilation
+  # ------------------------------------------------------------------
+  build-and-compile:
+    name: Inject Timestamps & Compile PDFs
+    needs: validate
+    # Solo ejecuta la compilación y commit de vuelta en PUSH a main (evita correr en Pull Requests)
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Inject Dynamic Timestamps
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          TIMESTAMP_EN=$(date -u +'%Y-%m-%d, %H:%M UTC')
+          TIMESTAMP_ES=$(date -u +'%d-%m-%Y, %H:%M UTC')
+
+          # Inyección idempotente de timestamps por archivo e idioma
+          if [ -f "index.md" ]; then
+            sed -i "s|<span id=\"timestamp_en\">[^<]*</span>|<span id=\"timestamp_en\">${TIMESTAMP_EN}</span>|g" index.md
+          fi
+          if [ -f "README.md" ]; then
+            sed -i "s|<span id=\"timestamp_en\">[^<]*</span>|<span id=\"timestamp_en\">${TIMESTAMP_EN}</span>|g" README.md
+          fi
+          if [ -f "en/resume.md" ]; then
+            sed -i "s|<span id=\"timestamp_en\">[^<]*</span>|<span id=\"timestamp_en\">${TIMESTAMP_EN}</span>|g" en/resume.md
+          fi
+          if [ -f "es/cv.md" ]; then
+            sed -i "s|<span id=\"timestamp_es\">[^<]*</span>|<span id=\"timestamp_es\">${TIMESTAMP_ES}</span>|g" es/cv.md
+          fi
+
+      - name: Install md-to-pdf CLI
+        run: npm install -g md-to-pdf
+
+      - name: Compile Markdown to PDF Artifacts
+        run: |
+          if [ -f "es/cv.md" ]; then
+            npx md-to-pdf es/cv.md --launch-options '{"args": ["--no-sandbox"]}'
+            mv es/cv.pdf es/cv-pablo-zuniga.pdf
+          fi
+          if [ -f "en/resume.md" ]; then
+            npx md-to-pdf en/resume.md --launch-options '{"args": ["--no-sandbox"]}'
+            mv en/resume.pdf en/resume-pablo-zuniga.pdf
+          fi
+
+      - name: Commit & Push Compiled Artifacts
+        run: |
+          git add es/*.pdf en/*.pdf es/*.md en/*.md index.md README.md || true
+          
+          if git diff --staged --quiet; then
+            echo "No targets modified in this execution."
+            exit 0
+          fi
+
+          git commit -m "docs: auto-update timestamps & compiled PDFs [skip ci]"
+          git push origin main

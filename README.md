@@ -9,7 +9,7 @@ Valparaíso, Chile · Open to Relocation · US H-1B1 & ESTA Eligible**
 ---
 
 ### Architecture of `pablozunigac.github.io` Website  
-Architected under a strict Doc-as-Code framework, [pablozunigac.github.io](https://pablozunigac.github.io) serves as the single source of truth for my professional metadata, web endpoints, and CI/CD-compiled artifacts.
+Central Docs-as-Code repository powering my professional profile, multi-language CVs, and automated CI/CD deployment pipelines.
 
 #### Core Repository Structure
 
@@ -19,7 +19,8 @@ pablozunigac.github.io
 ├── en/                             # One-page resume infrastructure: compiles & deploys dual Web/PDF endpoints for US/Global markets
 ├── es/                             # Extended CV infrastructure: compiles & deploys dual Web/PDF endpoints for LATAM & EU/Spain markets
 ├── .github/workflows/
-│   └── update-timestamp.yml        # Automatic last updated timestamp in .md files via a CI/CD pipeline upon each commit
+│   └── deploy.yml                  # Automatic last updated timestamp in .md files via a CI/CD pipeline upon each commit
+│   └── jekyll-gh-pages.yml         # 
 └── README.md                       # This file
 ```
 
@@ -31,9 +32,12 @@ This architecture uses `index.md` as its centralized routing layer, bridging loc
 #### Central Web Portal and Routing Layer: `index.md`
 This file serves as the single access point for professional metadata and bridges static endpoints with three live, specialized Notion knowledge nodes (Strategic Dossier, Systems Metaportfolio, and Formal Academic Credentials).
 
-* `Strategic Positioning Dossier` — Comprehensive breakdown of consulting frameworks and market-facing capabilities.
-* `Systems & Engineering Metaportfolio` — Architectural deep-dive into complex systems modeling and execution patterns.
-* `Academic Records & Credentials` – (*Upon Inquiry*) — Centralized academic repository, degree certifications, and legal validations.
+* `Strategic Positioning Dossier`
+Comprehensive breakdown of consulting frameworks and market-facing capabilities.
+* `Systems & Engineering Metaportfolio`
+Architectural deep-dive into complex systems modeling and execution patterns.
+* `Academic Records & Credentials` (*Upon Inquiry*)
+Centralized academic repository, degree certifications, and legal validations.
 
 ---
 
