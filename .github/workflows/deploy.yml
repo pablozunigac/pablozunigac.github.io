@@ -2,7 +2,7 @@ name: Deploy GitHub Pages
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main2 ]
   workflow_dispatch: # Permite disparar el despliegue manualmente si es necesario
 
 concurrency:

@@ -2,7 +2,7 @@ name: CI & Artifact Compilation
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main2 ]
     paths:
       - '**.md'
       - 'package*.json'
