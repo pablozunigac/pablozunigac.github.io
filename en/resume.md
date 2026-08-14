@@ -19,7 +19,7 @@ Valparaíso, Chile · Open to Relocation · US [H-1B1](https://www.dol.gov/agenc
 <b><a href="#tech-stack">Tech Stack</a></b>&nbsp;&nbsp;•&nbsp;
 <b><a href="#work-experience">Work</a></b>&nbsp;&nbsp;•&nbsp;
 <b><a href="#education">Education</a></b>&nbsp;&nbsp;•&nbsp;
-<b><a href="#teaching-and-technical-teaching">Teaching</a></b>
+<b><a href="#teaching-and-technical-training">Teaching</a></b>
 </p>
 
 ### TECH STACK
@@ -83,7 +83,7 @@ Industrial & Systems Engineering (Integrated 6-Year Program – BSc & MSc Equiva
 
 ---
 
-### TEACHING AND TECHNICAL TEACHING
+### TEACHING AND TECHNICAL TRAINING
 
 * **Graduate Teaching Assistant (PUCV)**  
 Instructed Applied Data Science, MIS, and Quantitative Mathematics for 100+ engineering students (2018–2021).
