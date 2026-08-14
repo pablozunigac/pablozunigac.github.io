@@ -1,4 +1,4 @@
-name: Deploy Pages
+name: Deploy Pages with Timestamp
 
 on:
   push:
@@ -24,12 +24,12 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Update Timestamps in Memory
+      - name: Inject Timestamps In-Memory
         run: |
           TIMESTAMP_EN=$(date -u +'%Y-%m-%d, %H:%M UTC')
           TIMESTAMP_ES=$(date -u +'%d-%m-%Y, %H:%M UTC')
 
-          # Inyecta la fecha en los HTML/MD renderizados antes de empaquetar
+          # Reemplaza los spans en todos los .md solo para la compilación web
           find . -type f -name "*.md" -exec sed -i "s|<span id=\"timestamp_en\">[^<]*</span>|<span id=\"timestamp_en\">${TIMESTAMP_EN}</span>|g" {} +
           find . -type f -name "*.md" -exec sed -i "s|<span id=\"timestamp_es\">[^<]*</span>|<span id=\"timestamp_es\">${TIMESTAMP_ES}</span>|g" {} +
 
