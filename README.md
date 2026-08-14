@@ -34,7 +34,7 @@ This file serves as the single access point for professional metadata and bridge
 
 * [**` Strategic Positioning Dossier `**](https://cuxhavenlabs.notion.site/Professional-Positioning-Dossier-21a2ad0c842680749956e17239a36e4d)  
 Comprehensive breakdown of consulting frameworks and market-facing capabilities.
-* [**` Systems & Engineering Metaportfolio `**](https://cuxhavenlabs.notion.site/Pablo-Z-iga-s-Metaportfolio-2042ad0c842680569ab8f6109a7e0d4b)
+* [**` Systems & Engineering Metaportfolio `**](https://cuxhavenlabs.notion.site/Pablo-Z-iga-s-Metaportfolio-2042ad0c842680569ab8f6109a7e0d4b)  
 Architectural deep-dive into complex systems modeling and execution patterns.
 * **`Academic Records & Credentials`** (*Upon Inquiry*)  
 Centralized academic repository, degree certifications, and legal validations.
