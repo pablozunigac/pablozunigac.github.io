@@ -7,57 +7,41 @@ on:
     branches: [ main ]
   workflow_dispatch:
 
-# Control de concurrencia estricto para evitar despliegues simultáneos
 concurrency:
   group: "pages-deployment"
   cancel-in-progress: true
 
-# Permisos mínimos de seguridad (Principle of Least Privilege)
 permissions:
-  contents: write    # Necesario para leer/escribir metadatos y timestamps
+  contents: write
   pages: write
   id-token: write
 
 jobs:
-  # ------------------------------------------------------------------
-  # JOB 1: Build, Test & Inject Timestamp
-  # ------------------------------------------------------------------
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Necesario para leer el historial de git (timestamps)
+          fetch-depth: 0 # Crucial: Descarga todo el historial de git para que Quarto lea 'last-modified'
 
       - name: Setup Quarto Environment
         uses: quarto-dev/quarto-actions/setup@v2
         with:
           version: release
 
-      - name: Inject Last Commit Date to Source
-        run: |
-          # Extrae la fecha del último commit real y actualiza el timestamp en el fuente
-          if [ -f README.md ]; then
-            LAST_COMMIT_DATE=$(git log -1 --format="%cd" --date=format:'%Y-%m-%d, %H:%M UTC' -- README.md)
-            sed -i "s|<span id=\"timestamp_en\">.*</span>|<span id=\"timestamp_en\">${LAST_COMMIT_DATE}</span>|g" README.md
-          fi
-
       - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2
-        # Renderiza el proyecto completo generando la carpeta _site/ con HTML y PDFs
+        # Quarto compila index.qmd, lee {{< meta date >}} y lo reemplaza con la fecha de Git automáticamente
 
       - name: Setup Pages Configuration
-        uses: actions/configure-pages@v5  # Actualizado a v5 para soporte de Node moderno
+        uses: actions/configure-pages@v5
 
       - name: Upload Artifacts for GitHub Pages
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '_site' # Sube estrictamente los productos compilados por Quarto
+          path: '_site'
 
-  # ------------------------------------------------------------------
-  # JOB 2: Secure Deployment to CDN
-  # ------------------------------------------------------------------
   deploy:
     needs: build
     if: (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/quarto-migration') && github.event_name == 'push'
