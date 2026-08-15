@@ -2,7 +2,7 @@ name: CI/CD & Documentation Pipeline
 
 on:
   push:
-    branches: [ quarto-migration, main ]
+    branches: [ quarto-migration ]
   pull_request:
     branches: [ main ]
   workflow_dispatch:
