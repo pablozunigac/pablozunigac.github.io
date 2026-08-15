@@ -23,7 +23,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Necesario para leer el historial de git de cada archivo
+          fetch-depth: 0 # Necesario para leer el historial de git de cada archivo.
 
       - name: Setup Quarto Environment
         uses: quarto-dev/quarto-actions/setup@v2
