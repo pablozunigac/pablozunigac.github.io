@@ -16,7 +16,7 @@
 *.merged-assets
 
 # ==========================================
-# VS Code & Editores
+# VS Code & Editors
 # ==========================================
 .vscode/
 *.code-workspace
@@ -58,12 +58,17 @@ env/
 .zsh_history
 
 # ==========================================
-# Markdown / Previsualización / Exportaciones
+# Markdown / Previews / Exports
 # ==========================================
 *.tmp.md
 .obsidian/
 *.pdf.bak
 
-/.quarto/
+
+# ==========================================
+# Folders /  / Exportaciones
+# ==========================================
 **/*.quarto_ipynb
+_extensions/
 _site/
+.quarto/

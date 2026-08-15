@@ -107,3 +107,61 @@ html, body, p, li {
 .btn-action-secondary:hover {
   color: #0284c7 !important; /* Azul técnico al pasar el cursor */
 }
+
+/* ==========================================================
+   COMPACTACIÓN DENSIDAD TÁCTICA (Grillas y Separadores)
+   ========================================================== */
+
+/* 1. Reducir los márgenes de las líneas divisorias horizontal (<hr>) */
+hr {
+  margin-top: 1rem !important;
+  margin-bottom: 1rem !important;
+  border-color: #e5e7eb !important;
+  opacity: 0.7 !important;
+}
+
+/* 2. Quitar el espacio inferior del título de la sección */
+h3 {
+  margin-bottom: 0.35rem !important;
+  margin-top: 0.5rem !important;
+}
+
+/* 3. Colapsar el margen superior/inferior de la grilla de 3 columnas */
+.grid {
+  margin-top: 0.25rem !important;
+  margin-bottom: 0.25rem !important;
+  row-gap: 0.5rem !important;
+}
+
+/* 4. Eliminar párrafos vacíos o márgenes fantasma que inserta Quarto dentro de la grilla */
+.grid p {
+  margin-bottom: 0.5rem !important;
+}
+
+.grid .g-col-12 p:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* Desactivar el hipervínculo del título del sitio en la Navbar
+.navbar-brand {
+  pointer-events: none !important;
+  cursor: default !important;
+  text-decoration: none !important;
+} */
+
+.home-container {
+    max-width: 1000px; /* O el valor que prefieras */
+    margin: 0 auto;
+}
+
+.footer-meta-advanced, 
+.footer-meta-advanced * {
+  font-size: 0.85rem !important;
+  color: #6c757d !important;
+  line-height: 1.6 !important;
+}
+
+/* Oculta completamente el bloque de metadatos y fecha de publicación */
+.quarto-title-block .quarto-title-meta {
+  display: none !important;
+}

@@ -1,31 +1,18 @@
 ---
 title: "Pablo Zúñiga"
-subtitle: ""
 page-layout: full
+date: last-modified
+date-format: "YYYY-MM-DD, HH:mm [UTC-4.]"
 format:
   html:
     toc: false
+    toc-depth: 0
 ---
 
 **Industrial & Systems Engineer PUCV, BSc & MSc Equivalent**  
-Data Modeling · Applied Statistics · Complex Systems  
-Valparaíso, Chile · Open to Relocation · US H-1B1 & ESTA Eligible  
+**Data Modeling · Applied Statistics · Complex Systems**  
+**Valparaíso, Chile · Open to Relocation · US [**H-1B1**](https://www.dol.gov/agencies/whd/immigration/h1b1) & [**ESTA**](https://cl.usembassy.gov/visa-waiver-program/) Eligible**  
 [Native Spanish]{.badge .bg-secondary} [Professional English]{.badge .bg-secondary}
-
----
-
-::: {.action-bar .my-4}
-[One-Page Resume (US) ↗](https://pablozunigac.github.io/en/resume.html){.btn-action-primary}
-[Extended CV (LATAM) ↗](https://pablozunigac.github.io/es/cv.html){.btn-action-primary}
-
-[|]{.action-divider}
-
-[Perfil GitHub ↗](https://github.com/pablozunigac){.btn-action-secondary}
-[•]{.action-divider}
-[Send Email ↗](mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Connection){.btn-action-secondary}
-[•]{.action-divider}
-[Scheduling ↗](https://calendar.notion.so/meet/cuxhavenlabs/pablo){.btn-action-secondary}
-:::
 
 ---
 
@@ -35,15 +22,14 @@ Designing the underlying structures that make complex work coherent, navigable, 
 
 ---
 
-### Operational Focus & Systems Engineering
+### Operational Focus & Systems Engineering {.mb-2}
 
-::: {.grid}
+::: {.grid .my-1}
 
 ::: {.g-col-12 .g-col-md-4}
 ::: {.grid-card}
 #### Raw Data & Databases Engineering
 Design and implementation of automated pipelines (ETL/ELT) and metadata architectures. I transform raw data from complex industrial environments into clean, governed, and decision-ready information assets.
-
 :::
 :::
 
@@ -51,7 +37,6 @@ Design and implementation of automated pipelines (ETL/ELT) and metadata architec
 ::: {.grid-card}
 #### Advanced Analytics & Modeling
 Statistical and inferential modeling, alongside time-series analysis, applied to risk mitigation and resource optimization across critical infrastructure sectors (such as mining, energy, and regulated utilities).
-
 :::
 :::
 
@@ -59,7 +44,6 @@ Statistical and inferential modeling, alongside time-series analysis, applied to
 ::: {.grid-card}
 #### Data Governance & Knowledge Management
 Structuring integrated management control systems and technical documentation under agile methodologies, ensuring operational continuity and end-to-end traceability in high-complexity projects.
-
 :::
 :::
 
@@ -79,13 +63,14 @@ To ensure efficient coordination and immediate access to my ecosystem, I leverag
   [Notion]{.badge-notion} [Manifesto]{.badge-manifesto} [Deep-Dive]{.badge-deep}  
   An architectural deep-dive into how I analyze, engineer, and scale systems under complexity.
 
-* [Academic Records & Credentials (ES) ↗](https://cuxhavenlabs.notion.site/Pablo-Z-iga-Carvajal-Dosier-Acad-mico-3822ad0c842680b1859afaa0dee4e4bc){.fw-bold} *(Upon Inquiry)*  
+* [Academic Records & Credentials (ES) ↗](https://cuxhavenlabs.notion.site/Pablo-Z-iga-Carvajal-Dosier-Acad-mico-3822ad0c842680b1859afaa0dee4e4bc){.fw-bold} **(Upon Inquiry)**  
   [Notion]{.badge-notion} [Credentials]{.badge-credentials} [PDF]{.badge-pdf}  
   Official academic repository, university degree background, and formal engineering validations.
 
 ---
 
-::: {.text-muted .small}
-**Last Update:** [2026-08-14, 08:36 UTC]{#timestamp_en}  
-**© 2026 Pablo Zúñiga Carvajal.** All rights reserved.
+::: {.footer-meta-advanced .my-4}
+**Last Update:** {{< meta date >}}  
+Engineered by **Quarto** & CI/CD in **GitHub Actions**.  
+**© 2026 Cuxhaven Labs.** MIT License.
 :::

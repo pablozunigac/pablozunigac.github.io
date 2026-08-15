@@ -14,14 +14,18 @@ Central Docs-as-Code repository powering my professional profile, multi-language
 ### Core Repository Structure
 
 ```bash
-pablozunigac.github.io
-├── index.md                        # Professional metadata web portal (profile, positioning, credentials and portfolio-grade components)
-├── en/                             # One-page resume infrastructure: compiles & deploys dual Web/PDF endpoints for US/Global markets
-├── es/                             # Extended CV infrastructure: compiles & deploys dual Web/PDF endpoints for LATAM & EU/Spain markets
-├── .github/workflows/
-│   ├── ci.yml                      # Validation, timestamp injection & PDF compilation pipeline
-│   └── deploy.yml                  # GitHub Pages CDN edge deployment pipeline
-└── README.md                       # This file: Repository architecture & documentation
+pablozunigac.github.io/
+├── _quarto.yml              # Global site configuration and build engines
+├── index.qmd                # Main portal (profile, positioning, and credentials)
+├── resume.qmd               # Optimized resume source endpoints
+├── cv.qmd                   # Extended technical CV version
+├── about.qmd                # Supplementary metadata and notes
+├── styles.css               # Custom visual styling layer
+├── en/                      # US / Global market localization infrastructure (English)
+├── es/                      # LATAM / Spain market localization infrastructure (Spanish)
+└── .github/workflows/       # Automation pipelines (CI/CD)
+    ├── ci.yml               # Validation, timestamp injection, and PDF build pipeline
+    └── deploy.yml           # Automated deployment pipeline to GitHub Pages CDN
 ```
 
 ---

@@ -1,0 +1,164 @@
+---
+title: "Pablo Zúñiga"
+page-layout: article
+date: last-modified
+date-format: "DD-MM-YYYY, HH:mm [UTC-4.]"
+format:
+  html:
+    toc: false
+    toc-depth: 0
+---
+
+**Ingeniero Civil Industrial, Pontificia Universidad Católica de Valparaíso**  
+**Modelado de Datos · Estadística Aplicada · Sistemas Complejos**  
+**Valparaíso, Chile · Disponible para Reubicación · Elegible para Visas EE. UU. ([**H-1B1**](https://www.dol.gov/agencies/whd/immigration/h1b1) y [**ESTA**](https://cl.usembassy.gov/visa-waiver-program/))**  
+`Español (Nativo)` · `Inglés (Profesional)`
+
+---
+
+### Perfil Profesional  
+
+Ingeniero Civil Industrial especializado en el diseño, la validación técnica y el escalamiento de soluciones de datos para entornos industriales e infraestructura crítica (banca, minería y servicios regulados). Ocho años de experiencia en el diseño de arquitecturas ETL/ELT, integración de datos y analítica avanzada, orientados a la mitigación de riesgos tecnológicos y la resiliencia operacional. Enfoque tecno-agnóstico y sistémico enfocado en la gobernanza, la estandarización y el modelado de sistemas complejos.
+
+#### Áreas de Dominio Técnico
+
+  * **Arquitectura de Datos:** Gobernanza, ontologías y diseño de *pipelines* de datos.
+  * **Estadística Aplicada:** AED, modelamiento predictivo y análisis de sistemas complejos.
+  * **Ingeniería de Procesos:** Modelado operacional (BPMN/UML) y optimización de procesos.
+  * **Gestión del Conocimiento:** Estandarización técnica mediante *Doc-as-Code* y control de versiones.
+
+---
+
+::: {.text-center .my-4}
+[**Experiencia**](#experiencias-clave){.btn .btn-outline-secondary .btn-sm .rounded-pill .mx-1}
+[**Prácticas**](#experiencia-profesional-temprana){.btn .btn-outline-secondary .btn-sm .rounded-pill .mx-1}
+[**Tecnologías**](#dominio-y-capacidades-técnicas){.btn .btn-outline-secondary .btn-sm .rounded-pill .mx-1}
+[**Educación**](#credenciales-académicas){.btn .btn-outline-secondary .btn-sm .rounded-pill .mx-1}
+[**Divulgación**](#docencia-y-divulgación-técnica){.btn .btn-outline-secondary .btn-sm .rounded-pill .mx-1}
+[Versión PDF](https://pablozunigac.github.io/es/cv-pablo-zuniga.pdf){.btn .btn-primary .btn-sm .rounded-pill .mx-1}
+:::
+
+---
+
+### Experiencias Clave 
+
+**Cuxhaven Labs** `[SpA en Formación]`  
+**Consultor Principal y Fundador**  
+Mayo 2026 – Presente / Remoto, Regiones de Valparaíso y Metropolitana
+
+  * **Arquitectura de Datos y Gobernanza:** Diseño, prueba de concepto (PoC) y validación de flujos ETL/ELT bajo estándares de gobernanza, auditoría y trazabilidad para infraestructura crítica.
+  * **Ingeniería de Resiliencia y Continuidad:** Implementación de protocolos de resiliencia, respaldo de activos digitales y planes de mitigación para la continuidad operacional ante incidencias.
+  * **Auditoría de Sistemas y Metadatos:** Pilotaje para el modelado de ontologías y metadatos, auditorías de deuda técnica e integración de sistemas conceptuales complejos.
+
+---
+
+**Consultoría en Analítica Avanzada y Gestión del Conocimiento**  
+**Consultor Independiente**  
+Julio 2022 – Presente / Remoto, Región de Valparaíso  
+
+**Proyecto Ancla › Analítica Telemétrica para Running en Triatlón**  
+
+  * **Modelado de Series de Tiempo:** Ajuste de funciones a telemetría de running (**400m a 21.1km**) para la cuantificación de brechas fisiológicas y la prescripción de ritmos en triatlón.  
+  * **Benchmark Poblacional:** Análisis de desviaciones respecto a medidas de tendencia central y *outliers* por grupo de edad sobre cohortes de **+1.8k competidores**.  
+  * **Análisis Exploratorio Contextual:** Evaluación de variabilidad estadística según impacto de altimetría, condiciones climáticas y dinámicas en transiciones.
+
+**Otras Experiencias**  
+
+  * Diseño de arquitecturas de información y bases de datos relacionales.  
+  * Documentación técnica mediante Quarto/Markdown con control de versiones mediante Git.  
+  * Construcción de *backlog/changelog* para gestión de conocimiento empresarial.
+
+---
+
+**Finanzas Descentralizadas y Protocolos Web3** (*en colaboración con [tododecripto.com](https://www.tododecripto.com)*)  
+**Especialista en Operaciones On-Chain e Infraestructura Distribuida**  
+Enero 2020 – Julio 2022 / Remoto
+
+  * **Gestión de Tesorerías On-Chain:** Control y trazabilidad de activos (**USD 10k–50k+**) bajo custodia DeFi (MetaMask, Ledger, DEX) sobre *relay-chains/parachains* de Polkadot/Kusama y redes Bitcoin, ERC-20 y BSC. Gestión de *gas fees*, ejecución de *swaps intra/cross-chain* y sobrescritura de *nonces*.
+  * **Smart Contracts e Infraestructura:** Coordinación de despliegue de contratos inteligentes para NFTs en entornos virtuales distribuidos de alta concurrencia (**~1.1k usuarios**). Editor técnico en tododecripto.com sobre *blockchain*, *parachains* y gobernanza Web3.
+
+---
+
+**Pontificia Universidad Católica de Valparaíso** (*en asociación con la Escuela de Negocios de la UAI*)  
+**Consultor de Datos y Docente Adjunto** `[Ejecución por Proyectos]`  
+Agosto 2018 – Junio 2021 / Región de Valparaíso
+
+  * **Pipelines de Datos Académicos:** Consolidación de fuentes de datos y diseño de *pipelines* ETL para análisis estadístico exploratorio en entornos académicos y soporte a decisiones.
+  * **Docencia y Mentoría:** Apoyo docente en la cátedra *Ciencia de Datos Aplicada* de Ingeniería Civil Industrial PUCV y asesoría técnica en proyectos finales de pregrado (modelado de datos y automatización).
+  * **Divulgación:** Asesor técnico, editor de material académico y expositor internacional.
+
+---
+
+**Banco de Crédito e Inversiones (BCI) – Gerencia Corporativa de Data & Analytics / Gobierno de Datos**  
+**Ingeniero de Procesos**  
+Mayo 2019 – Septiembre 2019 / Las Condes, Región Metropolitana
+
+  * **Integración de Metadatos:** Orquestación de *pipelines* para la integración de metadatos desde sistemas operacionales hacia repositorios en Microsoft Azure, respaldada por modelado BPMN *As-Is/To-Be*.
+  * **Fiscalización y Control:** Auditoría de arquitecturas de datos en entornos financieros regulados, asegurando consistencia, calidad y control de accesos.
+
+---
+
+**ESVAL – Departamento de Gestión de Redes**  
+**Líder de Proyecto** `[Proyecto de Título]`  
+Julio 2017 – Diciembre 2017 / Viña del Mar, Región de Valparaíso
+
+  * **Modelado Espaciotemporal de Riesgos:** Desarrollo de un modelo predictivo mediante regresión de Cox en R sobre la red de agua potable de la Región de Valparaíso (**5,300 km** de extensión, **+1.9M de usuarios**).
+  * **Gestión PMO y Ágil:** Coordinación bajo metodologías Kanban/Scrum para la generación de métricas clave de mantenimiento preventivo.
+
+---
+
+### Experiencia Profesional Temprana
+
+  * **Empresa Nacional de Minería (ENAMI) – División de Finanzas y Administración**  
+  **Práctica Profesional** / Enero 2016 – Marzo 2016 / Regiones Metropolitana y de Atacama
+  * **Antofagasta Minerals (Minera Los Pelambres) – Superintendencia de Geotecnia**  
+  **Práctica de Ingeniería** / Enero 2014 – Marzo 2014 / Salamanca, Región de Coquimbo
+
+---
+
+### Dominio y Capacidades Técnicas
+
+  * **Lenguajes de Programación y Matemática Aplicada**  
+  `Python` (`FastAPI`, `Polars`, `SciPy`), `TypeScript`, `SQL`, `R` (`Tidyverse`, `targets`, `forecast`), Modelado Inferencial, Series de Tiempo, MILP y Optimización, Simulación de Eventos Discretos y Monte Carlo.
+  * **Arquitectura de Datos Empresariales**  
+  Contenerización (`Docker`), Tuberías ETL/ELT, Metadatos y Ontologías, Gobernanza de Datos, Trazabilidad, Bases de Datos Relacionales, Datos Espaciales y Telemetría (`.parquet`, `.fit`).
+  * **Nube y Orquestación**  
+  Microsoft Azure, Git/GitHub (Actions CI/CD, Pages), Orquestación de Entornos.
+  * **Arquitectura e Ingeniería de Sistemas**  
+  Teoría y Dinámica de Sistemas, Ingeniería de Procesos (`BPMN`), Diagramación (`UML`), Gestión del Conocimiento, Documentación Técnica (`Quarto`, `Markdown`, `HTML`/`CSS`).
+
+---
+
+### Credenciales Académicas
+
+**Pontificia Universidad Católica de Valparaíso**  
+**Ingeniería Civil Industrial** / 2011 – 2017  
+**Licenciatura en Ciencias de la Ingeniería** / 2016  
+
+  * Programa de 12 semestres enfocado en ingeniería de sistemas, teoría de sistemas complejos, econometría y analítica cuantitativa avanzada.
+  * Ayudante académico recurrente en Ingeniería Económica, Sistemas de Información y Matemática Aplicada.
+
+**Pontificia Universidad Católica de Valparaíso**  
+**Ingeniería Civil** / 2007 – 2010 `[Estudios Fundamentales]`  
+
+  * Formación en ciencias básicas de la ingeniería, matemática aplicada, herramientas computacionales (MATLAB) y dibujo técnico vectorial (AutoCAD).
+
+---
+
+### Docencia y Divulgación Técnica
+
+**Pontificia Universidad Católica de Valparaíso – Escuela de Comercio  
+Docente Invitado – Diplomado en Finanzas para la Toma de Decisiones** / 2019, 2021  
+Diseño y relatoría de módulos en matemática financiera y evaluación de proyectos mediante modelado de flujos de caja y simulación de riesgo en Excel avanzado.
+
+**BancoEstado / Universidad Técnica Federico Santa María  
+Expositor Técnico – Curso: Análisis Financiero de Renta Variable** / 2017, 2019  
+Relatoría sobre análisis de series de tiempo de alta frecuencia (OHLC) y calibración de volatilidad para la Mesa de Dinero.
+
+---
+
+::: {.footer-meta-advanced .my-4}
+**Última Actualización:** {{< meta date >}}  
+Desarrollado con **Quarto** y CI/CD en **GitHub Actions**.  
+**© 2026 Cuxhaven Labs.** Licencia MIT.
+:::
