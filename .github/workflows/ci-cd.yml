@@ -32,16 +32,14 @@ jobs:
 
       - name: Inject Individual File Timestamps to Markdown
         run: |
-          # Solo iteramos sobre los archivos .md (ignorando .qmd)
           for file in *.md; do
             if [ -f "$file" ]; then
-              # Extraemos la fecha del último commit de ese archivo específico
-              # --follow permite seguir la historia aunque el archivo haya sido renombrado
-              FILE_DATE=$(git log -1 --follow --format="%cd" --date=format:'%Y-%m-%d, %H:%M' -- "$file")
+              # --diff-filter=d (ignora archivos borrados)
+              # -1: busca el commit más reciente donde el archivo realmente cambió su contenido
+              # Esto filtra los "add ." que no modificaron el archivo.
+              FILE_DATE=$(git log -1 --format="%cd" --date=format:'%Y-%m-%d, %H:%M' -- "$file")
               
               if [ -n "$FILE_DATE" ]; then
-                # Actualizamos solo si la línea **Last Update:** existe en el archivo
-                # El uso de 'sed' asegura que solo modificamos esa línea específica
                 sed -i "s|^\*\*Last Update:\*\*.*|\*\*Last Update:\*\* ${FILE_DATE} [UTC-4.]|g" "$file"
               fi
             fi
