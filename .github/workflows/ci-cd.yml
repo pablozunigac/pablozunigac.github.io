@@ -1,0 +1,71 @@
+name: CI/CD & Documentation Pipeline
+
+on:
+  push:
+    branches: [ quarto-migration ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+# Control de concurrencia estricto para evitar despliegues simultáneos
+concurrency:
+  group: "pages-deployment"
+  cancel-in-progress: true
+
+# Permisos mínimos de seguridad (Principle of Least Privilege)
+permissions:
+  contents: write    # Necesario para hacer commit del timestamp actualizado si se requiere
+  pages: write
+  id-token: write
+
+jobs:
+  # ------------------------------------------------------------------
+  # JOB 1: Build, Test & Inject Timestamp
+  # ------------------------------------------------------------------
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Necesario para leer el historial de git (timestamps)
+
+      - name: Setup Node/Python/Quarto Environments
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: release
+
+      - name: Inject Last Commit Date to Source
+        run: |
+          # Extrae la fecha del último commit real y actualiza el timestamp en el fuente
+          if [ -f README.md ]; then
+            LAST_COMMIT_DATE=$(git log -1 --format="%cd" --date=format:'%Y-%m-%d, %H:%M UTC' -- README.md)
+            sed -i "s|<span id=\"timestamp_en\">.*</span>|<span id=\"timestamp_en\">${LAST_COMMIT_DATE}</span>|g" README.md
+          fi
+
+      - name: Render Quarto Project
+        uses: quarto-dev/quarto-actions/render@v2
+        # Renderiza el proyecto completo generando la carpeta _site/ con HTML y PDFs
+
+      - name: Setup Pages Configuration
+        uses: actions/configure-pages@v4
+
+      - name: Upload Artifacts for GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '_site' # Sube estrictamente los productos compilados por Quarto, manteniendo la raíz limpia
+
+  # ------------------------------------------------------------------
+  # JOB 2: Secure Deployment to CDN
+  # ------------------------------------------------------------------
+  deploy:
+    needs: build
+    if: github.ref == 'refs/heads/quarto-migration' && github.event_name == 'push'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

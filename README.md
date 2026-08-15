@@ -31,9 +31,9 @@ pablozunigac.github.io/
 ---
 
 ## Distributed Knowledge Network & Live Nodes
-This architecture uses `index.md` as its centralized routing layer, bridging local static configurations with a distributed network of dynamic, Notion-backed knowledge nodes. This configuration exposes live operational frameworks, architectural manifestos, and verified academic credentials through a single, unified access point.
+This architecture uses `index.qmd` as its centralized routing layer, bridging local static configurations with a distributed network of dynamic, Notion-backed knowledge nodes. This configuration exposes live operational frameworks, architectural manifestos, and verified academic credentials through a single, unified access point.
 
-### Central Web Portal and Routing Layer: `index.md`
+### Central Web Portal and Routing Layer: `index.qmd`
 This file serves as the single access point for professional metadata and bridges static endpoints with three live, specialized Notion knowledge nodes (Strategic Dossier, Systems Metaportfolio, and Formal Academic Credentials).
 
 * [**`Strategic Positioning Dossier`**](https://cuxhavenlabs.notion.site/Professional-Positioning-Dossier-21a2ad0c842680749956e17239a36e4d)  
@@ -64,5 +64,7 @@ The ultimate objective is not information, but understanding. Every framework, p
 
 ---
 
-**Last Update:** <span id="timestamp_en">2026-08-14, 08:30 UTC</span>  
+**Last Update:** <span id="timestamp_en">2026-08-15, 17:37 UTC-4</span>  
 **© 2026 Pablo Zúñiga Carvajal.** All rights reserved.
+
+test #1
