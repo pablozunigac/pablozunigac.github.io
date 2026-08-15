@@ -2,7 +2,7 @@ name: CI/CD & Documentation Pipeline
 
 on:
   push:
-    branches: [ quarto-migration ]
+    branches: [ quarto-migration, main ]
   pull_request:
     branches: [ main ]
   workflow_dispatch:
@@ -14,7 +14,7 @@ concurrency:
 
 # Permisos mínimos de seguridad (Principle of Least Privilege)
 permissions:
-  contents: write    # Necesario para hacer commit del timestamp actualizado si se requiere
+  contents: write    # Necesario para leer/escribir metadatos y timestamps
   pages: write
   id-token: write
 
@@ -30,7 +30,7 @@ jobs:
         with:
           fetch-depth: 0 # Necesario para leer el historial de git (timestamps)
 
-      - name: Setup Node/Python/Quarto Environments
+      - name: Setup Quarto Environment
         uses: quarto-dev/quarto-actions/setup@v2
         with:
           version: release
@@ -48,19 +48,19 @@ jobs:
         # Renderiza el proyecto completo generando la carpeta _site/ con HTML y PDFs
 
       - name: Setup Pages Configuration
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5  # Actualizado a v5 para soporte de Node moderno
 
       - name: Upload Artifacts for GitHub Pages
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '_site' # Sube estrictamente los productos compilados por Quarto, manteniendo la raíz limpia
+          path: '_site' # Sube estrictamente los productos compilados por Quarto
 
   # ------------------------------------------------------------------
   # JOB 2: Secure Deployment to CDN
   # ------------------------------------------------------------------
   deploy:
     needs: build
-    if: github.ref == 'refs/heads/quarto-migration' && github.event_name == 'push'
+    if: (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/quarto-migration') && github.event_name == 'push'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
