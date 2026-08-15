@@ -1,0 +1,109 @@
+/* 1. Importar tipografías distintas: Space Grotesk (Headings) + Inter (Body) + JetBrains Mono (Technical) */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap');
+
+/* 2. Títulos estilo Palantir / Foundry (Space Grotesk) */
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: 'Space Grotesk', sans-serif !important;
+  font-weight: 700 !important;
+  letter-spacing: -0.03em !important;
+  color: #111827 !important;
+}
+
+/* 3. Texto del cuerpo */
+html, body, p, li {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif !important;
+  color: #374151;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+/* 4. Subtítulos y metadatos en JetBrains Mono */
+.tech-meta, code, pre {
+  font-family: 'JetBrains Mono', monospace !important;
+  font-size: 0.82rem !important;
+}
+
+/* 5. Estilo de Badges Técnico (Foundry Look) */
+.badge-notion, .badge-cv, .badge-deep, .badge-manifesto, .badge-credentials, .badge-pdf {
+  font-family: 'JetBrains Mono', monospace !important;
+  font-size: 0.68rem !important;
+  font-weight: 600 !important;
+  padding: 2px 6px !important;
+  border-radius: 4px !important;
+  display: inline-block !important;
+  margin-right: 3px !important;
+}
+
+.badge-notion      { background-color: #f0fdf4 !important; color: #15803d !important; border: 1px solid #bbf7d0 !important; }
+.badge-cv          { background-color: #eff6ff !important; color: #1d4ed8 !important; border: 1px solid #bfdbfe !important; }
+.badge-deep        { background-color: #fefce8 !important; color: #a16207 !important; border: 1px solid #fef08a !important; } /* <-- AMARILLO MEJORADO */
+.badge-manifesto   { background-color: #faf5ff !important; color: #7e22ce !important; border: 1px solid #e9d5ff !important; }
+.badge-credentials { background-color: #fff7ed !important; color: #c2410c !important; border: 1px solid #ffedd5 !important; }
+.badge-pdf         { background-color: #fef2f2 !important; color: #b91c1c !important; border: 1px solid #fecaca !important; }
+
+/* 6. Tarjetas de las 3 columnas */
+.grid-card {
+  background: #ffffff;|
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 1.25rem;
+  height: 100%;
+  transition: border-color 0.2s ease;
+}
+
+.grid-card:hover {
+  border-color: #9ca3af;
+}
+
+/* ==========================================================
+   TOOLBAR DE ENLACES (Single-line Top-Tier Action Bar)
+   ========================================================== */
+
+.action-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  font-family: 'JetBrains Mono', monospace !important;
+  font-size: 0.8rem !important;
+}
+
+/* 1. Formato Primario (CVs / Resumes) */
+.btn-action-primary {
+  color: #0f172a !important;
+  background-color: #f8fafc !important;
+  border: 1px solid #cbd5e1 !important;
+  padding: 4px 10px !important;
+  border-radius: 5px !important;
+  font-weight: 600 !important;
+  text-decoration: none !important;
+  transition: all 0.15s ease-in-out;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.03);
+}
+
+.btn-action-primary:hover {
+  background-color: #0f172a !important;
+  color: #ffffff !important;
+  border-color: #0f172a !important;
+}
+
+/* Separador elegante entre secciones */
+.action-divider {
+  color: #cbd5e1;
+  font-weight: 300;
+  user-select: none;
+}
+
+/* 2. Formato Secundario (GitHub / Email / Scheduling) */
+.btn-action-secondary {
+  color: #475569 !important;
+  font-weight: 500 !important;
+  text-decoration: none !important;
+  transition: color 0.15s ease;
+  padding: 2px 4px;
+}
+
+.btn-action-secondary:hover {
+  color: #0284c7 !important; /* Azul técnico al pasar el cursor */
+}

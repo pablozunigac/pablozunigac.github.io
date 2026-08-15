@@ -63,3 +63,7 @@ env/
 *.tmp.md
 .obsidian/
 *.pdf.bak
+
+/.quarto/
+**/*.quarto_ipynb
+_site/
