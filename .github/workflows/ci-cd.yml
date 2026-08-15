@@ -30,20 +30,32 @@ jobs:
         with:
           version: release
 
-      - name: Inject Individual File Timestamps to Markdown
+      - name: Inject Timestamp and Commit Back
         run: |
+          # Configurar identidad temporal para el commit automático del bot
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Iterar sobre los archivos .md para actualizar su etiqueta span
           for file in *.md; do
             if [ -f "$file" ]; then
-              # --diff-filter=d (ignora archivos borrados)
-              # -1: busca el commit más reciente donde el archivo realmente cambió su contenido
-              # Esto filtra los "add ." que no modificaron el archivo.
+              # Extraer la fecha del último commit de ese archivo específico
               FILE_DATE=$(git log -1 --format="%cd" --date=format:'%Y-%m-%d, %H:%M' -- "$file")
-              
               if [ -n "$FILE_DATE" ]; then
-                sed -i "s|^\*\*Last Update:\*\*.*|\*\*Last Update:\*\* ${FILE_DATE} [UTC-4.]|g" "$file"
+                # Reemplazar dentro de la etiqueta <span id="timestamp_en">
+                sed -i "s|<span id=\"timestamp_en\">.*</span>|<span id=\"timestamp_en\">${FILE_DATE} UTC-4</span>|g" "$file"
               fi
             fi
           done
+
+          # Si hubo cambios en los archivos .md, los guardamos y hacemos commit/push automático
+          git add *.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: auto-update markdown timestamps [skip ci]"
+            git push
+          fi
 
       - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2
