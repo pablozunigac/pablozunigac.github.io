@@ -63,3 +63,4 @@ env/
 *.tmp.md
 .obsidian/
 *.pdf.bak
+.quarto/
