@@ -23,16 +23,29 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Crucial: Descarga todo el historial de git para que Quarto lea 'last-modified'
+          fetch-depth: 0 # Necesario para leer el historial de git de cada archivo
 
       - name: Setup Quarto Environment
         uses: quarto-dev/quarto-actions/setup@v2
         with:
           version: release
 
+      - name: Inject Individual File Timestamps
+        run: |
+          # Recorre todos los archivos .qmd y actualiza su fecha según su propio último commit en git
+          for file in *.qmd; do
+            if [ -f "$file" ]; then
+              # Extrae la fecha del último commit específico para este archivo
+              FILE_DATE=$(git log -1 --format="%cd" --date=format:'%Y-%m-%d, %H:%M' -- "$file")
+              if [ -n "$FILE_DATE" ]; then
+                # Actualiza la línea Last Update correspondiente en el documento
+                sed -i "s|\*\*Last Update:\*\*.*|\*\*Last Update:\*\* ${FILE_DATE} [UTC-4.]|g" "$file"
+              fi
+            fi
+          done
+
       - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2
-        # Quarto compila index.qmd, lee {{< meta date >}} y lo reemplaza con la fecha de Git automáticamente
 
       - name: Setup Pages Configuration
         uses: actions/configure-pages@v5
