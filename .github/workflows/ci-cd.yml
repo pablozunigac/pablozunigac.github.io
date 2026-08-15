@@ -30,16 +30,19 @@ jobs:
         with:
           version: release
 
-      - name: Inject Individual File Timestamps
+      - name: Inject Individual File Timestamps to Markdown
         run: |
-          # Recorre todos los archivos .qmd y actualiza su fecha según su propio último commit en git
-          for file in *.qmd; do
+          # Solo iteramos sobre los archivos .md (ignorando .qmd)
+          for file in *.md; do
             if [ -f "$file" ]; then
-              # Extrae la fecha del último commit específico para este archivo
-              FILE_DATE=$(git log -1 --format="%cd" --date=format:'%Y-%m-%d, %H:%M' -- "$file")
+              # Extraemos la fecha del último commit de ese archivo específico
+              # --follow permite seguir la historia aunque el archivo haya sido renombrado
+              FILE_DATE=$(git log -1 --follow --format="%cd" --date=format:'%Y-%m-%d, %H:%M' -- "$file")
+              
               if [ -n "$FILE_DATE" ]; then
-                # Actualiza la línea Last Update correspondiente en el documento
-                sed -i "s|\*\*Last Update:\*\*.*|\*\*Last Update:\*\* ${FILE_DATE} [UTC-4.]|g" "$file"
+                # Actualizamos solo si la línea **Last Update:** existe en el archivo
+                # El uso de 'sed' asegura que solo modificamos esa línea específica
+                sed -i "s|^\*\*Last Update:\*\*.*|\*\*Last Update:\*\* ${FILE_DATE} [UTC-4.]|g" "$file"
               fi
             fi
           done
