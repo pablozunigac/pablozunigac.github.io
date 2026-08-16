@@ -1,5 +1,5 @@
 ---
-title: "Ode to the Paradox of the Non-Existent CV"
+title: "Ode to the death of a CV that had no business being born"
 page-layout: article
 date: last-modified
 date-format: "YYYY-MM-DD, HH:mm [UTC-4.]"
@@ -63,7 +63,7 @@ Echoing the aerodynamic grace of early automotive design, the structural clarity
 
 **A framework for consequential systems.**
 
-In classical engineering, physical failure is explicit—a bridge collapses, a circuit shorts. Failures in complex human, digital, and AI systems, tend to be latent, distributed, and structurally opaque, making ethical architecture a intrinsic necessity.
+In classical engineering, physical failure is explicit—a bridge collapses, a circuit shorts. Failures in complex human, digital, and AI systems, tend to be latent, distributed, and structurally opaque, making ethical architecture an intrinsic necessity.
 
 ::: {.grid}
 
