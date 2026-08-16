@@ -38,7 +38,9 @@ A personal logic model operating as a framework for architecting coherence in fa
 
 **Coherence isn’t a style. It’s a principle of operation.**
 
-I design from logic, not from trend. The practice is governed by structural intent and semantic precision. The systems design is architectural: a disciplined method for encoding clarity, translating behavior, and aligning people with purpose. This ethos rejects spectacle and seeks durability. The result is operational—designed to think, to hold tension, and to evolve with scale.
+I design from logic, not from trend. The practice is governed by structural intent and semantic precision. The systems design is architectural: a disciplined method for encoding clarity, translating behavior, and aligning people with purpose. This ethos rejects spectacle and seeks durability. The result is operational—designed to think, to hold tension, and to evolve with scale.  
+
+I design from logic, not from trend. The practice is governed by structural intent and semantic precision. This system design is architectural: a disciplined method for encoding clarity, translating behavior, and aligning people with purpose. This ethos rejects spectacle and seeks durability. The result is operational—designed to command thought, hold tension, and scale with integrity.
 
 <!-- Tab break -->
 
@@ -46,15 +48,19 @@ I design from logic, not from trend. The practice is governed by structural inte
 
 **I don’t follow tools. I build the logic they should serve.**
 
-As a techno-agnostic engineer and systems prosumer, I track structural and systemic shifts rather than hype cycles. My mathematical lens is anchored in Set Theory and Boolean Logic. Computationally, I draw from Turing machines and recursion as generative principles. Innovation is frequently spectacle before it is evolution. My techno-agnosticism acts as a systemic filter, decoupling logic from the tool to ensure architecture governs the medium.
+As a techno-agnostic engineer and systems prosumer, I track structural and systemic shifts rather than hype cycles. My mathematical lens is anchored in Set Theory and Boolean Logic. Computationally, I draw from Turing machines and recursion as generative principles. Innovation is frequently spectacle before it is evolution. My techno-agnosticism acts as a systemic filter, decoupling logic from the tool to ensure architecture governs the medium.  
+
+As a techno-agnostic engineer and systems architect, I track structural shifts rather than hype cycles. My mathematical lens is anchored in Set Theory and Boolean Logic; computationally, I draw from Turing machines and recursion as generative principles. Innovation is frequently spectacle before it is evolution. This stance acts as a systemic filter, decoupling logic from the transient tool to ensure architecture always governs the medium.
 
 <!-- Tab break -->
 
 ### **Aesthetic Code**
 
-**Built like an artifact. Tuned like a system.**  
+**Built like a monolith. Tuned like a system.**  
 
-Echoing the aerodynamic grace of early automotive design, the structural clarity of mid-century modernism, and the silent authority of industrial subtlety. It is design as structure in motion: selecting, adapting, and building with proportion, tension, and restraint.
+Echoing the aerodynamic grace of early automotive design, the structural clarity of mid-century modernism, and the silent authority of industrial subtlety. It is design as structure in motion: selecting, adapting, and building with proportion, tension, and restraint.  
+
+This work echoes the aerodynamic grace of early automotive design, the structural clarity of mid-century modernism, and the silent authority of industrial subtlety. It is design as structure in motion—built with proportion, operational tension, and absolute restraint.
 
 :::
 
