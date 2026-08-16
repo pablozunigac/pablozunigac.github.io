@@ -4,6 +4,10 @@ project:
   render:
     - "*.qmd"
     - "!*.md"
+  resorces:
+    - "*.pdf"
+    - "en/*.pdf"
+    - "es/*.pdf"
 
 website:
   title: "Cuxhaven Labs"
@@ -30,3 +34,10 @@ format:
     toc: false
     page-layout: article 
     max-width: 1800px
+
+
+    project:
+  type: website
+  resources:
+    - "*.pdf"
+    - "assets/*.pdf" # O la ruta donde tengas tus archivos
