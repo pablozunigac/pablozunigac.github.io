@@ -71,3 +71,5 @@ env/
 _extensions/
 _site/
 .quarto/
+
+/.quarto/
