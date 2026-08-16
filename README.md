@@ -14,22 +14,26 @@ Central Docs-as-Code repository powering my professional profile, multi-language
 ### Core Repository Structure
 
 ```bash
-pablozunigac.github.io
-├── index.md                        # Professional metadata web portal (profile, positioning, credentials and portfolio-grade components)
-├── en/                             # One-page resume infrastructure: compiles & deploys dual Web/PDF endpoints for US/Global markets
-├── es/                             # Extended CV infrastructure: compiles & deploys dual Web/PDF endpoints for LATAM & EU/Spain markets
-├── .github/workflows/
-│   ├── ci.yml                      # Validation, timestamp injection & PDF compilation pipeline
-│   └── deploy.yml                  # GitHub Pages CDN edge deployment pipeline
-└── README.md                       # This file: Repository architecture & documentation
+pablozunigac.github.io/
+├── _quarto.yml              # Global site configuration and build engines
+├── index.qmd                # Main portal (profile, positioning, and credentials)
+├── resume.qmd               # Optimized resume source endpoints
+├── cv.qmd                   # Extended technical CV version
+├── about.qmd                # Supplementary metadata and notes
+├── styles.css               # Custom visual styling layer
+├── en/                      # US / Global market localization infrastructure (English)
+├── es/                      # LATAM / Spain market localization infrastructure (Spanish)
+└── .github/workflows/       # Automation pipelines (CI/CD)
+    ├── ci.yml               # Validation, timestamp injection, and PDF build pipeline
+    └── deploy.yml           # Automated deployment pipeline to GitHub Pages CDN
 ```
 
 ---
 
 ## Distributed Knowledge Network & Live Nodes
-This architecture uses `index.md` as its centralized routing layer, bridging local static configurations with a distributed network of dynamic, Notion-backed knowledge nodes. This configuration exposes live operational frameworks, architectural manifestos, and verified academic credentials through a single, unified access point.
+This architecture uses `index.qmd` as its centralized routing layer, bridging local static configurations with a distributed network of dynamic, Notion-backed knowledge nodes. This configuration exposes live operational frameworks, architectural manifestos, and verified academic credentials through a single, unified access point.
 
-### Central Web Portal and Routing Layer: `index.md`
+### Central Web Portal and Routing Layer: `index.qmd`
 This file serves as the single access point for professional metadata and bridges static endpoints with three live, specialized Notion knowledge nodes (Strategic Dossier, Systems Metaportfolio, and Formal Academic Credentials).
 
 * [**`Strategic Positioning Dossier`**](https://cuxhavenlabs.notion.site/Professional-Positioning-Dossier-21a2ad0c842680749956e17239a36e4d)  
@@ -60,5 +64,5 @@ The ultimate objective is not information, but understanding. Every framework, p
 
 ---
 
-**Last Update:** <span id="timestamp_en">2026-08-15, 17:41 UTC</span>  
+**Last Update:** <span id="timestamp_en">2026-08-15, 20:54 UTC-4</span>  
 **© 2026 Pablo Zúñiga Carvajal.** All rights reserved.

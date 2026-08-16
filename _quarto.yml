@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "!*.md"
+
+website:
+  title: "Cuxhaven Labs"
+  navbar:
+    left:
+      - href: resume.qmd
+        text: Resume (US)
+      - href: cv.qmd
+        text: CV (LATAM)
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/pablozunigac
+      - icon: envelope
+        href: mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Connection
+      - icon: calendar-event
+        href: https://calendar.notion.so/meet/cuxhavenlabs/pablo
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: article 
+    max-width: 1800px
