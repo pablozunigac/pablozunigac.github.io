@@ -30,9 +30,7 @@ The structural breadth and layered complexity of **polymathic minds** can’t be
 
 ### The Strategic Stack
 
-A personal logic model operating as a framework for architecting coherence in fast-evolving systems. It merges design ethics, techno-agnostic foresight, and formal logic into a durable scaffolding capable of holding complexity without collapsing under speed, novelty, or scale. Rooted in engineering, shaped by cultural systems, and guided by computational reasoning, this stack reveals the principles behind how I design—treating form as logic, favoring systems over trends, and choosing precision over excess.  
-
-A personal logic model and architectural framework for building coherence in fast-evolving systems. It merges design ethics, techno-agnostic foresight, and formal logic into a durable scaffolding—built to hold complexity without collapsing under speed, hype, or scale. Rooted in engineering, shaped by cultural systems, and guided by computational reasoning, this stack reveals the principles behind my practice: prioritizing logic over form, systems over trends, and precision over excess.
+An ***architectural framework*** for building coherence in fast-evolving systems. It merges design ethics, **techno-agnostic foresight**, and formal logic into a durable scaffolding—built to hold complexity without collapsing under **speed**, **hype**, or **scale**. Rooted in engineering, shaped by cultural systems, and guided by computational reasoning, this stack reveals the principles behind my practice: prioritizing logic over form, systems over trends, and precision over excess.
 
 ::: {.panel-tabset}
 
@@ -64,8 +62,7 @@ This work echoes the aerodynamic grace of early automotive design, the structura
 
 ### Ethical Architecture
 
-**A framework for consequential systems.**
-
+**A framework for consequential systems.**  
 In classical engineering, physical failure is explicit—a bridge collapses, a circuit shorts. Failures in complex human, digital, and AI systems, tend to be latent, distributed, and structurally opaque, making ethical architecture an intrinsic necessity.
 
 ::: {.grid}
