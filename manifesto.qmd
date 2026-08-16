@@ -24,7 +24,7 @@ After more than a decade navigating the ambiguities of what a *résumé* really 
 An artifact without its underlying logic is a mere output. Traditional portfolios showcase final products while concealing the architectural decisions that gave them form. The **Strategic Stack** does the opposite. It is an operational grammar: the structural logic that transforms noise into coherence. It is an operating system for design integrity, built to hold under pressure and at scale. **Hype fades. Trends drift. Architecture remains.**
 
 #### Complex Polymathic Minds
-The structural breadth and layered complexity of a **polymathic mind** can’t be reduced to static containers—*résumés*, portfolios, or scrolling profiles. This site is a living architecture—where narrative and technique converge to express not just **what I do**, but **how I think**. More than a record of the past, it’s an adaptive framework for **future work**—versatile, version-controlled, and designed to navigate complexity across contexts and through time.
+The structural breadth and layered complexity of **polymathic minds** can’t be reduced to static containers—*résumés*, portfolios, or scrolling profiles. This site is a living architecture—where narrative and technique converge to express not just **what I do**, but **how I think**. More than a record of the past, it’s an adaptive framework for **future work**—versatile, version-controlled, and designed to navigate complexity across contexts and through time.
 
 ---
 
