@@ -6,8 +6,7 @@ project:
     - "!*.md"
   resources:
     - "*.pdf"
-    - "en/*.pdf"
-    - "es/*.pdf"
+    - "**/*.pdf"
 
 website:
   title: "Cuxhaven Labs"
@@ -34,10 +33,3 @@ format:
     toc: false
     page-layout: article 
     max-width: 1800px
-
-
-    project:
-  type: website
-  resources:
-    - "*.pdf"
-    - "assets/*.pdf" # O la ruta donde tengas tus archivos

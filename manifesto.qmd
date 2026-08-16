@@ -1,5 +1,6 @@
 ---
-title: "Ode to the death of a CV that had no business being born"
+title: "Manifesto"
+subtitle: "Ode to the Death of a Resume that had no Business Being Born"
 page-layout: article
 date: last-modified
 date-format: "YYYY-MM-DD, HH:mm [UTC-4.]"
