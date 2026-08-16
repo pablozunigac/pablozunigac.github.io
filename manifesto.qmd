@@ -12,8 +12,6 @@ format:
 
 **Pablo Zúñiga** is an **Industrial & Systems Engineer**, interdisciplinary **systems architect**, and **strategic partner** bridging engineering foundations with **digital society**. From startup turbulence to institutional rigor, Pablo builds coherence across uncertainty—translating noise into architectural clarity: thinking in **systems**, speaking in **data**, and designing for **scale**.  
 
----
-
 ## Systems over Form  
 **This site was born not as a design artifact, but as an architectural rebellion.** A modular, semantic, and adaptive system to operate in high-complexity, fast-evolving environments. It is not a layered technology stack. It is a structural logic that guides how complex systems are designed, governed, and transformed.
 
@@ -25,8 +23,6 @@ An artifact without its underlying logic is a mere output. Traditional portfolio
 
 #### Complex Polymathic Minds
 The structural breadth and layered complexity of **polymathic minds** can’t be reduced to static containers—*résumés*, portfolios, or scrolling profiles. This site is a living architecture—where narrative and technique converge to express not just **what I do**, but **how I think**. More than a record of the past, it’s an adaptive framework for **future work**—versatile, version-controlled, and designed to navigate complexity across contexts and through time.
-
----
 
 ## The Strategic Stack
 
@@ -54,8 +50,6 @@ As a techno-agnostic engineer and systems architect, I track structural shifts r
 This work echoes the aerodynamic grace of early automotive design, the structural clarity of mid-century modernism, and the silent authority of industrial subtlety. It is design as structure in motion—built with proportion, operational tension, and absolute restraint.
 
 :::
-
----
 
 ## Ethical Architecture
 
