@@ -72,6 +72,13 @@ Forged through real-world operational pressure, this approach prioritizes **robu
 
 ---
 
+::: {.footer-meta-advanced-2}
+**System Notice**  
+All **hyphens (-)**, **en dashes (--)**, and **em dashes (---)** contained within this document were forged intentionally, manually via direct human-to-machine hardware sequences.
+:::
+
+---
+
 ::: {.footer-meta-advanced .my-4}
 **Last Update:** {{< meta date >}}  
 Engineered by **Quarto** & CI/CD in **GitHub Actions**.  
