@@ -1,5 +1,5 @@
 /* ==========================================================
-   0. DESIGN TOKENS (Capa de Abstracción)
+   0. DESIGN TOKENS
    ========================================================== */
 :root {
   /* Tipografías Base */
@@ -28,12 +28,12 @@
 }
 
 /* ==========================================================
-   1. IMPORTACIÓN DE TIPOGRAFÍA (Inter + JetBrains Mono)
+   1. TIPOS IMPORT (Inter + JetBrains Mono)
    ========================================================== */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
 
 /* ==========================================================
-   2. TÍTULOS 
+   2. TITLES (H1-to-H6) 
    ========================================================== */
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: var(--font-sans) !important;
@@ -43,7 +43,18 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 /* ==========================================================
-   3. TEXTO DEL CUERPO
+   CORRECCIÓN ESPECÍFICA: GROSOR DEL SUBTÍTULO EN QUARTO
+   ========================================================== */
+#title-block-header .quarto-title-subtitle,
+.quarto-title-block .quarto-title-subtitle,
+#title-block-header h3.subtitle,
+.quarto-title h3.subtitle {
+  font-weight: 540 !important; /* Cambia a 500, 540 o 600 según el grosor que busques */
+  color: var(--color-text-secondary) !important;
+}
+
+/* ==========================================================
+   3. BODY TEXT
    ========================================================== */
 html, body, p, li {
   font-family: var(--font-sans) !important;
@@ -53,7 +64,7 @@ html, body, p, li {
 }
 
 /* ==========================================================
-   3.1. NEGRITAS DEL CUERPO
+   3.1. BOLD TEXT (p, li, body)
    ========================================================== */
 p strong, p b, li strong, li b, body strong, body b {
   font-weight: var(--font-weight-body-bold) !important;
@@ -61,7 +72,7 @@ p strong, p b, li strong, li b, body strong, body b {
 }
 
 /* ==========================================================
-   3.2. CONTROL DE LISTAS Y ESPACIADOS VERTICALES
+   3.2. LISTS (UL, OL, LI)
    ========================================================== */
 body div.content ul, 
 body div.content ol, 
@@ -84,9 +95,8 @@ ul > li > p, ol > li > p {
   margin-bottom: 0rem !important;
 }
 
-
 /* ==========================================================
-   4. METADATOS TÉCNICOS Y CÓDIGO (JetBrains Mono)
+   4. TECHNICAL METADATA (JetBrains Mono)
    ========================================================== */
 .tech-meta, code, pre {
   font-family: var(--font-mono) !important;
@@ -94,7 +104,7 @@ ul > li > p, ol > li > p {
 }
 
 /* ==========================================================
-   5. ESTILO DE BADGES TÉCNICO (JetBrains Mono)
+   5. STYLE OF TECHNICAL BADGES (JetBrains Mono)
    ========================================================== */
 .badge-notion, .badge-cv, .badge-deep, .badge-manifesto, .badge-credentials, .badge-pdf {
   font-family: var(--font-mono) !important;
@@ -114,7 +124,7 @@ ul > li > p, ol > li > p {
 .badge-pdf         { background-color: #fef2f2 !important; color: #b91c1c !important; border: 1px solid #fecaca !important; }
 
 /* ==========================================================
-   6. TARJETAS DE LAS 3 COLUMNAS
+   6. GRID CARDS (CVs / Resumes / Projects)
    ========================================================== */
 .grid-card {
   background: #ffffff;
@@ -132,7 +142,7 @@ ul > li > p, ol > li > p {
 }
 
 /* ==========================================================
-   TOOLBAR DE ENLACES
+   7. ACTION BAR
    ========================================================== */
 
 .action-bar {
@@ -185,7 +195,7 @@ ul > li > p, ol > li > p {
 }
 
 /* ==========================================================
-   COMPACTACIÓN DENSIDAD TÁCTICA (Grillas y Separadores)
+   COMPACTACIÓN DENSIDAD TÁCTICA
    ========================================================== */
 
 hr {
@@ -236,11 +246,80 @@ h3 {
 .figure-caption, 
 figure figcaption {
   font-family: var(--font-sans) !important;
-  font-size: calc(0.95rem * 0.90) !important;  /* Exactamente el 90% del tamaño del texto base (0.95rem) */
-  color: var(--color-text-muted) !important;     /* Color gris estándar de pie de página */
-  text-align: left !important;                   /* Alineado a la izquierda */
-  margin-top: 0rem !important;                 /* Margen superior ultra reducido para pegarlo a la foto */
-  margin-bottom: 0rem !important;              /* Espacio hacia el texto posterior */
+  font-size: calc(0.95rem * 0.90) !important;     /* Exactamente el 90% del tamaño del texto base (0.95rem) */
+  color: var(--color-text-muted) !important;      /* Color gris estándar de pie de página */
+  text-align: left !important;                    /* Alineado a la izquierda */
+  margin-top: 0rem !important;                    /* Margen superior ultra reducido para pegarlo a la foto */
+  margin-bottom: 0rem !important;                 /* Espacio hacia el texto posterior */
   line-height: 1 !important;
 }
 
+/* ==========================================================
+   7. CONTROL DE METADATOS DE CABECERA Y SEPARADORES (Inline)
+   ========================================================== */
+
+/* Estilo para los párrafos de metadatos bajo el título principal (ej: subtítulos, visas, idiomas) */
+.quarto-about-block + div p, 
+#title-block-header + p, 
+header + p,
+.about-link-container ~ p,
+body > h1 + p + p, 
+body > h1 ~ p {
+  font-family: var(--font-sans) !important;
+  color: var(--color-text-body) !important;
+}
+
+/* Control específico de los enlaces dentro de los subtítulos de cabecera */
+p a, li a {
+  color: var(--color-text-main);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+  transition: color 0.15s ease;
+}
+
+p a:hover, li a:hover {
+  color: #0284c7 !important; /* Color de acento al hacer hover */
+}
+
+/* ==========================================================
+   8. SYSTEM NOTICE / TECHNICAL DISCLAIMER
+   ========================================================== */
+
+.footer-meta-advanced-2 {
+  font-family: var(--font-mono) !important;
+  font-size: 0.7rem !important;
+  background-color: #f8fafc !important;
+  border: 0.5px solid var(--color-border-default) !important;
+  border-radius: var(--radius-card) !important;
+  
+  /* Reducido arriba y abajo (0.85rem), manteniendo los lados amplios (1.25rem) */
+  padding: 0.85rem 1.25rem !important; 
+  
+  margin-top: 2rem !important;
+  margin-bottom: 0 !important;
+  color: var(--color-text-secondary) !important;
+  line-height: 1.5 !important;
+}
+
+/* Anulamos márgenes por defecto de los hijos directos */
+.footer-meta-advanced-2 > * {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+/* Espaciado controlado si hay múltiples párrafos */
+.footer-meta-advanced-2 p + p {
+  margin-top: 0.4rem !important;
+}
+
+.footer-meta-advanced-2 ul {
+  margin-top: 0.35rem !important;
+  margin-bottom: 0 !important;
+  padding-left: 1.2rem !important;
+}
+
+.footer-meta-advanced-2 li {
+  font-size: 0.75rem !important;
+  color: var(--color-text-muted) !important;
+}
