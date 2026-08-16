@@ -14,7 +14,7 @@ format:
 
 ---
 
-### Why this Site
+## Systems over Form  
 **This site was born not as a design artifact, but as an architectural rebellion.** A modular, semantic, and adaptive system to operate in high-complexity, fast-evolving environments. It is not a layered technology stack. It is a structural logic that guides how complex systems are designed, governed, and transformed.
 
 #### The Origin of Cognitive Fatigue
@@ -28,9 +28,9 @@ The structural breadth and layered complexity of **polymathic minds** can’t be
 
 ---
 
-### The Strategic Stack
+## The Strategic Stack
 
-An **architectural framework** for building coherence in fast-evolving systems. It merges design ethics, **techno-agnostic foresight**, and formal logic into a durable scaffolding—built to hold complexity without collapsing under **speed**, **hype**, or **scale**. Rooted in engineering, shaped by cultural systems, and guided by computational reasoning, this stack reveals the principles behind my practice: prioritizing logic over form, systems over trends, and precision over excess.
+An **architectural framework** for building coherence in fast-evolving systems. It merges design ethics, formal logic, and **techno-agnostic foresight** into a durable scaffolding—built to hold complexity without collapsing under **speed**, **hype**, or **scale**. Rooted in engineering, shaped by cultural systems, and guided by computational reasoning, this stack reveals the principles behind my practice: prioritizing logic over form, systems over trends, and precision over excess.
 
 ::: {.panel-tabset}
 
@@ -57,10 +57,10 @@ This work echoes the aerodynamic grace of early automotive design, the structura
 
 ---
 
-### Ethical Architecture
+## Ethical Architecture
 
 **A framework for consequential systems**  
-In classical engineering, physical failure is explicit—a bridge collapses, a circuit shorts. Failures in complex human, digital, and AI systems, tend to be latent, distributed, and structurally opaque, making ethical architecture an intrinsic necessity.
+In classical engineering, physical failure is explicit—a bridge collapses, a circuit shorts. Failures in complex human, digital, and AI systems tend to be latent, distributed, and structurally opaque, making ethical architecture an intrinsic necessity.
 
 ::: {.grid}
 
