@@ -1,0 +1,246 @@
+/* ==========================================================
+   0. DESIGN TOKENS (Capa de Abstracción)
+   ========================================================== */
+:root {
+  /* Tipografías Base */
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  /* Pesos Tipográficos */
+  --font-weight-title: 650;
+  --font-weight-body-bold: 540;
+  --font-weight-badge: 600;
+
+  /* Paleta de Colores Semánticos */
+  --color-text-main: #111827;
+  --color-text-body: #374151;
+  --color-text-secondary: #475569;
+  --color-text-muted: #6c757d;
+  
+  --color-border-default: #e5e7eb;
+  --color-border-hover: #9ca3af;
+  --color-border-input: #cbd5e1;
+
+  /* Radios y Espaciados */
+  --radius-card: 12px;
+  --radius-btn: 5px;
+  --radius-badge: 4px;
+}
+
+/* ==========================================================
+   1. IMPORTACIÓN DE TIPOGRAFÍA (Inter + JetBrains Mono)
+   ========================================================== */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+/* ==========================================================
+   2. TÍTULOS 
+   ========================================================== */
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: var(--font-sans) !important;
+  font-weight: var(--font-weight-title) !important;
+  letter-spacing: -0.0em !important;
+  color: var(--color-text-main) !important;
+}
+
+/* ==========================================================
+   3. TEXTO DEL CUERPO
+   ========================================================== */
+html, body, p, li {
+  font-family: var(--font-sans) !important;
+  color: var(--color-text-body);
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
+
+/* ==========================================================
+   3.1. NEGRITAS DEL CUERPO
+   ========================================================== */
+p strong, p b, li strong, li b, body strong, body b {
+  font-weight: var(--font-weight-body-bold) !important;
+  color: var(--color-text-main) !important;
+}
+
+/* ==========================================================
+   3.2. CONTROL DE LISTAS Y ESPACIADOS VERTICALES
+   ========================================================== */
+body div.content ul, 
+body div.content ol, 
+main ul, 
+main ol, 
+article ul, 
+article ol {
+  margin-top: -0.2rem !important;
+  padding-top: 0 !important;
+  margin-bottom: 0.6rem !important;
+}
+
+ul > li, ol > li {
+  margin-top: 0rem !important;
+  margin-bottom: 0.15rem !important;
+}
+
+ul > li > p, ol > li > p {
+  margin-top: 0rem !important;
+  margin-bottom: 0rem !important;
+}
+
+
+/* ==========================================================
+   4. METADATOS TÉCNICOS Y CÓDIGO (JetBrains Mono)
+   ========================================================== */
+.tech-meta, code, pre {
+  font-family: var(--font-mono) !important;
+  font-size: 0.82rem !important;
+}
+
+/* ==========================================================
+   5. ESTILO DE BADGES TÉCNICO (JetBrains Mono)
+   ========================================================== */
+.badge-notion, .badge-cv, .badge-deep, .badge-manifesto, .badge-credentials, .badge-pdf {
+  font-family: var(--font-mono) !important;
+  font-size: 0.68rem !important;
+  font-weight: var(--font-weight-badge) !important;
+  padding: 2px 6px !important;
+  border-radius: var(--radius-badge) !important;
+  display: inline-block !important;
+  margin-right: 3px !important;
+}
+
+.badge-notion      { background-color: #f0fdf4 !important; color: #15803d !important; border: 1px solid #bbf7d0 !important; }
+.badge-cv          { background-color: #eff6ff !important; color: #1d4ed8 !important; border: 1px solid #bfdbfe !important; }
+.badge-deep        { background-color: #fefce8 !important; color: #a16207 !important; border: 1px solid #fef08a !important; }
+.badge-manifesto   { background-color: #faf5ff !important; color: #7e22ce !important; border: 1px solid #e9d5ff !important; }
+.badge-credentials { background-color: #fff7ed !important; color: #c2410c !important; border: 1px solid #ffedd5 !important; }
+.badge-pdf         { background-color: #fef2f2 !important; color: #b91c1c !important; border: 1px solid #fecaca !important; }
+
+/* ==========================================================
+   6. TARJETAS DE LAS 3 COLUMNAS
+   ========================================================== */
+.grid-card {
+  background: #ffffff;
+  border: 1px solid var(--color-border-default);
+  border-radius: var(--radius-card);
+  padding: 1rem;
+  margin-top: 0rem !important;
+  padding-top: 0 !important;
+  height: 100%;
+  transition: border-color 0.2s ease;
+}
+
+.grid-card:hover {
+  border-color: var(--color-border-hover);
+}
+
+/* ==========================================================
+   TOOLBAR DE ENLACES
+   ========================================================== */
+
+.action-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  font-family: var(--font-mono) !important;
+  font-size: 0.8rem !important;
+}
+
+/* 1. Formato Primario (CVs / Resumes) */
+.btn-action-primary {
+  color: var(--color-text-main) !important;
+  background-color: #f8fafc !important;
+  border: 1px solid var(--color-border-input) !important;
+  padding: 4px 10px !important;
+  border-radius: var(--radius-btn) !important;
+  font-weight: 600 !important;
+  text-decoration: none !important;
+  transition: all 0.15s ease-in-out;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.03);
+}
+
+.btn-action-primary:hover {
+  background-color: var(--color-text-main) !important;
+  color: #ffffff !important;
+  border-color: var(--color-text-main) !important;
+}
+
+/* Separador elegante entre secciones */
+.action-divider {
+  color: var(--color-border-input);
+  font-weight: 300;
+  user-select: none;
+}
+
+/* 2. Formato Secundario (GitHub / Email / Scheduling) */
+.btn-action-secondary {
+  color: var(--color-text-secondary) !important;
+  font-weight: 500 !important;
+  text-decoration: none !important;
+  transition: color 0.15s ease;
+  padding: 2px 4px;
+}
+
+.btn-action-secondary:hover {
+  color: #0284c7 !important;
+}
+
+/* ==========================================================
+   COMPACTACIÓN DENSIDAD TÁCTICA (Grillas y Separadores)
+   ========================================================== */
+
+hr {
+  margin-top: 1rem !important;
+  margin-bottom: 1rem !important;
+  border-color: var(--color-border-default) !important;
+  opacity: 0.7 !important;
+}
+
+h3 {
+  margin-bottom: 0.35rem !important;
+  margin-top: 0.5rem !important;
+}
+
+.grid {
+  margin-top: 0.25rem !important;
+  margin-bottom: 0.25rem !important;
+  row-gap: 0.5rem !important;
+}
+
+.grid p {
+  margin-bottom: 0.5rem !important;
+}
+
+.grid .g-col-12 p:last-child {
+  margin-bottom: 0 !important;
+}
+
+.home-container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.footer-meta-advanced, 
+.footer-meta-advanced * {
+  font-size: 0.85rem !important;
+  color: var(--color-text-muted) !important;
+  line-height: 1.6 !important;
+}
+
+.quarto-title-block .quarto-title-meta {
+  display: none !important;
+}
+
+/* ==========================================================
+   CONTROL DE PIES DE FOTO (Figure Captions - Compacto y Pegado)
+   ========================================================== */
+.figure-caption, 
+figure figcaption {
+  font-family: var(--font-sans) !important;
+  font-size: calc(0.95rem * 0.90) !important;  /* Exactamente el 90% del tamaño del texto base (0.95rem) */
+  color: var(--color-text-muted) !important;     /* Color gris estándar de pie de página */
+  text-align: left !important;                   /* Alineado a la izquierda */
+  margin-top: 0rem !important;                 /* Margen superior ultra reducido para pegarlo a la foto */
+  margin-bottom: 0rem !important;              /* Espacio hacia el texto posterior */
+  line-height: 1 !important;
+}
+
