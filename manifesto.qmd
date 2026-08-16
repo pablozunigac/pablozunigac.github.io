@@ -30,30 +30,27 @@ The structural breadth and layered complexity of **polymathic minds** can’t be
 
 ### The Strategic Stack
 
-An ***architectural framework*** for building coherence in fast-evolving systems. It merges design ethics, **techno-agnostic foresight**, and formal logic into a durable scaffolding—built to hold complexity without collapsing under **speed**, **hype**, or **scale**. Rooted in engineering, shaped by cultural systems, and guided by computational reasoning, this stack reveals the principles behind my practice: prioritizing logic over form, systems over trends, and precision over excess.
+An **architectural framework** for building coherence in fast-evolving systems. It merges design ethics, **techno-agnostic foresight**, and formal logic into a durable scaffolding—built to hold complexity without collapsing under **speed**, **hype**, or **scale**. Rooted in engineering, shaped by cultural systems, and guided by computational reasoning, this stack reveals the principles behind my practice: prioritizing logic over form, systems over trends, and precision over excess.
 
 ::: {.panel-tabset}
 
 ### **Design Ethos**
 
-**Coherence isn’t a style. It’s a principle of operation.**
-
+**Coherence isn’t a style. It’s a principle of operation**  
 I design from logic, not from trend. The practice is governed by structural intent and semantic precision. This system design is architectural: a disciplined method for encoding clarity, translating behavior, and aligning people with purpose. This ethos rejects spectacle and seeks durability. The result is operational—designed to command thought, hold tension, and scale with integrity.
 
 <!-- Tab break -->
 
 ### **Techno-Agnostic Logic**
 
-**I don’t follow tools. I build the logic they should serve.**
-
+**I don’t follow tools. I build the logic they should serve**  
 As a techno-agnostic engineer and systems architect, I track structural shifts rather than hype cycles. My mathematical lens is anchored in Set Theory and Boolean Logic; computationally, I draw from Turing machines and recursion as generative principles. Innovation is frequently spectacle before it is evolution. This stance acts as a systemic filter, decoupling logic from the transient tool to ensure architecture always governs the medium.
 
 <!-- Tab break -->
 
 ### **Aesthetic Code**
 
-**Built like a monolith. Tuned like a system.**  
-
+**Built like a monolith. Tuned like a system**  
 This work echoes the aerodynamic grace of early automotive design, the structural clarity of mid-century modernism, and the silent authority of industrial subtlety. It is design as structure in motion—built with proportion, operational tension, and absolute restraint.
 
 :::
@@ -62,7 +59,7 @@ This work echoes the aerodynamic grace of early automotive design, the structura
 
 ### Ethical Architecture
 
-**A framework for consequential systems.**  
+**A framework for consequential systems**  
 In classical engineering, physical failure is explicit—a bridge collapses, a circuit shorts. Failures in complex human, digital, and AI systems, tend to be latent, distributed, and structurally opaque, making ethical architecture an intrinsic necessity.
 
 ::: {.grid}
