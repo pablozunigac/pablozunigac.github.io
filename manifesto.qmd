@@ -10,15 +10,15 @@ format:
     toc-depth: 0
 ---
 
-**Pablo Zúñiga** is an **Industrial & Systems Engineer**, interdisciplinary **systems architect**, and **strategic partner** bridging engineering foundations with **digital society**. From startup turbulence to institutional rigor, Pablo builds coherence across uncertainty—translating noise into architectural clarity, think in **systems**, speak in **data**, and design for **scale**.
+**Pablo Zúñiga** is an **Industrial & Systems Engineer**, interdisciplinary **systems architect**, and **strategic partner** bridging engineering foundations with **digital society**. From startup turbulence to institutional rigor, Pablo builds coherence across uncertainty—translating noise into architectural clarity: thinking in **systems**, speaking in **data**, and designing for **scale**.  
 
 ---
 
 ### Why this Site
-**This site was born not as a design artifact, but as an architectural rebellion.** A modular, semantic, and adaptive system to operate in high-complexity, fast-evolving environments. It is not a layered technology stack. It is a structural logic that guides how complex systems are designed, governed, and evolved.
+**This site was born not as a design artifact, but as an architectural rebellion.** A modular, semantic, and adaptive system to operate in high-complexity, fast-evolving environments. It is not a layered technology stack. It is a structural logic that guides how complex systems are designed, governed, and transformed.
 
 #### The Origin of Cognitive Fatigue
-After more than a decade navigating the ambiguities of what a *résumé* really is—and isn’t—this construct emerged as a response to systemic constraints and **structural fatigue**. The rigidity of PDF files, the mismatch between **static formats** and **dynamic identities**, the cognitive cost of bending into generic containers, and the inefficiencies of fragmented, **anachronic workflows** all pointed to a single truth: **the format was failing the function**.
+After more than a decade navigating the ambiguities of what a *résumé* really is—and isn’t—this construct emerged as a response to systemic constraints and **structural fatigue**. The rigidity of PDF files, the mismatch between **static formats** and **dynamic identities**, the cognitive cost of bending into generic containers, and the inefficiencies of fragmented, **anachronistic workflows** all pointed to a single truth: **the format was failing the function**.
 
 #### From Artifact to First Principles
 An artifact without its underlying logic is a mere output. Traditional portfolios showcase final products while concealing the architectural decisions that gave them form. The **Strategic Stack** does the opposite. It is an operational grammar: the structural logic that transforms noise into coherence. It is an operating system for design integrity, built to hold under pressure and at scale. **Hype fades. Trends drift. Architecture remains.**
