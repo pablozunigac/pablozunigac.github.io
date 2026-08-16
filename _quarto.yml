@@ -13,8 +13,8 @@ website:
         text: Resume (US)
       - href: cv.qmd
         text: CV (LATAM)
-      - href: about.qmd
-        text: About
+      - href: manifesto.qmd
+        text: Manifesto
     right:
       - icon: github
         href: https://github.com/pablozunigac
