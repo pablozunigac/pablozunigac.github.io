@@ -375,3 +375,56 @@ p a.btn, li a.btn {
   margin-bottom: 0 !important;
   padding-left: 1.2rem !important;
 }
+
+/* Asigna el texto del tooltip según la URL del enlace en la navbar */
+.navbar a[href*="github.com"]::after {
+  content: "GitHub Profile";
+}
+
+.navbar a[href*="mailto:"]::after {
+  content: "Send Email";
+}
+
+.navbar a[href*="calendar.notion.so"]::after {
+  content: "Schedule Call";
+}
+
+/* Posicionamiento del contenedor */
+.navbar a[href*="github.com"],
+.navbar a[href*="mailto:"],
+.navbar a[href*="calendar.notion.so"] {
+  position: relative;
+}
+
+/* Estilo visual del globo emergente */
+.navbar a[href*="github.com"]::after,
+.navbar a[href*="mailto:"]::after,
+.navbar a[href*="calendar.notion.so"]::after {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%) translateY(4px);
+  padding: 4px 8px;
+  background-color: #1f2937;
+  color: #ffffff;
+  font-size: 0.72rem;
+  font-family: system-ui, -apple-system, sans-serif;
+  font-weight: 500;
+  white-space: nowrap;
+  border-radius: 4px;
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transition: opacity 0.15s ease-in-out, transform 0.15s ease-in-out;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+}
+
+/* Animación al hacer Hover */
+.navbar a[href*="github.com"]:hover::after,
+.navbar a[href*="mailto:"]:hover::after,
+.navbar a[href*="calendar.notion.so"]:hover::after {
+  opacity: 1;
+  visibility: visible;
+  transform: translateX(-50%) translateY(8px);
+}
