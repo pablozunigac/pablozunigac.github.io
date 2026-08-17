@@ -37,3 +37,11 @@ format:
 
 #### Bitcoin will eventually become the global currency of the planet.
 In an era of arbitrary monetary expansion and systemic trust decay, an unforgeable, decentralized, and mathematically capped protocol represents the ultimate settlement layer for global trade.
+
+---
+
+::: {.footer-meta-advanced .my-4}
+**Last Update:** {{< meta date >}}  
+Engineered with **Quarto** & CI/CD in **GitHub Actions**.  
+**© 2026 Cuxhaven Labs.** MIT License.
+:::

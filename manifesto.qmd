@@ -71,7 +71,7 @@ Forged through real-world operational pressure, this approach prioritizes **robu
 ---
 
 ::: {.footer-meta-advanced-2}
-**AI Agents & CI/CD Era Notice**  
+**AI Era Craftsmanship Notice**  
 All **hyphens (-)**, **en dashes (--)**, and **em dashes (---)** contained within this site were intentionally forged via direct human-to-machine keystroke sequences.
 :::
 
@@ -79,6 +79,6 @@ All **hyphens (-)**, **en dashes (--)**, and **em dashes (---)** contained withi
 
 ::: {.footer-meta-advanced .my-4}
 **Last Update:** {{< meta date >}}  
-Engineered by **Quarto** & CI/CD in **GitHub Actions**.  
+Engineered with **Quarto** & CI/CD in **GitHub Actions**.  
 **© 2026 Cuxhaven Labs.** MIT License.
 :::

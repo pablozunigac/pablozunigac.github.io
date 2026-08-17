@@ -112,6 +112,6 @@ Delivered time-series analytics and high-frequency financial modeling training t
 
 ::: {.footer-meta-advanced .my-4}
 **Last Update:** {{< meta date >}}  
-Engineered by **Quarto** & CI/CD in **GitHub Actions**.  
+Engineered with **Quarto** & CI/CD in **GitHub Actions**.  
 **© 2026 Cuxhaven Labs.** MIT License.
 :::
