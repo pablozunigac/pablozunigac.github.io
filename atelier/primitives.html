@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Pablo Zúñiga – Cuxhaven Labs</title>
+<title>The Non-Euclidean Primitives – Cuxhaven Labs</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -29,23 +29,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-e3adbaa939bcd423dddc8c8a834270b4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-e3adbaa939bcd423dddc8c8a834270b4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -74,8 +74,37 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="styles.css">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
@@ -85,7 +114,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Cuxhaven Labs</span>
     </a>
   </div>
@@ -96,15 +125,15 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./resume.html"> 
+    <a class="nav-link" href="../resume.html"> 
 <span class="menu-text">Resume (US)</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./cv.html" aria-current="page"> 
+    <a class="nav-link" href="../cv.html"> 
 <span class="menu-text">CV (LATAM)</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./manifesto.html"> 
+    <a class="nav-link" href="../manifesto.html"> 
 <span class="menu-text">Manifesto</span></a>
   </li>  
 </ul>
@@ -141,7 +170,8 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Pablo Zúñiga</h1>
+<h1 class="title">The Non-Euclidean Primitives</h1>
+<p class="subtitle lead">A Collection of Cybernetics, Physics, and Complex Systems Uncomfortable Axioms</p>
 </div>
 
 
@@ -152,7 +182,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">17-08-2026, 15:16 UTC.</p>
+      <p class="date">2026-08-17, 15:16 UTC.</p>
     </div>
   </div>
   
@@ -164,150 +194,45 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="fw-semibold">
-<p>Ingeniero Civil Industrial, Pontificia Universidad Católica de Valparaíso<br>
-Modelado de Datos · Estadística Aplicada · Sistemas Complejos<br>
-Valparaíso, Chile · Disponible para Reubicación<br>
-<span class="badge bg-secondary">Español (Nativo)</span> <span class="badge bg-secondary">Inglés (Profesional)</span></p>
-</div>
-<hr>
-<section id="perfil-profesional" class="level3">
-<h3 class="anchored" data-anchor-id="perfil-profesional">Perfil Profesional</h3>
-<p>Ingeniero Civil Industrial especializado en el diseño, la validación técnica y el escalamiento de soluciones de datos para entornos industriales e infraestructura crítica (banca, minería y servicios regulados). Ocho años de experiencia en el diseño de arquitecturas ETL/ELT, integración de datos y analítica avanzada, orientados a la mitigación de riesgos tecnológicos y la resiliencia operacional. Enfoque tecno-agnóstico y sistémico enfocado en la gobernanza, la estandarización y el modelado de sistemas complejos.</p>
-<section id="áreas-de-dominio-técnico" class="level4">
-<h4 class="anchored" data-anchor-id="áreas-de-dominio-técnico">Áreas de Dominio Técnico</h4>
-<ul>
-<li>Arquitectura, ontologías y gobernanza de datos</li>
-<li>Estadística Descriptiva/Predictiva Aplicada a Sistemas Complejos</li>
-<li>Modelamiento y Optimización de Procesos de Negocio (BPMN, UML)</li>
-<li>Gestión del Conocimiento y Documentación Técnica Avanzada (Doc-as-Code)</li>
-</ul>
-<hr>
-<div class="text-center my-4">
-<p><a href="#experiencias-clave" class="btn btn-outline-secondary btn-sm rounded-pill mx-1"><strong>Experiencia</strong></a> <a href="#experiencia-profesional-temprana" class="btn btn-outline-secondary btn-sm rounded-pill mx-1"><strong>Prácticas</strong></a> <a href="#dominio-y-capacidades-técnicas" class="btn btn-outline-secondary btn-sm rounded-pill mx-1"><strong>Tecnologías</strong></a> <a href="#credenciales-académicas" class="btn btn-outline-secondary btn-sm rounded-pill mx-1"><strong>Educación</strong></a> <a href="#docencia-y-divulgación-técnica" class="btn btn-outline-secondary btn-sm rounded-pill mx-1"><strong>Divulgación</strong></a> <a href="https://pablozunigac.github.io/es/cv-pablo-zuniga.pdf" class="btn btn-primary btn-sm rounded-pill mx-1"><strong>Versión PDF</strong></a></p>
-</div>
-<hr>
+<section id="information-replicates-infinitely-and-suffers-no-wear-through-use." class="level4">
+<h4 class="anchored" data-anchor-id="information-replicates-infinitely-and-suffers-no-wear-through-use.">Information replicates infinitely and suffers no wear through use.</h4>
+<p>Unlike physical matter, digital assets and data exist in an economy of non-rivalry; consumption does not erode information, but rather refines, distributes, and elevates its systemic utility.</p>
 </section>
+<section id="a-non-recurring-event-requires-no-continuous-verification." class="level4">
+<h4 class="anchored" data-anchor-id="a-non-recurring-event-requires-no-continuous-verification.">A non-recurring event requires no continuous verification.</h4>
+<p>Terminal state changes follow immutable event-sourcing logic; once a definitive threshold is crossed (such as birth or death), redundant validation becomes pure computational waste.</p>
 </section>
-<section id="experiencias-clave" class="level3">
-<h3 class="anchored" data-anchor-id="experiencias-clave">Experiencias Clave</h3>
-<p><strong>Cuxhaven Labs</strong> <code>[SpA en Formación]</code><br>
-<strong>Consultor Principal y Fundador</strong><br>
-Mayo 2026 – Presente / Remoto, Regiones de Valparaíso y Metropolitana</p>
-<ul>
-<li><strong>Arquitectura de Datos y Gobernanza:</strong> Diseño, prueba de concepto (PoC) y validación de flujos ETL/ELT bajo estándares de gobernanza, auditoría y trazabilidad para infraestructura crítica.</li>
-<li><strong>Ingeniería de Resiliencia y Continuidad:</strong> Implementación de protocolos de resiliencia, respaldo de activos digitales y planes de mitigación para la continuidad operacional ante incidencias.</li>
-<li><strong>Auditoría de Sistemas y Metadatos:</strong> Pilotaje para el modelado de ontologías y metadatos, auditorías de deuda técnica e integración de sistemas conceptuales complejos.</li>
-</ul>
-<hr>
-<p><strong>Consultoría en Analítica Avanzada y Gestión del Conocimiento</strong><br>
-<strong>Consultor Independiente</strong><br>
-Julio 2022 – Presente / Remoto, Región de Valparaíso</p>
-<p><strong>Proyecto Ancla › Analítica Telemétrica para Running en Triatlón</strong></p>
-<ul>
-<li><strong>Modelado de Series de Tiempo:</strong> Ajuste de funciones a telemetría de running (<strong>400m a 21.1km</strong>) para la cuantificación de brechas fisiológicas y la prescripción de ritmos en triatlón.<br>
-</li>
-<li><strong>Benchmark Poblacional:</strong> Análisis de desviaciones respecto a medidas de tendencia central y <em>outliers</em> por grupo de edad sobre cohortes de <strong>+1.8k competidores</strong>.<br>
-</li>
-<li><strong>Análisis Exploratorio Contextual:</strong> Evaluación de variabilidad estadística según impacto de altimetría, condiciones climáticas y dinámicas en transiciones.</li>
-</ul>
-<p><strong>Otras Experiencias</strong></p>
-<ul>
-<li>Diseño de arquitecturas de información y bases de datos relacionales.<br>
-</li>
-<li>Documentación técnica mediante Quarto/Markdown con control de versiones mediante Git.<br>
-</li>
-<li>Construcción de <em>backlog/changelog</em> para gestión de conocimiento empresarial.</li>
-</ul>
-<hr>
-<p><strong>Finanzas Descentralizadas y Protocolos Web3</strong> (<em>en colaboración con <a href="https://www.tododecripto.com">tododecripto.com</a></em>)<br>
-<strong>Especialista en Operaciones On-Chain e Infraestructura Distribuida</strong><br>
-Enero 2020 – Julio 2022 / Remoto</p>
-<ul>
-<li><strong>Gestión de Tesorerías On-Chain:</strong> Control y trazabilidad de activos (<strong>USD 10k–50k+</strong>) bajo custodia DeFi (MetaMask, Ledger, DEX) sobre <em>relay-chains/parachains</em> de Polkadot/Kusama y redes Bitcoin, ERC-20 y BSC. Gestión de <em>gas fees</em>, ejecución de <em>swaps intra/cross-chain</em> y sobrescritura de <em>nonces</em>.</li>
-<li><strong>Smart Contracts e Infraestructura:</strong> Coordinación de despliegue de contratos inteligentes para NFTs en entornos virtuales distribuidos de alta concurrencia (<strong>~1.1k usuarios</strong>). Editor técnico en tododecripto.com sobre <em>blockchain</em>, <em>parachains</em> y gobernanza Web3.</li>
-</ul>
-<hr>
-<p><strong>Pontificia Universidad Católica de Valparaíso</strong> (<em>en asociación con la Escuela de Negocios de la UAI</em>)<br>
-<strong>Consultor de Datos y Docente Adjunto</strong> <code>[Ejecución por Proyectos]</code><br>
-Agosto 2018 – Junio 2021 / Región de Valparaíso</p>
-<ul>
-<li><strong>Pipelines de Datos Académicos:</strong> Consolidación de fuentes de datos y diseño de <em>pipelines</em> ETL para análisis estadístico exploratorio en entornos académicos y soporte a decisiones.</li>
-<li><strong>Docencia y Mentoría:</strong> Apoyo docente en la cátedra <em>Ciencia de Datos Aplicada</em> de Ingeniería Civil Industrial PUCV y asesoría técnica en proyectos finales de pregrado (modelado de datos y automatización).</li>
-<li><strong>Divulgación:</strong> Asesor técnico, editor de material académico y expositor internacional.</li>
-</ul>
-<hr>
-<p><strong>Banco de Crédito e Inversiones (BCI) – Gerencia Corporativa de Data &amp; Analytics / Gobierno de Datos</strong><br>
-<strong>Ingeniero de Procesos</strong><br>
-Mayo 2019 – Septiembre 2019 / Las Condes, Región Metropolitana</p>
-<ul>
-<li><strong>Integración de Metadatos:</strong> Orquestación de <em>pipelines</em> para la integración de metadatos desde sistemas operacionales hacia repositorios en Microsoft Azure, respaldada por modelado BPMN <em>As-Is/To-Be</em>.</li>
-<li><strong>Fiscalización y Control:</strong> Auditoría de arquitecturas de datos en entornos financieros regulados, asegurando consistencia, calidad y control de accesos.</li>
-</ul>
-<hr>
-<p><strong>ESVAL – Departamento de Gestión de Redes</strong><br>
-<strong>Líder de Proyecto</strong> <code>[Proyecto de Título]</code><br>
-Julio 2017 – Diciembre 2017 / Viña del Mar, Región de Valparaíso</p>
-<ul>
-<li><strong>Modelado Espaciotemporal de Riesgos:</strong> Desarrollo de un modelo predictivo mediante regresión de Cox en R sobre la red de agua potable de la Región de Valparaíso (<strong>5,300 km</strong> de extensión, <strong>+1.9M de usuarios</strong>).</li>
-<li><strong>Gestión PMO y Ágil:</strong> Coordinación bajo metodologías Kanban/Scrum para la generación de métricas clave de mantenimiento preventivo.</li>
-</ul>
-<hr>
+<section id="communication-and-transit-infrastructure-have-rendered-time-zones-obsolete." class="level4">
+<h4 class="anchored" data-anchor-id="communication-and-transit-infrastructure-have-rendered-time-zones-obsolete.">Communication and transit infrastructure have rendered time zones obsolete.</h4>
+<p>Asynchronous global networks have fractured local temporal alignment, creating a world where individuals simultaneously co-exist across different temporal states—some living in the future, others in the past.</p>
 </section>
-<section id="experiencia-profesional-temprana" class="level3">
-<h3 class="anchored" data-anchor-id="experiencia-profesional-temprana">Experiencia Profesional Temprana</h3>
-<ul>
-<li><strong>Empresa Nacional de Minería (ENAMI) – División de Finanzas y Administración</strong><br>
-<strong>Práctica Profesional</strong> / Enero 2016 – Marzo 2016 / Regiones Metropolitana y de Atacama</li>
-<li><strong>Antofagasta Minerals (Minera Los Pelambres) – Superintendencia de Geotecnia</strong><br>
-<strong>Práctica de Ingeniería</strong> / Enero 2014 – Marzo 2014 / Salamanca, Región de Coquimbo</li>
-</ul>
-<hr>
+<section id="time-travel-is-to-our-era-what-atmospheric-flight-was-to-the-middle-ages." class="level4">
+<h4 class="anchored" data-anchor-id="time-travel-is-to-our-era-what-atmospheric-flight-was-to-the-middle-ages.">Time travel is to our era what atmospheric flight was to the Middle Ages.</h4>
+<p>Temporal displacement is not a physical impossibility, but a boundary condition defined by our current limitations in energy, physics, and instrument resolution.</p>
 </section>
-<section id="dominio-y-capacidades-técnicas" class="level3">
-<h3 class="anchored" data-anchor-id="dominio-y-capacidades-técnicas">Dominio y Capacidades Técnicas</h3>
-<ul>
-<li><strong>Lenguajes de Programación y Matemática Aplicada</strong><br>
-<code>Python</code> (<code>FastAPI</code>, <code>Polars</code>, <code>SciPy</code>), <code>TypeScript</code>, <code>SQL</code>, <code>R</code> (<code>Tidyverse</code>, <code>targets</code>, <code>forecast</code>), Modelado Inferencial, Series de Tiempo, MILP y Optimización, Simulación de Eventos Discretos y Monte Carlo.</li>
-<li><strong>Arquitectura de Datos Empresariales</strong><br>
-Contenerización (<code>Docker</code>), Tuberías ETL/ELT, Metadatos y Ontologías, Gobernanza de Datos, Trazabilidad, Bases de Datos Relacionales, Datos Espaciales y Telemetría (<code>.parquet</code>, <code>.fit</code>).</li>
-<li><strong>Nube y Orquestación</strong><br>
-Microsoft Azure, Git/GitHub (Actions CI/CD, Pages), Orquestación de Entornos.</li>
-<li><strong>Arquitectura e Ingeniería de Sistemas</strong><br>
-Teoría y Dinámica de Sistemas, Ingeniería de Procesos (<code>BPMN</code>), Diagramación (<code>UML</code>), Gestión del Conocimiento, Documentación Técnica (<code>Quarto</code>, <code>Markdown</code>, <code>HTML</code>/<code>CSS</code>).</li>
-</ul>
-<hr>
+<section id="felix-baumgartner-was-the-first-human-to-experience-a-jerk-with-his-unassisted-body." class="level4">
+<h4 class="anchored" data-anchor-id="felix-baumgartner-was-the-first-human-to-experience-a-jerk-with-his-unassisted-body.">Felix Baumgartner was the first human to experience a jerk with his unassisted body.</h4>
+<p>Beyond position, velocity, and acceleration lies the third derivative of position with respect to time <span class="math inline">\(\left(\frac{d^3x}{dt^3}\right)\)</span>; breaking the sound barrier in freefall transformed his physical form into a direct kinematic sensor of abrupt atmospheric transitions.</p>
 </section>
-<section id="credenciales-académicas" class="level3">
-<h3 class="anchored" data-anchor-id="credenciales-académicas">Credenciales Académicas</h3>
-<p><strong>Pontificia Universidad Católica de Valparaíso</strong><br>
-<strong>Ingeniería Civil Industrial</strong> / 2011 – 2017<br>
-<strong>Licenciatura en Ciencias de la Ingeniería</strong> / 2016</p>
-<ul>
-<li>Programa de 12 semestres enfocado en ingeniería de sistemas, teoría de sistemas complejos, econometría y analítica cuantitativa avanzada.</li>
-<li>Ayudante académico recurrente en Ingeniería Económica, Sistemas de Información y Matemática Aplicada.</li>
-</ul>
-<p><strong>Pontificia Universidad Católica de Valparaíso</strong><br>
-<strong>Ingeniería Civil</strong> / 2007 – 2010 <code>[Estudios Fundamentales]</code></p>
-<ul>
-<li>Formación en ciencias básicas de la ingeniería, matemática aplicada, herramientas computacionales (MATLAB) y dibujo técnico vectorial (AutoCAD).</li>
-</ul>
-<hr>
+<section id="animals-never-make-mistakes." class="level4">
+<h4 class="anchored" data-anchor-id="animals-never-make-mistakes.">Animals never make mistakes.</h4>
+<p>In natural systems, error is a non-existent concept—there is only immediate adaptation or elimination through feedback loops. “Error” is a purely human cognitive construct born from comparing reality against abstract expectations.</p>
 </section>
-<section id="docencia-y-divulgación-técnica" class="level3">
-<h3 class="anchored" data-anchor-id="docencia-y-divulgación-técnica">Docencia y Divulgación Técnica</h3>
-<p><strong>Pontificia Universidad Católica de Valparaíso – Escuela de Comercio<br>
-Docente Invitado – Diplomado en Finanzas para la Toma de Decisiones</strong> / 2019, 2021<br>
-Diseño y relatoría de módulos en matemática financiera y evaluación de proyectos mediante modelado de flujos de caja y simulación de riesgo en Excel avanzado.</p>
-<p><strong>BancoEstado / Universidad Técnica Federico Santa María<br>
-Expositor Técnico – Curso: Análisis Financiero de Renta Variable</strong> / 2017, 2019<br>
-Relatoría sobre análisis de series de tiempo de alta frecuencia (OHLC) y calibración de volatilidad para la Mesa de Dinero.</p>
-<hr>
-<div class="footer-meta-advanced my-4">
-<p><strong>Última Actualización:</strong> 17-08-2026, 15:16 UTC.<br>
-Desarrollado con <strong>Quarto</strong> y CI/CD en <strong>GitHub Actions</strong>.<br>
-<strong>© 2026 Cuxhaven Labs.</strong> Licencia MIT.</p>
-</div>
+<section id="catalepsy-will-cease-to-exist-the-moment-we-define-life-and-death-with-absolute-certainty." class="level4">
+<h4 class="anchored" data-anchor-id="catalepsy-will-cease-to-exist-the-moment-we-define-life-and-death-with-absolute-certainty.">Catalepsy will cease to exist the moment we define life and death with absolute certainty.</h4>
+<p>Ambiguous medical states do not reflect mystical phenomena, but rather a lack of sensor resolution; once systemic biological boundaries are defined with absolute data precision, transition states collapse.</p>
+</section>
+<section id="every-individual-holds-an-inherent-right-to-statelessness." class="level4">
+<h4 class="anchored" data-anchor-id="every-individual-holds-an-inherent-right-to-statelessness.">Every individual holds an inherent right to statelessness.</h4>
+<p>In a hyper-connected, cross-border digital paradigm, identity must be modular, cryptographic, and self-sovereign—rejecting the monopoly of sovereignty assigned by geographic accident.</p>
+</section>
+<section id="climate-change-and-food-insecurity-will-impact-billions-of-people-this-century." class="level4">
+<h4 class="anchored" data-anchor-id="climate-change-and-food-insecurity-will-impact-billions-of-people-this-century.">Climate change and food insecurity will impact billions of people this century.</h4>
+<p>Geophysical instabilities and supply-chain fragilities represent systemic feedback loops that will fundamentally reorder population dynamics and global stability.</p>
+</section>
+<section id="bitcoin-will-eventually-become-the-global-currency-of-the-planet." class="level4">
+<h4 class="anchored" data-anchor-id="bitcoin-will-eventually-become-the-global-currency-of-the-planet.">Bitcoin will eventually become the global currency of the planet.</h4>
+<p>In an era of arbitrary monetary expansion and systemic trust decay, an unforgeable, decentralized, and mathematically capped protocol represents the ultimate settlement layer for global trade.</p>
 
 
 </section>
