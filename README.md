@@ -9,7 +9,7 @@ Valparaíso, Chile · Open to Relocation · US H-1B1 & ESTA Eligible**
 ---
 
 ## Architecture of pablozunigac.github.io
-Central Docs-as-Code repository powering my professional profile, multi-language CVs, and automated CI/CD deployment pipelines.
+A Docs-as-Code architecture delivering localized, high-density technical and professional documentation across English and Spanish markets, powered by modular Quarto compilation and automated CI/CD deployment pipelines.
 
 ### Core Repository Structure
 
@@ -37,9 +37,6 @@ pablozunigac.github.io/
 ## Distributed Knowledge Network & Live Nodes
 This architecture uses `index.qmd` as its centralized routing layer, bridging local static configurations with a distributed network of dynamic, Notion-backed knowledge nodes. This configuration exposes live operational frameworks, architectural manifestos, and verified academic credentials through a single, unified access point.
 
-### Multi-cultural Professional Artifacts
-
-
 ### Manifesto: Ode to the Death of a Resume that had no Business Being Born
 This site was born not as a design artifact, but as an architectural rebellion. A modular, semantic, and adaptive system to operate in high-complexity, fast-evolving environments. It is not a layered technology stack. It is a structural logic that guides how complex systems are designed, governed, and transformed.
 
@@ -64,5 +61,5 @@ The ultimate objective is not information, but understanding. Every framework, p
 
 ---
 
-**Last Update:** <span id="timestamp_en">2026-08-17, 03:22 UTC</span>  
+**Last Update:** <span id="timestamp_en">2026-08-17, 04:39 UTC</span>  
 **© 2026 Pablo Zúñiga Carvajal.** All rights reserved.
