@@ -1,12 +1,6 @@
 ---
 title: "Pablo Zúñiga"
 page-layout: full
-date: last-modified
-date-format: "YYYY-MM-DD, HH:mm [UTC....]"
-format:
-  html:
-    toc: false
-    toc-depth: 0
 ---
 
 ::: {.fw-semibold}

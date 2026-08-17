@@ -2,12 +2,6 @@
 title: "Manifesto"
 subtitle: "Ode to the Death of a Resume that had no Business Being Born"
 page-layout: article
-date: last-modified
-date-format: "YYYY-MM-DD, HH:mm [UTC-4.]"
-format:
-  html:
-    toc: false
-    toc-depth: 0
 ---
 
 **Pablo Zúñiga** is an **Industrial & Systems Engineer**, interdisciplinary **systems architect**, and **strategic partner** bridging engineering foundations with **digital society**. From startup turbulence to institutional rigor, Pablo builds coherence across uncertainty—translating noise into architectural clarity: thinking in **systems**, speaking in **data**, and designing for **scale**.  
