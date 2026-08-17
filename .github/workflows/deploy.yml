@@ -1,5 +1,6 @@
-
 permissions:
   contents: read
   pages: write
   id-token: write
+
+$(cat .github/workflows/deploy.yml)
