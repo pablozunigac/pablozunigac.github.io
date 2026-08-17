@@ -1,6 +1,10 @@
 ---
 title: "Pablo Zúñiga"
 page-layout: article
+format:
+  html:
+    date: last-modified
+    date-format: "YYYY-MM-DD, HH:mm [UTC.]"
 ---
 
 ::: {.fw-semibold}
