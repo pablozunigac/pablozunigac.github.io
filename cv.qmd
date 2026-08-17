@@ -159,6 +159,6 @@ Relatoría sobre análisis de series de tiempo de alta frecuencia (OHLC) y calib
 
 ::: {.footer-meta-advanced .my-4}
 **Última Actualización:** {{< meta date >}}  
-Desarrollado con **Quarto** y CI/CD en **GitHub Actions**.  
+Desarrollado con **Quarto** y versionado en **GitHub**.  
 **© 2026 Cuxhaven Labs.** Licencia MIT.
 :::

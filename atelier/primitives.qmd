@@ -42,6 +42,6 @@ In an era of arbitrary monetary expansion and systemic trust decay, an unforgeab
 
 ::: {.footer-meta-advanced .my-4}
 **Last Update:** {{< meta date >}}  
-Engineered with **Quarto** & CI/CD in **GitHub Actions**.  
+Engineered with **Quarto** & versioned on **GitHub**.  
 **© 2026 Cuxhaven Labs.** MIT License.
 :::

@@ -79,6 +79,6 @@ All **hyphens (-)**, **en dashes (--)**, and **em dashes (---)** contained withi
 
 ::: {.footer-meta-advanced .my-4}
 **Last Update:** {{< meta date >}}  
-Engineered with **Quarto** & CI/CD in **GitHub Actions**.  
+Engineered with **Quarto** & versioned on **GitHub**.  
 **© 2026 Cuxhaven Labs.** MIT License.
 :::
