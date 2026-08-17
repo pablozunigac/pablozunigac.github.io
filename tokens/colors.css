@@ -1,0 +1,90 @@
+/**
+ * Design Tokens: Colors & Theming
+ * --------------------------------------------------------------------------
+ * Core color palette and semantic tokens following modern CSS custom property 
+ * conventions. Structured for high contrast, accessibility, and scalability.
+ */
+
+:root {
+  /* ========================================================================
+     1. Primitive Color Scale: Gray (Neutral)
+     ======================================================================== */
+  --color-gray-50:  #f9fafb;
+  --color-gray-100: #f3f4f6;
+  --color-gray-200: #e5e7eb;
+  --color-gray-300: #d1d5db;
+  --color-gray-400: #9ca3af;
+  --color-gray-500: #6b7280;
+  --color-gray-600: #4b5563;
+  --color-gray-700: #374151;
+  --color-gray-800: #1f2937;
+  --color-gray-900: #111827;
+  --color-gray-950: #030712;
+
+  /* ========================================================================
+     2. Primitive Color Scale: Blue (Brand & Accent)
+     ======================================================================== */
+  --color-blue-50:  #eff6ff;
+  --color-blue-100: #dbeafe;
+  --color-blue-200: #bfdbfe;
+  --color-blue-300: #93c5fd;
+  --color-blue-400: #60a5fa;
+  --color-blue-500: #3b82f6;
+  --color-blue-600: #2563eb;
+  --color-blue-700: #1d4ed8;
+  --color-blue-800: #1e40af;
+  --color-blue-900: #1e3a8a;
+  --color-blue-950: #172554;
+
+  /* ========================================================================
+     3. Semantic Tokens: Surfaces & Text (Light Mode Base)
+     ======================================================================== */
+  --bg-app:          var(--color-gray-50);
+  --bg-surface:      #ffffff;
+  --bg-subtle:       var(--color-gray-100);
+  
+  --text-primary:    var(--color-gray-900);
+  --text-secondary:  var(--color-gray-600);
+  --text-muted:      var(--color-gray-500);
+
+  --border-subtle:   var(--color-gray-200);
+  --border-strong:   var(--color-gray-300);
+
+  /* ========================================================================
+     4. Semantic Tokens: Interactive / Links
+     ======================================================================== */
+  --link-default:    var(--color-blue-600);
+  --link-hover:      var(--color-blue-700);
+  --link-active:     var(--color-blue-800);
+  --link-focus-ring: var(--color-blue-400);
+
+  --link-gray-default: var(--color-gray-700);
+  --link-gray-hover:   var(--color-gray-950);
+  --link-gray-active:  var(--color-gray-900);
+}
+
+/* ==========================================================================
+   5. Dark Mode Overrides (Optional / Automatic)
+   ========================================================================== */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-app:          var(--color-gray-950);
+    --bg-surface:      var(--color-gray-900);
+    --bg-subtle:       var(--color-gray-800);
+
+    --text-primary:    var(--color-gray-50);
+    --text-secondary:  var(--color-gray-300);
+    --text-muted:      var(--color-gray-400);
+
+    --border-subtle:   var(--color-gray-800);
+    --border-strong:   var(--color-gray-700);
+
+    --link-default:    var(--color-blue-400);
+    --link-hover:      var(--color-blue-300);
+    --link-active:     var(--color-blue-200);
+
+    --link-gray-default: var(--color-gray-300);
+    --link-gray-hover:   var(--color-gray-50);
+    --link-gray-active:  var(--color-gray-200);
+  }
+}

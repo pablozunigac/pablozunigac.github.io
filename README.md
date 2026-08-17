@@ -15,18 +15,21 @@ Central Docs-as-Code repository powering my professional profile, multi-language
 
 ```bash
 pablozunigac.github.io/
-├── _quarto.yml             # Global site configuration and build engines
-├── index.qmd               # Main portal (profile, positioning, and credentials)
-├── resume.qmd              # Optimized resume source endpoints
-├── cv.qmd                  # Extended technical CV version
-├── manifesto.qmd           # Supplementary metadata and notes
-├── styles.css              # Custom visual styling layer
-├── en/                     # US / Global market localization infrastructure (English)
-├── es/                     # LATAM / Spain market localization infrastructure (Spanish)
-├── images/                 # Quatro deployment graphic artifacts
-└── .github/workflows/      # Automation pipelines (CI/CD)
-    ├── ci.yml              # Validation, timestamp injection, and PDF build pipeline
-    └── deploy.yml          # Automated deployment pipeline to GitHub Pages CDN
+├── _quarto.yml             # Core Quarto project architecture and multi-format compilation settings
+├── index.qmd               # Main landing portal (executive summary, positionings, and core credentials)
+├── resume.qmd              # High-density, single-page resume source targeting automated ATS parsers
+├── cv.qmd                  # Comprehensive technical curriculum vitae with extended project history
+├── manifesto.qmd           # Engineering philosophy, architectural principles, and strategic vision
+├── styles.css              # Global CSS layer overriding Quarto defaults and mapping design system tokens
+├── en/                     # Internationalization directory: English market localization endpoints
+├── es/                     # Internationalization directory: LATAM/Spanish market localization endpoints
+├── images/                 # Optimized visual assets, project diagrams, and profile media artifacts
+├── tokens/                 # Design System Token Architecture (Design-as-Code engine)
+│   ├── colors.css          # Primitive color scales (50-950) and semantic light/dark mode properties[cite: 1]
+│   ├── fonts.css           # Multi-line webfont preloading and local font-face CDN import bindings[cite: 2]
+│   └── typography.css      # Typographic stacks for Sans, Serif, and Monospaced code suites[cite: 3]
+└── .github/workflows/      # GitHub Actions CI/CD automation and deployment workflows
+    └── deploy.yml          # Continuous Deployment: Production build release pipeline to GitHub Pages CDN
 ```
 
 ---

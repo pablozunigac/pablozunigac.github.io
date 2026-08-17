@@ -1,0 +1,42 @@
+/**
+ * Design Tokens: Typography Stacks
+ * --------------------------------------------------------------------------
+ * Core font stacks mapping Sans, Serif, and Monospaced suites.
+ */
+
+:root {
+  /* ========================================================================
+     1. SANS-SERIF STACKS (Neo-Grotesque, Tech & Display)
+     ======================================================================== */
+  /* Main Tech & UI Sans (Apple / Palantir / Stripe standard) */
+  --font-sans-tech: "Inter", "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "SF Pro Text", sans-serif;
+
+  /* Industrial & Geometric Sans (IBM / Bauhaus / Mid-Century) */
+  --font-sans-industrial: "Space Grotesk", "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif;
+
+  /* High-Impact Display Sans (Titles & Condensed Headers) */
+  --font-sans-display: "Bebas Neue", "Impact", "Arial Black", sans-serif;
+
+
+  /* ========================================================================
+     2. SERIF STACKS (Editorial, Academic & High-Contrast)
+     ======================================================================== */
+  /* High-Contrast Editorial Serif (Mid-Century & 1920s Magazine style) */
+  --font-serif-display: "Playfair Display", "Palatino Linotype", "Palatino", "Georgia", serif;
+
+  /* Technical Reading & Long-Form Body Serif */
+  --font-serif-body: "Lora", "Merriweather", "Times New Roman", Times, serif;
+
+
+  /* ========================================================================
+     3. MONOSPACED STACKS (Code, Data & Doc-as-Code)
+     ======================================================================== */
+  /* Standard Technical Code & IDE (Apple SF Mono / JetBrains) */
+  --font-mono-code: "JetBrains Mono", "Fira Code", "SF Mono", "Menlo", monospace;
+
+  /* Industrial Data & Pipeline Documentation (IBM Plex Mono) */
+  --font-mono-data: "IBM Plex Mono", "Consolas", "Courier New", monospace;
+
+  /* Brutalist & Editorial Mono (Mid-Century Typewriter / Headers) */
+  --font-mono-editorial: "Space Mono", monospace;
+}
