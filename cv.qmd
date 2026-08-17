@@ -24,8 +24,8 @@ Ingeniero Civil Industrial especializado en el diseño, la validación técnica 
 
   * Arquitectura, ontologías y gobernanza de datos
   * Estadística Descriptiva/Predictiva Aplicada a Sistemas Complejos
-  * Modelamiento y Optimización de Procesos de Negocio (BPMN, UML)
-  * Gestión del Conocimiento y Documentación Técnica Avanzada (Doc-as-Code)
+  * Modelamiento y Optimización de Procesos de Negocio (`BPMN`, `UML`)
+  * Gestión del Conocimiento y Documentación Técnica Avanzada (*Doc-as-Code*)
 
 ---
 
