@@ -73,7 +73,7 @@ Forged through real-world operational pressure, this approach prioritizes **robu
 ---
 
 ::: {.footer-meta-advanced-2}
-**System Notice**  
+**AI Era Notice**  
 All **hyphens (-)**, **en dashes (--)**, and **em dashes (---)** contained within this site were intentionally forged via direct human-to-machine keystroke sequences.
 :::
 

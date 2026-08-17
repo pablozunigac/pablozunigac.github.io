@@ -34,15 +34,11 @@ pablozunigac.github.io/
 ## Distributed Knowledge Network & Live Nodes
 This architecture uses `index.qmd` as its centralized routing layer, bridging local static configurations with a distributed network of dynamic, Notion-backed knowledge nodes. This configuration exposes live operational frameworks, architectural manifestos, and verified academic credentials through a single, unified access point.
 
-### Central Web Portal and Routing Layer: `index.qmd`
-This file serves as the single access point for professional metadata and bridges static endpoints with three live, specialized Notion knowledge nodes (Strategic Dossier, Systems Metaportfolio, and Formal Academic Credentials).
+### Multi-cultural Professional Artifacts
 
-* [**`Strategic Positioning Dossier`**](https://cuxhavenlabs.notion.site/Professional-Positioning-Dossier-21a2ad0c842680749956e17239a36e4d)  
-Comprehensive breakdown of consulting frameworks and market-facing capabilities.
-* [**`Systems & Engineering Metaportfolio`**](https://cuxhavenlabs.notion.site/Pablo-Z-iga-s-Metaportfolio-2042ad0c842680569ab8f6109a7e0d4b)  
-Architectural deep-dive into complex systems modeling and execution patterns.
-* **`Academic Records & Credentials`** (*Upon Inquiry*)  
-Centralized academic repository, degree certifications, and legal validations.
+
+### Manifesto: Ode to the Death of a Resume that had no Business Being Born
+This site was born not as a design artifact, but as an architectural rebellion. A modular, semantic, and adaptive system to operate in high-complexity, fast-evolving environments. It is not a layered technology stack. It is a structural logic that guides how complex systems are designed, governed, and transformed.
 
 ---
 
