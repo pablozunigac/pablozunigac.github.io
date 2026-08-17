@@ -152,7 +152,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">17-08-2026, 04:18 UTC.</p>
+      <p class="date">2026-08-17, 06:13 UTC</p>
     </div>
   </div>
   
@@ -177,10 +177,10 @@ Valparaíso, Chile · Disponible para Reubicación<br>
 <section id="áreas-de-dominio-técnico" class="level4">
 <h4 class="anchored" data-anchor-id="áreas-de-dominio-técnico">Áreas de Dominio Técnico</h4>
 <ul>
-<li><strong>Arquitectura de Datos:</strong> Gobernanza, ontologías y diseño de <em>pipelines</em> de datos.</li>
-<li><strong>Estadística Aplicada:</strong> AED, modelamiento predictivo y análisis de sistemas complejos.</li>
-<li><strong>Ingeniería de Procesos:</strong> Modelado operacional (BPMN/UML) y optimización de procesos.</li>
-<li><strong>Gestión del Conocimiento:</strong> Estandarización técnica mediante <em>Doc-as-Code</em> y control de versiones.</li>
+<li>Arquitectura, ontologías y gobernanza de datos</li>
+<li>Estadística Descriptiva/Predictiva Aplicada a Sistemas Complejos</li>
+<li>Modelamiento y Optimización de Procesos de Negocio (BPMN, UML)</li>
+<li>Gestión del Conocimiento y Documentación Técnica Avanzada (Doc-as-Code)</li>
 </ul>
 <hr>
 <div class="text-center my-4">
@@ -304,7 +304,7 @@ Expositor Técnico – Curso: Análisis Financiero de Renta Variable</strong> / 
 Relatoría sobre análisis de series de tiempo de alta frecuencia (OHLC) y calibración de volatilidad para la Mesa de Dinero.</p>
 <hr>
 <div class="footer-meta-advanced my-4">
-<p><strong>Última Actualización:</strong> 17-08-2026, 04:18 UTC.<br>
+<p><strong>Última Actualización:</strong> 2026-08-17, 06:13 UTC<br>
 Desarrollado con <strong>Quarto</strong> y CI/CD en <strong>GitHub Actions</strong>.<br>
 <strong>© 2026 Cuxhaven Labs.</strong> Licencia MIT.</p>
 </div>
@@ -386,7 +386,7 @@ Desarrollado con <strong>Quarto</strong> y CI/CD en <strong>GitHub Actions</stro
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/pablozunigac\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
