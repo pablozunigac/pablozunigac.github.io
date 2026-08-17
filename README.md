@@ -15,17 +15,18 @@ Central Docs-as-Code repository powering my professional profile, multi-language
 
 ```bash
 pablozunigac.github.io/
-├── _quarto.yml              # Global site configuration and build engines
-├── index.qmd                # Main portal (profile, positioning, and credentials)
-├── resume.qmd               # Optimized resume source endpoints
-├── cv.qmd                   # Extended technical CV version
-├── about.qmd                # Supplementary metadata and notes
-├── styles.css               # Custom visual styling layer
-├── en/                      # US / Global market localization infrastructure (English)
-├── es/                      # LATAM / Spain market localization infrastructure (Spanish)
-└── .github/workflows/       # Automation pipelines (CI/CD)
-    ├── ci.yml               # Validation, timestamp injection, and PDF build pipeline
-    └── deploy.yml           # Automated deployment pipeline to GitHub Pages CDN
+├── _quarto.yml             # Global site configuration and build engines
+├── index.qmd               # Main portal (profile, positioning, and credentials)
+├── resume.qmd              # Optimized resume source endpoints
+├── cv.qmd                  # Extended technical CV version
+├── manifesto.qmd           # Supplementary metadata and notes
+├── styles.css              # Custom visual styling layer
+├── en/                     # US / Global market localization infrastructure (English)
+├── es/                     # LATAM / Spain market localization infrastructure (Spanish)
+├── images/                 # Quatro deployment graphic artifacts
+└── .github/workflows/      # Automation pipelines (CI/CD)
+    ├── ci.yml              # Validation, timestamp injection, and PDF build pipeline
+    └── deploy.yml          # Automated deployment pipeline to GitHub Pages CDN
 ```
 
 ---
@@ -64,5 +65,5 @@ The ultimate objective is not information, but understanding. Every framework, p
 
 ---
 
-**Last Update:** <span id="timestamp_en">2026-08-16, 00:57 UTC-4</span>  
+**Last Update:** <span id="timestamp_en">2026-08-17, 03:22 UTC</span>  
 **© 2026 Pablo Zúñiga Carvajal.** All rights reserved.
