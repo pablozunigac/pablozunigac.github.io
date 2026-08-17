@@ -67,6 +67,14 @@ p strong, p b, li strong, li b, body strong, body b {
   color: var(--color-text-main) !important;
 }
 
+/* ENLACES DE CONTENIDO GENERAL (Cuerpo de texto, párrafos y listas) */
+p a, li a {
+  text-decoration: none !important;
+  color: #2687fe !important; 
+  font-weight: inherit !important; /* Añadir esta línea: obliga al enlace a tomar el grosor de su contenedor */
+  transition: color 0.15s ease !important;
+}
+
 /* ==========================================================
    3.2. LISTS (UL, OL, LI)
    ========================================================== */
@@ -138,7 +146,7 @@ ul > li > p, ol > li > p {
 }
 
 /* ==========================================================
-   7. ACTION BAR
+   7.1 ACTION BAR
    ========================================================== */
 .action-bar {
   display: flex;
@@ -240,7 +248,7 @@ h3 {
 }
 
 /* ==========================================================
-   7. CONTROL UNIFICADO DE HIPERVÍNCULOS
+   7.2 CONTROL UNIFICADO DE HIPERVÍNCULOS
    ========================================================== */
 
 /* A. BARRA DE NAVEGACIÓN GENERAL (Pestañas y Enlaces de Menú) */
@@ -257,8 +265,8 @@ h3 {
 /* 2. Estado Hover (Solo para enlaces y pestañas) */
 .navbar a:not(.navbar-brand):hover, 
 .navbar-nav .nav-link:hover {
-  color: #070e1d !important;
-  font-weight: 690 !important;
+  color: #28364f !important;
+  font-weight: 700 !important;
   text-decoration: none !important;
 }
 
@@ -266,7 +274,7 @@ h3 {
 .navbar-nav .nav-link.active,
 .navbar-nav .show > .nav-link {
   color: #0c1730 !important;
-  font-weight: 690 !important;
+  font-weight: 700 !important;
   text-decoration: none !important;
 }
 
@@ -306,17 +314,17 @@ p a.btn, li a.btn {
 
 /* 1. PÍLDORAS ESTÁNDAR (Tech Stack, Work Experience, etc.) */
 .btn-outline-secondary {
-  background-color: #e9e9e9 !important;         /* Fondo blanco */
-  color: #354356 !important;                    /* Texto oscuro sutil */
-  border: 1px solid #7a7a7a !important;         /* Borde gris claro */
-  transition: all 0.3s ease-in-out !important;    /* Transición */
+  background-color: #e9e9e9 !important;               /* Fondo blanco */
+  color: #354356 !important;                          /* Texto oscuro sutil */
+  border: 1px solid #7a7a7a !important;               /* Borde gris claro */
+  transition: all 0.3s ease-in-out !important;          /* Transición */
 }
 
 .btn-outline-secondary:hover {
-  background-color: #a6a6a6 !important;         /* Fondo gris elegante en hover */
-  color: #f2f2f2 !important;                    /* Texto pasa a blanco */
-  border-color: #768aa5 !important;             /* Borde combina con el fondo */
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);    /* Elevación sutil */
+  background-color: #b4b4b4 !important;               /* Fondo gris elegante en hover */
+  color: #f2f2f2 !important;                          /* Texto pasa a blanco */
+  border-color: #768aa5 !important;                   /* Borde combina con el fondo */
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);          /* Elevación sutil */
 }
 
 /* 2. ÚLTIMA PÍLDORA (PDF Version) - Azul / Celeste Piedra */

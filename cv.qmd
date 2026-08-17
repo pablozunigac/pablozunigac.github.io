@@ -9,10 +9,13 @@ format:
     toc-depth: 0
 ---
 
-**Ingeniero Civil Industrial, Pontificia Universidad Católica de Valparaíso**  
-**Modelado de Datos · Estadística Aplicada · Sistemas Complejos**  
-**Valparaíso, Chile · Disponible para Reubicación**  
+::: {.fw-semibold}
+Ingeniero Civil Industrial, Pontificia Universidad Católica de Valparaíso  
+Modelado de Datos · Estadística Aplicada · Sistemas Complejos  
+Valparaíso, Chile · Disponible para Reubicación  
 [Español (Nativo)]{.badge .bg-secondary} [Inglés (Profesional)]{.badge .bg-secondary}
+:::
+
 
 ---
 
