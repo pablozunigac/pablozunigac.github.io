@@ -34,4 +34,4 @@ format:
     toc-depth: 0
     max-width: 1800px
     date: last-modified
-    date-format: "YYYY-MM-DD, HH:mm [UTC]"
+    date-format: "YYYY-MM-DD, HH:mm [UTC.]"
