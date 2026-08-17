@@ -2,7 +2,7 @@
 title: "Pablo Zúñiga"
 page-layout: article
 date: last-modified
-date-format: "DD-MM-YYYY, HH:mm [UTC-4.]"
+date-format: "DD-MM-YYYY, HH:mm [UTC.]"
 format:
   html:
     toc: false
