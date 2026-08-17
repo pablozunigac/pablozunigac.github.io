@@ -1,6 +1,6 @@
 ---
 title: "Manifesto"
-subtitle: "Ode to the Death of a Resume that had no Business Being Born"
+subtitle: "Ode to the Death of a Resume that had no Business Being Born"{.manifesto-subtitle}
 page-layout: article
 date: last-modified
 date-format: "YYYY-MM-DD, HH:mm [UTC-4.]"
@@ -74,7 +74,7 @@ Forged through real-world operational pressure, this approach prioritizes **robu
 
 ::: {.footer-meta-advanced-2}
 **System Notice**  
-All **hyphens (-)**, **en dashes (--)**, and **em dashes (---)** contained within this document were forged intentionally, manually via direct human-to-machine hardware sequences.
+All **hyphens (-)**, **en dashes (--)**, and **em dashes (---)** contained within this system were intentionally forged via direct human-to-machine keystroke sequences.
 :::
 
 ---

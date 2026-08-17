@@ -11,8 +11,8 @@ format:
 
 **Industrial & Systems Engineer PUCV (BSc & MSc Equivalent)**  
 **Data Modeling · Applied Statistics · Complex Systems**    
-**Valparaíso, Chile · Open to Relocation · US [**H-1B1**](https://www.dol.gov/agencies/whd/immigration/h1b1) & [**ESTA**](https://cl.usembassy.gov/visa-waiver-program/) Eligible**  
-`Native Spanish` · `Professional English`
+**Valparaíso, Chile · Open to Relocation · US [H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) & [ESTA](https://cl.usembassy.gov/visa-waiver-program/) Eligible**  
+[Native Spanish]{.badge .bg-secondary} [Professional English]{.badge .bg-secondary}
 
 ---
 
@@ -22,7 +22,7 @@ format:
 [**Internships**](#internships){.btn .btn-outline-secondary .btn-sm .rounded-pill .mx-1}
 [**Education**](#education){.btn .btn-outline-secondary .btn-sm .rounded-pill .mx-1}
 [**Teaching**](#teaching-and-technical-training){.btn .btn-outline-secondary .btn-sm .rounded-pill .mx-1}
-[PDF Version](https://pablozunigac.github.io/en/resume-pablo-zuniga.pdf){.btn .btn-primary .btn-sm .rounded-pill .mx-1}
+[**PDF Version**](https://pablozunigac.github.io/en/resume-pablo-zuniga.pdf){.btn .btn-primary .btn-sm .rounded-pill .mx-1}
 :::
 
 ---

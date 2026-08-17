@@ -11,8 +11,7 @@ format:
 
 **Industrial & Systems Engineer PUCV, BSc & MSc Equivalent**  
 **Data Modeling · Applied Statistics · Complex Systems**  
-**Valparaíso, Chile · Open to Relocation · US [**H-1B1**](https://www.dol.gov/agencies/whd/immigration/h1b1) & [**ESTA**](https://cl.usembassy.gov/visa-waiver-program/) Eligible**  
-[Native Spanish]{.badge .bg-secondary} [Professional English]{.badge .bg-secondary}
+**Valparaíso, Chile · Open to Relocation · US [H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) & [ESTA](https://cl.usembassy.gov/visa-waiver-program/) Eligible**  
 
 ---
 
@@ -24,7 +23,7 @@ Designing the underlying structures that make complex work coherent, navigable, 
 
 ### Operational Focus & Systems Engineering {.mb-2}
 
-Bridging the gap between raw engineering artifacts and executable operations. I design resilient information flows, structured metadata models, and scalable governance frameworks that transform organizational complexity into transparent, high-performance systems
+Bridging the gap between raw engineering artifacts and executable operations. I design resilient information flows, structured metadata models, and scalable governance frameworks that transform organizational complexity into transparent, high-performance systems.
 
 ::: {.grid .my-1}
 

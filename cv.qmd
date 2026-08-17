@@ -11,8 +11,8 @@ format:
 
 **Ingeniero Civil Industrial, Pontificia Universidad Católica de Valparaíso**  
 **Modelado de Datos · Estadística Aplicada · Sistemas Complejos**  
-**Valparaíso, Chile · Disponible para Reubicación · Elegible para Visas EE. UU. ([**H-1B1**](https://www.dol.gov/agencies/whd/immigration/h1b1) y [**ESTA**](https://cl.usembassy.gov/visa-waiver-program/))**  
-`Español (Nativo)` · `Inglés (Profesional)`
+**Valparaíso, Chile · Disponible para Reubicación**  
+[Español (Nativo)]{.badge .bg-secondary} [Inglés (Profesional)]{.badge .bg-secondary}
 
 ---
 
@@ -35,7 +35,7 @@ Ingeniero Civil Industrial especializado en el diseño, la validación técnica 
 [**Tecnologías**](#dominio-y-capacidades-técnicas){.btn .btn-outline-secondary .btn-sm .rounded-pill .mx-1}
 [**Educación**](#credenciales-académicas){.btn .btn-outline-secondary .btn-sm .rounded-pill .mx-1}
 [**Divulgación**](#docencia-y-divulgación-técnica){.btn .btn-outline-secondary .btn-sm .rounded-pill .mx-1}
-[Versión PDF](https://pablozunigac.github.io/es/cv-pablo-zuniga.pdf){.btn .btn-primary .btn-sm .rounded-pill .mx-1}
+[**Versión PDF**](https://pablozunigac.github.io/es/cv-pablo-zuniga.pdf){.btn .btn-primary .btn-sm .rounded-pill .mx-1}
 :::
 
 ---
