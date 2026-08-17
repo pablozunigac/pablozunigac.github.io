@@ -1,6 +1,7 @@
-/* ==========================================================
-   0. DESIGN TOKENS
-   ========================================================== */
+/* 1. IMPORTS (Siempre en la primera línea) */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+/* 2. DESIGN TOKENS */
 :root {
   --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
   --font-mono: 'JetBrains Mono', monospace;
@@ -9,6 +10,8 @@
   --font-weight-badge: 600;
   --font-weight-body-bold: 540;
 
+  --color-brand-blue: #0d2b6c;
+  --color-brand-muted: #768298;
   --color-text-main: #111827;
   --color-text-body: #374151;
   --color-text-secondary: #475569;
@@ -23,24 +26,32 @@
   --radius-badge: 4px;
 }
 
-/* ==========================================================
-   1. TIPOS IMPORT (Inter + JetBrains Mono)
-   ========================================================== */
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
+/* 3. TIPOGRAFÍA Y BASE */
+html, body, p, li {
+  font-family: var(--font-sans) !important;
+  color: var(--color-text-body);
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
 
-/* ==========================================================
-   2. TITLES (H1-to-H6) 
-   ========================================================== */
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: var(--font-sans) !important;
   font-weight: var(--font-weight-title) !important;
-  letter-spacing: -0.0em !important;
+  letter-spacing: 0 !important;
   color: var(--color-text-main) !important;
 }
 
-/* ==========================================================
-   2.1 CORRECCIÓN ESPECÍFICA: GROSOR DEL SUBTÍTULO EN QUARTO
-   ========================================================== */
+h3 {
+  margin-top: 0.5rem !important;
+  margin-bottom: 0.35rem !important;
+}
+
+p strong, p b, li strong, li b, body strong, body b {
+  font-weight: var(--font-weight-body-bold) !important;
+  color: var(--color-text-main) !important;
+}
+
+/* Subtítulos específicos de Quarto */
 #title-block-header .quarto-title-subtitle,
 .quarto-title-block .quarto-title-subtitle,
 #title-block-header h3.subtitle,
@@ -49,67 +60,48 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   color: var(--color-text-secondary) !important;
 }
 
-/* ==========================================================
-   3. BODY TEXT
-   ========================================================== */
-html, body, p, li {
-  font-family: var(--font-sans) !important;
-  color: var(--color-text-body);
-  font-size: 0.95rem;
-  line-height: 1.45;
-}
-
-/* ==========================================================
-   3.1. BOLD TEXT (p, li, body)
-   ========================================================== */
-p strong, p b, li strong, li b, body strong, body b {
-  font-weight: var(--font-weight-body-bold) !important;
-  color: var(--color-text-main) !important;
-}
-
-/* ENLACES DE CONTENIDO GENERAL (Cuerpo de texto, párrafos y listas) */
+/* Enlaces generales (Consolidados) */
 p a, li a {
   text-decoration: none !important;
   color: #2687fe !important; 
-  font-weight: inherit !important; /* Añadir esta línea: obliga al enlace a tomar el grosor de su contenedor */
+  font-weight: inherit !important;
   transition: color 0.15s ease !important;
 }
 
-/* ==========================================================
-   3.2. LISTS (UL, OL, LI)
-   ========================================================== */
-body div.content ul, 
-body div.content ol, 
-main ul, 
-main ol, 
-article ul, 
-article ol {
+p a:hover, li a:hover {
+  color: #1E40AF !important; 
+}
+
+/* Lista y Márgenes */
+body div.content ul, body div.content ol, 
+main ul, main ol, 
+article ul, article ol {
   margin-top: -0.2rem !important;
   padding-top: 0 !important;
   margin-bottom: 0.6rem !important;
 }
 
 ul > li, ol > li {
-  margin-top: 0rem !important;
+  margin-top: 0 !important;
   margin-bottom: 0.15rem !important;
 }
 
 ul > li > p, ol > li > p {
-  margin-top: 0rem !important;
-  margin-bottom: 0rem !important;
+  margin: 0 !important;
 }
 
-/* ==========================================================
-   4. TECHNICAL METADATA (JetBrains Mono)
-   ========================================================== */
+hr {
+  margin: 1rem 0 !important;
+  border-color: var(--color-border-default) !important;
+  opacity: 0.7 !important;
+}
+
+/* 4. COMPONENTES Y BADGES */
 .tech-meta, code, pre {
   font-family: var(--font-mono) !important;
   font-size: 0.82rem !important;
 }
 
-/* ==========================================================
-   5. STYLE OF TECHNICAL BADGES (JetBrains Mono)
-   ========================================================== */
 .badge-notion, .badge-cv, .badge-deep, .badge-manifesto, .badge-credentials, .badge-pdf {
   font-family: var(--font-mono) !important;
   font-size: 0.68rem !important;
@@ -127,16 +119,13 @@ ul > li > p, ol > li > p {
 .badge-credentials { background-color: #fff7ed !important; color: #c2410c !important; border: 1px solid #ffedd5 !important; }
 .badge-pdf         { background-color: #fef2f2 !important; color: #b91c1c !important; border: 1px solid #fecaca !important; }
 
-/* ==========================================================
-   6. GRID CARDS (CVs / Resumes / Projects)
-   ========================================================== */
+/* Grid Cards */
 .grid-card {
   background: #ffffff;
   border: 1px solid var(--color-border-default);
   border-radius: var(--radius-card);
-  padding: 1rem;
-  margin-top: 0rem !important;
-  padding-top: 0 !important;
+  padding: 0 1rem 1rem 1rem;
+  margin-top: 0 !important;
   height: 100%;
   transition: border-color 0.2s ease;
 }
@@ -145,9 +134,15 @@ ul > li > p, ol > li > p {
   border-color: var(--color-border-hover);
 }
 
-/* ==========================================================
-   7.1 ACTION BAR
-   ========================================================== */
+.grid {
+  margin: 0.25rem 0 !important;
+  row-gap: 0.5rem !important;
+}
+
+.grid p { margin-bottom: 0.5rem !important; }
+.grid .g-col-12 p:last-child { margin-bottom: 0 !important; }
+
+/* Action Bar & Botones */
 .action-bar {
   display: flex;
   flex-wrap: wrap;
@@ -158,7 +153,6 @@ ul > li > p, ol > li > p {
   font-size: 0.8rem !important;
 }
 
-/* 1. Formato Primario (CVs / Resumes) */
 .btn-action-primary {
   color: var(--color-text-main) !important;
   background-color: #f8fafc !important;
@@ -177,14 +171,6 @@ ul > li > p, ol > li > p {
   border-color: var(--color-text-main) !important;
 }
 
-/* Separador elegante entre secciones */
-.action-divider {
-  color: var(--color-border-input);
-  font-weight: 300;
-  user-select: none;
-}
-
-/* 2. Formato Secundario (GitHub / Email / Scheduling) */
 .btn-action-secondary {
   color: var(--color-text-secondary) !important;
   font-weight: 500 !important;
@@ -197,137 +183,29 @@ ul > li > p, ol > li > p {
   color: #0284c7 !important;
 }
 
-/* ==========================================================
-   COMPACTACIÓN DENSIDAD TÁCTICA
-   ========================================================== */
-
-hr {
-  margin-top: 1rem !important;
-  margin-bottom: 1rem !important;
-  border-color: var(--color-border-default) !important;
-  opacity: 0.7 !important;
+.action-divider {
+  color: var(--color-border-input);
+  font-weight: 300;
+  user-select: none;
 }
 
-h3 {
-  margin-bottom: 0.35rem !important;
-  margin-top: 0.5rem !important;
-}
+/* Píldoras de Navegación */
+p a.btn, li a.btn { text-decoration: none !important; }
 
-.grid {
-  margin-top: 0.25rem !important;
-  margin-bottom: 0.25rem !important;
-  row-gap: 0.5rem !important;
-}
-
-.grid p {
-  margin-bottom: 0.5rem !important;
-}
-
-.grid .g-col-12 p:last-child {
-  margin-bottom: 0 !important;
-}
-
-.home-container {
-    max-width: 1000px;
-    margin: 0 auto;
-}
-
-/* ==========================================================
-   FOOTER META ADVANCED
-   ========================================================== */
-
-.footer-meta-advanced, 
-.footer-meta-advanced * {
-  font-size: 0.9rem !important;
-  color: #40537a !important;
-  line-height: 1.35 !important;
-}
-
-.quarto-title-block .quarto-title-meta {
-  display: none !important;
-}
-
-/* ==========================================================
-   7.2 CONTROL UNIFICADO DE HIPERVÍNCULOS
-   ========================================================== */
-
-/* A. BARRA DE NAVEGACIÓN GENERAL (Pestañas y Enlaces de Menú) */
-
-/* 1. Estado Normal (Solo para enlaces y pestañas, excluyendo el logo) */
-.navbar a:not(.navbar-brand), 
-.navbar-nav .nav-link {
-  text-decoration: none !important;
-  color: #40537a !important;
-  font-weight: 600 !important;
-  transition: color .6s ease !important;
-}
-
-/* 2. Estado Hover (Solo para enlaces y pestañas) */
-.navbar a:not(.navbar-brand):hover, 
-.navbar-nav .nav-link:hover {
-  color: #28364f !important;
-  font-weight: 700 !important;
-  text-decoration: none !important;
-}
-
-/* 3. Estado Activo (Pestaña abierta) */
-.navbar-nav .nav-link.active,
-.navbar-nav .show > .nav-link {
-  color: #0c1730 !important;
-  font-weight: 700 !important;
-  text-decoration: none !important;
-}
-
-/* B. IDENTIDAD DE MARCA (Cuxhaven Labs - Home) */
-.navbar-brand { 
-  color: #40537a !important; 
-  font-weight: 700 !important;
-  text-decoration: none !important;
-  transition: color .6s ease !important;
-}
-
-.navbar-brand:hover {
-  color: #070e1d !important; 
-  text-decoration: none !important;
-}
-
-/* B. ENLACES DE CONTENIDO GENERAL (Cuerpo de texto, párrafos y listas) */
-p a, li a {
-  text-decoration: none !important;
-  color: #2687fe !important; 
-  transition: color 0.15s ease !important;
-}
-
-p a:hover, li a:hover {
-  text-decoration: none !important;
-  color: #1E40AF !important; 
-}
-
-/* ==========================================================
-   ESTILOS ESPECÍFICOS PARA PÍLDORAS DE NAVEGACIÓN
-   ========================================================== */
-
-/* Reset de enlaces para que no hereden el azul de 'p a' */
-p a.btn, li a.btn {
-  text-decoration: none !important;
-}
-
-/* 1. PÍLDORAS ESTÁNDAR (Tech Stack, Work Experience, etc.) */
 .btn-outline-secondary {
-  background-color: #e9e9e9 !important;               /* Fondo blanco */
-  color: #354356 !important;                          /* Texto oscuro sutil */
-  border: 1px solid #7a7a7a !important;               /* Borde gris claro */
-  transition: all 0.3s ease-in-out !important;          /* Transición */
+  background-color: #e9e9e9 !important;
+  color: #354356 !important;
+  border: 1px solid #7a7a7a !important;
+  transition: all 0.3s ease-in-out !important;
 }
 
 .btn-outline-secondary:hover {
-  background-color: #b4b4b4 !important;               /* Fondo gris elegante en hover */
-  color: #f2f2f2 !important;                          /* Texto pasa a blanco */
-  border-color: #768aa5 !important;                   /* Borde combina con el fondo */
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);          /* Elevación sutil */
+  background-color: #b4b4b4 !important;
+  color: #f2f2f2 !important;
+  border-color: #768aa5 !important;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
 }
 
-/* 2. ÚLTIMA PÍLDORA (PDF Version) - Azul / Celeste Piedra */
 .btn-primary {
   background-color: #cfecff !important;
   color: #1e3a8a !important;
@@ -336,19 +214,105 @@ p a.btn, li a.btn {
 }
 
 .btn-primary:hover {
-  background-color: rgb(141, 183, 250) !important;    /* Fondo azul/celeste piedra en hover */
-  color: #f2f2f2 !important;                          /* Texto pasa a blanco para contraste */
-  border-color: #587bb4 !important;                   /* Borde azul intenso */
-  box-shadow: 0 2px 8px rgba(59, 130, 246, 0.25);     /* Brillo azul suave */
+  background-color: #8db7fa !important;
+  color: #f2f2f2 !important;
+  border-color: #587bb4 !important;
+  box-shadow: 0 2px 8px rgba(59, 130, 246, 0.25);
 }
 
-/* ==========================================================
-   8. SYSTEM NOTICE / TECHNICAL DISCLAIMER
-   ========================================================== */
+/* Layout Container */
+.home-container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+/* 5. NAVBAR Y NAVEGACIÓN WEB */
+.navbar-brand { 
+  color: var(--color-brand-blue) !important; 
+  font-weight: 700 !important;
+  text-decoration: none !important;
+  transition: color .4s ease !important;
+}
+
+.navbar-brand:hover {
+  color: var(--color-brand-blue) !important; 
+  text-decoration: none !important;
+}
+
+.navbar a:not(.navbar-brand), 
+.navbar-nav .nav-link {
+  color: var(--color-brand-blue) !important;
+  font-weight: 600 !important;
+  text-decoration: none !important;
+  transition: color 0.15s ease-in-out !important;
+}
+
+/* Interacción Hover Inverso con :has() */
+.navbar-nav:has(.nav-link.active) .nav-link:not(.active) {
+  color: var(--color-brand-muted) !important;
+}
+
+.navbar-nav .nav-link.active {
+  color: var(--color-brand-blue) !important;
+}
+
+.navbar-nav:has(.nav-link.active) .nav-link:not(.active):hover {
+  color: var(--color-brand-blue) !important;
+}
+
+.navbar-nav:not(:has(.nav-link.active)) .nav-link:hover {
+  color: var(--color-brand-muted) !important;
+}
+
+/* Dropdown Navbar */
+.navbar .dropdown-menu {
+  background-color: #ffffff !important;
+  border: 1px solid var(--color-border-default) !important;
+  border-radius: 8px !important;
+  padding: 0.35rem 0 !important;
+  box-shadow: 0 10px 25px -5px rgba(13, 43, 108, 0.12), 
+              0 4px 6px -2px rgba(13, 43, 108, 0.05) !important;
+}
+
+.navbar .dropdown-menu .dropdown-item {
+  font-family: var(--font-sans) !important;
+  font-size: 0.88rem !important;
+  font-weight: 600 !important;
+  color: var(--color-brand-blue) !important;
+  padding: 0.5rem 1rem !important;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out !important;
+}
+
+.navbar .dropdown-menu .dropdown-item:hover,
+.navbar .dropdown-menu .dropdown-item:focus,
+.navbar .dropdown-menu a.dropdown-item:hover {
+  color: var(--color-brand-muted) !important;
+  background-color: rgba(13, 43, 108, 0.06) !important;
+  outline: none !important;
+}
+
+.nav-link:focus, .nav-link:focus-visible, .nav-link:active,
+.show > .nav-link, .dropdown-toggle:focus, .dropdown-toggle:focus-visible {
+  outline: none !important;
+  box-shadow: none !important;
+  border-color: transparent !important;
+}
+
+/* 6. FOOTER Y METADATOS ADVANCED */
+.quarto-title-block .quarto-title-meta {
+  display: none !important;
+}
+
+.footer-meta-advanced, 
+.footer-meta-advanced * {
+  font-size: 0.9rem !important;
+  color: var(--color-brand-blue) !important;
+  line-height: 1.35 !important;
+}
 
 .footer-meta-advanced-2 {
   font-family: var(--font-mono) !important;
-  font-size: 0.5rem !important;
+  font-size: 0.68rem !important; /* Ajustado de 0.5rem para legibilidad */
   background-color: #f1f6fc !important;
   border: 0.5px solid var(--color-border-default) !important;
   border-radius: var(--radius-card) !important;  
@@ -359,72 +323,10 @@ p a.btn, li a.btn {
   line-height: 1.5 !important;
 }
 
-/* Anulamos márgenes por defecto de los hijos directos */
-.footer-meta-advanced-2 > * {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
-}
-
-/* Espaciado controlado si hay múltiples párrafos */
-.footer-meta-advanced-2 p + p {
-  margin-top: 0.4rem !important;
-}
-
+.footer-meta-advanced-2 > * { margin: 0 !important; }
+.footer-meta-advanced-2 p + p { margin-top: 0.4rem !important; }
 .footer-meta-advanced-2 ul {
   margin-top: 0.35rem !important;
   margin-bottom: 0 !important;
   padding-left: 1.2rem !important;
-}
-
-/* Asigna el texto del tooltip según la URL del enlace en la navbar */
-.navbar a[href*="github.com"]::after {
-  content: "GitHub Profile";
-}
-
-.navbar a[href*="mailto:"]::after {
-  content: "Send Email";
-}
-
-.navbar a[href*="calendar.notion.so"]::after {
-  content: "Schedule Call";
-}
-
-/* Posicionamiento del contenedor */
-.navbar a[href*="github.com"],
-.navbar a[href*="mailto:"],
-.navbar a[href*="calendar.notion.so"] {
-  position: relative;
-}
-
-/* Estilo visual del globo emergente */
-.navbar a[href*="github.com"]::after,
-.navbar a[href*="mailto:"]::after,
-.navbar a[href*="calendar.notion.so"]::after {
-  position: absolute;
-  top: 100%;
-  left: 50%;
-  transform: translateX(-50%) translateY(4px);
-  padding: 4px 8px;
-  background-color: #1f2937;
-  color: #ffffff;
-  font-size: 0.72rem;
-  font-family: system-ui, -apple-system, sans-serif;
-  font-weight: 500;
-  white-space: nowrap;
-  border-radius: 4px;
-  opacity: 0;
-  visibility: hidden;
-  pointer-events: none;
-  transition: opacity 0.15s ease-in-out, transform 0.15s ease-in-out;
-  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
-  z-index: 1000;
-}
-
-/* Animación al hacer Hover */
-.navbar a[href*="github.com"]:hover::after,
-.navbar a[href*="mailto:"]:hover::after,
-.navbar a[href*="calendar.notion.so"]:hover::after {
-  opacity: 1;
-  visibility: visible;
-  transform: translateX(-50%) translateY(8px);
 }

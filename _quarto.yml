@@ -11,20 +11,21 @@ project:
 website:
   title: "Cuxhaven Labs"
   navbar:
-    left:
+    right:
       - href: resume.qmd
-        text: Resume (US)
+        text: Resume (US/EN)
       - href: cv.qmd
-        text: CV (LATAM)
+        text: CV (LATAM/ES)
       - href: manifesto.qmd
         text: Manifesto
-    right:
-      - icon: github
-        href: https://github.com/pablozunigac
-      - icon: envelope
-        href: mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Connection
-      - icon: calendar-event
-        href: https://calendar.notion.so/meet/cuxhavenlabs/pablo
+      - text: "Connect"
+        menu:
+          - text: GitHub
+            href: https://github.com/pablozunigac
+          - text: Send an Email
+            href: mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Connection
+          - text: Schedule a Call
+            href: https://calendar.notion.so/meet/cuxhavenlabs/pablo
 
 format:
   html:
