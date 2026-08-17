@@ -2,7 +2,7 @@
 title: "Pablo Zúñiga"
 page-layout: article
 date: last-modified
-date-format: "DD-MM-YYYY, HH:mm [UTC.]"
+date-format: "DD-MM-YYYY, HH:mm [UTC-4.]"
 format:
   html:
     toc: false
@@ -24,10 +24,10 @@ Ingeniero Civil Industrial especializado en el diseño, la validación técnica 
 
 #### Áreas de Dominio Técnico
 
-  * **Arquitectura de Datos:** Gobernanza, ontologías y diseño de *pipelines* de datos.
-  * **Estadística Aplicada:** AED, modelamiento predictivo y análisis de sistemas complejos.
-  * **Ingeniería de Procesos:** Modelado operacional (BPMN/UML) y optimización de procesos.
-  * **Gestión del Conocimiento:** Estandarización técnica mediante *Doc-as-Code* y control de versiones.
+  * Arquitectura, ontologías y gobernanza de datos
+  * Estadística Descriptiva/Predictiva Aplicada a Sistemas Complejos
+  * Modelamiento y Optimización de Procesos de Negocio (BPMN, UML)
+  * Gestión del Conocimiento y Documentación Técnica Avanzada (Doc-as-Code)
 
 ---
 
