@@ -9,7 +9,7 @@
 .Trashes
 .fseventsd
 
-# Pages / Numbers / Keynote (Archivos temporales/previsualización)
+# Pages / Numbers / Keynote
 *.pages
 *.numbers
 *.key
