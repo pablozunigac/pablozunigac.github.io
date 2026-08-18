@@ -14,27 +14,18 @@ jobs:
   build-deploy:
     runs-on: ubuntu-latest
     steps:
-      # 1. Traer el historial completo de commits
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
-      # 2. Restaurar las fechas reales de modificación de cada archivo
       - name: Restore timestamps from Git history
         uses: chetan/git-restore-mtime-action@v2
-
-      # 3. Configurar Quarto
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
-
-      # 4. Renderizar el sitio forzando UTC
       - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2
         env:
           TZ: "UTC"
-
-      # 5. PUBLICAR los archivos compilados en GitHub Pages (Este es el paso que faltaba)
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
