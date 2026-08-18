@@ -11,7 +11,7 @@ Valparaíso, Chile · Open to Relocation · US H-1B1 & ESTA Eligible**
 ## Architecture of pablozunigac.github.io
 A Docs-as-Code architecture delivering localized, high-density technical and professional i18n-focused documentation across `US/Global` and `Hispanophone` markets, powered by modular `Quarto` compilation and automated CI/CD deployment pipelines.
 
-![Texto alternativo](images/cover-github-io.png)
+![Texto alternativo](images/cover-github-io.png){width=100%}
 
 ### Core Repository Structure
 
@@ -64,5 +64,5 @@ The ultimate objective is not information, but understanding. Every framework, p
 
 ---
 
-**Last Update:** <span id="timestamp_en">2026-08-18, 17:18 UTC</span>  
+**Last Update:** <span id="timestamp_en">2026-08-18, 21:09 UTC</span>  
 **© 2026 Pablo Zúñiga Carvajal.** MIT License.
