@@ -11,7 +11,7 @@ Valparaíso, Chile · Open to Relocation · US H-1B1 & ESTA Eligible**
 ## Architecture of pablozunigac.github.io
 A Docs-as-Code architecture delivering localized, high-density technical and professional i18n-focused documentation across `US/Global` and `Hispanophone` markets, powered by modular `Quarto` compilation and automated CI/CD deployment pipelines.
 
-![Texto alternativo](images/cover-github-io.png){width=100%}
+![Texto alternativo](images/cover-github-io.png)
 
 ### Core Repository Structure
 
