@@ -9,7 +9,9 @@ Valparaíso, Chile · Open to Relocation · US H-1B1 & ESTA Eligible**
 ---
 
 ## Architecture of pablozunigac.github.io
-A Docs-as-Code architecture delivering localized, high-density technical and professional documentation across English and Spanish markets, powered by modular Quarto compilation and automated CI/CD deployment pipelines.
+A Docs-as-Code architecture delivering localized, high-density technical and professional i18n-focused documentation across `US/Global` and `Hispanophone` markets, powered by modular `Quarto` compilation and automated CI/CD deployment pipelines.
+
+![Texto alternativo](images/cover-github-io.png)
 
 ### Core Repository Structure
 
@@ -28,6 +30,7 @@ pablozunigac.github.io/
 │   ├── colors.css          # Primitive color scales (50-950) and semantic light/dark mode properties
 │   ├── fonts.css           # Multi-line webfont preloading and local font-face CDN import bindings
 │   └── typography.css      # Typographic stacks for Sans, Serif, and Monospaced code suites
+├── atelier/                # Digital sandbox for experiemntal content & editorial frameworks
 └── .github/workflows/      # GitHub Actions CI/CD automation and deployment workflows
     └── deploy.yml          # Continuous Deployment: Production build release pipeline to GitHub Pages CDN
 ```
@@ -42,7 +45,7 @@ This site was born not as a design artifact, but as an architectural rebellion. 
 
 ---
 
-## Strategic Manifesto: Logic, Language, Meaning
+## First Principles: Logic, Language, Meaning
 
 ### Logic as Infrastructure
 The foundation of every effective system is structure. Before information can be communicated, analyzed, or acted upon, it must first be organized through clear definitions, relationships, and boundaries. My work begins by transforming ambiguity into coherent architectures that make complexity understandable, navigable, and operationally useful.  
