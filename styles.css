@@ -252,7 +252,7 @@ p a.btn, li a.btn { text-decoration: none; }
 
 /* Hover en cualquier pestaña no activa */
 .panel-tabset .nav-tabs .nav-link:not(.active):hover {
-  color: var(--color-text-main);
+  color: var(--color-text-muted);
 }
 
 /* Pestaña Activa (Seleccionada) */
@@ -318,7 +318,7 @@ p a.btn, li a.btn { text-decoration: none; }
 
 .footer-meta-advanced-2,
 .footer-meta-advanced-2 * {
-  font-family: "Comic Sans MS", "Comic Sans", cursive !important;
+  font-family: var(--font-sans);
   font-size: 0.85rem !important;
 }
 
