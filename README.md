@@ -25,9 +25,9 @@ pablozunigac.github.io/
 ├── es/                     # Internationalization directory: LATAM/Spanish market localization endpoints
 ├── images/                 # Optimized visual assets, project diagrams, and profile media artifacts
 ├── tokens/                 # Design System Token Architecture (Design-as-Code engine)
-│   ├── colors.css          # Primitive color scales (50-950) and semantic light/dark mode properties[cite: 1]
-│   ├── fonts.css           # Multi-line webfont preloading and local font-face CDN import bindings[cite: 2]
-│   └── typography.css      # Typographic stacks for Sans, Serif, and Monospaced code suites[cite: 3]
+│   ├── colors.css          # Primitive color scales (50-950) and semantic light/dark mode properties
+│   ├── fonts.css           # Multi-line webfont preloading and local font-face CDN import bindings
+│   └── typography.css      # Typographic stacks for Sans, Serif, and Monospaced code suites
 └── .github/workflows/      # GitHub Actions CI/CD automation and deployment workflows
     └── deploy.yml          # Continuous Deployment: Production build release pipeline to GitHub Pages CDN
 ```

@@ -16,9 +16,31 @@ Valparaíso, Chile · Open to Relocation · US [H-1B1](https://www.dol.gov/agenc
 
 ---
 
-::: {.panel-tabset}
+::: {.text-center .my-4}
+[**Tech Stack**](#tech-stack){.btn .btn-outline-secondary .btn-sm .rounded-pill .mx-1}
+[**Work Experience**](#work-experience){.btn .btn-outline-secondary .btn-sm .rounded-pill .mx-1}
+[**Internships**](#internships){.btn .btn-outline-secondary .btn-sm .rounded-pill .mx-1}
+[**Education**](#education){.btn .btn-outline-secondary .btn-sm .rounded-pill .mx-1}
+[**Teaching**](#teaching-and-technical-training){.btn .btn-outline-secondary .btn-sm .rounded-pill .mx-1}
+[**PDF Version**](https://pablozunigac.github.io/en/resume-pablo-zuniga.pdf){.btn .btn-primary .btn-sm .rounded-pill .mx-1}
+:::
 
-### **Work Experience**
+---
+
+### Tech Stack
+
+* **Languages & Applied Mathematics**  
+  `Python` (`FastAPI`, `Polars`, `SciPy`), `TypeScript`, `SQL`, `R` (`Tidyverse`, `targets`, `forecast`), Inferential Modeling, Time-Series, MILP & Optimization, Discrete-Event & Monte Carlo Simulations.
+* **Enterprise Data Architecture**  
+  Containerization (`Docker`), ETL/ELT Pipelines, Metadata & Ontology Modeling, Data Governance, Enterprise Lineage, Relational Databases, Spatial & Telemetry Data Formats (`.parquet`, `.fit`).
+* **Cloud & Orchestration**  
+  MS Azure, Git/GitHub (Actions CI/CD, Pages), Environment Orchestration.
+* **Systems Architecture & Engineering**  
+  Systems Theory & Dynamics, Process Engineering (`BPMN`), System Diagramming (`UML`), Knowledge Architectures, Technical Documentation (`Quarto`, `Markdown`, `HTML`/`CSS`).
+
+---
+
+### Work Experience
 
 **Cuxhaven Labs – Principal Data & Systems Consultant**  
 May 2026 – Present / Remote
@@ -58,28 +80,9 @@ Jul 2017 – Dec 2017 / Valparaíso, Chile
 * **Predictive Risk Modeling:** Developed a spatio-temporal risk model using Cox Proportional Hazards in R across **5,300 km** of pipeline serving **1.9M+ residents**.
 * **Agile PMO Execution:** Delivered predictive maintenance risk scores via Agile/PMO frameworks to prioritize capital expenditure allocation for regional grid resilience.
 
-### **Tech Stack**
+---
 
-**Languages & Applied Mathematics**  
-`Python` (`FastAPI`, `Polars`, `SciPy`), `TypeScript`, `SQL`, `R` (`Tidyverse`, `targets`, `forecast`), Inferential Modeling, Time-Series, MILP & Optimization, Discrete-Event & Monte Carlo Simulations.  
-
-**Enterprise Data Architecture**  
-Containerization (`Docker`), ETL/ELT Pipelines, Metadata & Ontology Modeling, Data Governance, Enterprise Lineage, Relational Databases, Spatial & Telemetry Data Formats (`.parquet`, `.fit`).  
-
-**Cloud & Orchestration**  
-MS Azure, Git/GitHub (Actions CI/CD, Pages), Environment Orchestration.  
-
-**Systems Architecture & Engineering**  
-Systems Theory & Dynamics, Process Engineering (`BPMN`), System Diagramming (`UML`), Knowledge Architectures, Technical Documentation (`Quarto`, `Markdown`, `HTML`/`CSS`).
-
-### **Education**
-
-**Pontificia Universidad Católica de Valparaíso** / Valparaíso, Chile  
-**Industrial & Systems Engineering (Integrated 6-Year Program – BSc & MSc Equivalent)** / 2011 – 2017
-
-* **Core Academic Foundations:** Advanced Applied Statistics, Systems Theory, Operations Research, Econometrics, and Complex Systems Modeling.
-
-### **Internships**
+### Internships
 
 **Empresa Nacional de Minería (ENAMI) & Antofagasta Minerals – Industrial Engineering Intern**  
 2014, 2016 / Atacama, Coquimbo, and Santiago, Chile
@@ -87,20 +90,23 @@ Systems Theory & Dynamics, Process Engineering (`BPMN`), System Diagramming (`UM
 * **Metallurgical Database Audit (ENAMI):** Audited inventory database (**75k+ SKUs**), uncovering **$2.5M USD** in accounting discrepancies for corporate financial audits.
 * **Geotechnical Risk Telemetry (Los Pelambres):** Monitored open-pit mining geotechnical telemetry for slope failure prediction and early risk mitigation in mission-critical environments.
 
-### **Teaching**
+---
 
-**Graduate Teaching Assistant (Pontificia Universidad Católica de Valparaíso)** / Valparaíso, Chile
-Instructed Applied Data Science, MIS, and Quantitative Mathematics for **100+ engineering students** (2018, 2021).  
+### Education
 
-**Technical Instructor (BancoEstado / Universidad Federico Santa María)** / Santiago, Chile  
+**Pontificia Universidad Católica de Valparaíso** / Valparaíso, Chile  
+**Industrial & Systems Engineering (Integrated 6-Year Program – BSc & MSc Equivalent)** / 2011 – 2017
+
+* **Core Academic Foundations:** Advanced Applied Statistics, Systems Theory, Operations Research, Econometrics, and Complex Systems Modeling.
+
+---
+
+### Teaching and Technical Training
+
+* **Graduate Teaching Assistant (Pontificia Universidad Católica de Valparaíso)** / Valparaíso, Chile
+Instructed Applied Data Science, MIS, and Quantitative Mathematics for **100+ engineering students** (2018, 2021).
+* **Technical Instructor (BancoEstado / Universidad Federico Santa María)** / Santiago, Chile  
 Delivered time-series analytics and high-frequency financial modeling training to institutional trading desk staff (2017, 2019).
-
-### **PDF**
-::: {.embed-responsive .embed-responsive-16by9}
-![](en/resume-pablo-zuniga.pdf){width="100%" height="990px"}
-:::
-
-:::
 
 ---
 

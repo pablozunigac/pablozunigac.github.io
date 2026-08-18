@@ -56,7 +56,7 @@ Structuring integrated management control systems and technical documentation un
 
 Verified academic credentials, official university degree background, and formal engineering validations.
 
-* [Academic Records & Credentials (ES) ↗](https://cuxhavenlabs.notion.site/Pablo-Z-iga-Carvajal-Dosier-Acad-mico-3822ad0c842680b1859afaa0dee4e4bc){.fw-bold}  
+* [**Academic Records & Credentials (ES) ↗**](https://cuxhavenlabs.notion.site/Pablo-Z-iga-Carvajal-Dosier-Acad-mico-3822ad0c842680b1859afaa0dee4e4bc){.fw-bold}  
   [Notion]{.badge-notion} [Credentials]{.badge-credentials} [PDF]{.badge-pdf}  
   Centralized repository containing official degree certificates and formal engineering validations for direct access and verification.
 
@@ -64,6 +64,6 @@ Verified academic credentials, official university degree background, and formal
 
 ::: {.footer-meta-advanced .my-4}
 **Last Update:** {{< meta date >}}  
-Engineered with **Quarto** & versioned on **GitHub**.  
+Engineered with [**Quarto**](https://quarto.org) & versioned on [**GitHub**](https://github.com/pablozunigac/pablozunigac.github.io).  
 **© 2026 Cuxhaven Labs.** MIT License.
 :::

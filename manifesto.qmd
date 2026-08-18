@@ -16,7 +16,7 @@ format:
 #### The Origin of Cognitive Fatigue
 After more than a decade navigating the ambiguities of what a *résumé* really is (and isn’t) this construct emerged as a response to systemic constraints and **structural fatigue**. The rigidity of PDF files, the mismatch between **static formats** and **dynamic identities**, the cognitive cost of bending into generic containers, and the inefficiencies of fragmented, **anachronistic workflows** all pointed to a single truth: **the format was failing the function**.
 
-#### From Artifact to First Principles
+#### From Artifacts to First Principles
 An artifact without its underlying logic is a mere output. Traditional portfolios showcase final products while concealing the architectural decisions that gave them form. The **Strategic Stack** does the opposite. It is an operational grammar: the structural logic that transforms noise into coherence. It is an operating system for design integrity, built to hold under pressure and at scale. **Hype fades. Trends drift. Architecture remains.**
 
 #### Complex Polymathic Minds
@@ -33,14 +33,10 @@ An **architectural framework** for building coherence in fast-evolving systems. 
 **Coherence isn’t a style. It’s a principle of operation**  
 I design from logic, not from trend. The practice is governed by structural intent and semantic precision. This system design is architectural: a disciplined method for encoding clarity, translating behavior, and aligning people with purpose. This ethos rejects spectacle and seeks durability. The result is operational—designed to command thought, hold tension, and scale with integrity.
 
-<!-- Tab break -->
-
 ### **Techno-Agnostic Logic**
 
 **I don’t follow tools. I build the logic they should serve**  
 As a techno-agnostic engineer and systems architect, I track structural shifts rather than hype cycles. My mathematical lens is anchored in Set Theory and Boolean Logic; computationally, I draw from Turing machines and recursion as generative principles. Innovation is frequently spectacle before it is evolution. This stance acts as a systemic filter, decoupling logic from the transient tool to ensure architecture always governs the medium.
-
-<!-- Tab break -->
 
 ### **Aesthetic Code**
 
@@ -71,7 +67,7 @@ Forged through real-world operational pressure, this approach prioritizes **robu
 ---
 
 ::: {.footer-meta-advanced-2}
-**AI Era Craftsmanship Notice**  
+### AI Era Craftsmanship Notice  
 All **hyphens (-)**, **en dashes (--)**, and **em dashes (---)** contained within this site were intentionally forged via direct human-to-machine keystroke sequences.
 :::
 
@@ -79,6 +75,6 @@ All **hyphens (-)**, **en dashes (--)**, and **em dashes (---)** contained withi
 
 ::: {.footer-meta-advanced .my-4}
 **Last Update:** {{< meta date >}}  
-Engineered with **Quarto** & versioned on **GitHub**.  
+Engineered with [**Quarto**](https://quarto.org) & versioned on [**GitHub**](https://github.com/pablozunigac/pablozunigac.github.io).  
 **© 2026 Cuxhaven Labs.** MIT License.
 :::
