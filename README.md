@@ -61,5 +61,5 @@ The ultimate objective is not information, but understanding. Every framework, p
 
 ---
 
-**Last Update:** <span id="timestamp_en">2026-08-17, 04:39 UTC</span>  
-**© 2026 Pablo Zúñiga Carvajal.** All rights reserved.
+**Last Update:** <span id="timestamp_en">2026-08-18, 17:18 UTC</span>  
+**© 2026 Pablo Zúñiga Carvajal.** MIT License.

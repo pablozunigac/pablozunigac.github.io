@@ -124,16 +124,6 @@ Valparaíso, Chile · Disponible para Reubicación
 
   * Formación en ciencias básicas de la ingeniería, matemática aplicada, herramientas computacionales (MATLAB) y dibujo técnico vectorial (AutoCAD).
 
-### **Divulgación**
-
- **Pontificia Universidad Católica de Valparaíso – Escuela de Comercio  
-  Docente Invitado – Diplomado en Finanzas para la Toma de Decisiones** / 2019, 2021  
-  Diseño y relatoría de módulos en matemática financiera y evaluación de proyectos mediante modelado de flujos de caja y simulación de riesgo en Excel avanzado.
-
- **BancoEstado / Universidad Técnica Federico Santa María  
-  Expositor Técnico – Curso: Análisis Financiero de Renta Variable** / 2017, 2019  
-  Relatoría sobre análisis de series de tiempo de alta frecuencia (OHLC) y calibración de volatilidad para la Mesa de Dinero.
-
 ### **Prácticas**
 
  **Empresa Nacional de Minería (ENAMI) – División de Finanzas y Administración**  
@@ -141,6 +131,16 @@ Valparaíso, Chile · Disponible para Reubicación
 
  **Antofagasta Minerals (Minera Los Pelambres) – Superintendencia de Geotecnia**  
  **Práctica de Ingeniería** / Enero 2014 – Marzo 2014 / Salamanca, Región de Coquimbo
+
+### **Divulgación**
+
+ **Pontificia Universidad Católica de Valparaíso – Escuela de Comercio  
+ Docente Invitado – Diplomado en Finanzas para la Toma de Decisiones** / 2019, 2021  
+ Diseño y relatoría de módulos en matemática financiera y evaluación de proyectos mediante modelado de flujos de caja y simulación de riesgo en Excel avanzado.
+
+ **BancoEstado / Universidad Técnica Federico Santa María  
+ Expositor Técnico – Curso: Análisis Financiero de Renta Variable** / 2017, 2019  
+ Relatoría sobre análisis de series de tiempo de alta frecuencia (OHLC) y calibración de volatilidad para la Mesa de Dinero.
 
 ### **PDF**
 ::: {.embed-responsive .embed-responsive-16by9}

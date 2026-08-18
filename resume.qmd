@@ -20,80 +20,80 @@ Valparaíso, Chile · Open to Relocation · US [H-1B1](https://www.dol.gov/agenc
 
 ### **Work Experience**
 
-**Cuxhaven Labs – Principal Data & Systems Consultant**  
-May 2026 – Present / Remote
+ **Cuxhaven Labs – Principal Data & Systems Consultant**  
+ May 2026 – Present / Remote
 
-* **Architected production-grade ETL/ELT pipelines** and metadata ontologies for critical infrastructure under strict auditability and governance standards.
-* **Engineered operational resilience frameworks** and disaster recovery protocols to guarantee continuous operational uptime during system incidents.
+ * **Architected production-grade ETL/ELT pipelines** and metadata ontologies for critical infrastructure under strict auditability and governance standards.
+ * **Engineered operational resilience frameworks** and disaster recovery protocols to guarantee continuous operational uptime during system incidents.
+ 
+ ---
 
----
+ **Independent Forward Deployed Engineering Consultant**  
+ Jul 2022 – Present / Remote
 
-**Independent Forward Deployed Engineering Consultant**  
-Jul 2022 – Present / Remote
+ * **Telemetry Analytics Pipeline:** Built an end-to-end time-series analytics pipeline in Python/R processing pace-distance telemetry across **1.8k+ athletes** to quantify physiological gaps and optimize pacing strategies under multi-variable environmental conditions.
+ * **Systems & Database Design:** Designed relational database structures, automated data flows, and technical control-versioned documentation architectures using Quatro/Markdown.
 
-* **Telemetry Analytics Pipeline:** Built an end-to-end time-series analytics pipeline in Python/R processing pace-distance telemetry across **1.8k+ athletes** to quantify physiological gaps and optimize pacing strategies under multi-variable environmental conditions.
-* **Systems & Database Design:** Designed relational database structures, automated data flows, and technical control-versioned documentation architectures using Quatro/Markdown.
+ ---
 
----
+ **Decentralized Systems & Protocols – On-Chain Operations Specialist**  
+ Jan 2020 – Jul 2022 / Remote
 
-**Decentralized Systems & Protocols – On-Chain Operations Specialist**  
-Jan 2020 – Jul 2022 / Remote
+ * **Treasury Management:** Managed multi-sig treasury architecture (**$50k+**) across Polkadot, Ethereum, and BSC.
+ * **Cross-Chain Operations:** Executed dynamic gas optimization, cross-chain messaging, and smart contract coordination for **1,100+ concurrent users**.
 
-* **Treasury Management:** Managed multi-sig treasury architecture (**$50k+**) across Polkadot, Ethereum, and BSC.
-* **Cross-Chain Operations:** Executed dynamic gas optimization, cross-chain messaging, and smart contract coordination for **1,100+ concurrent users**.
+ ---
 
----
+ **Banco de Crédito e Inversiones (BCI) – Process Engineer (Data Governance)**  
+ May 2019 – Sep 2019 / Santiago, Chile
 
-**Banco de Crédito e Inversiones (BCI) – Process Engineer (Data Governance)**  
-May 2019 – Sep 2019 / Santiago, Chile
+ * **Metadata Integration:** Orchestrated automated metadata integration pipelines from core transactional systems into MS Azure, standardizing BPMN workflows.
+ * **Compliance & Auditing:** Audited data architecture compliance in regulated banking environments, enforcing schema consistency and RBAC security controls.
 
-* **Metadata Integration:** Orchestrated automated metadata integration pipelines from core transactional systems into MS Azure, standardizing BPMN workflows.
-* **Compliance & Auditing:** Audited data architecture compliance in regulated banking environments, enforcing schema consistency and RBAC security controls.
+ ---
 
----
+ **ESVAL (Water Utility) – Lead Data & Project Engineer**  
+ Jul 2017 – Dec 2017 / Valparaíso, Chile
 
-**ESVAL (Water Utility) – Lead Data & Project Engineer**  
-Jul 2017 – Dec 2017 / Valparaíso, Chile
-
-* **Predictive Risk Modeling:** Developed a spatio-temporal risk model using Cox Proportional Hazards in R across **5,300 km** of pipeline serving **1.9M+ residents**.
-* **Agile PMO Execution:** Delivered predictive maintenance risk scores via Agile/PMO frameworks to prioritize capital expenditure allocation for regional grid resilience.
+ * **Predictive Risk Modeling:** Developed a spatio-temporal risk model using Cox Proportional Hazards in R across **5,300 km** of pipeline serving **1.9M+ residents**.
+ * **Agile PMO Execution:** Delivered predictive maintenance risk scores via Agile/PMO frameworks to prioritize capital expenditure allocation for regional grid resilience.
 
 ### **Tech Stack**
 
-**Languages & Applied Mathematics**  
-`Python` (`FastAPI`, `Polars`, `SciPy`), `TypeScript`, `SQL`, `R` (`Tidyverse`, `targets`, `forecast`), Inferential Modeling, Time-Series, MILP & Optimization, Discrete-Event & Monte Carlo Simulations.  
+ **Languages & Applied Mathematics**  
+ `Python` (`FastAPI`, `Polars`, `SciPy`), `TypeScript`, `SQL`, `R` (`Tidyverse`, `targets`, `forecast`), Inferential Modeling, Time-Series, MILP & Optimization, Discrete-Event & Monte Carlo Simulations.  
 
-**Enterprise Data Architecture**  
-Containerization (`Docker`), ETL/ELT Pipelines, Metadata & Ontology Modeling, Data Governance, Enterprise Lineage, Relational Databases, Spatial & Telemetry Data Formats (`.parquet`, `.fit`).  
+ **Enterprise Data Architecture**  
+ Containerization (`Docker`), ETL/ELT Pipelines, Metadata & Ontology Modeling, Data Governance, Enterprise Lineage, Relational Databases, Spatial & Telemetry Data Formats (`.parquet`, `.fit`).  
 
-**Cloud & Orchestration**  
-MS Azure, Git/GitHub (Actions CI/CD, Pages), Environment Orchestration.  
+ **Cloud & Orchestration**  
+ MS Azure, Git/GitHub (Actions CI/CD, Pages), Environment Orchestration.  
 
-**Systems Architecture & Engineering**  
-Systems Theory & Dynamics, Process Engineering (`BPMN`), System Diagramming (`UML`), Knowledge Architectures, Technical Documentation (`Quarto`, `Markdown`, `HTML`/`CSS`).
+ **Systems Architecture & Engineering**  
+ Systems Theory & Dynamics, Process Engineering (`BPMN`), System Diagramming (`UML`), Knowledge Architectures, Technical Documentation (`Quarto`, `Markdown`, `HTML`/`CSS`).
 
 ### **Education**
 
-**Pontificia Universidad Católica de Valparaíso** / Valparaíso, Chile  
-**Industrial & Systems Engineering (Integrated 6-Year Program – BSc & MSc Equivalent)** / 2011 – 2017
+ **Pontificia Universidad Católica de Valparaíso** / Valparaíso, Chile  
+ **Industrial & Systems Engineering (Integrated 6-Year Program – BSc & MSc Equivalent)** / 2011 – 2017
 
-* **Core Academic Foundations:** Advanced Applied Statistics, Systems Theory, Operations Research, Econometrics, and Complex Systems Modeling.
+ **Core Academic Foundations:** Advanced Applied Statistics, Systems Theory, Operations Research, Econometrics, and Complex Systems Modeling.
 
 ### **Internships**
 
-**Empresa Nacional de Minería (ENAMI) & Antofagasta Minerals – Industrial Engineering Intern**  
-2014, 2016 / Atacama, Coquimbo, and Santiago, Chile
+ **Empresa Nacional de Minería (ENAMI) & Antofagasta Minerals – Industrial Engineering Intern**  
+ 2014, 2016 / Atacama, Coquimbo, and Santiago, Chile
 
-* **Metallurgical Database Audit (ENAMI):** Audited inventory database (**75k+ SKUs**), uncovering **$2.5M USD** in accounting discrepancies for corporate financial audits.
-* **Geotechnical Risk Telemetry (Los Pelambres):** Monitored open-pit mining geotechnical telemetry for slope failure prediction and early risk mitigation in mission-critical environments.
+ * **Metallurgical Database Audit (ENAMI):** Audited inventory database (**75k+ SKUs**), uncovering **$2.5M USD** in accounting discrepancies for corporate financial audits.
+ * **Geotechnical Risk Telemetry (Los Pelambres):** Monitored open-pit mining geotechnical telemetry for slope failure prediction and early risk mitigation in mission-critical environments.
 
 ### **Teaching**
 
-**Graduate Teaching Assistant (Pontificia Universidad Católica de Valparaíso)** / Valparaíso, Chile
-Instructed Applied Data Science, MIS, and Quantitative Mathematics for **100+ engineering students** (2018, 2021).  
+ **Graduate Teaching Assistant (Pontificia Universidad Católica de Valparaíso)** / Valparaíso, Chile
+ Instructed Applied Data Science, MIS, and Quantitative Mathematics for **100+ engineering students** (2018, 2021).  
 
-**Technical Instructor (BancoEstado / Universidad Federico Santa María)** / Santiago, Chile  
-Delivered time-series analytics and high-frequency financial modeling training to institutional trading desk staff (2017, 2019).
+ **Technical Instructor (BancoEstado / Universidad Federico Santa María)** / Santiago, Chile  
+ Delivered time-series analytics and high-frequency financial modeling training to institutional trading desk staff (2017, 2019).
 
 ### **PDF**
 ::: {.embed-responsive .embed-responsive-16by9}
