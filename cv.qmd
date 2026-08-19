@@ -18,14 +18,14 @@ Valparaíso, Chile · Disponible para Reubicación
 
 #### Perfil Profesional  
 
-Ingeniero Civil Industrial especializado en el diseño sistémico, la validación técnica y el escalamiento de soluciones de datos para entornos industriales e infraestructura crítica (banca, minería y servicios regulados). Ocho años de experiencia en el diseño de arquitecturas ETL/ELT, integración de datos y analítica avanzada, centrados en la erradicación de deuda técnica y la resiliencia operacional. Enfoque tecno-agnóstico orientado a la gobernanza, la refactorización de datos y el modelado de sistemas complejos.  
+Ingeniero Civil Industrial especializado en el diseño sistémico, validación técnica y escalamiento de soluciones de datos para entornos industriales e infraestructura crítica (banca, minería y servicios regulados). Ocho años de experiencia en el diseño de arquitecturas ETL/ELT, integración de datos y analítica avanzada, centrados en la erradicación de deuda técnica y la resiliencia operacional con enfoque tecno-agnóstico orientado a la gobernanza, la refactorización de datos y el modelado de sistemas complejos.  
 
 #### Áreas de Dominio Técnico
 
-  * Modelamiento y optimización de procesos de negocio (`BPMN`, `UML`)
+  * Modelamiento y optimización de procesos de negocio
   * Gobernanza, arquitectura y ontología de datos
   * Estadística descriptiva e inferencial aplicada a sistemas complejos
-  * Gestión del conocimiento y documentación técnica avanzada (`Git`, `Doc-as-Code`, `Quarto`)
+  * Gestión del conocimiento, control de versiones y documentación técnica avanzada
 
 ---
 
@@ -49,7 +49,7 @@ Ingeniero Civil Industrial especializado en el diseño sistémico, la validació
 
   **Proyecto Ancla › Analítica Telemétrica para Running en Triatlón**  
 
-  * **Modelado de Series de Tiempo:** Ajuste de funciones a telemetría de running (**400m a 21.1km**) para la cuantificación de brechas fisiológicas y la prescripción de ritmos en triatlón.  
+  * **Modelado de series de tiempo:** Ajuste de funciones a telemetría de running (**400m a 21.1km**) para la cuantificación de brechas fisiológicas y la prescripción de ritmos en triatlón.  
   * **Benchmark Poblacional:** Análisis de desviaciones respecto a medidas de tendencia central y *outliers* por grupo de edad sobre cohortes de **+1.8k competidores**.  
   * **Análisis Exploratorio Contextual:** Evaluación de variabilidad estadística según impacto de altimetría, condiciones climáticas y dinámicas en transiciones.
 
@@ -99,16 +99,16 @@ Ingeniero Civil Industrial especializado en el diseño sistémico, la validació
 ### **Tecnologías**
 
  **Lenguajes de Programación y Matemática Aplicada**  
-  Python (`FastAPI`, `Polars`, `SciPy`), TypeScript, SQL, R (`Tidyverse`, `targets`, `forecast`), Modelado Inferencial, Series de Tiempo, MILP y Optimización, Simulación de Eventos Discretos y Monte Carlo.  
+  Python (`FastAPI`, `Polars`, `SciPy`), TypeScript, SQL, R (`Tidyverse`, `targets`, `forecast`), Modelado estadísctico, Series de tiempo, MILP y Optimización, Simulación de eventos discretos y Monte Carlo.  
 
  **Arquitectura de Datos Empresariales**  
-  Contenerización (`Docker`), Tuberías ETL/ELT, Metadatos y Ontologías, Gobernanza de Datos, Trazabilidad, Bases de Datos Relacionales, Datos Espaciales y Telemetría (`.parquet`, `.fit`).  
+  Contenerización (`Docker`), Tuberías ETL/ELT, Ontologías de datos, Gobernanza de datos, Bases de datos relacionales, Datos espaciales y telemetría (`.parquet`, `.fit`).  
 
  **Nube y Orquestación**  
-  Microsoft Azure, Git, GitHub (Actions CI/CD, Pages), Orquestación de Entornos.  
+  Control de versiones (`Git`), GitHub (Actions CI/CD, Pages), Orquestación de entornos.  
 
  **Arquitectura e Ingeniería de Sistemas**  
-  Teoría y Dinámica de Sistemas, Ingeniería de Procesos (`BPMN`), Diagramación (`UML`), Gestión del Conocimiento, Documentación Técnica (`Quarto`, `Markdown`, `HTML`/`CSS`).
+  Teoría y dinámica de sistemas, Ingeniería y diagramación de procesos (`BPMN`/`UML`), Gestión del conocimiento, Documentación técnica (`Quarto`, `Markdown`, `HTML`/`CSS`).
 
 ### **Educación**
 
