@@ -9,7 +9,9 @@ Valparaíso, Chile · Open to Relocation · US H-1B1 & ESTA Eligible**
 ---
 
 ## Architecture of pablozunigac.github.io
-A Docs-as-Code architecture delivering localized, high-density technical and professional i18n-focused documentation across `US/Global` and `Hispanophone` markets, powered by modular `Quarto` compilation and automated CI/CD deployment pipelines.
+Centralized routing via `index.qmd` manages dynamic documentation, architectural specifications, and live deployments through a single entry point.
+
+Built as a **Docs-as-Code** system, it delivers bilingual (`US/Global` & `Hispanophone`) technical documentation using modular **Quarto** compilation and automated CI/CD pipelines.
 
 ![Texto alternativo](images/cover-github-io.png)
 
@@ -37,12 +39,9 @@ pablozunigac.github.io/
 
 ---
 
-## Distributed Knowledge Network & Live Nodes
-This architecture uses `index.qmd` as its centralized routing layer, bridging local static configurations with a distributed network of dynamic, Notion-backed knowledge nodes. This configuration exposes live operational frameworks, architectural manifestos, and verified academic credentials through a single, unified access point.
-
-### Manifesto: Ode to the Death of a Resume that had no Business Being Born
-This site was born not as a design artifact, but as an architectural rebellion. A modular, semantic, and adaptive system to operate in high-complexity, fast-evolving environments. It is not a layered technology stack. It is a structural logic that guides how complex systems are designed, governed, and transformed.
-
+## Manifesto Abstract
+**Ode to the Death of a Resume that had no Business Being Born**  
+Static *résumés* and traditional portfolios fail to capture dynamic systems and polymathic minds. This platform replaces rigid formats with an operational, Docs-as-Code framework designed to process high-density technical narrative, govern architectural intent, and maintain structural coherence against speed, hype, and scale.
 ---
 
 ## First Principles: Logic, Language, Meaning
