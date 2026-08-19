@@ -22,10 +22,10 @@ Ingeniero Civil Industrial especializado en el diseño sistémico, la validació
 
 #### Áreas de Dominio Técnico
 
-  * Arquitectura, ontologías y gobernanza de datos
+  * Modelamiento y optimización de procesos de negocio (`BPMN`, `UML`)
+  * Gobernanza, arquitectura y ontología de datos
   * Estadística descriptiva e inferencial aplicada a sistemas complejos
-  * Modelamiento y pptimización de procesos de negocio (`BPMN`, `UML`)
-  * Gestión del conocimiento y documentación técnica avanzada (`Doc-as-Code`, `Git`, `Quarto`)
+  * Gestión del conocimiento y documentación técnica avanzada (`Git`, `Doc-as-Code`, `Quarto`)
 
 ---
 
