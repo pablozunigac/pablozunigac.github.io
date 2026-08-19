@@ -20,11 +20,11 @@ Valparaíso, Chile · Open to Relocation · US [H-1B1](https://www.dol.gov/agenc
 
 ### **Work Experience**
 
- **Cuxhaven Labs – Principal Data & Systems Consultant**  
- May 2026 – Present / Remote [In Formation]{.custom-badge .badge-lang}
+ **Cuxhaven Labs – Founder & R&D Engineer**  
+ May 2026 – Present / Open-Source & R&D Initiative
 
- * **Architected production-grade ETL/ELT pipelines** and metadata ontologies for critical infrastructure under strict auditability and governance standards.
- * **Engineered operational resilience frameworks** and disaster recovery protocols to guarantee continuous operational uptime during system incidents.
+ * **Architecting production-grade ETL/ELT pipelines** and metadata ontologies for critical infrastructure under strict auditability and governance standards.
+ * **Engineering operational resilience frameworks** and disaster recovery protocols to guarantee continuous operational uptime during system incidents.
  
  ---
 
@@ -32,15 +32,15 @@ Valparaíso, Chile · Open to Relocation · US [H-1B1](https://www.dol.gov/agenc
  Jul 2022 – Present / Remote
 
  * **Telemetry Analytics Pipeline:** Built an end-to-end time-series analytics pipeline in Python/R processing pace-distance telemetry across **1.8k+ athletes** to quantify physiological gaps and optimize pacing strategies under multi-variable environmental conditions.
- * **Systems & Database Design:** Designed relational database structures, automated data flows, and technical control-versioned documentation architectures using Quatro/Markdown.
+ * **Systems & Database Design:** Designed relational database structures, automated data flows, and technical control-versioned documentation architectures using Quarto/Markdown.
 
  ---
 
  **Decentralized Systems & Protocols – On-Chain Operations Specialist**  
  Jan 2020 – Jul 2022 / Remote
 
- * **Treasury Management:** Managed multi-sig treasury architecture (**$50k+**) across Polkadot, Ethereum, and BSC.
- * **Cross-Chain Operations:** Executed dynamic gas optimization, cross-chain messaging, and smart contract coordination for **1,100+ concurrent users**.
+ * **Cryptographic Infrastructure Management:** Engineered and managed secure multi-signature cryptographic custody architectures to safeguard high-value digital asset structures ($50k+).
+ * **Network Resource Optimization:** Executed dynamic transaction routing, runtime optimization (gas constraints), and cross-network consensus coordination for **1,100+ concurrent active users**.
 
  ---
 
@@ -52,10 +52,10 @@ Valparaíso, Chile · Open to Relocation · US [H-1B1](https://www.dol.gov/agenc
 
  ---
 
- **Pontificia Universidad Católica de Valparaíso** (*In colaboration with Universidad Adolfo Ibáñez*)  
+ **Pontificia Universidad Católica de Valparaíso** (*In collaboration with Universidad Adolfo Ibáñez*)  
  **Research Assistant & Data Consultant** / 2018 – 2019 / Valparaíso, Chile [Project-based Execution]{.custom-badge .badge-lang}  
 
- * Technical thesis reviewer, academic consultoring and research assistant on STEM Fondecyt projects context.
+ * Technical thesis reviewer, academic consulting and research assistant on STEM Fondecyt projects context.
 
  ---
 
@@ -67,17 +67,14 @@ Valparaíso, Chile · Open to Relocation · US [H-1B1](https://www.dol.gov/agenc
 
 ### **Tech Stack**
 
- **Languages & Applied Mathematics**  
- Python (`FastAPI`, `Polars`, `SciPy`), TypeScript, SQL, R (`Tidyverse`, `targets`, `forecast`), Inferential Modeling, Time-Series, MILP & Optimization, Discrete-Event & Monte Carlo Simulations.  
-
- **Enterprise Data Architecture**  
- Containerization (`Docker`), ETL/ELT Pipelines, Metadata & Ontology Modeling, Data Governance, Enterprise Lineage, Relational Databases, Spatial & Telemetry Data Formats (`.parquet`, `.fit`).  
-
- **Cloud & Orchestration**  
- MS Azure, Git/GitHub (Actions CI/CD, Pages), Environment Orchestration.  
-
- **Systems Architecture & Engineering**  
- Systems Theory & Dynamics, Process Engineering (`BPMN`), System Diagramming (`UML`), Knowledge Architectures, Technical Documentation (`Quarto`, `Markdown`, `HTML`/`CSS`).
+ **Data Engineering & Cloud**  
+ Python (`FastAPI`, `Polars`), TypeScript, SQL, MS Azure, Docker, GitHub Actions (CI/CD), ETL/ELT pipelines, relational databases, and Parquet.  
+ 
+ **Advanced Analytics & Systems**  
+ R (`Tidyverse`, `targets`), MILP & optimization, statistical inference, Monte Carlo simulations, process modeling (`BPMN`/`UML`), data governance, and knowledge architectures (`Docs-as-Code`, `Quarto`).
+ 
+ 
+   
 
 ### **Education**
 
@@ -106,7 +103,7 @@ Valparaíso, Chile · Open to Relocation · US [H-1B1](https://www.dol.gov/agenc
 
  **Pontificia Universidad Católica de Valparaíso**  
  **Guest Lecturer** / 2018 / Valparaíso, Chile  
- Instructed Data Science topics for undergrade industrial & systems engineering students.
+ Instructed Data Science topics for undergraduate industrial & systems engineering students.
 
 ### **PDF**
 ::: {.embed-responsive .embed-responsive-16by9}

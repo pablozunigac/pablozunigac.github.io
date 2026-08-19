@@ -99,7 +99,7 @@ Ingeniero Civil Industrial especializado en el diseño sistémico, validación t
 ### **Tecnologías**
 
  **Lenguajes de Programación y Matemática Aplicada**  
-  Python (`FastAPI`, `Polars`, `SciPy`), TypeScript, SQL, R (`Tidyverse`, `targets`, `forecast`), Modelado estadísctico, Series de tiempo, MILP y Optimización, Simulación de eventos discretos y Monte Carlo.  
+  Python (`FastAPI`, `Polars`, `SciPy`), TypeScript, SQL, R (`Tidyverse`, `targets`, `forecast`), modelado estadísctico, Series de tiempo, MILP y Optimización, Simulación de eventos discretos y Monte Carlo.  
 
  **Arquitectura de Datos Empresariales**  
   Contenerización (`Docker`), Tuberías ETL/ELT, Ontologías de datos, Gobernanza de datos, Bases de datos relacionales, Datos espaciales y telemetría (`.parquet`, `.fit`).  
@@ -109,6 +109,20 @@ Ingeniero Civil Industrial especializado en el diseño sistémico, validación t
 
  **Arquitectura e Ingeniería de Sistemas**  
   Teoría y dinámica de sistemas, Ingeniería y diagramación de procesos (`BPMN`/`UML`), Gestión del conocimiento, Documentación técnica (`Quarto`, `Markdown`, `HTML`/`CSS`).
+
+---
+
+  **Lenguajes y Matemática Aplicada**  
+ Python (`FastAPI`, `Polars`, `SciPy`), TypeScript, SQL, R (`Tidyverse`, `targets`, `forecast`). Especialización en modelado estadístico predictivo, análisis de series de tiempo, optimización matemática (`MILP`) y modelado de simulación (Monte Carlo y eventos discretos).  
+
+ **Arquitectura de Datos Empresariales**  
+ Contenerización (`Docker`), flujos e infraestructura de datos (pipelines ETL/ELT), modelado de ontologías y metadatos, gobernanza de datos corporativos, linaje de datos, bases de datos relacionales y gestión de datos espaciales y de telemetría (`Parquet`, `FIT`).  
+
+ **Nube, DevOps y Automatización**  
+ Arquitectura en la nube (MS Azure), control de versiones avanzado (`Git`), automatización de integraciones e infraestructura (`GitHub Actions CI/CD`, GitHub Pages) y orquestación de entornos y flujos de trabajo.  
+
+ **Arquitectura e Ingeniería de Sistemas**  
+ Pensamiento sistémico y dinámica de sistemas, ingeniería y diagramación de procesos de negocio (`BPMN`, `UML`), arquitecturas de gestión del conocimiento corporativo y documentación técnica estructurada bajo metodologías *Docs-as-Code* (`Quarto`, `Markdown`, `HTML`/`CSS`).
 
 ### **Educación**
 
