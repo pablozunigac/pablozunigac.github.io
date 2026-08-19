@@ -145,46 +145,13 @@ pre code {
   --badge-bg: var(--color-blue-baby); --badge-color: var(--color-brand-blue); --badge-size: 0.75rem; --badge-weight: var(--font-weight-badge);
 }
 
-/* Píldoras de Navegación */
-p a.btn, li a.btn { text-decoration: none; }
-
-/* Píldora PDF */
-.btn-primary {
-  background-color: #cfecff;
-  color: var(--color-brand-blue) !important;
-  border: 1px solid var(--color-brand-blue);
-  transition: all 0.3s ease-in-out;
-}
-
-.btn-primary:hover {
-  background-color: #3c6ebe;
-  color: #f2f2f2 !important;
-  border: 1px solid var(--color-brand-blue);
-  box-shadow: 0 0px 0px rgba(0, 0, 0, 0);
-}
-
-/* Pildoras por Sección */
-.btn-outline-secondary {
-  background-color: #e6e6e6;
-  color: var(--color-text-main) !important;
-  border: 1px solid var(--color-text-main);
-  transition: all 0.3s ease-in-out;
-}
-
-.btn-outline-secondary:hover {
-  background-color: #aaa9a9;
-  color: #f2f2f2 !important;
-  border: 1px solid var(--color-text-main);
-  box-shadow: 0 1px 1px rgba(0,0,0,0);
-}
-
 /* Layout Container */
 .home-container {
   max-width: 1000px;
   margin: 0 auto;
 }
 
-/* NAVBAR Y NAVEGACIÓN WEB */
+/* NAVBAR - Web Navigation */
 .navbar-brand { 
   color: var(--color-brand-blue); 
   font-weight: var(--font-weight-bold);
@@ -205,22 +172,13 @@ p a.btn, li a.btn { text-decoration: none; }
   transition: color 0.15s ease-in-out;
 }
 
-/* Interacción Hover Inverso con :has() */
-.navbar-nav:has(.nav-link.active) .nav-link:not(.active) {
-  color: var(--color-brand-muted);
-}
+.navbar-nav:has(.nav-link.active) .nav-link:not(.active) { color: var(--color-brand-muted); }
 
-.navbar-nav .nav-link.active {
-  color: var(--color-brand-blue);
-}
+.navbar-nav .nav-link.active { color: var(--color-brand-blue); }
 
-.navbar-nav:has(.nav-link.active) .nav-link:not(.active):hover {
-  color: var(--color-brand-blue);
-}
+.navbar-nav:has(.nav-link.active) .nav-link:not(.active):hover { color: var(--color-brand-blue); }
 
-.navbar-nav:not(:has(.nav-link.active)) .nav-link:hover {
-  color: var(--color-brand-muted);
-}
+.navbar-nav:not(:has(.nav-link.active)) .nav-link:hover { color: var(--color-brand-muted); }
 
 /* Dropdown Navbar */
 .navbar .dropdown-menu {
@@ -272,12 +230,10 @@ p a.btn, li a.btn { text-decoration: none; }
   transition: color 0.15s ease;
 }
 
-/* Hover en cualquier pestaña no activa */
 .panel-tabset .nav-tabs .nav-link:not(.active):hover {
   color: var(--color-text-muted);
 }
 
-/* Pestaña Activa (Seleccionada) */
 .panel-tabset .nav-tabs .nav-link.active,
 .panel-tabset .nav-tabs .nav-item.show .nav-link {
   color: var(--color-text-main);
@@ -285,12 +241,10 @@ p a.btn, li a.btn { text-decoration: none; }
   background-color: transparent;
 }
 
-/* Interacción Inversa con :has() - Cuando el nav-tabs tiene una pestaña .active, atenúa todas las que NO son .active */
 .panel-tabset .nav-tabs:has(.nav-link.active) .nav-link:not(.active) {
   color: var(--color-brand-muted);
 }
 
-/* Si el usuario pasa el mouse sobre una inactiva atenuada, vuelve a resaltarse */
 .panel-tabset .nav-tabs:has(.nav-link.active) .nav-link:not(.active):hover {
   color: var(--color-text-main);
 }
