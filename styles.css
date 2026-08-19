@@ -9,12 +9,14 @@
   --font-weight-thin: 100;
   --font-weight-light: 300;
   --font-weight-regular: 400;
+  --font-weight-medium: 500;
   --font-weight-badge: 600;
   --font-weight-bold: 700;
   --font-weight-black: 900;
 
   --color-brand-blue: #0d2b6c;
   --color-brand-muted: #768298;
+  --color-blue-baby: #d8e6f2;
   --color-dummy: #f308eb;
 
   --color-text-main: #111827;
@@ -24,7 +26,7 @@
   --color-link-passive: #2687fe;
   --color-link-hover: #1e40af;
   
-  --color-border-default: #e5e7eb;
+  --color-border-default: #abb5c8;
   --color-border-hover: #9ca3af; /* revisar */
   --color-border-input: #cbd5e1; /* revisar */
 
@@ -50,9 +52,7 @@ html, body, p, li {
   line-height: 1.45;
 }
 
-strong, b {
-  font-weight: var(--font-weight-badge);
-}
+strong, b { font-weight: var(--font-weight-badge);}
 
 /* Hipervínculos / Enlaces */
 p a:not(.btn):not(.btn-action-primary):not(.btn-action-secondary), li:not(.nav-item) a:not(.nav-link):not(.dropdown-item):not(.btn) {
@@ -69,25 +69,27 @@ p a:not(.btn):not(.btn-action-primary):not(.btn-action-secondary):hover, li:not(
 /* COMPONENTES Y BADGES */
 .tech-meta, code, pre {
   font-family: var(--font-mono);
-  font-size: 0.82rem;
+  font-size: 0.8rem;
 }
 
-.badge-notion, .badge-cv, .badge-deep, .badge-manifesto, .badge-credentials, .badge-pdf {
-  font-family: var(--font-mono);
-  font-size: 0.68rem;
+/* COMPONENTES, CODE INLINE Y PRE */
+code {
+  font-family: var(--font-mono, SFMono-Regular, Menlo, Monaco, Consolas, monospace);
+  font-size: 0.85rem;
   font-weight: var(--font-weight-badge);
-  padding: 2px 6px;
-  border-radius: var(--radius-badge);
-  display: inline-block;
-  margin-right: 3px;
+  color: var(--color-brand-blue);                           /* Texto oscuro principal */
+  background-color: var(--color-full-white) !important;     /* Gris muy claro neutro (Slate 100) */
+  border: 0px solid var(--color-text-main) !important;      /* Borde sutil de separación */
+  padding: 0.15em 0.4em;                                    /* Relleno para dar aspecto de píldora */
+  border-radius: var(--radius-badge);                       /* Bordes redondeados acordes al sistema */
 }
 
-.badge-notion      { background-color: #f0fdf4; color: #15803d; border: 1px solid #bbf7d0; }
-.badge-cv          { background-color: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe; }
-.badge-deep        { background-color: #fefce8; color: #a16207; border: 1px solid #fef08a; }
-.badge-manifesto   { background-color: #faf5ff; color: #7e22ce; border: 1px solid #e9d5ff; }
-.badge-credentials { background-color: #fff7ed; color: #c2410c; border: 1px solid #ffedd5; }
-.badge-pdf         { background-color: #fef2f2; color: #b91c1c; border: 1px solid #fecaca; }
+/* Evitar que el fondo y borde afecten a los bloques grandes de código (pre code) */
+pre code {
+  background-color: transparent;
+  border: none;
+  padding: 0;
+}
 
 /* Grid Cards */
 .grid-card {
@@ -100,15 +102,8 @@ p a:not(.btn):not(.btn-action-primary):not(.btn-action-secondary):hover, li:not(
   transition: border-color 0.2s ease;
 }
 
-.grid-card:hover {
-  border-color: var(--color-border-hover);
-}
-
-.grid {
-  margin: 0.25rem 0;
-  row-gap: 0.5rem;
-}
-
+.grid-card:hover { border-color: var(--color-border-hover);}
+.grid { margin: 0.25rem 0; row-gap: 0.5rem;}
 .grid p { margin-bottom: 0.5rem; }
 .grid .g-col-12 p:last-child { margin-bottom: 0; }
 
@@ -121,6 +116,33 @@ p a:not(.btn):not(.btn-action-primary):not(.btn-action-secondary):hover, li:not(
   gap: 0.75rem;
   font-family: var(--font-mono);
   font-size: 0.8rem;
+}
+
+/* Custom Badges */
+
+/* 1. Estructura Base de la Badge */
+.custom-badge {
+  /* Parámetros con valores por defecto (fallbacks) */
+  --badge-weight: var(--font-weight-badge);
+  display: inline-block;
+  color: var(--badge-color) !important;
+  background-color: var(--badge-bg) !important;
+  font-size: var(--badge-size);
+  font-weight: var(--badge-weight);
+  font-family: var(--font-sans);
+  
+  /* Borde y relleno */
+  border: 1px solid var(--color-border-default);
+  padding: 0.2em 0.55em;
+  border-radius: var(--radius-badge);
+  line-height: 1.1;
+
+  vertical-align: middle;                         /* Centra el badge respecto al texto */
+  margin-top: -0.15em;                            /* Ajuste fino opcional si la fuente base es alta */
+}
+
+.custom-badge.badge-lang {
+  --badge-bg: var(--color-blue-baby); --badge-color: var(--color-brand-blue); --badge-size: 0.75rem; --badge-weight: var(--font-weight-badge);
 }
 
 /* Píldoras de Navegación */
@@ -273,9 +295,8 @@ p a.btn, li a.btn { text-decoration: none; }
   color: var(--color-text-main);
 }
 
-/* FOOTER */
+/* FOOTERS */
 
-/* Footer de los archivos *.qmd */
 /* 1. Fuerza el color en el contenedor y en todo texto/negrita directo que NO sea un enlace */
 .footer-meta-advanced,
 .footer-meta-advanced p,
@@ -307,7 +328,7 @@ p a.btn, li a.btn { text-decoration: none; }
 .footer-meta-advanced-2 {
   font-size: 0.9rem !important;
   color: var(--color-text-secondary);
-  background-color: #f1f6fc;
+  background-color: var(--color-blue-baby) !important;
   border: 0.5px solid var(--color-border-default);
   border-radius: var(--radius-card);
   line-height: 1.5;
