@@ -98,20 +98,6 @@ Ingeniero Civil Industrial especializado en el diseño sistémico, validación t
 
 ### **Tecnologías**
 
- **Lenguajes de Programación y Matemática Aplicada**  
-  Python (`FastAPI`, `Polars`, `SciPy`), TypeScript, SQL, R (`Tidyverse`, `targets`, `forecast`), modelado estadísctico, Series de tiempo, MILP y Optimización, Simulación de eventos discretos y Monte Carlo.  
-
- **Arquitectura de Datos Empresariales**  
-  Contenerización (`Docker`), Tuberías ETL/ELT, Ontologías de datos, Gobernanza de datos, Bases de datos relacionales, Datos espaciales y telemetría (`.parquet`, `.fit`).  
-
- **Nube y Orquestación**  
-  Control de versiones (`Git`), GitHub (Actions CI/CD, Pages), Orquestación de entornos.  
-
- **Arquitectura e Ingeniería de Sistemas**  
-  Teoría y dinámica de sistemas, Ingeniería y diagramación de procesos (`BPMN`/`UML`), Gestión del conocimiento, Documentación técnica (`Quarto`, `Markdown`, `HTML`/`CSS`).
-
----
-
   **Lenguajes y Matemática Aplicada**  
  Python (`FastAPI`, `Polars`, `SciPy`), TypeScript, SQL, R (`Tidyverse`, `targets`, `forecast`). Especialización en modelado estadístico predictivo, análisis de series de tiempo, optimización matemática (`MILP`) y modelado de simulación (Monte Carlo y eventos discretos).  
 
