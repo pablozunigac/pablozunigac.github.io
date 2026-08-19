@@ -1,0 +1,18 @@
+/* Custom Badges */
+.badge-notion, .badge-cv, .badge-deep, .badge-manifesto, .badge-credentials, .badge-pdf {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  font-weight: var(--font-weight-badge);
+  padding: 2px 6px;
+  border-radius: var(--radius-badge);
+  display: inline-block;
+  margin-right: 3px;
+}
+
+.badge-notion      { background-color: #f0fdf4; color: #15803d; border: 1px solid #bbf7d0; }
+.badge-cv          { background-color: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe; }
+.badge-deep        { background-color: #fefce8; color: #a16207; border: 1px solid #fef08a; }
+.badge-manifesto   { background-color: #faf5ff; color: #7e22ce; border: 1px solid #e9d5ff; }
+.badge-credentials { background-color: #fff7ed; color: #c2410c; border: 1px solid #ffedd5; }
+.badge-pdf         { background-color: #fef2f2; color: #b91c1c; border: 1px solid #fecaca; }
+

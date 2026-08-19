@@ -71,3 +71,5 @@ env/
 _site/
 _legacy/
 .quarto/
+
+/.quarto/

@@ -30,21 +30,21 @@ Bridging the gap between raw engineering artifacts and executable operations. I 
 ::: {.g-col-12 .g-col-md-4}
 ::: {.grid-card}
 #### Raw Data & Databases Engineering
-Design and implementation of automated pipelines (ETL/ELT) and metadata architectures. I transform raw data from complex industrial environments into clean, governed, and decision-ready information assets.
+Design and implementation of **automated pipelines (ETL/ELT)** and **metadata architectures**. I transform raw data from complex industrial environments into clean, governed, and **decision-ready information assets**.
 :::
 :::
 
 ::: {.g-col-12 .g-col-md-4}
 ::: {.grid-card}
 #### Advanced Analytics & Modeling
-Statistical and inferential modeling, alongside time-series analysis, applied to risk mitigation and resource optimization across critical infrastructure sectors (such as mining, energy, and regulated utilities).
+Statistical and inferential modeling, alongside **time-series** analysis, applied to risk mitigation and **resource optimization** across critical infrastructure sectors (such as mining, energy, and regulated utilities).
 :::
 :::
 
 ::: {.g-col-12 .g-col-md-4}
 ::: {.grid-card}
 #### Data Governance & Knowledge Management
-Structuring integrated management control systems and technical documentation under agile methodologies, ensuring operational continuity and end-to-end traceability in high-complexity projects.
+Structuring integrated **management control systems** and **technical documentation** under agile methodologies, ensuring operational continuity and end-to-end traceability in **high-complexity projects**.
 :::
 :::
 
@@ -52,13 +52,14 @@ Structuring integrated management control systems and technical documentation un
 
 ---
 
-### Academic & Professional Credentials
+### Academic Background & Formal Credentials
 
-Verified academic credentials, official university degree background, and formal engineering validations.
+**BSc & MSc Equivalent in Industrial & Systems Engineering**  
+ *Pontificia Universidad Católica de Valparaíso (PUCV) · Graduated Dec 2017*  
+ Comprehensive **6-year engineering curriculum** covering **Applied Mathematics**, **Operations Research**, **Control Systems**, and **Systems Theory**.
 
-* [**Academic Records & Credentials (ES) ↗**](https://cuxhavenlabs.notion.site/Pablo-Z-iga-Carvajal-Dosier-Acad-mico-3822ad0c842680b1859afaa0dee4e4bc){.fw-bold}  
-  [Notion]{.badge-notion} [Credentials]{.badge-credentials} [PDF]{.badge-pdf}  
-  Centralized repository containing official degree certificates and formal engineering validations for direct access and verification.
+> **Credential Verification**  
+Official degree certificates, transcripts, and ranking metrics are audited and available during background check phases upon request.
 
 ---
 

@@ -14,9 +14,9 @@ website:
   navbar:
     right:
       - href: resume.qmd
-        text: Resume (US/EN)
+        text: Resume (en-US)
       - href: cv.qmd
-        text: CV (LATAM/ES)
+        text: CV (es-LATAM)
       - href: manifesto.qmd
         text: Manifesto
       - text: "Connect"

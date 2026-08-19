@@ -21,7 +21,7 @@ Valparaíso, Chile · Open to Relocation · US [H-1B1](https://www.dol.gov/agenc
 ### **Work Experience**
 
  **Cuxhaven Labs – Principal Data & Systems Consultant**  
- May 2026 – Present / Remote
+ May 2026 – Present / Remote [In Formation]{.custom-badge .badge-lang}
 
  * **Architected production-grade ETL/ELT pipelines** and metadata ontologies for critical infrastructure under strict auditability and governance standards.
  * **Engineered operational resilience frameworks** and disaster recovery protocols to guarantee continuous operational uptime during system incidents.
@@ -52,8 +52,15 @@ Valparaíso, Chile · Open to Relocation · US [H-1B1](https://www.dol.gov/agenc
 
  ---
 
+ **Pontificia Universidad Católica de Valparaíso** (*In colaboration with Universidad Adolfo Ibañez*)  
+ **Research Assistant & Data Consultant** / 2018 – 2019 / Valparaíso, Chile [Project-based Execution]{.custom-badge .badge-lang}  
+
+ * Technical thesis reviewer, academic consultoring and research assistant on STEM Fondecyt projects context.
+
+ ---
+
  **ESVAL (Water Utility) – Lead Data & Project Engineer**  
- Jul 2017 – Dec 2017 / Valparaíso, Chile
+ Jul 2017 – Dec 2017 / Valparaíso, Chile [Capstone Project]{.custom-badge .badge-lang}
 
  * **Predictive Risk Modeling:** Developed a spatio-temporal risk model using Cox Proportional Hazards in R across **5,300 km** of pipeline serving **1.9M+ residents**.
  * **Agile PMO Execution:** Delivered predictive maintenance risk scores via Agile/PMO frameworks to prioritize capital expenditure allocation for regional grid resilience.
@@ -89,11 +96,17 @@ Valparaíso, Chile · Open to Relocation · US [H-1B1](https://www.dol.gov/agenc
 
 ### **Teaching**
 
- **Graduate Teaching Assistant (Pontificia Universidad Católica de Valparaíso)** / Valparaíso, Chile
- Instructed Applied Data Science, MIS, and Quantitative Mathematics for **100+ engineering students** (2018, 2021).  
+ **Pontificia Universidad Católica de Valparaíso – Faculty of Commerce  
+ Graduate Teaching Assistant** / 2018, 2020 / Valparaíso, Chile [Project-based Execution]{.custom-badge .badge-lang}  
+ Instructed econometrics, corporate finances and quantitative modeling for graduate students.  
 
- **Technical Instructor (BancoEstado / Universidad Federico Santa María)** / Santiago, Chile  
- Delivered time-series analytics and high-frequency financial modeling training to institutional trading desk staff (2017, 2019).
+ **BancoEstado / Universidad Federico Santa María  
+ Technical Instructor** / 2017, 2019 / Santiago, Chile  
+ Delivered time-series analytics and high-frequency financial modeling training to institutional trading desk staff.
+
+ **Pontificia Universidad Católica de Valparaíso**  
+ **Guest Lecturer** / 2018 / Valparaíso, Chile  
+ Instructed Data Science topics for undergrade industrial & systems engineering students.
 
 ### **PDF**
 ::: {.embed-responsive .embed-responsive-16by9}

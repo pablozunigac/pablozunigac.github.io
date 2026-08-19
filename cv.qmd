@@ -11,21 +11,21 @@ format:
 Ingeniero Civil Industrial, Pontificia Universidad Católica de Valparaíso  
 Modelado de Datos · Estadística Aplicada · Sistemas Complejos  
 Valparaíso, Chile · Disponible para Reubicación  
-[Español (Nativo)]{.badge .bg-secondary} [Inglés (Profesional)]{.badge .bg-secondary}
+[Español (Nativo)]{.badge .bg-secondary} [Inglés (Profesional)]{.badge .bg-secondary}  
 :::
 
 ---
 
 #### Perfil Profesional  
 
- Ingeniero Civil Industrial especializado en el diseño, la validación técnica y el escalamiento de soluciones de datos para entornos industriales e infraestructura crítica (banca, minería y servicios regulados). Ocho años de experiencia en el diseño de arquitecturas ETL/ELT, integración de datos y analítica avanzada, orientados a la mitigación de riesgos tecnológicos y la resiliencia operacional. Enfoque tecno-agnóstico y sistémico enfocado en la gobernanza, la estandarización y el modelado de sistemas complejos.
+Ingeniero Civil Industrial especializado en el diseño sistémico, la validación técnica y el escalamiento de soluciones de datos para entornos industriales e infraestructura crítica (banca, minería y servicios regulados). Ocho años de experiencia en el diseño de arquitecturas ETL/ELT, integración de datos y analítica avanzada, centrados en la erradicación de deuda técnica y la resiliencia operacional. Enfoque tecno-agnóstico orientado a la gobernanza, la refactorización de datos y el modelado de sistemas complejos.  
 
 #### Áreas de Dominio Técnico
 
   * Arquitectura, ontologías y gobernanza de datos
-  * Estadística Descriptiva/Predictiva Aplicada a Sistemas Complejos
-  * Modelamiento y Optimización de Procesos de Negocio (`BPMN`, `UML`)
-  * Gestión del Conocimiento y Documentación Técnica Avanzada (*Doc-as-Code*)
+  * Estadística descriptiva e inferencial aplicada a sistemas complejos
+  * Modelamiento y pptimización de procesos de negocio (`BPMN`, `UML`)
+  * Gestión del conocimiento y documentación técnica avanzada (`Doc-as-Code`, `Git`, `Quarto`)
 
 ---
 
@@ -33,7 +33,7 @@ Valparaíso, Chile · Disponible para Reubicación
 
 ### **Experiencia**
 
- **Cuxhaven Labs** `[SpA en Formación]`  
+ **Cuxhaven Labs** [SpA en Formación]{.custom-badge .badge-lang}  
   **Consultor Principal y Fundador**  
   Mayo 2026 – Presente / Remoto, Regiones de Valparaíso y Metropolitana
 
@@ -71,17 +71,17 @@ Valparaíso, Chile · Disponible para Reubicación
  ---
 
  **Pontificia Universidad Católica de Valparaíso** (*en asociación con la Escuela de Negocios de la UAI*)  
-  **Consultor de Datos y Docente Adjunto** `[Ejecución por Proyectos]`  
-  Agosto 2018 – Junio 2021 / Región de Valparaíso
+  **Consultor de Datos y Docente Adjunto**  
+  Agosto 2018 – Junio 2021 / Región de Valparaíso [Ejecución por Proyectos]{.custom-badge .badge-lang}
 
   * **Pipelines de Datos Académicos:** Consolidación de fuentes de datos y diseño de *pipelines* ETL para análisis estadístico exploratorio en entornos académicos y soporte a decisiones.
-  * **Docencia y Mentoría:** Apoyo docente en la cátedra *Ciencia de Datos Aplicada* de Ingeniería Civil Industrial PUCV y asesoría técnica en proyectos finales de pregrado (modelado de datos y automatización).
+  * **Docencia y Mentoría:** Apoyo docente en la cátedra *«Ciencia de Datos Aplicada»* de Ingeniería Civil Industrial PUCV y asesoría técnica en proyectos finales de pregrado (modelado de datos y automatización).
   * **Divulgación:** Asesor técnico, editor de material académico y expositor internacional.
 
  ---
 
- **Banco de Crédito e Inversiones (BCI) – Gerencia Corporativa de Data & Analytics / Gobierno de Datos**  
-  **Ingeniero de Procesos**  
+ **Banco de Crédito e Inversiones (BCI) – Gerencia Corporativa de Data & Analytics**  
+  **Ingeniero de Procesos (*Gobierno de Datos*)**  
   Mayo 2019 – Septiembre 2019 / Las Condes, Región Metropolitana
 
   * **Integración de Metadatos:** Orquestación de *pipelines* para la integración de metadatos desde sistemas operacionales hacia repositorios en Microsoft Azure, respaldada por modelado BPMN *As-Is/To-Be*.
@@ -89,8 +89,8 @@ Valparaíso, Chile · Disponible para Reubicación
 
  ---
 
- **ESVAL – Departamento de Gestión de Redes**  
-  **Líder de Proyecto** `[Proyecto de Título]`
+ **ESVAL – Departamento de Gestión de Redes**  [Proyecto de Título]{.custom-badge .badge-lang}  
+  **Líder de Proyecto**  
   Julio 2017 – Diciembre 2017 / Viña del Mar, Región de Valparaíso
 
   * **Modelado Espaciotemporal de Riesgos:** Desarrollo de un modelo predictivo mediante regresión de Cox en R sobre la red de agua potable de la Región de Valparaíso (**5,300 km** de extensión, **+1.9M de usuarios**).
@@ -99,13 +99,13 @@ Valparaíso, Chile · Disponible para Reubicación
 ### **Tecnologías**
 
  **Lenguajes de Programación y Matemática Aplicada**  
-  `Python` (`FastAPI`, `Polars`, `SciPy`), `TypeScript`, `SQL`, `R` (`Tidyverse`, `targets`, `forecast`), Modelado Inferencial, Series de Tiempo, MILP y Optimización, Simulación de Eventos Discretos y Monte Carlo.  
+  Python (`FastAPI`, `Polars`, `SciPy`), TypeScript, SQL, R (`Tidyverse`, `targets`, `forecast`), Modelado Inferencial, Series de Tiempo, MILP y Optimización, Simulación de Eventos Discretos y Monte Carlo.  
 
  **Arquitectura de Datos Empresariales**  
   Contenerización (`Docker`), Tuberías ETL/ELT, Metadatos y Ontologías, Gobernanza de Datos, Trazabilidad, Bases de Datos Relacionales, Datos Espaciales y Telemetría (`.parquet`, `.fit`).  
 
  **Nube y Orquestación**  
-  Microsoft Azure, Git/GitHub (Actions CI/CD, Pages), Orquestación de Entornos.  
+  Microsoft Azure, Git, GitHub (Actions CI/CD, Pages), Orquestación de Entornos.  
 
  **Arquitectura e Ingeniería de Sistemas**  
   Teoría y Dinámica de Sistemas, Ingeniería de Procesos (`BPMN`), Diagramación (`UML`), Gestión del Conocimiento, Documentación Técnica (`Quarto`, `Markdown`, `HTML`/`CSS`).
@@ -120,7 +120,7 @@ Valparaíso, Chile · Disponible para Reubicación
   * Ayudante académico recurrente en Ingeniería Económica, Sistemas de Información y Matemática Aplicada.
 
  **Pontificia Universidad Católica de Valparaíso**  
-  **Ingeniería Civil** / 2007 – 2010 `[Estudios Fundamentales]`  
+  **Ingeniería Civil** / 2007 – 2010 [Estudios Fundamentales]{.custom-badge .badge-lang}
 
   * Formación en ciencias básicas de la ingeniería, matemática aplicada, herramientas computacionales (MATLAB) y dibujo técnico vectorial (AutoCAD).
 
