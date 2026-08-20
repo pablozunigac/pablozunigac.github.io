@@ -42,6 +42,7 @@ pablozunigac.github.io/
 ## Manifesto Abstract
 **Ode to the Death of a Resume that had no Business Being Born**  
 Static *résumés* and traditional portfolios fail to capture dynamic systems and polymathic minds. This platform replaces rigid formats with an operational, Docs-as-Code framework designed to process high-density technical narrative, govern architectural intent, and maintain structural coherence against speed, hype, and scale.
+
 ---
 
 ## First Principles: Logic, Language, Meaning
