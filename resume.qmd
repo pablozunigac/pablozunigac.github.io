@@ -93,16 +93,16 @@ Valparaíso, Chile · Open to Relocation · US [H-1B1](https://www.dol.gov/agenc
 
 ### **Teaching**
 
- **Pontificia Universidad Católica de Valparaíso – Faculty of Commerce  
- Graduate Teaching Assistant** / 2018, 2020 / Valparaíso, Chile [Project-based Execution]{.custom-badge .badge-lang}  
+ **Pontificia Universidad Católica de Valparaíso – School of Business  
+ Technical Instructor** / 2019 / Valparaíso, Chile  
  Instructed econometrics, corporate finances and quantitative modeling for graduate students.  
 
  **BancoEstado / Universidad Federico Santa María  
- Technical Instructor** / 2017, 2019 / Santiago, Chile  
- Delivered time-series analytics and high-frequency financial modeling training to institutional trading desk staff.
+ Technical Speaker** / 2017, 2019 / Santiago, Chile  
+ Delivered time-series analytics and high-frequency financial modeling training to BancoEstado trading desk staff.
 
- **Pontificia Universidad Católica de Valparaíso**  
- **Guest Lecturer** / 2018 / Valparaíso, Chile  
+ **Pontificia Universidad Católica de Valparaíso – School of Industrial Engineering   
+ Guest Lecturer** / 2018 / Valparaíso, Chile  
  Instructed Data Science topics for undergraduate industrial & systems engineering students.
 
 ### **PDF**

@@ -135,12 +135,16 @@ Ingeniero Civil Industrial especializado en el diseño sistémico, validación t
 ### **Divulgación**
 
  **Pontificia Universidad Católica de Valparaíso – Escuela de Comercio  
- Docente Invitado – Diplomado en Finanzas para la Toma de Decisiones** / 2019, 2021  
- Diseño y relatoría de módulos en matemática financiera y evaluación de proyectos mediante modelado de flujos de caja y simulación de riesgo en Excel avanzado.
+ Relator Técnico** – Diplomado en Finanzas para la Toma de Decisiones / 2019  
+ Relatoría de econometría, finanzas corporativas y modelado cuantitativo para estudiantes de posgrado.  
 
- **BancoEstado / Universidad Técnica Federico Santa María  
- Expositor Técnico – Curso: Análisis Financiero de Renta Variable** / 2017, 2019  
- Relatoría sobre análisis de series de tiempo de alta frecuencia (OHLC) y calibración de volatilidad para la Mesa de Dinero.
+ **BancoEstado / Universidad Federico Santa María  
+ Expositor Técnico** – Análisis Financiero de Renta Variable / 2017, 2019 / Santiago, Chile  
+ Análisis de series temporales y modelado financiero de alta frecuencia para el personal de la mesa de dinero de BancoEstado.
+
+ **Pontificia Universidad Católica de Valparaíso – Escuela de Ingeniería Industrial  
+ Docente Invitado** / 2018 / Valparaíso, Chile  
+ Docencia en cátedra «*Data Science*» a estudiantes de Ingeniería Civil Industrial.
 
 ### **PDF**
 ::: {.embed-responsive .embed-responsive-16by9}
