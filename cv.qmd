@@ -24,7 +24,7 @@ Ingeniero Civil Industrial especializado en el diseño sistémico, validación t
 
   * Modelamiento y optimización de procesos de negocio
   * Gobernanza, arquitectura y ontología de datos
-  * Estadística descriptiva e inferencial aplicada a sistemas complejos
+  * Estadística predictivo e inferencial aplicada a sistemas complejos
   * Gestión del conocimiento, control de versiones y documentación técnica avanzada
 
 ---
@@ -99,12 +99,12 @@ Ingeniero Civil Industrial especializado en el diseño sistémico, validación t
 ### **Tecnologías**
 
   **Lenguajes y Matemática Aplicada**  
- Python (`FastAPI`, `Polars`, `SciPy`), TypeScript, SQL, R (`Tidyverse`, `targets`, `forecast`). Especialización en modelado estadístico predictivo, análisis de series de tiempo, optimización matemática (`MILP`) y modelado de simulación (Monte Carlo y eventos discretos).  
+ Python (`FastAPI`, `Polars`, `SciPy`), TypeScript, SQL, R (`Tidyverse`, `targets`, `forecast`). Especialización en inferencia estadística, modelado predictivo mediante series de tiempo, optimización matemática (`MILP`) y modelado de simulación (Monte Carlo y eventos discretos).  
 
  **Arquitectura de Datos Empresariales**  
  Contenerización (`Docker`), flujos e infraestructura de datos (pipelines ETL/ELT), modelado de ontologías y metadatos, gobernanza de datos corporativos, linaje de datos, bases de datos relacionales y gestión de datos espaciales y de telemetría (`Parquet`, `FIT`).  
 
- **Nube, DevOps y Automatización**  
+ **Nube, *DevOps* y Automatización**  
  Arquitectura en la nube (MS Azure), control de versiones avanzado (`Git`), automatización de integraciones e infraestructura (`GitHub Actions CI/CD`, GitHub Pages) y orquestación de entornos y flujos de trabajo.  
 
  **Arquitectura e Ingeniería de Sistemas**  

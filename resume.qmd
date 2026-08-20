@@ -71,10 +71,7 @@ Valparaíso, Chile · Open to Relocation · US [H-1B1](https://www.dol.gov/agenc
  Python (`FastAPI`, `Polars`), TypeScript, SQL, MS Azure, Docker, GitHub Actions (CI/CD), ETL/ELT pipelines, relational databases, and Parquet.  
  
  **Advanced Analytics & Systems**  
- R (`Tidyverse`, `targets`), MILP & optimization, statistical inference, Monte Carlo simulations, process modeling (`BPMN`/`UML`), data governance, and knowledge architectures (`Docs-as-Code`, `Quarto`).
- 
- 
-   
+ R (`Tidyverse`, `targets`), MILP & optimization, inferential & predictive statistical modeling, Monte Carlo simulations, process modeling (`BPMN`/`UML`), data governance, and knowledge architectures (`Docs-as-Code`, `Quarto`).
 
 ### **Education**
 
