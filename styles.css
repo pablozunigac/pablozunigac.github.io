@@ -280,9 +280,8 @@ pre code {
 
 /* Footer: Craftmanship Notice */
 .footer-meta-advanced-2 {
-  font-size: 0.9rem !important;
-  color: var(--color-text-secondary);
-  background-color: var(--color-blue-baby) !important;
+  font-family: var(--font-sans);
+  background-color: var(--color-blue-baby);
   border: 0.5px solid var(--color-border-default);
   border-radius: var(--radius-card);
   line-height: 1.5;
@@ -291,10 +290,11 @@ pre code {
   margin-bottom: 0;
 }
 
+
 .footer-meta-advanced-2,
 .footer-meta-advanced-2 * {
-  font-family: var(--font-sans);
-  font-size: 0.85rem !important;
+  font-size: 0.9rem !important;
+  color: var(--color-brand-blue) !important;
 }
 
 .footer-meta-advanced-2 > * { margin: 0; }
@@ -303,6 +303,12 @@ pre code {
   margin-top: 0.35rem;
   margin-bottom: 0;
   padding-left: 1.2rem;
+}
+
+.footer-meta-advanced-2-title{
+  font-weight: var(--font-weight-bold);
+  color: var(--color-text-main);
+  margin-bottom: 0.4rem;
 }
 
 .quarto-title-block .quarto-title-meta {

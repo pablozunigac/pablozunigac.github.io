@@ -13,7 +13,7 @@ Centralized routing via `index.qmd` manages dynamic documentation, architectural
 
 Built as a **Docs-as-Code** system, it delivers bilingual (`US/Global` & `Hispanophone`) technical documentation using modular **Quarto** compilation and automated CI/CD pipelines.
 
-![Texto alternativo](images/cover-github-io.png)
+![](images/cover-github-io.png)
 
 ### Core Repository Structure
 
@@ -32,7 +32,7 @@ pablozunigac.github.io/
 │   ├── colors.css          # Primitive color scales (50-950) and semantic light/dark mode properties
 │   ├── fonts.css           # Multi-line webfont preloading and local font-face CDN import bindings
 │   └── typography.css      # Typographic stacks for Sans, Serif, and Monospaced code suites
-├── atelier/                # Digital sandbox for experiemntal content & editorial frameworks
+├── atelier/                # Digital sandbox for experimental content & editorial frameworks
 └── .github/workflows/      # GitHub Actions CI/CD automation and deployment workflows
     └── deploy.yml          # Continuous Deployment: Production build release pipeline to GitHub Pages CDN
 ```

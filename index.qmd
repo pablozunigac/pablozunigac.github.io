@@ -21,7 +21,7 @@ Designing the underlying structures that make complex work coherent, navigable, 
 
 ---
 
-### Operational Focus & Systems Engineering {.mb-2}
+### Operational focus & systems engineering {.mb-2}
 
 Bridging the gap between raw engineering artifacts and executable operations. I design resilient information flows, structured metadata models, and scalable governance frameworks that transform organizational complexity into transparent, high-performance systems.
 
@@ -52,11 +52,11 @@ Structuring integrated **management control systems** and **technical documentat
 
 ---
 
-### Academic Background & Formal Credentials
+### Academic background & formal credentials
 
 **BSc & MSc Equivalent in Industrial & Systems Engineering**  
  *Pontificia Universidad Católica de Valparaíso (PUCV) · Graduated Dec 2017*  
- Comprehensive **6-year engineering curriculum** covering **Applied Mathematics**, **Operations Research**, **Information Systems**, and **Systems Theory**.
+ Comprehensive **6-year engineering** curriculum covering **applied mathematics**, **operations research**, **information systems**, and **systems theory**.
 
 > **Credential Verification**  
 Official degree certificates, transcripts, and ranking metrics are audited and available during background check phases upon request.
