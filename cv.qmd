@@ -33,14 +33,15 @@ Ingeniero Civil Industrial especializado en el diseño sistémico, validación t
 
 ### **Experiencia**
 
- **Cuxhaven Labs** [SpA en Formación]{.custom-badge .badge-lang}  
-  **Consultor Principal y Fundador**  
-  Mayo 2026 – Presente / Remoto, Regiones de Valparaíso y Metropolitana
-
-  * **Arquitectura de Datos y Gobernanza:** Diseño, prueba de concepto (PoC) y validación de flujos ETL/ELT bajo estándares de gobernanza, auditoría y trazabilidad para infraestructura crítica.
-  * **Ingeniería de Resiliencia y Continuidad:** Implementación de protocolos de resiliencia, respaldo de activos digitales y planes de mitigación para la continuidad operacional ante incidencias.
-  * **Auditoría de Sistemas y Metadatos:** Pilotaje para el modelado de ontologías y metadatos, auditorías de deuda técnica e integración de sistemas conceptuales complejos.
-
+ **Cuxhaven Labs**  
+  **Fundador y Consultor Principal**  
+  Mayo 2026 – Presente / Iniciativa de I+D de Código Abierto  
+  
+  * **Arquitectura de Datos y Gobernanza**  
+  Diseño, prueba de concepto (PoC) y despliegue de tuberías (pipelines) ETL/ELT de grado de producción y ontologías a partir de datos operacionales bajo estándares de gobernanza, auditoría y trazabilidad.  
+  * **Ingeniería de Resiliencia y Continuidad**  
+  Reducción sistemática de deuda técnica y refactorización del modelado de sistemas, respaldadas por documentación técnica bajo estándares *Docs-as-Code* y código gestionado mediante control de versiones.
+ 
  ---
 
  **Consultoría en Analítica Avanzada y Gestión del Conocimiento**  
@@ -116,21 +117,28 @@ Ingeniero Civil Industrial especializado en el diseño sistémico, validación t
   **Ingeniería Civil Industrial** / 2011 – 2017  
   **Licenciatura en Ciencias de la Ingeniería** / 2016  
 
-  * Programa de 12 semestres enfocado en ingeniería de sistemas, teoría de sistemas complejos, econometría y analítica cuantitativa avanzada.
-  * Ayudante académico recurrente en Ingeniería Económica, Sistemas de Información y Matemática Aplicada.
+  * Programa de **12 semestres** enfocado en teoría de sistemas, estadística avanzada, econometría, modelado de sistemas e investigación de operaciones.
+  * Ayudante académico recurrente en cátedras de ingeniería económica, sistemas de información y matemática aplicada.
 
  **Pontificia Universidad Católica de Valparaíso**  
   **Ingeniería Civil** / 2007 – 2010 [Estudios Fundamentales]{.custom-badge .badge-lang}
 
-  * Formación en ciencias básicas de la ingeniería, matemática aplicada, herramientas computacionales (MATLAB) y dibujo técnico vectorial (AutoCAD).
+  * Formación en ciencias básicas, ciencias de la ingeniería, lógica de programación (`MATLAB`) y dibujo técnico vectorial (`AutoCAD`).
 
 ### **Prácticas**
 
  **Empresa Nacional de Minería (ENAMI) – División de Finanzas y Administración**  
- **Práctica Profesional** / Enero 2016 – Marzo 2016 / Regiones Metropolitana y de Atacama
-
+ **Práctica Profesional** / Enero 2016 – Marzo 2016 / Regiones Metropolitana y de Atacama  
+ 
+ * Análisis integral y consolidación de datos de más de **75.000 SKUs** para la cuantificación y resolución de discrepancias contables por un monto de **$2,5M USD** en el inventario nacional, respaldando procesos de auditoría financiera y regularización de liquidación de activos.  
+ * Diseño y modelado digital de sistemas de almacenamiento industrial de alta complejidad adaptados a exigencias del sector minero y metalúrgico.
+ 
  **Antofagasta Minerals (Minera Los Pelambres) – Superintendencia de Geotecnia**  
- **Práctica de Ingeniería** / Enero 2014 – Marzo 2014 / Salamanca, Región de Coquimbo
+ **Práctica de Ingeniería** / Enero 2014 – Marzo 2014 / Salamanca, Región de Coquimbo  
+
+ * Monitoreo operacional de procesos geotécnicos en minería de gran altura, mediante la captura, registro y trazabilidad de datos en operaciones a cielo abierto.  
+ * Consolidación y transferencia de información operativa desde sistemas de monitoreo automatizado, orientada a la mitigación temprana de riesgos técnicos y de seguridad laboral.  
+ * Elaboración de registros históricos e informes de seguimiento para asegurar la continuidad operacional, el control de procesos y la toma de decisiones estratégicas en infraestructura crítica.
 
 ### **Divulgación**
 
@@ -144,7 +152,7 @@ Ingeniero Civil Industrial especializado en el diseño sistémico, validación t
 
  **Pontificia Universidad Católica de Valparaíso – Escuela de Ingeniería Industrial  
  Docente Invitado** / 2018 / Valparaíso, Chile  
- Docencia en cátedra «*Data Science*» a estudiantes de Ingeniería Civil Industrial.
+ Docencia en cátedra «Introducción a *Data Science*» a estudiantes de Ingeniería Civil Industrial.
 
 ### **PDF**
 ::: {.embed-responsive .embed-responsive-16by9}

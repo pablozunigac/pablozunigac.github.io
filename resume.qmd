@@ -24,7 +24,7 @@ Valparaíso, Chile · Open to Relocation · US [H-1B1](https://www.dol.gov/agenc
  May 2026 – Present / Open-Source & R&D Initiative
 
  * **Architecting production-grade ETL/ELT pipelines** and metadata ontologies for critical infrastructure under strict auditability and governance standards.
- * **Engineering operational resilience frameworks** and disaster recovery protocols to guarantee continuous operational uptime during system incidents.
+ * **Systemic reduction of technical debt** and refactoring system models, backed by Docs-as-Code technical documentation standards and version-controlled codebases.
  
  ---
 
@@ -76,9 +76,9 @@ Valparaíso, Chile · Open to Relocation · US [H-1B1](https://www.dol.gov/agenc
 ### **Education**
 
  **Pontificia Universidad Católica de Valparaíso** / Valparaíso, Chile  
- **Industrial & Systems Engineering (Integrated 6-Year Program – BSc & MSc Equivalent)** / 2011 – 2017
+ **Industrial & Systems Engineering (Integrated 6-year program, BSc & MSc equivalent)** / 2011 – 2017
 
- **Core Academic Foundations:** Advanced Applied Statistics, Systems Theory, Operations Research, Econometrics, and Complex Systems Modeling.
+ **Core academic foundations:** systems theory, advanced statistics, econometrics, systems modeling, and operations research.
 
 ### **Internships**
 
