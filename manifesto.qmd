@@ -11,7 +11,7 @@ format:
 **This site was born not as a design artifact, but as an architectural rebellion.** A modular, semantic, and adaptive system to operate in high-complexity, fast-evolving environments. It is not a layered technology stack. It is a structural logic that guides how complex systems are designed, governed, and transformed.
 
 #### The Origin of Cognitive Fatigue
-After more than a decade navigating the ambiguities of what a *résumé* really is (and isn’t) this construct emerged as a response to systemic constraints and **structural fatigue**. The rigidity of PDF files, the mismatch between **static formats** and **dynamic identities**, the cognitive cost of bending into generic containers, and the inefficiencies of fragmented, **anachronistic workflows** all pointed to a single truth: **the format was failing the function**.
+After more than a decade navigating the ambiguities of what a *résumé* really is (and isn’t) this construct emerged as a response to systemic constraints and **structural fatigue**. The rigidity of PDF files, the mismatch between static formats and dynamic identities, the **cognitive cost** of bending into generic containers, and the inefficiencies of fragmented, **anachronistic workflows** all pointed to a single truth: the format was failing the function.
 
 #### From Artifacts to First Principles
 An artifact without its underlying logic is a mere output. Traditional portfolios showcase final products while concealing the architectural decisions that gave them form. The **Strategic Stack** does the opposite. It is an operational grammar: the structural logic that transforms noise into coherence. It is an operating system for design integrity, built to hold under pressure and at scale. **Hype fades. Trends drift. Architecture remains.**
@@ -28,17 +28,17 @@ An **architectural framework** for building coherence in fast-evolving systems. 
 ### **Design Ethos**
 
 **Coherence isn’t a style. It’s a principle of operation**  
-I design from logic, not from trend. The practice is governed by structural intent and semantic precision. This system design is architectural: a disciplined method for encoding clarity, translating behavior, and aligning people with purpose. This ethos rejects spectacle and seeks durability. The result is operational—designed to command thought, hold tension, and scale with integrity.
+I design from **logic**, not from **trend**. The practice is governed by structural intent and semantic precision. This system design is a disciplined method for encoding **clarity**, translating **behavior**, and aligning people with **purpose**. This ethos rejects spectacle and seeks durability. The result is operational—designed to command thought, hold tension, and scale with integrity.
 
 ### **Techno-Agnostic Logic**
 
 **I don’t follow tools. I build the logic they should serve**  
-As a techno-agnostic engineer and systems architect, I track structural shifts rather than hype cycles. My mathematical lens is anchored in Set Theory and Boolean Logic; computationally, I draw from Turing machines and recursion as generative principles. Innovation is frequently spectacle before it is evolution. This stance acts as a systemic filter, decoupling logic from the transient tool to ensure architecture always governs the medium.
+As a techno-agnostic engineer and systems thinker, I track structural shifts rather than hype cycles. My mathematical lens is anchored in **set theory** and **Boolean logic**; computationally, I draw from **Turing machines** and recursion as generative principles. Innovation is frequently spectacle before it is evolution. This stance acts as a systemic filter, decoupling logic from the transient tool to ensure architecture always governs the medium.
 
 ### **Aesthetic Code**
 
 **Built like a monolith. Tuned like a system**  
-This work echoes the aerodynamic grace of early automotive design, the structural clarity of mid-century modernism, and the silent authority of industrial subtlety. It is design as structure in motion—built with proportion, operational tension, and absolute restraint.
+This work echoes the aerodynamic grace of **early automotive design**, the structural clarity of **mid-century modernism**, and the silent authority of **industrial design subtlety**. It is design as structure in motion—built with proportion, operational tension, and absolute restraint.
 
 :::
 
@@ -66,7 +66,7 @@ Forged through real-world operational pressure, this approach prioritizes **robu
 ::: {.footer-meta-advanced-2}
  **AI Era Craftsmanship Notice**  
  
- All **hyphens (-)**, **en dashes (--)**, and **em dashes (---)** contained within this site were intentionally forged via direct human-to-machine keystroke sequences.
+ All **hyphens (-)**, **en dashes (--)**, and **em dashes (---)** contained within this site were intentionally forged via direct human-to-machine keystroke sequences. **Ampersands (&)**, **periods (.)**, **commas (,)**, and **semicolons (;)**, as well.
 :::
 
 ---

@@ -18,14 +18,9 @@ Valparaíso, Chile · Disponible para Reubicación
 
 #### Perfil Profesional  
 
-Ingeniero Civil Industrial especializado en el diseño sistémico, validación técnica y escalamiento de soluciones de datos para entornos industriales e infraestructura crítica (banca, minería y servicios regulados). Ocho años de experiencia en el diseño de arquitecturas ETL/ELT, integración de datos y analítica avanzada, centrados en la erradicación de deuda técnica y la resiliencia operacional con enfoque tecno-agnóstico orientado a la gobernanza, la refactorización de datos y el modelado de sistemas complejos.  
+ Ingeniero Civil Industrial especializado en el diseño sistémico, validación técnica y escalamiento de soluciones de datos para entornos industriales e infraestructura crítica (banca, minería y servicios regulados). Más de 8 años de experiencia en el diseño de arquitecturas ETL/ELT, integración de datos y analítica avanzada, centrados en la erradicación de deuda técnica y la resiliencia operacional con un enfoque tecno-agnóstico orientado a la gobernanza, refactorización de datos y modelado de sistemas complejos.
 
-#### Áreas de Dominio Técnico
-
-  * Modelamiento y optimización de procesos de negocio
-  * Gobernanza, arquitectura y ontología de datos
-  * Estadística predictivo e inferencial aplicada a sistemas complejos
-  * Gestión del conocimiento, control de versiones y documentación técnica avanzada
+ **Áreas de dominio técnico:** Modelamiento y optimización de procesos · Gobernanza, arquitectura y ontología de datos · Estadística predictiva e inferencial aplicada · Gestión del conocimiento y documentación técnica avanzada (*Docs-as-Code*)
 
 ---
 
@@ -34,7 +29,7 @@ Ingeniero Civil Industrial especializado en el diseño sistémico, validación t
 ### **Experiencia**
 
  **Cuxhaven Labs**  
-  **Fundador y Consultor Principal**  
+  **Fundador e Ingeniero de I+D**  
   Mayo 2026 – Presente / Iniciativa de I+D de Código Abierto  
   
   * **Arquitectura de Datos y Gobernanza**  

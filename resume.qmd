@@ -16,6 +16,12 @@ Valparaíso, Chile · Open to Relocation · US [H-1B1](https://www.dol.gov/agenc
 
 ---
 
+#### Executive Abstract  
+
+Industrial & Systems Engineer specializing in systemic design, technical validation, and data architecture for high-complexity environments and critical infrastructure. Over eight years of experience driving ETL/ELT pipelines, data integration, and advanced analytics, focused on technical debt reduction, operational resilience, and techno-agnostic governance for complex system modeling.
+
+---
+
 ::: {.panel-tabset}
 
 ### **Work Experience**
@@ -103,9 +109,9 @@ Valparaíso, Chile · Open to Relocation · US [H-1B1](https://www.dol.gov/agenc
  Instructed Data Science topics for undergraduate industrial & systems engineering students.
 
 ### **PDF**
-::: {.embed-responsive .embed-responsive-16by9}
-![](en/resume-pablo-zuniga.pdf){width="100%" height="990px"}
-:::
+ ::: {.embed-responsive .embed-responsive-16by9}
+ ![](en/resume-pablo-zuniga.pdf){width="100%" height="990px"}
+ :::
 
 :::
 
