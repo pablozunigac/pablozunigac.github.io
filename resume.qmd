@@ -9,16 +9,17 @@ format:
 
 ::: {.fw-semibold}
 Industrial & Systems Engineer PUCV (BSc & MSc Equivalent)  
-Data Modeling · Applied Statistics · Complex Systems  
-Valparaíso, Chile · Open to Relocation · US [H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) & [ESTA](https://cl.usembassy.gov/visa-waiver-program/) Eligible  
+Data Modeling • Applied Statistics • Complex Systems  
+Valparaíso, Chile • Open to Relocation  
+[US [H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) & [ESTA](https://cl.usembassy.gov/visa-waiver-program/) Eligible]{.badge .bg-secondary} [EU [Blue Card](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card_en) Eligible]{.badge .bg-secondary}  
 [Native Spanish]{.badge .bg-secondary} [Professional English]{.badge .bg-secondary}
 :::
 
 ---
 
-#### Executive Abstract  
+#### Engineering Overview
 
-Industrial & Systems Engineer specializing in systemic design, technical validation, and data architecture for high-complexity environments and critical infrastructure. Over eight years of experience driving ETL/ELT pipelines, data integration, and advanced analytics, focused on technical debt reduction, operational resilience, and techno-agnostic governance for complex system modeling.
+**Industrial & Systems Engineer** specializing in systemic design, technical validation, and data architecture for high-complexity environments. Over **eight years** of experience driving ETL/ELT pipelines, data integration, and advanced analytics, focused on **technical debt** reduction, operational resilience, and techno-agnostic governance for **complex system modeling**.
 
 ---
 
@@ -27,55 +28,59 @@ Industrial & Systems Engineer specializing in systemic design, technical validat
 ### **Work Experience**
 
  **Cuxhaven Labs – Founder & R&D Engineer**  
- May 2026 – Present / Open-Source & R&D Initiative
+  May 2026 – Present / Open-Source & R&D Initiative
 
- * **Architecting production-grade ETL/ELT pipelines** and metadata ontologies for critical infrastructure under strict auditability and governance standards.
- * **Systemic reduction of technical debt** and refactoring system models, backed by Docs-as-Code technical documentation standards and version-controlled codebases.
+  * **Architecting production-grade ETL/ELT pipelines** and metadata ontologies for critical infrastructure under strict auditability and governance standards.
+  * **Systemic reduction of technical debt** and refactoring system models, backed by Docs-as-Code technical documentation standards and version-controlled codebases.
  
  ---
 
  **Independent Forward Deployed Engineering Consultant**  
- Jul 2022 – Present / Remote
+  Jul 2022 – Present / Remote
 
- * **Telemetry Analytics Pipeline:** Built an end-to-end time-series analytics pipeline in Python/R processing pace-distance telemetry across **1.8k+ athletes** to quantify physiological gaps and optimize pacing strategies under multi-variable environmental conditions.
- * **Systems & Database Design:** Designed relational database structures, automated data flows, and technical control-versioned documentation architectures using Quarto/Markdown.
+  * **Telemetry analytics pipeline:** Built an end-to-end time-series analytics pipeline in Python/R processing pace-distance telemetry across **1.8k+ athletes** to quantify physiological gaps and optimize pacing strategies under multi-variable environmental conditions.
+  * **Systems & database design:** Designed relational database structures, automated data flows, and technical control-versioned documentation architectures using Quarto/Markdown.
 
  ---
 
  **Decentralized Systems & Protocols – On-Chain Operations Specialist**  
- Jan 2020 – Jul 2022 / Remote
+  Jan 2020 – Jul 2022 / Remote
 
- * **Cryptographic Infrastructure Management:** Engineered and managed secure multi-signature cryptographic custody architectures to safeguard high-value digital asset structures ($50k+).
- * **Network Resource Optimization:** Executed dynamic transaction routing, runtime optimization (gas constraints), and cross-network consensus coordination for **1,100+ concurrent active users**.
-
- ---
-
- **Banco de Crédito e Inversiones (BCI) – Process Engineer (Data Governance)**  
- May 2019 – Sep 2019 / Santiago, Chile
-
- * **Metadata Integration:** Orchestrated automated metadata integration pipelines from core transactional systems into MS Azure, standardizing BPMN workflows.
- * **Compliance & Auditing:** Audited data architecture compliance in regulated banking environments, enforcing schema consistency and RBAC security controls.
+  * **Cryptographic infrastructure management:** Engineered and managed secure multi-signature cryptographic custody architectures to safeguard high-value digital asset structures ($50k+).
+  * **Network resource optimization:** Executed dynamic transaction routing, runtime optimization (gas constraints), and cross-network consensus coordination for **1,100+ concurrent active users**.
 
  ---
 
  **Pontificia Universidad Católica de Valparaíso** (*In collaboration with Universidad Adolfo Ibáñez*)  
- **Research Assistant & Data Consultant** / 2018 – 2019 / Valparaíso, Chile [Project-based Execution]{.custom-badge .badge-lang}  
+  **Academic Data Engineer & Technical Consultant**  
+  Aug 2018 – Jun 2021 / Valparaíso, Chile [Project-based Execution]{.custom-badge .badge-lang}  
 
- * Technical thesis reviewer, academic consulting and research assistant on STEM Fondecyt projects context.
+  * **Academic data pipelines:** Engineered ETL pipelines consolidating multi-source academic datasets to enable exploratory statistical analysis and data-driven institutional decision-making.  
+  * **Technical steering & mentorship:** Advised final-year engineering capstones on data modeling and automation, while serving as technical reviewer for national STEM research grants (Fondecyt).
 
  ---
 
- **ESVAL (Water Utility) – Lead Data & Project Engineer**  
- Jul 2017 – Dec 2017 / Valparaíso, Chile [Capstone Project]{.custom-badge .badge-lang}
+ **Banco de Crédito e Inversiones (BCI) – Process Engineer (Data Governance)**  
+  May 2019 – Sep 2019 / Santiago, Chile
 
- * **Predictive Risk Modeling:** Developed a spatio-temporal risk model using Cox Proportional Hazards in R across **5,300 km** of pipeline serving **1.9M+ residents**.
- * **Agile PMO Execution:** Delivered predictive maintenance risk scores via Agile/PMO frameworks to prioritize capital expenditure allocation for regional grid resilience.
+  * **Metadata integration:** Orchestrated automated metadata integration pipelines from core transactional systems into MS Azure, standardizing BPMN workflows.
+  * **Compliance & auditing:** Audited data architecture compliance in regulated banking environments, enforcing schema consistency and RBAC security controls.
+
+ ---
+
+ **ESVAL (Water Utility) – Lead Data & Project Engineer** [Capstone Project]{.custom-badge .badge-lang}  
+  Jul 2017 – Dec 2017 / Valparaíso, Chile
+
+  * **Predictive risk modeling:** Developed a spatio-temporal risk model using Cox Proportional Hazards in R across **5,300 km** of pipeline serving **1.9M+ residents**.
+  * **Agile & PMO execution:** Delivered predictive maintenance risk scores via Agile/PMO frameworks to prioritize capital expenditure allocation for regional grid resilience.
 
 ### **Tech Stack**
 
  **Data Engineering & Cloud**  
  Python (`FastAPI`, `Polars`), TypeScript, SQL, MS Azure, Docker, GitHub Actions (CI/CD), ETL/ELT pipelines, relational databases, and Parquet.  
  
+ ---
+
  **Advanced Analytics & Systems**  
  R (`Tidyverse`, `targets`), MILP & optimization, inferential & predictive statistical modeling, Monte Carlo simulations, process modeling (`BPMN`/`UML`), data governance, and knowledge architectures (`Docs-as-Code`, `Quarto`).
 
@@ -91,27 +96,29 @@ Industrial & Systems Engineer specializing in systemic design, technical validat
  **Empresa Nacional de Minería (ENAMI) & Antofagasta Minerals – Industrial Engineering Intern**  
  2014, 2016 / Atacama, Coquimbo, and Santiago, Chile
 
- * **Metallurgical Database Audit (ENAMI):** Audited inventory database (**75k+ SKUs**), uncovering **$2.5M USD** in accounting discrepancies for corporate financial audits.
- * **Geotechnical Risk Telemetry (Los Pelambres):** Monitored open-pit mining geotechnical telemetry for slope failure prediction and early risk mitigation in mission-critical environments.
+ * **Metallurgical database audit (ENAMI):** Audited inventory database (**75k+ SKUs**), uncovering **$2.5M USD** in accounting discrepancies for corporate financial audits.
+ * **Geotechnical risk telemetry (Los Pelambres):** Monitored open-pit mining geotechnical telemetry for slope failure prediction and early risk mitigation in mission-critical environments.
 
-### **Teaching**
+### **Enablement**
 
  **Pontificia Universidad Católica de Valparaíso – School of Business  
- Technical Instructor** / 2019 / Valparaíso, Chile  
- Instructed econometrics, corporate finances and quantitative modeling for graduate students.  
+ Graduate Technical Instructor** / 2019 / Valparaíso, Chile  
+ Designed and delivered modules on econometrics, corporate finance, and quantitative risk modeling for executive programs.  
 
- **BancoEstado / Universidad Federico Santa María  
- Technical Speaker** / 2017, 2019 / Santiago, Chile  
- Delivered time-series analytics and high-frequency financial modeling training to BancoEstado trading desk staff.
+ ---
 
+ **BancoEstado / Universidad Federico Santa María [Executive training]{.custom-badge .badge-lang}  
+ Advanced Analytics Speaker & Trainer** / 2017, 2019 / Santiago, Chile  
+ Conducted specialized training on high-frequency time-series analytics and algorithmic volatility calibration for institutional trading desk operations and presenting quantitative risk proposals to financial stakeholders and executives.  
+
+ ---
+ 
  **Pontificia Universidad Católica de Valparaíso – School of Industrial Engineering   
- Guest Lecturer** / 2018 / Valparaíso, Chile  
- Instructed Data Science topics for undergraduate industrial & systems engineering students.
+ Guest Lecturer (Applied Data Science)** / 2018 / Valparaíso, Chile  
+ Lectured on data engineering pipelines, exploratory statistics, and complex systems architecture for senior Industrial & Systems Engineering cohorts.
 
 ### **PDF**
- ::: {.embed-responsive .embed-responsive-16by9}
  ![](en/resume-pablo-zuniga.pdf){width="100%" height="990px"}
- :::
 
 :::
 

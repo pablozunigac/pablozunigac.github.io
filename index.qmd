@@ -9,8 +9,10 @@ format:
 
 ::: {.fw-semibold}
 Industrial & Systems Engineer PUCV, BSc & MSc Equivalent  
-Data Modeling · Applied Statistics · Complex Systems  
-Valparaíso, Chile · Open to Relocation · US [H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) & [ESTA](https://cl.usembassy.gov/visa-waiver-program/) Eligible  
+Data Modeling • Applied Statistics • Complex Systems  
+Valparaíso, Chile • Open to Relocation  
+[US [H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) & [ESTA](https://cl.usembassy.gov/visa-waiver-program/) Eligible]{.badge .bg-secondary} [EU [Blue Card](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card_en) Eligible]{.badge .bg-secondary}  
+[Native Spanish]{.badge .bg-secondary} [Professional English]{.badge .bg-secondary}
 :::
 
 ---
@@ -44,7 +46,7 @@ Statistical and inferential modeling, alongside **time-series** analysis, applie
 ::: {.g-col-12 .g-col-md-4}
 ::: {.grid-card}
 #### Data Governance & Knowledge Management
-Structuring integrated **management control systems** and **technical documentation** under agile methodologies, ensuring operational continuity and end-to-end traceability in **high-complexity projects**.
+Structuring integrated **management control systems** and **bespoke operational workflows** under agile methodologies, ensuring operational continuity and end-to-end traceability in **high-complexity projects**.
 :::
 :::
 
