@@ -55,24 +55,46 @@ html, body, p, li {
 strong, b { font-weight: var(--font-weight-badge);}
 
 /* Hipervínculos / Enlaces */
-p a:not(.btn):not(.btn-action-primary):not(.btn-action-secondary), li:not(.nav-item) a:not(.nav-link):not(.dropdown-item):not(.btn) {
+p a:not(.btn):not(.btn-action-primary):not(.btn-action-secondary),
+li:not(.nav-item) a:not(.nav-link):not(.dropdown-item):not(.btn) {
   text-decoration: none;
   color: var(--color-link-passive); 
   font-weight: inherit;
   transition: color 0.15s ease;
 }
 
-p a:not(.btn):not(.btn-action-primary):not(.btn-action-secondary):hover, li:not(.nav-item) a:not(.nav-link):not(.dropdown-item):not(.btn):hover {
-  color: var(--color-link-hover); 
+p a:not(.btn):not(.btn-action-primary):not(.btn-action-secondary):hover,
+li:not(.nav-item) a:not(.nav-link):not(.dropdown-item):not(.btn):hover { color: var(--color-link-hover); }
+
+/* SISTEMA GENERAL DE ESPACIADO EN TABSETS (Refactorizado) */
+
+/* 1. Tokens de Espaciado Locales */
+.panel-tabset {
+  --space-compact: 0.4rem;        /* Separación párrafo-párrafo y salida de lista */
+  --space-list-top: 0.4rem;       /* Distancia de entrada a una lista */
+  --space-bullet-gap: 0.25rem;    /* Separación interna entre viñetas */
+  --space-bullet-indent: 2rem;    /* Sangría izquierda de la lista */
 }
 
-/* COMPONENTES Y BADGES */
-.tech-meta, code, pre {
-  font-family: var(--font-mono);
-  font-size: 0.8rem;
+/* 2. Párrafos / Texto Estándar */
+.panel-tabset p { margin-top: 0 !important; margin-bottom: var(--space-compact) !important; }
+
+/* 3. Contenedores de Listas (Entrada, Salida y Sangría) */
+.panel-tabset ul {
+  margin-top: var(--space-list-top) !important;
+  margin-bottom: var(--space-compact) !important;
+  padding-left: var(--space-bullet-indent) !important;
 }
 
-/* COMPONENTES, CODE INLINE Y PRE */
+/* 4. Viñetas y Párrafos Anidados */
+.panel-tabset ul li,
+.panel-tabset ul li p { margin-top: 0 !important; margin-bottom: var(--space-bullet-gap) !important; }
+
+.panel-tabset ul li p { margin-bottom: 0 !important; }
+
+/* COMPONENTES */
+.tech-meta, code, pre { font-family: var(--font-mono); font-size: 0.8rem; }
+
 code {
   font-family: var(--font-mono, SFMono-Regular, Menlo, Monaco, Consolas, monospace);
   font-size: 0.85rem;
@@ -91,7 +113,6 @@ pre code {
   padding: 0;
 }
 
-/* Grid Cards */
 .grid-card {
   background: var(--color-full-white);
   border: 1px solid var(--color-border-default);
@@ -107,7 +128,6 @@ pre code {
 .grid p { margin-bottom: 0.5rem; }
 .grid .g-col-12 p:last-child { margin-bottom: 0; }
 
-/* Action Bar & Botones */
 .action-bar {
   display: flex;
   flex-wrap: wrap;
@@ -118,11 +138,18 @@ pre code {
   font-size: 0.8rem;
 }
 
-/* Custom Badges */
+/* Badges */
+.badge.bg-secondary {
+  background-color: var(--color-blue-baby) !important;
+  color: var(--color-brand-blue);          
+  font-weight: var(--font-weight-badge);   
+  font-size: 0.75rem;
+  border-radius: var(--radius-badge) !important;
+  border: none !important;
+}
 
 /* 1. Estructura Base de la Badge */
 .custom-badge {
-  /* Parámetros con valores por defecto (fallbacks) */
   --badge-weight: var(--font-weight-badge);
   display: inline-block;
   color: var(--badge-color) !important;
@@ -137,19 +164,19 @@ pre code {
   border-radius: var(--radius-badge);
   line-height: 1.1;
 
-  vertical-align: middle;                         /* Centra el badge respecto al texto */
-  margin-top: -0.15em;                            /* Ajuste fino opcional si la fuente base es alta */
+  vertical-align: middle;       /* Centra el badge respecto al texto */
+  margin-top: -0.15em;          /* Ajuste fino opcional si la fuente base es alta */
 }
 
 .custom-badge.badge-lang {
-  --badge-bg: var(--color-blue-baby); --badge-color: var(--color-brand-blue); --badge-size: 0.75rem; --badge-weight: var(--font-weight-badge);
+  --badge-bg: var(--color-blue-baby);
+  --badge-color: var(--color-brand-blue);
+  --badge-size: 0.75rem;
+  --badge-weight: var(--font-weight-badge);
 }
 
 /* Layout Container */
-.home-container {
-  max-width: 1000px;
-  margin: 0 auto;
-}
+.home-container { max-width: 1000px; margin: 0 auto; }
 
 /* NAVBAR - Web Navigation */
 .navbar-brand { 
@@ -159,10 +186,7 @@ pre code {
   transition: color .4s ease;
 }
 
-.navbar-brand:hover {
-  color: var(--color-brand-blue); 
-  text-decoration: none;
-}
+.navbar-brand:hover { color: var(--color-brand-blue); text-decoration: none; }
 
 .navbar a:not(.navbar-brand), 
 .navbar-nav .nav-link {
@@ -173,11 +197,8 @@ pre code {
 }
 
 .navbar-nav:has(.nav-link.active) .nav-link:not(.active) { color: var(--color-brand-muted); }
-
 .navbar-nav .nav-link.active { color: var(--color-brand-blue); }
-
 .navbar-nav:has(.nav-link.active) .nav-link:not(.active):hover { color: var(--color-brand-blue); }
-
 .navbar-nav:not(:has(.nav-link.active)) .nav-link:hover { color: var(--color-brand-muted); }
 
 /* Dropdown Navbar */
@@ -218,10 +239,7 @@ pre code {
 #title-block-header .quarto-title-subtitle,
 .quarto-title-block .quarto-title-subtitle,
 #title-block-header h3.subtitle,
-.quarto-title h3.subtitle {
-  font-weight: 500;
-  color: var(--color-text-secondary);
-}
+.quarto-title h3.subtitle { font-weight: 500; color: var(--color-text-secondary); }
 
 /* Quarto Tabset - Estado Inicial (Sin selección/Carga) */
 .panel-tabset .nav-tabs .nav-link {
@@ -230,9 +248,7 @@ pre code {
   transition: color 0.15s ease;
 }
 
-.panel-tabset .nav-tabs .nav-link:not(.active):hover {
-  color: var(--color-text-muted);
-}
+.panel-tabset .nav-tabs .nav-link:not(.active):hover { color: var(--color-text-muted); }
 
 .panel-tabset .nav-tabs .nav-link.active,
 .panel-tabset .nav-tabs .nav-item.show .nav-link {
@@ -273,10 +289,7 @@ pre code {
 /* 3. Hipervínculo y sus hijos en Estado Hover */
 .footer-meta-advanced a:hover,
 .footer-meta-advanced a:hover *,
-.footer-meta-advanced a:hover strong {
-  color: var(--color-link-hover) !important;
-  text-decoration: none;
-}
+.footer-meta-advanced a:hover strong { color: var(--color-link-hover) !important; text-decoration: none; }
 
 /* Footer: Craftmanship Notice */
 .footer-meta-advanced-2 {
@@ -290,34 +303,17 @@ pre code {
   margin-bottom: 0;
 }
 
-
 .footer-meta-advanced-2,
-.footer-meta-advanced-2 * {
-  font-size: 0.9rem !important;
-  color: var(--color-brand-blue) !important;
-}
+.footer-meta-advanced-2 * { font-size: 0.9rem !important; color: var(--color-brand-blue) !important; }
 
 .footer-meta-advanced-2 > * { margin: 0; }
 .footer-meta-advanced-2 p + p { margin-top: 0.4rem; }
-.footer-meta-advanced-2 ul {
-  margin-top: 0.35rem;
-  margin-bottom: 0;
-  padding-left: 1.2rem;
-}
+.footer-meta-advanced-2 ul { margin-top: 0.35rem; margin-bottom: 0; padding-left: 1.2rem; }
+.footer-meta-advanced-2-title{ font-weight: var(--font-weight-bold); color: var(--color-text-main); margin-bottom: 0.4rem; }
 
-.footer-meta-advanced-2-title{
-  font-weight: var(--font-weight-bold);
-  color: var(--color-text-main);
-  margin-bottom: 0.4rem;
-}
+.quarto-title-block .quarto-title-meta { display: none  !important; }
 
-.quarto-title-block .quarto-title-meta {
-  display: none  !important;
-}
-
-/* Subtítulo del Header (Afecta a todas las páginas con subtítulo o solo a la cabecera) */
 .quarto-title .subtitle {
-  
   font-size: 1.3rem !important;
   color: var(--color-text-main, #6b7280) !important;
   line-height: 1.4;
