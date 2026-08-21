@@ -1,4 +1,3 @@
-/* 1. IMPORT DE INTER (Variable Font: Pesos 100 a 900 + Tamaño Óptico) */
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Space+Grotesk:wght@300..700&display=swap');
 
 /* 2. DESIGN TOKENS (Consumo de Pesos Ad Hoc) */
@@ -17,19 +16,14 @@
   --color-brand-blue: #0d2b6c;
   --color-brand-muted: #768298;
   --color-blue-baby: #d8e6f2;
-  --color-dummy: #f308eb;
-
+  --color-grey-baby: #e7eaec;
+  --dummy: #f511f9;
   --color-text-main: #111827;
-  --color-text-secondary: #475569;
+  --color-text-secondary: #3f4c5e;
   --color-text-muted: #6c757d;
-
   --color-link-passive: #2687fe;
   --color-link-hover: #1e40af;
-  
   --color-border-default: #abb5c8;
-  --color-border-hover: #9ca3af; /* revisar */
-  --color-border-input: #cbd5e1; /* revisar */
-
   --color-full-white: #ffffff;
   --color-full-black: #000000;
 
@@ -67,7 +61,6 @@ p a:not(.btn):not(.btn-action-primary):not(.btn-action-secondary):hover,
 li:not(.nav-item) a:not(.nav-link):not(.dropdown-item):not(.btn):hover { color: var(--color-link-hover); }
 
 /* SISTEMA GENERAL DE ESPACIADO EN TABSETS (Refactorizado) */
-
 /* 1. Tokens de Espaciado Locales */
 .panel-tabset {
   --space-compact: 0.4rem;        /* Separación párrafo-párrafo y salida de lista */
@@ -89,11 +82,11 @@ li:not(.nav-item) a:not(.nav-link):not(.dropdown-item):not(.btn):hover { color: 
 /* 4. Viñetas y Párrafos Anidados */
 .panel-tabset ul li,
 .panel-tabset ul li p { margin-top: 0 !important; margin-bottom: var(--space-bullet-gap) !important; }
-
 .panel-tabset ul li p { margin-bottom: 0 !important; }
 
 /* COMPONENTES */
 .tech-meta, code, pre { font-family: var(--font-mono); font-size: 0.8rem; }
+pre code { background-color: transparent; border: none; padding: 0; }
 
 code {
   font-family: var(--font-mono, SFMono-Regular, Menlo, Monaco, Consolas, monospace);
@@ -106,13 +99,6 @@ code {
   border-radius: var(--radius-badge);                       /* Bordes redondeados acordes al sistema */
 }
 
-/* Evitar que el fondo y borde afecten a los bloques grandes de código (pre code) */
-pre code {
-  background-color: transparent;
-  border: none;
-  padding: 0;
-}
-
 .grid-card {
   background: var(--color-full-white);
   border: 1px solid var(--color-border-default);
@@ -123,7 +109,7 @@ pre code {
   transition: border-color 0.2s ease;
 }
 
-.grid-card:hover { border-color: var(--color-border-hover);}
+.grid-card:hover { border-color: var(--color-border-default);}
 .grid { margin: 0.25rem 0; row-gap: 0.5rem;}
 .grid p { margin-bottom: 0.5rem; }
 .grid .g-col-12 p:last-child { margin-bottom: 0; }
@@ -178,6 +164,8 @@ pre code {
 /* Layout Container */
 .home-container { max-width: 1000px; margin: 0 auto; }
 
+/* */
+
 /* NAVBAR - Web Navigation */
 .navbar-brand { 
   color: var(--color-brand-blue); 
@@ -190,20 +178,27 @@ pre code {
 
 .navbar a:not(.navbar-brand), 
 .navbar-nav .nav-link {
-  color: var(--color-brand-blue);
+  color: var(--color-brand-blue); /* Color de las opciones INactivas de la barra */
   font-weight: var(--font-weight-badge);
   text-decoration: none;
   transition: color 0.15s ease-in-out;
 }
 
-.navbar-nav:has(.nav-link.active) .nav-link:not(.active) { color: var(--color-brand-muted); }
-.navbar-nav .nav-link.active { color: var(--color-brand-blue); }
-.navbar-nav:has(.nav-link.active) .nav-link:not(.active):hover { color: var(--color-brand-blue); }
-.navbar-nav:not(:has(.nav-link.active)) .nav-link:hover { color: var(--color-brand-muted); }
+.navbar-nav:has(.nav-link.active) .nav-link:not(.active) {
+  color: var(--color-brand-muted); 
+}
+.navbar-nav .nav-link.active {
+  color: var(--color-brand-blue);
+}
+.navbar-nav:has(.nav-link.active) .nav-link:not(.active):hover {
+  color: var(--color-brand-blue) !important;
+}
+.navbar-nav:not(:has(.nav-link.active)) .nav-link:hover {
+  color: var(--color-brand-muted) !important; /* Hover de la barra completa*/
+}
 
-/* Dropdown Navbar */
 .navbar .dropdown-menu {
-  background-color: var(--color-full-white);
+  background-color: var(--color-grey-baby); /* FONDO del menú desplegable */
   border: 1px solid var(--color-border-default);
   border-radius: 8px;
   padding: 0.35rem 0;
@@ -215,7 +210,7 @@ pre code {
   font-family: var(--font-sans);
   font-size: 0.88rem;
   font-weight: var(--font-weight-badge);
-  color: var(--color-brand-blue);
+  color: var(--color-brand-blue); /* TEXTO INactivo*/
   padding: 0.5rem 1rem;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out;
 }
@@ -223,17 +218,28 @@ pre code {
 .navbar .dropdown-menu .dropdown-item:hover,
 .navbar .dropdown-menu .dropdown-item:focus,
 .navbar .dropdown-menu a.dropdown-item:hover {
-  color: var(--color-brand-muted);
-  background-color: rgba(13, 43, 108, 0.06);
+  color: var(--color-text-muted); /* TEXTO HOVER */
+  background-color: rgba(8, 35, 93, 0.125);
   outline: none;
 }
 
-.nav-link:focus, .nav-link:focus-visible, .nav-link:active,
-.show > .nav-link, .dropdown-toggle:focus, .dropdown-toggle:focus-visible {
+.navbar-nav .nav-link.show,
+.navbar-nav .nav-link[aria-expanded="true"] {
+  color: var(--color-brand-blue) !important;
+}
+
+.nav-link:focus,
+.nav-link:focus-visible,
+.nav-link:active,
+.show > .nav-link,
+.dropdown-toggle:focus,
+.dropdown-toggle:focus-visible {
   outline: none;
   box-shadow: none;
   border-color: transparent;
 }
+
+/* */
 
 /* Subtítulos específicos de Quarto */
 #title-block-header .quarto-title-subtitle,
@@ -266,8 +272,6 @@ pre code {
 }
 
 /* FOOTERS */
-
-/* 1. Fuerza el color en el contenedor y en todo texto/negrita directo que NO sea un enlace */
 .footer-meta-advanced,
 .footer-meta-advanced p,
 .footer-meta-advanced strong,
@@ -277,7 +281,6 @@ pre code {
   line-height: 1.35;
 }
 
-/* 2. Hipervínculo y negritas DENTRO del hipervínculo ([**GitHub**]) en Estado Normal */
 .footer-meta-advanced a,
 .footer-meta-advanced a *,
 .footer-meta-advanced a strong {
@@ -286,12 +289,10 @@ pre code {
   transition: color 0.15s ease-in-out;
 }
 
-/* 3. Hipervínculo y sus hijos en Estado Hover */
 .footer-meta-advanced a:hover,
 .footer-meta-advanced a:hover *,
 .footer-meta-advanced a:hover strong { color: var(--color-link-hover) !important; text-decoration: none; }
 
-/* Footer: Craftmanship Notice */
 .footer-meta-advanced-2 {
   font-family: var(--font-sans);
   background-color: var(--color-blue-baby);
@@ -303,9 +304,7 @@ pre code {
   margin-bottom: 0;
 }
 
-.footer-meta-advanced-2,
-.footer-meta-advanced-2 * { font-size: 0.9rem !important; color: var(--color-brand-blue) !important; }
-
+.footer-meta-advanced-2, .footer-meta-advanced-2 * { font-size: 0.9rem !important; color: var(--color-brand-blue) !important; }
 .footer-meta-advanced-2 > * { margin: 0; }
 .footer-meta-advanced-2 p + p { margin-top: 0.4rem; }
 .footer-meta-advanced-2 ul { margin-top: 0.35rem; margin-bottom: 0; padding-left: 1.2rem; }
