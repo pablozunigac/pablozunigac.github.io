@@ -19,7 +19,7 @@ Santiago, Chile • Open to Relocation
 
 #### Engineering Overview
 
-**Industrial & Systems Engineer** specializing in systemic design, technical validation, and data architecture for high-complexity environments. **Eight years** of experience driving ETL/ELT pipelines, data integration, and advanced analytics, focused on **technical debt** reduction, operational resilience, and techno-agnostic governance for **complex system modeling**.
+**Industrial & Systems Engineer** specializing in systemic design, technical validation, and data architecture for high-complexity environments. **Eight years** of experience driving ETL/ELT pipelines, data integration, and advanced analytics, focused on **technical debt** eradication, operational resilience, and tech-agnostic approach to **complex systems** modeling and governance.
 
 ---
 

@@ -18,7 +18,7 @@ Santiago, Chile • Disponible para Reubicación
 
 #### Perfil Profesional  
 
- **Ingeniero Civil Industrial** especializado en el diseño sistémico, validación técnica y escalamiento de soluciones de datos para entornos industriales e infraestructura crítica (banca, minería y servicios regulados). **Ocho años de experiencia** en el diseño de arquitecturas ETL/ELT, integración de datos y analítica avanzada, centrados en la erradicación de **deuda técnica** y la resiliencia operacional con un enfoque tecno-agnóstico orientado a la gobernanza, refactorización de datos y **modelado de sistemas complejos**.
+ **Ingeniero Civil Industrial** especializado en el diseño sistémico, validación técnica y escalamiento de soluciones de datos para entornos industriales e infraestructura crítica (banca, minería y servicios regulados). **Ocho años de experiencia** en el diseño de arquitecturas ETL/ELT, integración de datos y analítica avanzada, centrados en la erradicación de **deuda técnica** y la resiliencia operacional con un enfoque tecno-agnóstico orientado al modelado y la gobernanza de **sistemas complejos**.  
 
  **Áreas de dominio técnico:** Modelamiento y optimización de procesos (`BPMN`, `UML`) • Gobernanza, arquitectura y ontología de datos • Estadística predictiva e inferencial • Gestión del conocimiento y documentación técnica avanzada (`Docs-as-Code`)
 
