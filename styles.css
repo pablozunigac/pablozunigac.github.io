@@ -17,7 +17,6 @@
   --color-brand-muted: #768298;
   --color-blue-baby: #d8e6f2;
   --color-grey-baby: #e7eaec;
-  --dummy: #f511f9;
   --color-text-main: #111827;
   --color-text-secondary: #3f4c5e;
   --color-text-muted: #6c757d;
@@ -60,7 +59,7 @@ li:not(.nav-item) a:not(.nav-link):not(.dropdown-item):not(.btn) {
 p a:not(.btn):not(.btn-action-primary):not(.btn-action-secondary):hover,
 li:not(.nav-item) a:not(.nav-link):not(.dropdown-item):not(.btn):hover { color: var(--color-link-hover); }
 
-/* SISTEMA GENERAL DE ESPACIADO EN TABSETS (Refactorizado) */
+/* SISTEMA GENERAL DE ESPACIADO EN TABSETS */
 /* 1. Tokens de Espaciado Locales */
 .panel-tabset {
   --space-compact: 0.4rem;        /* Separación párrafo-párrafo y salida de lista */
@@ -82,10 +81,47 @@ li:not(.nav-item) a:not(.nav-link):not(.dropdown-item):not(.btn):hover { color: 
 /* 4. Viñetas y Párrafos Anidados */
 .panel-tabset ul li,
 .panel-tabset ul li p { margin-top: 0 !important; margin-bottom: var(--space-bullet-gap) !important; }
-.panel-tabset ul li p { margin-bottom: 0 !important; }
 
 p + h4, ul + h4, ol + h4, hr + h4
 .panel-tabset + h4 { margin-top: 0.1rem; margin-bottom: 0!important; }
+
+/* Quarto Tabset - Estado Inicial (Sin selección/Carga) */
+.panel-tabset .nav-tabs .nav-link {
+  color: var(--color-text-main);
+  font-weight: var(--font-weight-regular);
+  transition: color 0.15s ease;
+  font-size: 0.9rem !important;    /* Ajusta según prefieras: 0.85rem, 0.95rem, 14px, etc. */
+  font-weight: 500;                 /* Opcional: para controlar el grosor de la tipografía */
+}
+
+.panel-tabset .nav-tabs .nav-link:not(.active):hover { color: var(--color-text-muted); }
+
+.panel-tabset .nav-tabs .nav-link.active,
+.panel-tabset .nav-tabs .nav-item.show .nav-link {
+  color: var(--color-text-main);
+  border-bottom: 2px solid var(--color-text-main);
+  background-color: transparent;
+}
+
+/* Alineación al ras de las pestañas con la caja de texto */
+.panel-tabset .nav-tabs {
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+  border-bottom: 1px solid var(--color-border-default);
+}
+
+.panel-tabset .nav-tabs .nav-item:first-child .nav-link {
+  margin-left: 0 !important;
+  padding-left: 0.75rem !important; /* Mismo padding interno que la caja para un calce perfecto */
+}
+
+.panel-tabset .nav-tabs:has(.nav-link.active) .nav-link:not(.active) {
+  color: var(--color-brand-muted);
+}
+
+.panel-tabset .nav-tabs:has(.nav-link.active) .nav-link:not(.active):hover {
+  color: var(--color-text-main);
+}
 
 /* COMPONENTES */
 .tech-meta, code, pre { font-family: var(--font-mono); font-size: 0.8rem; }
@@ -235,42 +271,6 @@ code {
 #title-block-header h3.subtitle,
 .quarto-title h3.subtitle { font-weight: 500; color: var(--color-text-secondary); }
 
-/* Quarto Tabset - Estado Inicial (Sin selección/Carga) */
-.panel-tabset .nav-tabs .nav-link {
-  color: var(--color-text-main);
-  font-weight: var(--font-weight-regular);
-  transition: color 0.15s ease;
-}
-
-.panel-tabset .nav-tabs .nav-link:not(.active):hover { color: var(--color-text-muted); }
-
-.panel-tabset .nav-tabs .nav-link.active,
-.panel-tabset .nav-tabs .nav-item.show .nav-link {
-  color: var(--color-text-main);
-  border-bottom: 2px solid var(--color-text-main);
-  background-color: transparent;
-}
-
-/* Alineación al ras de las pestañas con la caja de texto */
-.panel-tabset .nav-tabs {
-  padding-left: 0 !important;
-  margin-left: 0 !important;
-  border-bottom: 1px solid var(--color-border-default);
-}
-
-.panel-tabset .nav-tabs .nav-item:first-child .nav-link {
-  margin-left: 0 !important;
-  padding-left: 0.75rem !important; /* Mismo padding interno que la caja para un calce perfecto */
-}
-
-.panel-tabset .nav-tabs:has(.nav-link.active) .nav-link:not(.active) {
-  color: var(--color-brand-muted);
-}
-
-.panel-tabset .nav-tabs:has(.nav-link.active) .nav-link:not(.active):hover {
-  color: var(--color-text-main);
-}
-
 /* FOOTERS */
 .footer-meta-advanced,
 .footer-meta-advanced p,
@@ -357,4 +357,3 @@ figcaption,
 div.aside {
   color: var(--color-text-secondary) !important;
 }
-
