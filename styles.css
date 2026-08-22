@@ -349,3 +349,12 @@ code {
 .manifesto-flow h4 { margin-top: 2rem !important; margin-bottom: 0.2rem !important; }
 .manifesto-flow h4:first-child { margin-top: 0 !important; }
 .manifesto-jump-section { margin-top: 1.8rem !important; }
+
+/* CAPTIONS Y MARGEN LATERAL (Aumento de Contraste) */
+.column-margin, 
+figcaption, 
+.figure-caption, 
+div.aside {
+  color: var(--color-text-secondary) !important;
+}
+
