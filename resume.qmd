@@ -19,7 +19,7 @@ Santiago, Chile • Open to Relocation
 
 #### Engineering Overview
 
-**Industrial & Systems Engineer** specializing in systemic design, technical validation, and data architecture for high-complexity environments. Over **eight years** of experience driving ETL/ELT pipelines, data integration, and advanced analytics, focused on **technical debt** reduction, operational resilience, and techno-agnostic governance for **complex system modeling**.
+**Industrial & Systems Engineer** specializing in systemic design, technical validation, and data architecture for high-complexity environments. **Eight years** of experience driving ETL/ELT pipelines, data integration, and advanced analytics, focused on **technical debt** reduction, operational resilience, and techno-agnostic governance for **complex system modeling**.
 
 ---
 
@@ -70,15 +70,6 @@ Santiago, Chile • Open to Relocation
   * **Metadata integration:** Orchestrated automated metadata integration pipelines from core transactional systems into MS Azure, standardizing BPMN workflows.
   * **Compliance & auditing:** Audited data architecture compliance in regulated banking environments, enforcing schema consistency and RBAC security controls.
 
- ---
-
- **ESVAL (Water Utility)  
- Lead Data & Project Engineer** [Capstone Project]{.custom-badge .badge-lang}  
-  Jul 2017 -- Dec 2017 / Valparaíso, Chile
-
-  * **Predictive risk modeling:** Developed a spatio-temporal risk model using Cox Proportional Hazards in R across **5,300 km** of pipeline serving **1.9M+ residents**.
-  * **Agile & PMO execution:** Delivered predictive maintenance risk scores via Agile/PMO frameworks to prioritize capital expenditure allocation for regional grid resilience.
-
 ### **Tech Stack**
 
  **Data Engineering & Cloud**  
@@ -96,38 +87,48 @@ Santiago, Chile • Open to Relocation
 
  **Core academic foundations:** systems theory, advanced statistics, econometrics, systems modeling, and operations research.
 
-### **Internships**
+### **Internships & Capstone**
+ 
+ **ESVAL (Water Utility)  
+ Lead Data & Project Engineer** [Capstone Project]{.custom-badge .badge-lang}  
+  Jul 2017 -- Dec 2017 / Valparaíso, Chile
+
+  * Developed a spatio-temporal predictive risk model using Cox Proportional Hazards in R across **5,300 km** of pipeline serving **1.9M+ residents**.
+  * Delivered predictive maintenance risk scores using Agile & PMO frameworks to prioritize capital expenditure allocation for regional grid resilience.
+ 
+ ---
+ 
  **Empresa Nacional de Minería (ENAMI) -- Finance & Administration Division**  
  **Industrial Engineering Intern** / Jan 2016 -- Mar 2016 / Atacama Region & Santiago, Chile
 
- * **Inventory audit & financial reconciliation:** Audited and consolidated nationwide inventory data across **75k+ SKUs**, resolving **$2.5M USD** in accounting discrepancies for corporate audits.
- * **Industrial storage systems:** Modeled high-complexity digital storage systems tailored to mining and metallurgical operational requirements.
+ * Audited and consolidated nationwide inventory data across **75k+ SKUs**, resolving **$2.5M USD** in accounting discrepancies for corporate audits.
+ * Modeled high-complexity digital storage systems tailored to mining and metallurgical operational requirements.
 
  ---
 
  **Antofagasta Minerals (Minera Los Pelambres) -- Geotechnical Superintendency**  
  **Geotechnical Engineering Intern** / Jan 2014 -- Mar 2014 / Coquimbo Region, Chile
 
- * **Geotechnical telemetry & risk mitigation:** Monitored high-altitude open-pit telemetry, ensuring data traceability for early slope failure prediction and hazard mitigation.
- * **Operational continuity & reporting:** Consolidated automated sensor data into historical logs to support strategic decision-making and operational resilience in critical infrastructure.  
+ * Monitored high-altitude open-pit telemetry, ensuring data traceability for early slope failure prediction and hazard mitigation.
+ * Consolidated automated sensor data into historical logs to support strategic decision-making and operational resilience in critical infrastructure.  
 
 ### **Enablement**
 
  **Pontificia Universidad Católica de Valparaíso -- School of Business  
  Graduate Technical Instructor** / 2019 / Valparaíso, Chile [Graduate Studies]{.custom-badge .badge-lang}  
- Designed and delivered modules on econometrics, corporate finance, and quantitative risk modeling for executive programs.  
+ Designed and delivered modules on econometrics, corporate finance, and quantitative risk modeling.  
 
  ---
 
  **BancoEstado / Universidad Federico Santa María  
  Advanced Analytics Speaker & Trainer** / 2017, 2019 / Santiago, Chile [Executive Training]{.custom-badge .badge-lang}  
- Conducted specialized training on high-frequency time-series analytics and algorithmic volatility calibration for institutional trading desk operations and presenting quantitative risk proposals to financial stakeholders and executives.  
+ Conducted specialized training on high-frequency time-series analytics and algorithmic volatility for institutional trading desk operators.  
 
  ---
  
  **Pontificia Universidad Católica de Valparaíso -- School of Industrial Engineering  
  Guest Lecturer (Applied Data Science)** / 2018 / Valparaíso, Chile [Undergraduate Studies]{.custom-badge .badge-lang}  
- Teaching data architecture, exploratory statistics, and data visualization in complex systems for advanced cohorts of Industrial Engineering.
+ Teaching data architecture, exploratory statistics, and data visualization for complex systems modeling.
 
 ### **PDF**
  ![](en/resume-pablo-zuniga.pdf){width="100%" height="990px"}

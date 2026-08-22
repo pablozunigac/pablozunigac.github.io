@@ -18,7 +18,7 @@ Santiago, Chile • Disponible para Reubicación
 
 #### Perfil Profesional  
 
- **Ingeniero Civil Industrial** especializado en el diseño sistémico, validación técnica y escalamiento de soluciones de datos para entornos industriales e infraestructura crítica (banca, minería y servicios regulados). Más de **8 años de experiencia** en el diseño de arquitecturas ETL/ELT, integración de datos y analítica avanzada, centrados en la erradicación de **deuda técnica** y la resiliencia operacional con un enfoque tecno-agnóstico orientado a la gobernanza, refactorización de datos y **modelado de sistemas complejos**.
+ **Ingeniero Civil Industrial** especializado en el diseño sistémico, validación técnica y escalamiento de soluciones de datos para entornos industriales e infraestructura crítica (banca, minería y servicios regulados). **Ocho años de experiencia** en el diseño de arquitecturas ETL/ELT, integración de datos y analítica avanzada, centrados en la erradicación de **deuda técnica** y la resiliencia operacional con un enfoque tecno-agnóstico orientado a la gobernanza, refactorización de datos y **modelado de sistemas complejos**.
 
  **Áreas de dominio técnico:** Modelamiento y optimización de procesos (`BPMN`, `UML`) • Gobernanza, arquitectura y ontología de datos • Estadística predictiva e inferencial • Gestión del conocimiento y documentación técnica avanzada (`Docs-as-Code`)
 
@@ -74,15 +74,6 @@ Santiago, Chile • Disponible para Reubicación
   * **Integración de metadatos:** Orquestación de *pipelines* para la integración de metadatos desde sistemas operacionales hacia repositorios en Microsoft Azure, respaldada por modelado BPMN *As-Is/To-Be*.
   * **Fiscalización y control:** Auditoría de arquitecturas de datos en entornos financieros regulados, asegurando consistencia, calidad y control de accesos.
 
- ---
-
- **ESVAL -- Departamento de Gestión de Redes**  
- **Líder de Proyecto** [Proyecto de Título]{.custom-badge .badge-lang}  
-  Julio 2017 -- Diciembre 2017 / Viña del Mar, Región de Valparaíso
-
-  * **Modelado espaciotemporal de riesgos:** Desarrollo de un modelo predictivo mediante regresión de Cox en R sobre la red de agua potable de la Región de Valparaíso (**5,300 km** de extensión, **+1.9M de usuarios**).
-  * **PMO y desarrollo ágil:** Coordinación bajo metodologías Kanban/Scrum para la generación de métricas clave de mantenimiento preventivo.
-
 ### **Tecnologías**
 
   **Lenguajes y Matemática Aplicada**  
@@ -119,7 +110,16 @@ Santiago, Chile • Disponible para Reubicación
 
   * Formación en ciencias básicas, ciencias de la ingeniería, lógica de programación (`MATLAB`) y dibujo técnico vectorial (`AutoCAD`).
 
-### **Prácticas**
+### **Prácticas y Proyectos**
+
+ **ESVAL -- Departamento de Gestión de Redes**  
+ **Líder de Proyecto** [Proyecto de Título]{.custom-badge .badge-lang}  
+  Julio 2017 -- Diciembre 2017 / Viña del Mar, Región de Valparaíso
+
+  * **Modelado espaciotemporal de riesgos:** Desarrollo de un modelo predictivo mediante regresión de Cox en R sobre la red de agua potable de la Región de Valparaíso (**5,300 km** de extensión, **+1.9M de usuarios**).
+  * **PMO y desarrollo ágil:** Coordinación bajo metodologías Kanban/Scrum para la generación de métricas clave de mantenimiento preventivo.
+ 
+ ---
 
  **Empresa Nacional de Minería (ENAMI) -- División de Finanzas y Administración**  
  **Práctica Profesional** / Enero 2016 -- Marzo 2016 / Regiones Metropolitana y de Atacama  
@@ -156,7 +156,6 @@ Santiago, Chile • Disponible para Reubicación
 
 ### **PDF**
  ![](es/cv-pablo-zuniga.pdf){width="100%" height="980px"}
-
 :::
 
 ---
