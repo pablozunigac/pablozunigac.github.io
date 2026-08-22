@@ -33,24 +33,24 @@ An **architectural framework** for building coherence in fast-evolving systems. 
 ::: {.panel-tabset}
 ### **Design Ethos**
 
- ![**Braun T3 (1958)**  
- Functional minimalism embodied: radical reduction, ultimate clarity, and timeless operational discipline.](images/braun-T3.png)
+ <!-- ![**Braun T3 (1958)**
+ Functional minimalism embodied: radical reduction, ultimate clarity, and timeless operational discipline.](images/braun-T3.png) -->
 
 **Coherence isn’t a style. It’s a principle of operation**  
 I design from **logic**, not from **trend**. The practice is governed by structural intent and semantic precision. This system design is a disciplined method for encoding **clarity**, translating **behavior**, and aligning people with **purpose**. This ethos rejects spectacle and seeks durability. The result is operational—designed to command thought, hold tension, and scale with integrity.
 
 ### **Techno-Agnostic Logic**
  
- ![**Steve Jobs & Bill Gates (1991)**  
- Divergent operational philosophies shaping digital history through pure systems logic.](images/win-mac.png)
+ <!-- ![**Steve Jobs & Bill Gates (1991)**  
+ Divergent operational philosophies shaping digital history through pure systems logic.](images/win-mac.png) -->
 
 **I don’t follow tools. I build the logic they should serve**  
 As a techno-agnostic engineer and systems thinker, I track structural shifts rather than hype cycles. My mathematical lens is anchored in **set theory** and **Boolean logic**; computationally, I draw from **Turing machines** and recursion as generative principles. Innovation is frequently spectacle before it is evolution. This stance acts as a systemic filter, decoupling logic from the transient tool to ensure architecture always governs the medium.
 
 ### **Aesthetic Code**
 
- ![**Bugatti Type 57 (1936)**  
- Aerodynamic grace merged with structural restraint to create motion in pure form.](images/bugatti-atlantic.png)
+ <!-- ![**Bugatti Type 57 (1936)**  
+ Aerodynamic grace merged with structural restraint to create motion in pure form.](images/bugatti-atlantic.png) -->
 
 **Built like a monolith. Tuned like a system**  
 This work echoes the aerodynamic grace of **early automotive design**, the structural clarity of **mid-century modernism**, and the silent authority of **industrial design subtlety**. It is design as structure in motion—built with proportion, operational tension, and absolute restraint.
@@ -80,8 +80,10 @@ Forged through real-world operational pressure, this approach prioritizes **robu
 
 ::: {.footer-meta-advanced-2}
  **AI Era Craftsmanship Notice**  
- 
- All **hyphens (-)**, **en dashes (--)**, and **em dashes (---)** contained within this site were intentionally forged via direct human-to-machine keystroke sequences. **Ampersands (&)**, **periods (.)**, **commas (,)**, and **semicolons (;)**, as well.
+
+ All **em dashes (---)**, **en dashes (--)**, and **hyphens (-)** were forged through direct human-to-keycap physical contact. No prompt engineering was involved in the punctuation of this system--regardless of what your favorite AI detector believes.
+
+
 :::
 
 ---
