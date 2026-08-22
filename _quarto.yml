@@ -10,6 +10,7 @@ project:
 
 website:
   title: "Cuxhaven Labs"
+  favicon: images/favicon/favicon-01.png
   search: false
   navbar:
     right:
