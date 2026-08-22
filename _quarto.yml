@@ -7,10 +7,11 @@ project:
   resources:
     - "*.pdf"
     - "**/*.pdf"
+    - "images/**"
 
 website:
   title: "Cuxhaven Labs"
-  favicon: images/favicon/favicon-01.png
+  favicon: images/favicon/favicon-04.jpeg
   search: false
   navbar:
     right:
