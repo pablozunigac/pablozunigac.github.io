@@ -68,7 +68,8 @@ env/
 # Folders /  / Exportaciones
 # ==========================================
 **/*.quarto_ipynb
-_site/
 _legacy/
+_site/
 .quarto/
 /.quarto/
+atelier/blog
