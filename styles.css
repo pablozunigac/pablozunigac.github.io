@@ -84,6 +84,9 @@ li:not(.nav-item) a:not(.nav-link):not(.dropdown-item):not(.btn):hover { color: 
 .panel-tabset ul li p { margin-top: 0 !important; margin-bottom: var(--space-bullet-gap) !important; }
 .panel-tabset ul li p { margin-bottom: 0 !important; }
 
+p + h4, ul + h4, ol + h4, hr + h4
+.panel-tabset + h4 { margin-top: 0.1rem; margin-bottom: 0!important; }
+
 /* COMPONENTES */
 .tech-meta, code, pre { font-family: var(--font-mono); font-size: 0.8rem; }
 pre code { background-color: transparent; border: none; padding: 0; }
@@ -98,21 +101,6 @@ code {
   padding: 0.15em 0.4em;                                    /* Relleno para dar aspecto de píldora */
   border-radius: var(--radius-badge);                       /* Bordes redondeados acordes al sistema */
 }
-
-.grid-card {
-  background: var(--color-full-white);
-  border: 1px solid var(--color-border-default);
-  border-radius: var(--radius-card);
-  padding: 0 1rem 1rem 1rem;
-  margin-top: 0;
-  height: 100%;
-  transition: border-color 0.2s ease;
-}
-
-.grid-card:hover { border-color: var(--color-border-default);}
-.grid { margin: 0.25rem 0; row-gap: 0.5rem;}
-.grid p { margin-bottom: 0.5rem; }
-.grid .g-col-12 p:last-child { margin-bottom: 0; }
 
 .action-bar {
   display: flex;
@@ -263,6 +251,18 @@ code {
   background-color: transparent;
 }
 
+/* Alineación al ras de las pestañas con la caja de texto */
+.panel-tabset .nav-tabs {
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+  border-bottom: 1px solid var(--color-border-default);
+}
+
+.panel-tabset .nav-tabs .nav-item:first-child .nav-link {
+  margin-left: 0 !important;
+  padding-left: 0.75rem !important; /* Mismo padding interno que la caja para un calce perfecto */
+}
+
 .panel-tabset .nav-tabs:has(.nav-link.active) .nav-link:not(.active) {
   color: var(--color-brand-muted);
 }
@@ -320,3 +320,32 @@ code {
   margin-bottom: 1.5rem;
   font-weight: var(--font-weight-badge);
 }
+
+/* */
+
+/* ==========================================================================
+   QUARTO: MARGEN EN SECCIONES H4 (level4)
+   ========================================================================== */
+
+/* SISTEMA GRID Y TARJETAS */
+.grid { margin-top: 1.2rem !important; }
+.grid p { margin-bottom: 0.5rem; }
+.grid .g-col-12 p:last-child { margin-bottom: 0; }
+.grid [class*="g-col-"] > h4:first-child,
+.grid [class*="g-col-"] > .h4:first-child { margin-top: 0 !important; }
+
+.grid-card {
+  background: var(--color-full-white);
+  border: 1px solid var(--color-border-default);
+  border-radius: var(--radius-card);
+  padding: 0 1rem 1rem 1rem;
+  margin-top: 0;
+  height: 100%;
+  transition: border-color 0.2s ease;
+}
+
+.grid-card:hover { border-color: var(--color-border-default); }
+
+.manifesto-flow h4 { margin-top: 2rem !important; margin-bottom: 0.2rem !important; }
+.manifesto-flow h4:first-child { margin-top: 0 !important; }
+.manifesto-jump-section { margin-top: 1.8rem !important; }
