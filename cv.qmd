@@ -28,9 +28,9 @@ Santiago, Chile • Disponible para Reubicación
 
 ### **Experiencia Laboral**
 
- **Cuxhaven Labs**  
+ **Cuxhaven Labs | Laboratorio de Sistemas Autónomos**  
   **Arquitecto Principal de Sistemas y Fundador**  
-  Mayo 2026 -- Presente / Laboratorio de I+D Aplicado y Sistemas Autónomos
+  Mayo 2026 -- Presente / Santiago, Chile
   
   * **Arquitectura de datos y gobernanza**  
   Diseño, prueba de concepto (PoC) y despliegue de *pipelines* ETL/ELT de grado de producción y ontologías a partir de datos operacionales bajo estándares de gobernanza, auditoría y trazabilidad.  
@@ -41,16 +41,16 @@ Santiago, Chile • Disponible para Reubicación
 
  **Consultoría en Ingeniería de Sistemas y Analítica Avanzada**  
   **Consultor Independiente de Ingeniería de Sistemas**  
-  Julio 2022 -- Presente / Remoto [Proyecto Ancla y Consultoría]{.custom-badge .badge-lang}
+  Julio 2022 -- Presente / Valparaíso, Chile [Proyecto Ancla y Consultoría]{.custom-badge .badge-lang}
 
   * **Motor de datos espaciotemporales:** Desarrollo de un pipeline integral en Python/R para el análisis de series de tiempo de **telemetría GNSS** en **+1.8k atletas**, modelando brechas fisiológicas para la optimización multivariable de ritmos.   
   * **Diseño de sistemas y bases de datos:** Arquitectura de bases de datos relacionales, automatización de flujos de datos y documentación técnica bajo estándares `Docs-as-Code` versionados con Quarto/Markdown.  
 
  ---
 
- **Finanzas Descentralizadas y Protocolos Web3** (*en colaboración con [tododecripto.com](https://www.tododecripto.com)*)  
+ **Sistemas Descentralizadas y Protocolos Web3** (*en colaboración con [tododecripto.com](https://www.tododecripto.com)*)  
   **Ingeniero de Sistemas Web3 e Infraestructura *On-Chain***  
-  Enero 2020 -- Julio 2022 / Remoto
+  Enero 2020 -- Julio 2022 / Global, Remoto
 
   * **Gestión de tesorería y custodia *on-chain:*** Control y trazabilidad de fondos *DeFi* (**USD $50k+**) operados mediante billeteras frías (`Ledger`), interfaces no custodiales (`MetaMask`) y protocolos DEX sobre redes Polkadot/Kusama, **Bitcoin**, **ERC-20** y **BSC**. Gestión de tarifas de gas, ejecuciones *cross-chain* y resolución de *nonces* bloqueados.  
   * **Contratos inteligentes y arquitectura técnica:** Coordinación del despliegue e infraestructura de contratos inteligentes para NFTs en entornos distribuidos de alta concurrencia (**+1.1k usuarios simultáneos**), ejerciendo en paralelo como editor técnico en [*tododecripto.com*](https://www.tododecripto.com) sobre gobernanza **Web3** y *parachains*.

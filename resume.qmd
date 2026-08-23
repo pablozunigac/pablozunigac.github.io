@@ -27,9 +27,9 @@ Santiago, Chile • Open to Relocation
 
 ### **Work Experience**
 
- **Cuxhaven Labs  
+ **Cuxhaven Labs | Autonomous Systems Lab  
  Principal Systems Architect & Founder**  
-  May 2026 -- Present / Applied R&D & Autonomous Systems Lab
+  May 2026 -- Present / Santiago, Chile
 
   * **Architecting production-grade ETL/ELT pipelines** and metadata ontologies for critical infrastructure under strict auditability and governance standards.
   * **Systemic reduction of technical debt** and refactoring system models, backed by `Docs-as-Code` technical documentation standards and version-controlled codebases.
@@ -38,7 +38,7 @@ Santiago, Chile • Open to Relocation
 
  **Systems Engineering & Advanced Analytics Advisory**  
  **Independent Forward Deployed Engineering Consultant**  
- Jul 2022 -- Present / Remote [Anchor Project & Advisory]{.custom-badge .badge-lang}
+ Jul 2022 -- Present / Valparaíso, Chile [Anchor Project & Advisory]{.custom-badge .badge-lang}
 
   * **Spatio-temporal data engine:** Engineered end-to-end Python/R pipelines analyzing GNSS time-series for **1.8k+ athletes**, modeling physiological gaps for multi-variable pacing optimization.
   * **Systems & database design:** Designed relational database structures, automated data flows, and technical control-versioned documentation architectures using Quarto/Markdown.
@@ -47,7 +47,7 @@ Santiago, Chile • Open to Relocation
 
  **Decentralized Systems & Web3 Protocols  
  Web3 Systems & On-Chain Infrastructure Engineer**  
-  Jan 2020 -- Jul 2022 / Remote
+  Jan 2020 -- Jul 2022 / Global, Remote
 
   * **On-chain treasury management:** Controlled DeFi assets (**$50k+ USD**) via cold/non-custodial wallets and DEXs on **Bitcoin**, **Polkadot**, **ERC-20**, and **BSC** networks. Executed cross-chain swaps, gas optimization, and nonce resolution.
   * **Smart contracts & technical content:** Coordinated NFT smart contract deployments for **1,100+ concurrent users** in distributed environments, while serving as a Web3 technical editor on blockchain governance for [*tododecripto.com*](https://www.tododecripto.com).
