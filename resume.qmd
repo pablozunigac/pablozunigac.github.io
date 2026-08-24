@@ -27,7 +27,7 @@ Santiago, Chile • Open to Relocation
 
 ### **Work Experience**
 
- **Cuxhaven Labs | Autonomous Systems Lab  
+ **Cuxhaven Labs  
  Principal Systems Architect & Founder**  
   May 2026 -- Present / Santiago, Chile
 
@@ -40,7 +40,7 @@ Santiago, Chile • Open to Relocation
  **Independent Forward Deployed Engineering Consultant**  
  Jul 2022 -- Present / Valparaíso, Chile [Anchor Project & Advisory]{.custom-badge .badge-lang}
 
-  * **Spatio-temporal data engine:** Engineered end-to-end Python/R pipelines analyzing GNSS time-series for **1.8k+ athletes**, modeling physiological gaps for multi-variable pacing optimization.
+  * **Spatio-temporal data engine:** Engineered end-to-end Python/R pipelines analyzing GNSS time-series for **1.8k+ triathlon athletes**, modeling physiological gaps for multi-variable pacing optimization.
   * **Systems & database design:** Designed relational database structures, automated data flows, and technical control-versioned documentation architectures using Quarto/Markdown.
 
  ---
@@ -89,9 +89,9 @@ Santiago, Chile • Open to Relocation
 
 ### **Internships & Capstone**
  
- **ESVAL (Water Utility)  
+ **ESVAL  
  Lead Data & Project Engineer** [Capstone Project]{.custom-badge .badge-lang}  
-  Jul 2017 -- Dec 2017 / Valparaíso, Chile
+  Jul 2017 -- Dec 2017 / Viña del Mar, Chile
 
   * Developed a spatio-temporal predictive risk model using Cox Proportional Hazards in R across **5,300 km** of pipeline serving **1.9M+ residents**.
   * Delivered predictive maintenance risk scores using Agile & PMO frameworks to prioritize capital expenditure allocation for regional grid resilience.
@@ -99,7 +99,7 @@ Santiago, Chile • Open to Relocation
  ---
  
  **Empresa Nacional de Minería (ENAMI) -- Finance & Administration Division**  
- **Industrial Engineering Intern** / Jan 2016 -- Mar 2016 / Atacama Region & Santiago, Chile
+ **Industrial Engineering Intern** / Jan 2016 -- Mar 2016 / Atacama & Santiago, Chile
 
  * Audited and consolidated nationwide inventory data across **75k+ SKUs**, resolving **$2.5M USD** in accounting discrepancies for corporate audits.
  * Modeled high-complexity digital storage systems tailored to mining and metallurgical operational requirements.
@@ -107,7 +107,7 @@ Santiago, Chile • Open to Relocation
  ---
 
  **Antofagasta Minerals (Minera Los Pelambres) -- Geotechnical Superintendency**  
- **Geotechnical Engineering Intern** / Jan 2014 -- Mar 2014 / Coquimbo Region, Chile
+ **Geotechnical Engineering Intern** / Jan 2014 -- Mar 2014 / Salamanca, Chile
 
  * Monitored high-altitude open-pit telemetry, ensuring data traceability for early slope failure prediction and hazard mitigation.
  * Consolidated automated sensor data into historical logs to support strategic decision-making and operational resilience in critical infrastructure.  
