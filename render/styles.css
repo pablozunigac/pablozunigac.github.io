@@ -1,0 +1,362 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Space+Grotesk:wght@300..700&display=swap');
+
+/* 2. DESIGN TOKENS (Consumo de Pesos Ad Hoc) */
+:root {
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-grotesk: 'Space Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+
+  --font-weight-thin: 100;
+  --font-weight-light: 300;
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-badge: 600;
+  --font-weight-bold: 700;
+  --font-weight-black: 900;
+
+  --color-brand-blue: #0d2b6c;
+  --color-brand-muted: #768298;
+  --color-blue-baby: #d8e6f2;
+  --color-grey-baby: #e7eaec;
+  --color-text-main: #111827;
+  --color-text-secondary: #3f4c5e;
+  --color-text-muted: #6c757d;
+  --color-link-passive: #2687fe;
+  --color-link-hover: #1e40af;
+  --color-border-default: #abb5c8;
+  --color-full-white: #ffffff;
+  --color-full-black: #000000;
+
+  --radius-card: 12px;
+  --radius-btn: 5px;
+  --radius-badge: 4px;
+}
+
+/* TIPOGRAFÍA */
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: var(--font-sans);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-text-main);
+}
+
+html, body, p, li {
+  font-family: var(--font-sans);
+  color: var(--color-text-main);
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
+
+strong, b { font-weight: var(--font-weight-badge);}
+
+/* Hipervínculos / Enlaces */
+p a:not(.btn):not(.btn-action-primary):not(.btn-action-secondary),
+li:not(.nav-item) a:not(.nav-link):not(.dropdown-item):not(.btn) {
+  text-decoration: none;
+  color: var(--color-link-passive); 
+  font-weight: inherit;
+  transition: color 0.15s ease;
+}
+
+p a:not(.btn):not(.btn-action-primary):not(.btn-action-secondary):hover,
+li:not(.nav-item) a:not(.nav-link):not(.dropdown-item):not(.btn):hover { color: var(--color-link-hover); }
+
+/* SISTEMA GENERAL DE ESPACIADO EN TABSETS */
+/* 1. Tokens de Espaciado Locales */
+.panel-tabset {
+  --space-compact: 0.4rem;        /* Separación párrafo-párrafo y salida de lista */
+  --space-list-top: 0.4rem;       /* Distancia de entrada a una lista */
+  --space-bullet-gap: 0.25rem;    /* Separación interna entre viñetas */
+  --space-bullet-indent: 2rem;    /* Sangría izquierda de la lista */
+}
+
+/* 2. Párrafos / Texto Estándar */
+.panel-tabset p { margin-top: 0 !important; margin-bottom: var(--space-compact) !important; }
+
+/* 3. Contenedores de Listas (Entrada, Salida y Sangría) */
+.panel-tabset ul {
+  margin-top: var(--space-list-top) !important;
+  margin-bottom: var(--space-compact) !important;
+  padding-left: var(--space-bullet-indent) !important;
+}
+
+/* 4. Viñetas y Párrafos Anidados */
+.panel-tabset ul li,
+.panel-tabset ul li p { margin-top: 0 !important; margin-bottom: var(--space-bullet-gap) !important; }
+
+p + h4, ul + h4, ol + h4, hr + h4
+.panel-tabset + h4 { margin-top: 0.1rem; margin-bottom: 0!important; }
+
+/* Quarto Tabset - Estado Inicial (Sin selección/Carga) */
+.panel-tabset .nav-tabs .nav-link {
+  color: var(--color-text-main);
+  font-weight: var(--font-weight-regular);
+  font-size: 0.9rem !important;         /* Ajusta según prefieras: 0.85rem, 0.95rem, 14px, etc. */
+  font-weight: 500;                     /* Opcional: para controlar el grosor de la tipografía */
+  transition: color 0.15s ease;
+  padding: 0.5rem 0.7rem !important;  /* Reduce espacio interno entre texto y borde */
+  font-size: 0.9rem !important;        /* Escala ligeramente la tipografía */
+  letter-spacing: -0.01em;              /* Comprime ligeramente el kerning */
+}
+
+.panel-tabset .nav-tabs .nav-link:not(.active):hover { color: var(--color-text-muted); }
+
+.panel-tabset .nav-tabs .nav-link.active,
+.panel-tabset .nav-tabs .nav-item.show .nav-link {
+  color: var(--color-text-main);
+  border-bottom: 2px solid var(--color-text-main);
+  background-color: transparent;
+}
+
+/* Alineación al ras de las pestañas con la caja de texto */
+.panel-tabset .nav-tabs {
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+  border-bottom: 1px solid var(--color-border-default);
+}
+
+.panel-tabset .nav-tabs .nav-item:first-child .nav-link {
+  margin-left: 0 !important;
+  padding-left: 0.75rem !important; /* Mismo padding interno que la caja para un calce perfecto */
+}
+
+.panel-tabset .nav-tabs:has(.nav-link.active) .nav-link:not(.active) {
+  color: var(--color-brand-muted);
+}
+
+.panel-tabset .nav-tabs:has(.nav-link.active) .nav-link:not(.active):hover {
+  color: var(--color-text-main);
+}
+
+/* COMPONENTES */
+.tech-meta, code, pre { font-family: var(--font-mono); font-size: 0.8rem; }
+pre code { background-color: transparent; border: none; padding: 0; }
+
+code {
+  font-family: var(--font-mono, SFMono-Regular, Menlo, Monaco, Consolas, monospace);
+  font-size: 0.85rem;
+  font-weight: var(--font-weight-badge);
+  color: var(--color-brand-blue);                           /* Texto oscuro principal */
+  background-color: var(--color-full-white) !important;     /* Gris muy claro neutro (Slate 100) */
+  border: 0px solid var(--color-text-main) !important;      /* Borde sutil de separación */
+  padding: 0.15em 0.4em;                                    /* Relleno para dar aspecto de píldora */
+  border-radius: var(--radius-badge);                       /* Bordes redondeados acordes al sistema */
+}
+
+.action-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+}
+
+/* Badges */
+.badge.bg-secondary {
+  background-color: var(--color-blue-baby) !important;
+  color: var(--color-brand-blue);          
+  font-weight: var(--font-weight-badge);   
+  font-size: 0.75rem;
+  border-radius: var(--radius-badge) !important;
+  border: none !important;
+}
+
+/* 1. Estructura Base de la Badge */
+.custom-badge {
+  --badge-weight: var(--font-weight-badge);
+  display: inline-block;
+  color: var(--badge-color) !important;
+  background-color: var(--badge-bg) !important;
+  font-size: var(--badge-size);
+  font-weight: var(--badge-weight);
+  font-family: var(--font-sans);
+  
+  /* Borde y relleno */
+  border: 1px solid var(--color-border-default);
+  padding: 0.2em 0.55em;
+  border-radius: var(--radius-badge);
+  line-height: 1.1;
+
+  vertical-align: middle;       /* Centra el badge respecto al texto */
+  margin-top: -0.15em;          /* Ajuste fino opcional si la fuente base es alta */
+}
+
+.custom-badge.badge-lang {
+  --badge-bg: var(--color-blue-baby);
+  --badge-color: var(--color-brand-blue);
+  --badge-size: 0.75rem;
+  --badge-weight: var(--font-weight-badge);
+}
+
+/* Layout Container */
+.home-container { max-width: 1000px; margin: 0 auto; }
+
+/* */
+
+/* NAVBAR - Web Navigation */
+.navbar-brand { 
+  color: var(--color-brand-blue); 
+  font-weight: var(--font-weight-bold);
+  text-decoration: none;
+  transition: color .4s ease;
+}
+
+.navbar-brand:hover { color: var(--color-brand-blue); text-decoration: none; }
+
+.navbar a:not(.navbar-brand), 
+.navbar-nav .nav-link {
+  color: var(--color-brand-blue); /* Color de las opciones INactivas de la barra */
+  font-weight: var(--font-weight-badge);
+  text-decoration: none;
+  transition: color 0.15s ease-in-out;
+}
+
+.navbar-nav:has(.nav-link.active) .nav-link:not(.active) {
+  color: var(--color-brand-muted); 
+}
+.navbar-nav .nav-link.active {
+  color: var(--color-brand-blue);
+}
+.navbar-nav:has(.nav-link.active) .nav-link:not(.active):hover {
+  color: var(--color-brand-blue) !important;
+}
+.navbar-nav:not(:has(.nav-link.active)) .nav-link:hover {
+  color: var(--color-brand-muted) !important; /* Hover de la barra completa*/
+}
+
+.navbar .dropdown-menu {
+  background-color: var(--color-grey-baby); /* FONDO del menú desplegable */
+  border: 1px solid var(--color-border-default);
+  border-radius: 8px;
+  padding: 0.35rem 0;
+  box-shadow: 0 10px 25px -5px rgba(13, 43, 108, 0.12), 
+              0 4px 6px -2px rgba(13, 43, 108, 0.05);
+}
+
+.navbar .dropdown-menu .dropdown-item {
+  font-family: var(--font-sans);
+  font-size: 0.88rem;
+  font-weight: var(--font-weight-badge);
+  color: var(--color-brand-blue); /* TEXTO INactivo*/
+  padding: 0.5rem 1rem;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out;
+}
+
+.navbar .dropdown-menu .dropdown-item:hover,
+.navbar .dropdown-menu .dropdown-item:focus,
+.navbar .dropdown-menu a.dropdown-item:hover {
+  color: var(--color-text-muted); /* TEXTO HOVER */
+  background-color: rgba(8, 35, 93, 0.125);
+  outline: none;
+}
+
+.navbar-nav .nav-link.show,
+.navbar-nav .nav-link[aria-expanded="true"] {
+  color: var(--color-brand-blue) !important;
+}
+
+.nav-link:focus,
+.nav-link:focus-visible,
+.nav-link:active,
+.show > .nav-link,
+.dropdown-toggle:focus,
+.dropdown-toggle:focus-visible {
+  outline: none;
+  box-shadow: none;
+  border-color: transparent;
+}
+
+/* */
+
+/* Subtítulos específicos de Quarto */
+#title-block-header .quarto-title-subtitle,
+.quarto-title-block .quarto-title-subtitle,
+#title-block-header h3.subtitle,
+.quarto-title h3.subtitle { font-weight: 500; color: var(--color-text-secondary); }
+
+/* FOOTERS */
+.footer-meta-advanced,
+.footer-meta-advanced p,
+.footer-meta-advanced strong,
+.footer-meta-advanced b {
+  font-size: 0.85rem !important;
+  color: var(--color-text-muted) !important;
+  line-height: 1.35;
+}
+
+.footer-meta-advanced a,
+.footer-meta-advanced a *,
+.footer-meta-advanced a strong {
+  color: var(--color-text-secondary) !important;
+  text-decoration: none;
+  transition: color 0.15s ease-in-out;
+}
+
+.footer-meta-advanced a:hover,
+.footer-meta-advanced a:hover *,
+.footer-meta-advanced a:hover strong { color: var(--color-link-hover) !important; text-decoration: none; }
+
+.footer-meta-advanced-2 {
+  font-family: var(--font-sans);
+  background-color: var(--color-blue-baby);
+  border: 0.5px solid var(--color-border-default);
+  border-radius: var(--radius-card);
+  line-height: 1.5;
+  padding: 0.85rem 1.25rem; 
+  margin-top: 2rem;
+  margin-bottom: 0;
+}
+
+.footer-meta-advanced-2, .footer-meta-advanced-2 * { font-size: 0.9rem !important; color: var(--color-brand-blue) !important; }
+.footer-meta-advanced-2 > * { margin: 0; }
+.footer-meta-advanced-2 p + p { margin-top: 0.4rem; }
+.footer-meta-advanced-2 ul { margin-top: 0.35rem; margin-bottom: 0; padding-left: 1.2rem; }
+.footer-meta-advanced-2-title{ font-weight: var(--font-weight-bold); color: var(--color-text-main); margin-bottom: 0.4rem; }
+
+.quarto-title-block .quarto-title-meta { display: none  !important; }
+
+.quarto-title .subtitle {
+  font-size: 1.3rem !important;
+  color: var(--color-text-main, #6b7280) !important;
+  line-height: 1.4;
+  margin-top: 0.4rem;
+  margin-bottom: 1.5rem;
+  font-weight: var(--font-weight-badge);
+}
+
+/* */
+
+/* ==========================================================================
+   QUARTO: MARGEN EN SECCIONES H4 (level4)
+   ========================================================================== */
+
+/* SISTEMA GRID Y TARJETAS */
+.grid { margin-top: 1.2rem !important; }
+.grid p { margin-bottom: 0.5rem; }
+.grid .g-col-12 p:last-child { margin-bottom: 0; }
+.grid [class*="g-col-"] > h4:first-child,
+.grid [class*="g-col-"] > .h4:first-child { margin-top: 0 !important; }
+
+.grid-card {
+  background: var(--color-full-white);
+  border: 1px solid var(--color-border-default);
+  border-radius: var(--radius-card);
+  padding: 0 1rem 1rem 1rem;
+  margin-top: 0;
+  height: 100%;
+  transition: border-color 0.2s ease;
+}
+
+.grid-card:hover { border-color: var(--color-border-default); }
+
+.manifesto-flow h4 { margin-top: 2rem !important; margin-bottom: 0.2rem !important; }
+.manifesto-flow h4:first-child { margin-top: 0 !important; }
+.manifesto-jump-section { margin-top: 1.8rem !important; }
+
+/* CAPTIONS Y MARGEN LATERAL (Aumento de Contraste) */
+.column-margin, 
+figcaption, 
+.figure-caption, 
+div.aside {
+  color: var(--color-text-secondary) !important;
+}

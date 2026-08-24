@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: _site
   render:
-    - "*.qmd"
+    - "render/*.qmd"
     - "!*.md"
   resources:
     - "*.pdf"
@@ -15,11 +15,11 @@ website:
   search: false
   navbar:
     right:
-      - href: resume.qmd
+      - href: render/resume.qmd
         text: Resume 
-      - href: cv.qmd
+      - href: render/cv.qmd
         text: CV (Spanish) 
-      - href: manifesto.qmd
+      - href: render/manifesto.qmd
         text: Manifesto
       - text: "Connect"
         menu:
@@ -33,7 +33,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: render/styles.css
     toc: false
     toc-depth: 0
     max-width: 1800px
