@@ -8,7 +8,7 @@ format:
 ---
 
 ::: {.fw-semibold}
-Industrial & Systems Engineer PUCV (BSc & MSc Equivalent)  
+Data & Systems Architect • Industrial & Systems Engineer (BSc & MSc Equivalent)  
 Data Modeling • Applied Statistics • Complex Systems  
 Santiago, Chile • Open to Relocation  
 [US [H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) & [ESTA](https://cl.usembassy.gov/visa-waiver-program/) Eligible]{.badge .bg-secondary} [EU [Blue Card](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card_en) Eligible]{.badge .bg-secondary}  
@@ -24,6 +24,16 @@ Santiago, Chile • Open to Relocation
 ---
 
 ::: {.panel-tabset}
+
+### **Tech Stack**
+
+ **Data Engineering & Cloud**  
+ Python (`FastAPI`, `Polars`), TypeScript, SQL, MS Azure, Docker, GitHub Actions (CI/CD), `ETL`/`ELT` pipelines, relational databases, and Parquet.  
+
+ ---
+
+ **Advanced Analytics & Systems**  
+ R (`Tidyverse`, `targets`), inferential & predictive statistical modeling, Monte Carlo simulations, `BPMN`/`UML`, data governance, and `Docs-as-Code` knowledge architectures.  
 
 ### **Work Experience**
 
@@ -70,24 +80,7 @@ Santiago, Chile • Open to Relocation
   * **Metadata integration:** Orchestrated automated metadata integration pipelines from core transactional systems into MS Azure, standardizing BPMN workflows.
   * **Compliance & auditing:** Audited data architecture compliance in regulated banking environments, enforcing schema consistency and RBAC security controls.
 
-### **Tech Stack**
-
- **Data Engineering & Cloud**  
- Python (`FastAPI`, `Polars`), TypeScript, SQL, MS Azure, Docker, GitHub Actions (CI/CD), ETL/ELT pipelines, relational databases, and Parquet.  
- 
- ---
-
- **Advanced Analytics & Systems**  
- R (`Tidyverse`, `targets`), MILP & optimization, inferential & predictive statistical modeling, Monte Carlo simulations, process modeling (`BPMN`/`UML`), data governance, and knowledge architectures (`Docs-as-Code`, `Quarto`).
-
-### **Education**
-
- **Pontificia Universidad Católica de Valparaíso** / Valparaíso, Chile  
- **Industrial & Systems Engineering (Integrated 6-year program, BSc & MSc equivalent)** / 2011 -- 2017
-
- **Core academic foundations:** systems theory, advanced statistics, econometrics, systems modeling, and operations research.
-
-### **Internships & Capstone**
+### **Projects & Internships**
  
  **ESVAL  
  Lead Data & Project Engineer** [Capstone Project]{.custom-badge .badge-lang}  
@@ -112,7 +105,14 @@ Santiago, Chile • Open to Relocation
  * Monitored high-altitude open-pit telemetry, ensuring data traceability for early slope failure prediction and hazard mitigation.
  * Consolidated automated sensor data into historical logs to support strategic decision-making and operational resilience in critical infrastructure.  
 
-### **Enablement**
+### **Education**
+
+ **Pontificia Universidad Católica de Valparaíso** / Valparaíso, Chile  
+ **Industrial & Systems Engineering (Integrated 6-year program, BSc & MSc equivalent)** / 2011 -- 2017
+
+ **Core focus:** systems theory, information technology, inferential statistics, operations research, and econometrics.
+
+### **Technical Instruction**
 
  **Pontificia Universidad Católica de Valparaíso -- School of Business  
  Graduate Technical Instructor** / 2019 / Valparaíso, Chile [Graduate Studies]{.custom-badge .badge-lang}  
