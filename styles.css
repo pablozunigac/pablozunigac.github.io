@@ -89,9 +89,12 @@ p + h4, ul + h4, ol + h4, hr + h4
 .panel-tabset .nav-tabs .nav-link {
   color: var(--color-text-main);
   font-weight: var(--font-weight-regular);
+  font-size: 0.9rem !important;         /* Ajusta según prefieras: 0.85rem, 0.95rem, 14px, etc. */
+  font-weight: 500;                     /* Opcional: para controlar el grosor de la tipografía */
   transition: color 0.15s ease;
-  font-size: 0.9rem !important;    /* Ajusta según prefieras: 0.85rem, 0.95rem, 14px, etc. */
-  font-weight: 500;                 /* Opcional: para controlar el grosor de la tipografía */
+  padding: 0.5rem 0.7rem !important;  /* Reduce espacio interno entre texto y borde */
+  font-size: 0.9rem !important;        /* Escala ligeramente la tipografía */
+  letter-spacing: -0.01em;              /* Comprime ligeramente el kerning */
 }
 
 .panel-tabset .nav-tabs .nav-link:not(.active):hover { color: var(--color-text-muted); }
