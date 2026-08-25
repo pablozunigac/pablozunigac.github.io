@@ -172,7 +172,7 @@ Santiago, Chile • Disponible para Reubicación
  * Referente técnico en el modelado de datos y la configuración de ambientes de desarrollo en `Python` y `R`.
  
 ### **PDF**
- ![](es/cv-pablo-zuniga.pdf){width="100%" height="980px"}
+ ![](../es/cv-pablo-zuniga.pdf){width="100%" height="980px"}
 
 :::
 

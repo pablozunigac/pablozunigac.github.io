@@ -8,7 +8,7 @@ format:
 ---
 
 ::: {.fw-semibold}
-Data & Systems Architect  
+Deployment Strategy & Operational Analytics  
 Industrial & Systems Engineer (*BSc & MSc Equivalent*)  
 Data Modeling • Applied Statistics • Complex Systems  
 Santiago, Chile • Open to Relocation  
@@ -131,7 +131,8 @@ Santiago, Chile • Open to Relocation
  Teaching data architecture, exploratory statistics, and data visualization for complex systems modeling.
 
 ### **PDF**
- ![](en/resume-pablo-zuniga.pdf){width="100%" height="990px"}
+ 
+ ![](../en/resume-pablo-zuniga.pdf){width="100%" height="990px"}
 
 :::
 

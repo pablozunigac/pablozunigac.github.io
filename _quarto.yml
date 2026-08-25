@@ -35,7 +35,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: render/styles.css
+    css: styles/main.css
     toc: false
     toc-depth: 0
     max-width: 1800px
