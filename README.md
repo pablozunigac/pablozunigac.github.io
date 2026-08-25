@@ -10,9 +10,7 @@ Santiago, Chile · Open to Relocation**
 ---
 
 ## Architecture of pablozunigac.github.io
-Centralized routing via `index.qmd` manages dynamic documentation, architectural specifications, and live deployments through a single entry point.
-
-Built as a **Docs-as-Code** system, it delivers bilingual (`US/Global` & `Hispanophone`) technical documentation using modular **Quarto** compilation and automated CI/CD pipelines.
+Centralized routing via `index.qmd` manages dynamic documentation, architectural specifications, and live deployments through a single entry point. Built as a `Docs-as-Code` system, it delivers bilingual (`US/Global` & `Hispanophone`) technical documentation using modular **Quarto** compilation and automated CI/CD pipelines.
 
 ![](images/cover-github-io.png)
 
