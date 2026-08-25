@@ -4,8 +4,8 @@
 **Deployment Strategy & Operational Analytics  
 Industrial & Systems Engineer, BSc & MSc Equivalent  
 Data Modeling · Applied Statistics · Complex Systems  
-Santiago, Chile · Open to Relocation · US H-1B1 & ESTA Eligible**  
-`Native Spanish` · `Professional English`
+Santiago, Chile · Open to Relocation**  
+`US H-1B1 Eligible` · `EU Blue Card Eligible` · `Native Spanish` · `Professional English`
 
 ---
 
