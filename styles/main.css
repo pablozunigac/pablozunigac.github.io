@@ -40,8 +40,8 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 html, body, p, li {
   font-family: var(--font-sans);
-  color: var(--color-text-main);
   font-size: 0.95rem;
+  color: var(--color-text-main);
   line-height: 1.45;
 }
 
