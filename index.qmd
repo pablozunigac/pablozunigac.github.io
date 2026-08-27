@@ -38,7 +38,7 @@ Design and implementation of **automated pipelines (ETL/ELT)** and **metadata ar
 
 ::: {.g-col-12 .g-col-md-4}
 ::: {.grid-card}
-#### Advanced Analytics & Modeling
+#### Advanced Analytics & Process Modeling
 Statistical and inferential modeling, alongside **time-series** analysis, applied to risk mitigation and **resource optimization** across critical infrastructure sectors (such as mining, energy, and regulated utilities).
 :::
 :::
