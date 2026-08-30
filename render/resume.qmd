@@ -59,7 +59,7 @@ Santiago, Chile • Open to Relocation
  Web3 Systems & On-Chain Infrastructure Engineer**  
   Jan 2020 -- Jul 2022 / Global, Remote
 
-  * **On-chain treasury management:** Controlled DeFi assets (**$50k+ USD**) via cold/non-custodial wallets and DEXs on **Bitcoin**, **Polkadot**, **ERC-20**, and **BSC** networks. Executed cross-chain swaps, gas optimization, and nonce resolution.
+  * **On-chain treasury management:** Controlled DeFi assets via cold/non-custodial wallets and DEXs on **Bitcoin**, **Polkadot**, **ERC-20**, and **BSC** networks. Executed cross-chain swaps, gas optimization, and nonce resolution.
   * **Smart contracts & technical content:** Coordinated NFT smart contract deployments for **1,100+ concurrent users** in distributed environments, while serving as a Web3 technical editor on blockchain governance for [*tododecripto.com*](https://www.tododecripto.com).
 
  ---

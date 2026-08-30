@@ -79,7 +79,7 @@ Santiago, Chile • Disponible para Reubicación
   Ingeniero de Sistemas Web3 e Infraestructura *On-Chain*  
   Enero 2020 -- Julio 2022 / Global, Remoto**
 
-  * Gestión y trazabilidad de tesorerías (**+50k USD**) bajo custodia *DeFi* (`MetaMask`, `Ledger`, DEXs) sobre `relay-chains`/`parachains` de Polkadot/Kusama y redes **Bitcoin**, **ERC-20** y **BSC**. Gestión de *gas fees*, ejecución de *intra*/*cross-chain swaps* y sobrescritura de *nonces*.  
+  * Gestión y trazabilidad de tesorerías bajo custodia *DeFi* (`MetaMask`, `Ledger`, DEXs) sobre `relay-chains`/`parachains` de Polkadot/Kusama y redes **Bitcoin**, **ERC-20** y **BSC**. Gestión de *gas fees*, ejecución de *intra*/*cross-chain swaps* y sobrescritura de *nonces*.  
   * Coordinación de *smart contracts* para NFTs en entornos virtuales distribuidos de alta concurrencia (**~1,1k usuarios**) y editor en [*tododecripto.com*](https://www.tododecripto.com) sobre *blockchain*, *parachains* y gobernanza Web3.
 
  ---
