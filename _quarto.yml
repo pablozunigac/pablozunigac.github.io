@@ -35,6 +35,7 @@ website:
 format:
   html:
     theme: cosmo
+    lang: en
     css: styles/main.css
     toc: false
     toc-depth: 0
