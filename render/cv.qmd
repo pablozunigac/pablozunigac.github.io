@@ -9,7 +9,7 @@ format:
 
 ::: {.fw-semibold}
  Ingeniero Civil Industrial  
- Modelado de Datos • Estadística Aplicada • Sistemas Complejos  
+ Arquitectura de Datos • Estadística Aplicada • Sistemas Complejos  
  Viña del Mar, Chile • Disponible para Reubicación  
  [Elegible para [Tarjeta Azul](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card_en) UE]{.badge .bg-secondary} [Español (Nativo)]{.badge .bg-secondary} [Inglés (Profesional)]{.badge .bg-secondary}
 :::
