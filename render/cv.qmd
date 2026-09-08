@@ -52,9 +52,13 @@ format:
   Arquitecto Principal de Sistemas y Fundador  
   Mayo 2026 -- Presente / Santiago, Chile**
   
-  * **Arquitectura y gobernanza de datos:** Diseño, validación (PoC) y despliegue de flujos `ETL`/`ELT` y ontologías semánticas, garantizando trazabilidad, auditoría y cumplimiento de estándares de gobernanza.  
-  * **Ingeniería de resiliencia y continuidad:** Refactorización de sistemas de información para reducir deuda técnica y mitigar riesgos operacionales, estandarizando la documentación mediante `Docs-as-Code` y control de versiones con `Git`.
-  * **Auditoría de sistemas y metadatos:** Control e integración de activos digitales mediante arquitectura de metadatos, diseñando e implementando protocolos de respaldo y continuidad operacional para mitigar incidencias tecnológicas.  
+ Estudio independiente de investigación, arquitectura y consultoría tecnológica orientado al diseño y evolución de sistemas complejos, con foco en arquitectura de datos, gobernanza de sistemas de información, automatización de procesos y continuidad operacional.  
+
+ * **[AstroGit-OS](https://pablozunigac.github.io/render/astrogit-os.html) --- Concepto de Arquitectura de Sistemas**  
+ Arquitectura GitOps para gobernanza, reconciliación de estados, trazabilidad operacional y resiliencia de instrumentación astronómica.
+ 
+ * **Portafolio Técnico e Ingeniería de Sistemas**  
+ Plataforma web técnica desarrollada mediante Quarto y versionada mediante Git/GitHub orientada a documentación reproducible, modelado de datos, arquitectura de sistemas y comunicación técnica.
  
  ---
 

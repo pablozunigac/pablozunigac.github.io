@@ -23,10 +23,8 @@ website:
         text: CV (Spanish)
       - href: render/manifesto.qmd
         text: Manifesto
-      - text: "Projects"
-        menu:
-          - text: AstroGit-OS (ES)
-            href: render/astrogit-os.qmd        
+      - href: render/astrogit-os.qmd        
+        text: "AstroGit-OS"         
       - text: "Connect"
         menu:
           - text: GitHub

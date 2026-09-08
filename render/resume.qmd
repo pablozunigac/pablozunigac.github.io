@@ -40,8 +40,8 @@ format:
  Principal Systems Architect & Founder**  
   May 2026 -- Present / Santiago, Chile
 
-  * **Architecting production-grade ETL/ELT pipelines** and metadata ontologies for critical infrastructure under strict auditability and governance standards.
-  * **Systemic reduction of technical debt** and refactoring system models, backed by `Docs-as-Code` technical documentation standards and version-controlled codebases.
+  * Architecting data systems and reproducible technical workflows through Git, Quarto, and Docs-as-Code.  
+  * Developing [AstroGit-OS](https://pablozunigac.github.io/render/astrogit-os.html), a GitOps architecture for governance and traceability of astronomical instrumentation.
  
  ---
 
