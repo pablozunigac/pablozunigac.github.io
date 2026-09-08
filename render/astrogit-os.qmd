@@ -20,7 +20,7 @@ format:
  **AstroGit-OS es un modelo documental de referencia para la configuración, mantenimiento y el linaje operacional de la instrumentación optomecánica de observatorios astronómicos de nueva generación**. Aplicando principios de _GitOps_ e _Infrastructure-as-Code_, AstroGit-OS desacopla datos astronómicos masivos de metadatos operativos para la gestión de la infraestructura científica.  
 
 
-![**Diagrama 1 – Arquitectura lógica distribuida de AstroGit-OS**](../images/astrogit-diagram-3.png)
+![**Diagrama 1 – Arquitectura lógica distribuida de AstroGit-OS**](../images/astrogit-diagram-overview.png)
 
 ::: {.manifesto-flow}
 
