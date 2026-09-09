@@ -63,7 +63,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../styles/main.css">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -125,9 +125,10 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -143,7 +144,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">2026-09-08, 21:48 UTC.</p>
+      <p class="date">2026-09-09, 01:16 UTC.</p>
     </div>
   </div>
   
@@ -155,31 +156,27 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="footer-meta-advanced-2">
-<p><strong>Purpose of this Overview</strong></p>
-<p>This document provides a conceptual systems architecture overview for discussion and technical review. It presents the architectural context, scope, boundaries, and intended role of AstroGit-OS for observatory operations, control, configuration, and maintenance systems leads.</p>
-</div>
-<hr>
-<p><strong>Current Status:</strong> Phase 0 / Draft<br>
-<strong>Stable Release Date:</strong> Early Q4 2026<br>
-<strong>Next Milestone:</strong> Read-only demonstrator against a representative operational subsystem<br>
-<strong>License:</strong> <a href="https://creativecommons.org/licenses/by/4.0/deed.en"><strong>CC BY 4.0</strong></a> License</p>
-<hr>
+<div class="manifesto-flow page-columns page-full">
 <p><strong>AstroGit-OS is a reference declarative architecture for the configuration, maintenance, and operational lineage of optomechanical instrumentation in next-generation astronomical observatories.</strong> Applying GitOps and Infrastructure-as-Code principles, AstroGit-OS dispenses with massive astronomical data and focuses exclusively on the operational metadata required to govern scientific infrastructure.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<figcaption><strong>Diagrama 1 – Arquitectura Lógica Distribuida de AstroGit-OS</strong></figcaption>
-<p><img src="../images/astrogit-diagram-overview.png" class="img-fluid figure-img"></p>
-</figure>
-</div>
-<div class="manifesto-flow">
-<section id="the-value-of-operational-certainty-in-astronomy" class="level4">
+<hr>
+<p><strong>Purpose of this Overview</strong><br>
+This document introduces a conceptual systems architecture for technical review and discussion, outlining the context, scope, boundaries, and operational role of AstroGit-OS for observatory control, configuration, and maintenance engineering leads.</p>
+<hr>
+<section id="the-value-of-operational-certainty-in-astronomy" class="level4 page-columns page-full">
 <h4 class="anchored" data-anchor-id="the-value-of-operational-certainty-in-astronomy">The Value of Operational Certainty in Astronomy</h4>
 <p>Through an operational state reconciliation architecture, AstroGit-OS governs the evolution of infrastructure and instrumentation, detects deviations between observed state and desired configuration, and establishes a verifiable link between observation blocks and the versioned operational state through passive telemetry and non-intrusive state extraction agents. In doing so, it aims to reduce operational uncertainty, minimize downtime, and facilitate the reproduction of technical conditions underlying the scientific use of astronomical instrumentation.</p>
+<div class="quarto-figure quarto-figure-center page-columns page-full">
+<figure class="figure page-columns page-full">
+<p><img src="../images/astrogit-diagram-overview.png" class="img-fluid figure-img"></p>
+<figcaption class="margin-caption"><strong>AstroGit-OS</strong><br>
+Distributed Logical Architecture</figcaption>
+</figure>
+</div>
 </section>
 <section id="scope-and-boundaries-of-astrogit-os" class="level4">
 <h4 class="anchored" data-anchor-id="scope-and-boundaries-of-astrogit-os">Scope and Boundaries of AstroGit-OS</h4>
 <p><strong>AstroGit-OS does not capture, store, process, simulate, or transmit astronomical data, nor does it operate telescopes in real time.</strong> Its function is to govern a versioned, asynchronous digital representation of the operational state of telescopes and other scientific infrastructure, decoupling scientific activities from engineering operations. <strong>AstroGit-OS records, stores, and audits the evolution of infrastructure configuration through Git as a version-controlled governance mechanism</strong>, keeping the declarative representation of operational state separate from its physical implementation across the instrumentation.</p>
+<hr>
 </section>
 <section id="astrogit-os-differentiating-principles" class="level4">
 <h4 class="anchored" data-anchor-id="astrogit-os-differentiating-principles">AstroGit-OS Differentiating Principles</h4>
@@ -192,16 +189,26 @@ Supports operational continuity and the recovery of versioned configurations at 
 <li><strong>Non-Intrusive Declarative Governance</strong><br>
 Translates infrastructure maintenance into an auditable workflow through Pull Requests and human approval, operating strictly asynchronously without interfering with real-time telescope operations.</li>
 </ul>
+<hr>
 </section>
 <section id="operational-challenges-of-astronomical-optomechanics" class="level4">
 <h4 class="anchored" data-anchor-id="operational-challenges-of-astronomical-optomechanics">Operational Challenges of Astronomical Optomechanics</h4>
 <p>Large-scale observatories operate in highly precise optomechanical environments, where thermal, mechanical, optical, and alignment variations can affect the conditions under which scientific data are acquired. The operation of this infrastructure generates information distributed across control systems, databases, maintenance records, and configuration mechanisms, each serving specific operational functions.</p>
 <p>This heterogeneity can fragment the historical representation of infrastructure state, making it difficult to reconstruct that state as a coherent, contextualized, and verifiable record. Addressing this challenge requires more than simply recording events, configurations, or states; it requires preserving the ability to reproducibly reconstruct the operational state of the infrastructure throughout its lifecycle. This, in turn, requires linking configuration, observed state, authorized changes, and operational context within a consistent historical representation that remains independent of the original source and can be subsequently verified.</p>
+<hr>
+</section>
+<section id="project-status-roadmap" class="level4">
+<h4 class="anchored" data-anchor-id="project-status-roadmap">Project Status &amp; Roadmap</h4>
+<p><strong>Author:</strong> Pablo Zúñiga<br>
+<strong>Current Status:</strong> Phase 0 / Draft<br>
+<strong>Stable Release Date:</strong> Early Q4 2026<br>
+<strong>Next Milestone:</strong> Read-only demonstrator against a representative operational subsystem<br>
+<strong>License:</strong> <a href="https://creativecommons.org/licenses/by/4.0/deed.en"><strong>CC BY 4.0</strong></a></p>
 </section>
 </div>
-<hr>
 <div class="footer-meta-advanced my-4">
-<p><strong>Last Update:</strong> 2026-09-08, 21:48 UTC.<br>
+<hr>
+<p><strong>Last Update:</strong> 2026-09-09, 01:16 UTC.<br>
 Engineered with <a href="https://quarto.org"><strong>Quarto</strong></a> &amp; versioned on <a href="https://github.com/pablozunigac/pablozunigac.github.io"><strong>GitHub</strong></a>.<br>
 <strong>© 2026 Cuxhaven Labs.</strong> MIT License.</p>
 </div>
