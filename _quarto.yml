@@ -18,13 +18,13 @@ website:
   navbar:
     right:
       - href: render/resume.qmd
-        text: Resume 
+        text: Resume
       - href: render/cv.qmd
         text: CV (Spanish)
       - href: render/manifesto.qmd
         text: Manifesto
-      - href: render/astrogit-os.qmd        
-        text: "AstroGit-OS"         
+      - href: render/astrogit-os.qmd
+        text: "AstroGit-OS"
       - text: "Connect"
         menu:
           - text: GitHub
@@ -39,6 +39,7 @@ format:
     theme: cosmo
     lang: en
     css: styles/main.css
+    smooth-scroll: true
     toc: false
     toc-depth: 0
     max-width: 1800px
