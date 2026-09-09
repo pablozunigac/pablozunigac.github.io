@@ -7,6 +7,7 @@ format:
     date: last-modified
     date-format: "YYYY-MM-DD, HH:mm [UTC.]"
     fig-cap-location: margin
+    lightbox: true
 ---
 ::: {.manifesto-flow}
 
@@ -32,7 +33,9 @@ format:
  Through an operational state reconciliation architecture, AstroGit-OS governs the evolution of infrastructure and instrumentation, detects deviations between observed state and desired configuration, and establishes a verifiable link between observation blocks and the versioned operational state through passive telemetry and non-intrusive state extraction agents. In doing so, it aims to reduce operational uncertainty, minimize downtime, and facilitate the reproduction of technical conditions underlying the scientific use of astronomical instrumentation.  
  
  ![**AstroGit-OS**  
- Distributed Logical Architecture](../images/astrogit-diagram-overview.png)
+ Distributed Logical Architecture  
+ **Resolution:** 3840 × 3070 px  
+ **Size:** 649KB](../images/astrogit-diagram-overview.png)  
 
 #### Scope and Boundaries of AstroGit-OS
  **AstroGit-OS does not capture, store, process, simulate, or transmit astronomical data, nor does it operate telescopes in real time.** Its function is to govern a versioned, asynchronous digital representation of the operational state of telescopes and other scientific infrastructure, decoupling scientific activities from engineering operations. **AstroGit-OS records, stores, and audits the evolution of infrastructure configuration through Git as a version-controlled governance mechanism**, keeping the declarative representation of operational state separate from its physical implementation across the instrumentation.
