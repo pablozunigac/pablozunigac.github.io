@@ -47,9 +47,11 @@ format:
 
  This heterogeneity can fragment the historical representation of infrastructure state, making it difficult to reconstruct as a coherent, contextualized, and verifiable record. Addressing this challenge requires more than simply recording events, configurations, or states. **It requires preserving the ability to reproducibly reconstruct the operational state of the infrastructure throughout its lifecycle.** This, in turn, requires linking configuration, observed state, authorized changes, and operational context within a consistent historical representation that remains independent of the original source and can be subsequently verified.
 
+---
+
 #### Project Status & Roadmap
  
- **Author:** Pablo Zúñiga  
+ **Author:** [**Pablo Zúñiga**](https://pablozunigac.github.io)  
  **Last Update Status:** Phase 0 / Draft  
  **Stable Release Date:** Early Q4 2026   
  **Next Milestone:** Read-only demonstrator against a representative operational subsystem  
