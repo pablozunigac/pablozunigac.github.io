@@ -473,8 +473,8 @@ h4 {
 .center-shadow-content p {
   text-align: center;
   color: var(--color-text-muted);
-  margin-left: 4rem;
-  margin-right: 4rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
 }
 
 /* CAPTIONS Y MARGEN LATERAL (Aumento de Contraste) */
