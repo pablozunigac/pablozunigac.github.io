@@ -29,7 +29,7 @@ format:
 
 ---
 
-#### The Value of Operational Certainty in Astronomy
+### The Value of Operational Certainty in Astronomy
  Through an operational state reconciliation architecture, AstroGit-OS governs the evolution of infrastructure and instrumentation, detects deviations between observed state and desired configuration, and establishes a verifiable link between observation blocks and the versioned operational state through passive telemetry and non-intrusive state extraction agents. In doing so, it aims to reduce operational uncertainty, minimize downtime, and facilitate the reproduction of technical conditions underlying the scientific use of astronomical instrumentation.  
  
  ![**AstroGit-OS**  
@@ -37,10 +37,10 @@ format:
  **Resolution:** 3840 × 3070 px  
  **Size:** 649KB](../images/astrogit-diagram-overview.png)  
 
-#### Scope and Boundaries of AstroGit-OS
+### Scope and Boundaries of AstroGit-OS
  **AstroGit-OS does not capture, store, process, simulate, or transmit astronomical data, nor does it operate telescopes in real time.** Its function is to govern a versioned, asynchronous digital representation of the operational state of telescopes and other scientific infrastructure, decoupling scientific activities from engineering operations. **AstroGit-OS records, stores, and audits the evolution of infrastructure configuration through Git as a version-controlled governance mechanism**, keeping the declarative representation of operational state separate from its physical implementation across the instrumentation.
 
-#### AstroGit-OS Differentiating Principles
+### AstroGit-OS Differentiating Principles
  * **Scientific Lineage Without Massive Data**  
  Associates each astronomical observation block with a SHA-256 identifier of the hardware operational state, enabling verifiable scientific traceability without burdening the repository with massive datasets.  
  * **Distributed Operational Resilience**  
@@ -48,14 +48,14 @@ format:
  * **Non-Intrusive Declarative Governance**  
  Translates infrastructure maintenance into an auditable workflow through Pull Requests and human approval, operating strictly asynchronously without interfering with real-time telescope operations.
 
-#### Operational Challenges of Astronomical Optomechanics
+### Operational Challenges of Astronomical Optomechanics
  Large-scale observatories operate in highly precise optomechanical environments, where thermal, mechanical, optical, and alignment variations can affect the conditions under which scientific data are acquired. The operation of this infrastructure generates information distributed across control systems, databases, maintenance records, and configuration mechanisms, each serving specific operational functions.  
 
  This heterogeneity can fragment the historical representation of infrastructure state, making it difficult to reconstruct as a coherent, contextualized, and verifiable record. Addressing this challenge requires more than simply recording events, configurations, or states. **It requires preserving the ability to reproducibly reconstruct the operational state of the infrastructure throughout its lifecycle.** This, in turn, requires linking configuration, observed state, authorized changes, and operational context within a consistent historical representation that remains independent of the original source and can be subsequently verified.
 
 ---
 
-#### Project Status & Roadmap
+### Project Status & Roadmap
  
  **Author:** [**Pablo Zúñiga**](https://pablozunigac.github.io)  
  **Last Update Status:** Phase 0 / Draft  
