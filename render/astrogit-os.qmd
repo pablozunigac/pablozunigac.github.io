@@ -17,13 +17,11 @@ format:
 
 ::: {.center-shadow-content}
  **Purpose of this Overview**  
- _This document introduces a conceptual systems architecture for technical review  
- and discussion, outlining the context, scope, boundaries, and operational role of  
- AstroGit-OS empowering observatory control, astronomical operations,  
- and maintenance engineering teams._  
+ _This document introduces a conceptual systems architecture for technical review and discussion, outlining the context, scope, boundaries, and operational role of AstroGit-OS empowering observatory control, astronomical operations, and maintenance engineering teams._  
  
- _Download the [**PDF overview**](../en/astrogit-os-overview.pdf) and check the [**current development status**](../render/astrogit-os.html#project-status-roadmap) below.  
- **Complete technical drafts** are available upon request._
+ _Download the [**PDF overview**](../en/astrogit-os-overview.pdf) or check the [**current development status**](../render/astrogit-os.html#project-status-roadmap) below.  
+ Complete technical drafts are available upon request. Open to [**exploratory calls**](https://calendar.notion.so/meet/cuxhavenlabs/pablo)._
+
 
 :::
 
@@ -32,7 +30,8 @@ format:
 ### The Value of Operational Certainty in Astronomy
  Through an operational state reconciliation architecture, AstroGit-OS governs the evolution of infrastructure and instrumentation, detects deviations between observed state and desired configuration, and establishes a verifiable link between observation blocks and the versioned operational state through passive telemetry and non-intrusive state extraction agents. In doing so, it aims to reduce operational uncertainty, minimize downtime, and facilitate the reproduction of technical conditions underlying the scientific use of astronomical instrumentation.  
  
- ![**AstroGit-OS**  
+ ![  
+ **AstroGit-OS**  
  Distributed Logical Architecture  
  **Resolution:** 3840 × 3070 px  
  **Size:** 649KB](../images/astrogit-diagram-overview.png)  
