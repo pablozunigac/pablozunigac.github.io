@@ -43,6 +43,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-3e9b1289f5f353c49b617ce48ad2bc38.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -144,7 +147,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">2026-09-09, 07:18 UTC.</p>
+      <p class="date">2026-09-09, 07:49 UTC.</p>
     </div>
   </div>
   
@@ -174,9 +177,11 @@ and maintenance engineering teams.</em></p>
 <p>Through an operational state reconciliation architecture, AstroGit-OS governs the evolution of infrastructure and instrumentation, detects deviations between observed state and desired configuration, and establishes a verifiable link between observation blocks and the versioned operational state through passive telemetry and non-intrusive state extraction agents. In doing so, it aims to reduce operational uncertainty, minimize downtime, and facilitate the reproduction of technical conditions underlying the scientific use of astronomical instrumentation.</p>
 <div class="quarto-figure quarto-figure-center page-columns page-full">
 <figure class="figure page-columns page-full">
-<p><img src="../images/astrogit-diagram-overview.png" class="img-fluid figure-img"></p>
+<p><a href="../images/astrogit-diagram-overview.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="AstroGit-OS Distributed Logical Architecture Resolution: 3840 × 3070 px Size: 649KB"><img src="../images/astrogit-diagram-overview.png" class="img-fluid figure-img" alt="AstroGit-OS Distributed Logical Architecture Resolution: 3840 × 3070 px Size: 649KB"></a></p>
 <figcaption class="margin-caption"><strong>AstroGit-OS</strong><br>
-Distributed Logical Architecture</figcaption>
+Distributed Logical Architecture<br>
+<strong>Resolution:</strong> 3840 × 3070 px<br>
+<strong>Size:</strong> 649KB</figcaption>
 </figure>
 </div>
 </section>
@@ -213,7 +218,7 @@ Translates infrastructure maintenance into an auditable workflow through Pull Re
 </div>
 <div class="footer-meta-advanced my-4">
 <hr>
-<p><strong>Last Update:</strong> 2026-09-09, 07:18 UTC.<br>
+<p><strong>Last Update:</strong> 2026-09-09, 07:49 UTC.<br>
 Engineered with <a href="https://quarto.org"><strong>Quarto</strong></a> &amp; versioned on <a href="https://github.com/pablozunigac/pablozunigac.github.io"><strong>GitHub</strong></a>.<br>
 <strong>© 2026 Cuxhaven Labs.</strong> MIT License.</p>
 </div>
@@ -622,6 +627,38 @@ Engineered with <a href="https://quarto.org"><strong>Quarto</strong></a> &amp; v
   });
   </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
