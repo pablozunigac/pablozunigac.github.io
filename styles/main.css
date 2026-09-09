@@ -472,8 +472,8 @@ code {
 .center-shadow-content p {
   text-align: center;
   color: var(--color-text-muted);
-  margin-left: 3.5rem;
-  margin-right: 3.5rem;
+  margin-left: 4rem;
+  margin-right: 4rem;
 }
 
 /* CAPTIONS Y MARGEN LATERAL (Aumento de Contraste) */
