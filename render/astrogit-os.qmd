@@ -62,7 +62,7 @@ format:
  **Last Update Status:** Phase 0 / Draft  
  **Stable Release Date:** Early Q4 2026   
  **Next Milestone:** Read-only demonstrator against a representative operational subsystem  
- **License:** [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/deed.en)
+ **License:** [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/deed.en) (Content & Architecture Spec)
  
 :::
 
@@ -70,5 +70,5 @@ format:
 ---
 **Last Update:** {{< meta date >}}  
 Site engineered with [**Quarto**](https://quarto.org) & versioned on [**GitHub**](https://github.com/pablozunigac/pablozunigac.github.io).  
-**© 2026 Cuxhaven Labs.** MIT License.
+**© 2026 Cuxhaven Labs.** Code licensed under MIT.
 :::
