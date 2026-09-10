@@ -72,5 +72,6 @@ _legacy/
 _site/
 .quarto/
 /.quarto/
-atelier/blog
-atelier/AURA
+atelier/
+images/favicon
+images/manifesto-images

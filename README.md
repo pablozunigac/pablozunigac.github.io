@@ -24,6 +24,7 @@ pablozunigac.github.io/
 │   ├── resume.qmd          # High-density, single-page resume source targeting automated ATS parsers
 │   ├── cv.qmd              # Comprehensive technical curriculum vitae with extended project history
 │   ├── manifesto.qmd       # Engineering philosophy, architectural principles, and strategic vision
+│   ├── astrogit-os.qmd     # AstroGit-OS executive overview for technical review and discussion
 ├── en/                     # I18n directory: English market localization endpoints
 ├── es/                     # I18n directory: LATAM/Spanish market localization endpoints
 ├── styles/                 # Design System Token Architecture (Design-as-Code engine)
@@ -32,7 +33,6 @@ pablozunigac.github.io/
 │   ├── main.css            # Global CSS layer overriding Quarto defaults and mapping design system tokens
 │   └── typography.css      # Typographic stacks for Sans, Serif, and Monospaced code suites
 ├── images/                 # Optimized visual assets, project diagrams, and profile media artifacts
-├── atelier/                # Digital sandbox for experimental content & editorial frameworks
 └── .github/workflows/      # GitHub Actions CI/CD automation and deployment workflows
     └── deploy.yml          # Continuous Deployment: Production build release pipeline to GitHub Pages CDN
 ```
