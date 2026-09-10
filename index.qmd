@@ -68,5 +68,5 @@ Official degree certificates, transcripts, and ranking metrics are audited and a
 ::: {.footer-meta-advanced .my-4}
 **Last Update:** {{< meta date >}}  
 Engineered with [**Quarto**](https://quarto.org) & versioned on [**GitHub**](https://github.com/pablozunigac/pablozunigac.github.io).  
-**© 2026 Cuxhaven Labs.** Code licensed under MIT.
+**2026 Cuxhaven Labs.** Code licensed under MIT.
 :::

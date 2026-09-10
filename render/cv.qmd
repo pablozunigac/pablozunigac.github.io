@@ -185,5 +185,5 @@ format:
 ::: {.footer-meta-advanced .my-4}
 **Última Actualización:** {{< meta date >}}  
 Desarrollado con [**Quarto**](https://quarto.org) y versionado en [**GitHub**](https://github.com/pablozunigac/pablozunigac.github.io).  
-**© 2026 Cuxhaven Labs.** Code licensed under MIT.
+**2026 Cuxhaven Labs.** Code licensed under MIT.
 :::

@@ -24,7 +24,6 @@ format:
  _Download the [**PDF overview**](../en/astrogit-os-overview.pdf) or check the [**current development status**](../render/astrogit-os.html#project-status-roadmap) below.  
  **Complete technical drafts are available upon request. [Technical discussions](https://github.com/pablozunigac/AstroGit-OS/issues) are welcome.**_
 
-
 :::
 
 ---
@@ -70,5 +69,5 @@ format:
 ---
 **Last Update:** {{< meta date >}}  
 Engineered with [**Quarto**](https://quarto.org) & versioned on [**GitHub**](https://github.com/pablozunigac/pablozunigac.github.io).  
-**© 2026 Cuxhaven Labs.** Code licensed under MIT.
+**2026 Cuxhaven Labs.** Code licensed under MIT.
 :::
