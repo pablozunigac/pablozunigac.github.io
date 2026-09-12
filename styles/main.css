@@ -416,13 +416,9 @@ code {
   font-weight: var(--font-weight-badge);
 }
 
-/* ==========================================================================
-   QUARTO: MARGEN EN SECCIONES H4 (level4)
-   ========================================================================== */
-
 /* SISTEMA GRID Y TARJETAS */
 .grid {
-  margin-top: 1.2rem !important;
+  margin-top: 1.5rem !important;
 }
 
 .grid p {
@@ -443,6 +439,7 @@ code {
   border: 1px solid var(--color-border-default);
   border-radius: var(--radius-card);
   padding: 0 1rem 1rem 1rem;
+  padding-top: 0.4rem;
   margin-top: 0;
   height: 100%;
   transition: border-color 0.2s ease;
