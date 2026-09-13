@@ -55,7 +55,7 @@ format:
  Estudio independiente de investigación, arquitectura y consultoría tecnológica orientado al diseño y evolución de sistemas complejos, con foco en arquitectura de datos, gobernanza de sistemas de información, automatización de procesos y continuidad operacional.  
 
  * **[AstroGit-OS](https://pablozunigac.github.io/render/astrogit-os.html) --- Concepto de Arquitectura de Sistemas**  
- Arquitectura GitOps para gobernanza, reconciliación de estados, trazabilidad operacional y resiliencia de instrumentación astronómica.
+ Dirección estratégica, arquitectura de software y validación del prototipo funcional de AstroGit-OS, un marco de gobernanza declarativa y linaje operacional para instrumentación astronómica mediante GitOps.  
  
  * **Portafolio Técnico e Ingeniería de Sistemas**  
  Plataforma web técnica desarrollada mediante Quarto y versionada mediante Git/GitHub orientada a documentación reproducible, modelado de datos, arquitectura de sistemas y comunicación técnica.
@@ -64,7 +64,7 @@ format:
 
  **Consultoría en Ingeniería de Sistemas y Analítica Avanzada   
   Consultor Independiente de Ingeniería de Sistemas  
-  Julio 2022 -- Presente / Valparaíso, Chile** [Proyecto Ancla y Consultoría]{.custom-badge .badge-lang}
+  Julio 2022 -- Julio 2026 / Valparaíso, Chile** [Proyecto Ancla y Consultoría]{.custom-badge .badge-lang}
 
   **Proyecto ancla: Motor de analítica telemétrica para running en triatlón**
 
