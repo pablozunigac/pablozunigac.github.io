@@ -79,7 +79,7 @@ format:
   
  ---
 
- **Sistemas Descentralizadas y Protocolos Web3 (***en colaboración con [tododecripto.com](https://www.tododecripto.com)***)  
+ **Sistemas Descentralizados y Protocolos Web3 (***en colaboración con [tododecripto.com](https://www.tododecripto.com)***)  
   Ingeniero de Sistemas Web3 e Infraestructura *On-Chain*  
   Enero 2020 -- Julio 2022 / Global, Remoto**
 
