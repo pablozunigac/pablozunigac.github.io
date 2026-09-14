@@ -1,0 +1,17 @@
+# AstroGit-OS - System Architecture & Coding Standards
+
+## Core Principles
+1. **Non-Intrusive Declarative Governance:** AstroGit-OS operates strictly asynchronously[cite: 1]. NEVER write code, tasks, or integrations that interact with real-time telescope control systems or require direct execution on critical operational networks[cite: 2].
+2. **Scientific Lineage Without Massive Data:** Do NOT process, store, simulate, or transmit massive astronomical data streams (e.g., raw pixel arrays, large image files)[cite: 1]. The system exclusively ingests and processes operational metadata (from FITS headers, passive telemetry streams, and open repos) to generate deterministic SHA-256 state hashes for scientific traceability[cite: 1, 2].
+3. **Docs-as-Code & Open Science:** All technical specifications, architectures, and reports are maintained using Quarto (`.qmd`) and standard Markdown[cite: 2], following open-source licensing guidelines (MIT / CC BY 4.0)[cite: 2].
+
+## Technical Stack
+- **Primary Languages:** Python 3.11+ (CLI, parsers, state mapping, logic), TypeScript (UI/services), Bash.
+- **Data & Schema Formats:** FITS (headers/metadata only), Apache Parquet, YAML, JSON, Quarto (`.qmd`)[cite: 2].
+- **Infrastructure & Automation:** Docker, Git/GitOps, GitHub Actions (CI/CD pipelines)[cite: 1, 2].
+
+## Architecture & Code Guidelines
+- **Decoupled Architecture:** Keep the metadata ingestion layer strictly decoupled from the state reconciliation engine (`As-Is` observed state vs. `To-Be` desired baseline)[cite: 1].
+- **Type Safety:** All Python code must include explicit type hints (`typing`, `mypy` compliant).
+- **Error Handling:** Ensure passive telemetry extractors and state agents fail gracefully without raising unhandled exceptions during asynchronous reconciliation loops[cite: 1].
+- **Documentation:** Use concise Google-style docstrings for all modules, classes, and public functions.

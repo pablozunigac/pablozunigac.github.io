@@ -1,0 +1,13 @@
+# Ignore masive data files
+*.fits
+*.parquet
+*.h5
+*.hdf5
+.quarto/
+_site/
+dist/
+build/
+
+# Virtual environments & cache files
+.venv/
+__pycache__/
