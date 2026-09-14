@@ -1,6 +1,6 @@
 ---
 title: "AstroGit-OS --- Overview"
-subtitle: "GitOps Architecture for State Governance and Operational Lineage of Astronomical Instrumentation"
+subtitle: "Declarative Architecture and Operational Lineage for Astronomical Instrumentation via GitOps"
 page-layout: article
 format:
   html:
