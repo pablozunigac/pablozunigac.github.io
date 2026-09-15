@@ -8,6 +8,9 @@ format:
     date-format: "YYYY-MM-DD, HH:mm [UTC.]"
     fig-cap-location: margin
     lightbox: true
+    toc: true
+    toc-depth: 3
+    toc-location: right
 ---
 ::: {.manifesto-flow}
 
