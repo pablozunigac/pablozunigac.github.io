@@ -41,5 +41,5 @@ format:
     css: styles/main.css
     smooth-scroll: true
     toc: false
-    toc-depth: 0
+    toc-depth: 3
     max-width: 1800px
