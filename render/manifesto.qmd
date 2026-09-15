@@ -7,6 +7,7 @@ format:
     date: last-modified
     date-format: "YYYY-MM-DD, HH:mm [UTC.]"
     fig-cap-location: top
+    lang: en
 ---
 
 **This site was born not as a design artifact, but as an architectural rebellion**  

@@ -37,9 +37,12 @@ website:
 format:
   html:
     theme: cosmo
-    lang: en
     css: styles/main.css
     smooth-scroll: true
     toc: false
     toc-depth: 3
     max-width: 1800px
+    lang: en
+    include-in-header:
+      text: |
+        <meta name="google" content="notranslate">
