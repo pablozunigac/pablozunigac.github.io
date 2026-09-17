@@ -61,7 +61,6 @@ format:
 ### Project Status & Roadmap
  
  **Author:** [**Pablo Zúñiga**](https://pablozunigac.github.io)  
- **Last Update Status:** As-Is vs. To-Be Reconciliation [**Discussion**](https://github.com/pablozunigac/AstroGit-OS/issues/3)  
  **Next Milestone:** [**Milestone 1**](https://github.com/pablozunigac/AstroGit-OS/milestone/1) -- Read-only demonstrator against a representative operational  
  **Stable Release Date:** Early Q4 2026   
  **License:** [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/deed.en) (Content & Architecture Specs)
