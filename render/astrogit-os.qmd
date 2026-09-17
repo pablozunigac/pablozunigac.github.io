@@ -71,5 +71,5 @@ format:
 ---
 **Last Update:** {{< meta date >}}  
 Engineered with [**Quarto**](https://quarto.org) & versioned on [**GitHub**](https://github.com/pablozunigac/pablozunigac.github.io).  
-**2026 Cuxhaven Labs.** Code licensed under MIT.
+**Copyright © 2026 Cuxhaven Labs** · MIT License
 :::
