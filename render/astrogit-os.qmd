@@ -23,7 +23,7 @@ format:
  
  <h4 align=center>Purpose of this Overview</h4>
 
- _This site introduces a conceptual systems architecture for technical review and discussion, outlining the **context**, **scope**, **boundaries**, and **operational role** of AstroGit-OS for supporting observatory control, astronomical operations, and engineering teams._  
+ _This site introduces a conceptual systems architecture for technical review and discussion, outlining the **context**, **scope**, **boundaries**, and **operational role** of AstroGit-OS empowering observatory control, astronomical operations, and engineering teams._  
  
  _Download the [**full PDF overview**](../en/astrogit-os-overview.pdf), check the [**current development status**](https://github.com/users/pablozunigac/projects/2/views/1), or visit the [**AstroGit-OS**](https://github.com/pablozunigac/AstroGit-OS) repository on GitHub. Technical feedback and architecture [**discussions**](https://github.com/pablozunigac/AstroGit-OS/issues) are welcome._
 
