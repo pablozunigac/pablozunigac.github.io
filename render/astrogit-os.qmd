@@ -51,6 +51,15 @@ format:
  * **Non-Intrusive Declarative Governance**  
  Translates infrastructure maintenance into an auditable workflow through Pull Requests and human validation, operating strictly asynchronously without interfering with real-time telescope operations.
 
+### TUI Console and Operational State Management
+ AstroGit-OS integrates an interactive TUI—compatible with Git commands and standard command-line utilities—for querying, monitoring, and auditing astronomical infrastructure, combining the precision of its declarative model with command-line agility. From this interface, operators manage the operational state and drift between the baseline configuration recorded in Git (To-Be) and the physical equipment's actual state (As-Is), streamlining audits, maintenance routines, and state reconciliation across the Summit, Base operations, and Cloud.
+
+![    
+  **Interactive TUI**  
+  Proof of Concept  
+  **Resolution:** 1986 × 994 px  
+  **Size:** 796KB](../images/tui.png)
+
 ### Operational Challenges of Astronomical Optomechanics
  Large-scale observatories operate in highly precise optomechanical environments, where thermal, mechanical, optical, and alignment variations can affect the conditions under which scientific data are acquired. The operation of this infrastructure generates information distributed across control systems, databases, maintenance records, and configuration mechanisms, each serving specific operational functions.  
 
