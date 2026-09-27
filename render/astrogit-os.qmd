@@ -47,10 +47,8 @@ format:
  
  * **Scientific Lineage Without Massive Data**  
  Associates each astronomical observation block with a SHA-256 identifier of the hardware operational state, enabling verifiable scientific traceability without burdening the repository with massive datasets.  
- 
  * **Distributed Operational Resilience**  
  Supports operational continuity and the recovery of versioned configurations at remote high-altitude observatories through decentralized and synchronized Git topologies.
- 
  * **Non-Intrusive Declarative Governance**  
  Translates infrastructure maintenance into an auditable workflow through Pull Requests and human validation, operating strictly asynchronously without interfering with real-time telescope operations.
 
@@ -58,23 +56,19 @@ format:
  
  * **Operational Uptime Optimization**  
  Minimizes unplanned downtime through early detection of drift between the infrastructure's desired state (To-Be) and its actual telemetry (As-Is).
- 
  * **Technical Reproducibility Assurance**
  Facilitates the exact reconstruction of the optomechanical environment by immutably binding each observation block to a SHA-256 cryptographic digest of its operational state.
- 
  * **Standardization of Engineering Interventions**  
  Streamlines the creation, execution, and verification of engineering procedures by routing hardware modifications through declarative GitOps workflows and peer review.
- 
  * **Immutable Forensic Traceability**  
  Delivers a continuous, unalterable history of the instrumentation lifecycle via append-only logs, simplifying technical audits and root-cause failure diagnostics.
 
 ### Declarative Schemas and State Serialization
- AstroGit-OS adopts a dual-format strategy for operational state representation to ensure system interoperability, high-throughput machine consumption, and seamless human governance. This architecture separates the human-defined infrastructure specification from the automated collection of live state metadata:
+ AstroGit-OS adopts a dual-format strategy for operational state representation to ensure system interoperability, high-throughput machine consumption, and seamless human governance. This architecture separates the human-defined infrastructure specification from the automated collection of live state metadata.  
 
- * **Desired State (To-Be) via YAML**
+ * **Desired State (To-Be) via YAML**  
  Represents the canonical baseline specifications and composite subsystem configurations. Defined, reviewed, and approved by engineering teams via GitOps workflows, YAML provides optimal human readability, inline documentation, and native compatibility with code review tooling (git diff and Pull Requests).
- 
- * **Observed State (As-Is) via JSON**
+ * **Observed State (As-Is) via JSON**  
  Captures the live operational state vector extracted directly from infrastructure telemetry. Generated automatically by non-intrusive extraction agents, JSON offers a lightweight, low-overhead format optimized for high-speed machine parsing, API consumption, and automated drift reconciliation.
 
 ### TUI Console and Operational State Management
