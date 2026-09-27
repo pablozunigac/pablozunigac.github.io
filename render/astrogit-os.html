@@ -150,7 +150,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">2026-09-25, 09:24 UTC.</p>
+      <p class="date">2026-09-27, 02:34 UTC.</p>
     </div>
   </div>
   
@@ -203,6 +203,14 @@ Supports operational continuity and the recovery of versioned configurations at 
 Translates infrastructure maintenance into an auditable workflow through Pull Requests and human validation, operating strictly asynchronously without interfering with real-time telescope operations.</li>
 </ul>
 </section>
+<section id="declarative-schemas-and-state-serialization" class="level3">
+<h3 class="anchored" data-anchor-id="declarative-schemas-and-state-serialization">Declarative Schemas and State Serialization</h3>
+<p>AstroGit-OS adopts a dual-format strategy for operational state representation to ensure system interoperability, high-throughput machine consumption, and seamless human governance. This architecture separates the human-defined infrastructure specification from the automated collection of live state metadata:</p>
+<ul>
+<li><p><strong>Desired State (To-Be) via YAML</strong> Represents the canonical baseline specifications and composite subsystem configurations. Defined, reviewed, and approved by engineering teams via GitOps workflows, YAML provides optimal human readability, inline documentation, and native compatibility with code review tooling (git diff and Pull Requests).</p></li>
+<li><p><strong>Observed State (As-Is) via JSON</strong> Captures the live operational state vector extracted directly from infrastructure telemetry. Generated automatically by non-intrusive extraction agents, JSON offers a lightweight, low-overhead format optimized for high-speed machine parsing, API consumption, and automated drift reconciliation.</p></li>
+</ul>
+</section>
 <section id="tui-console-and-operational-state-management" class="level3 page-columns page-full">
 <h3 class="anchored" data-anchor-id="tui-console-and-operational-state-management">TUI Console and Operational State Management</h3>
 <p>AstroGit-OS integrates an interactive TUI—compatible with Git commands and standard command-line utilities—for querying, monitoring, and auditing astronomical infrastructure, combining the precision of its declarative model with command-line agility. From this interface, operators manage the operational state and drift between the baseline configuration recorded in Git (To-Be) and the physical equipment’s actual state (As-Is), streamlining audits, maintenance routines, and state reconciliation across the Summit, Base operations, and Cloud.</p>
@@ -233,7 +241,7 @@ Proof of Concept<br>
 </div>
 <div class="footer-meta-advanced my-4">
 <hr>
-<p><strong>Last Update:</strong> 2026-09-25, 09:24 UTC.<br>
+<p><strong>Last Update:</strong> 2026-09-27, 02:34 UTC.<br>
 Engineered with <a href="https://quarto.org"><strong>Quarto</strong></a> &amp; versioned on <a href="https://github.com/pablozunigac/pablozunigac.github.io"><strong>GitHub</strong></a>.<br>
 <strong>Copyright © 2026 Cuxhaven Labs</strong> · MIT License</p>
 </div>
