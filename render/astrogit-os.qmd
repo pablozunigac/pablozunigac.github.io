@@ -25,7 +25,7 @@ format:
 
  _This site introduces a conceptual systems architecture for technical review and discussion, outlining the **context**, **scope**, **boundaries**, and **operational role** of AstroGit-OS empowering observatory control, astronomical operations, and engineering teams._  
  
- _For a deeper technical breakdown, download the [**full PDF overview**](../en/astrogit-os-overview.pdf), check the [**current development progress**](https://github.com/users/pablozunigac/projects/2/views/1), or visit the [**AstroGit-OS**](https://github.com/pablozunigac/AstroGit-OS) repository on GitHub. Technical feedback and architecture discussions are welcome._
+ _For a deeper technical breakdown, download the [**full PDF overview**](../en/astrogit-os-overview.pdf), check the [**real-time development progress**](https://github.com/users/pablozunigac/projects/2/views/1), or visit the [**AstroGit-OS**](https://github.com/pablozunigac/AstroGit-OS) repository on GitHub. Technical feedback and architecture discussions are welcome._
 
 :::
 
@@ -50,6 +50,16 @@ format:
  Supports operational continuity and the recovery of versioned configurations at remote high-altitude observatories through decentralized and synchronized Git topologies.
  * **Non-Intrusive Declarative Governance**  
  Translates infrastructure maintenance into an auditable workflow through Pull Requests and human validation, operating strictly asynchronously without interfering with real-time telescope operations.
+
+### Operational Value in Scientific Infrastructure
+ * **Operational Uptime Optimization**  
+ Minimizes unplanned downtime through early detection of drift between the infrastructure's desired state (To-Be) and its actual telemetry (As-Is).
+ * **Technical Reproducibility Assurance**
+ Facilitates the exact reconstruction of the optomechanical environment by immutably binding each observation block to a SHA-256 cryptographic digest of its operational state.
+ * **Standardization of Engineering Interventions**  
+ Streamlines the creation, execution, and verification of engineering procedures by routing hardware modifications through declarative GitOps workflows and peer review.
+ * **Immutable Forensic Traceability**  
+ Delivers a continuous, unalterable history of the instrumentation lifecycle via append-only logs, simplifying technical audits and root-cause failure diagnostics.
 
 ### Declarative Schemas and State Serialization
  AstroGit-OS adopts a dual-format strategy for operational state representation to ensure system interoperability, high-throughput machine consumption, and seamless human governance. This architecture separates the human-defined infrastructure specification from the automated collection of live state metadata:
