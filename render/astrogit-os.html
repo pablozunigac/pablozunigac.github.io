@@ -150,7 +150,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">2026-09-27, 08:59 UTC.</p>
+      <p class="date">2026-09-28, 04:38 UTC.</p>
     </div>
   </div>
   
@@ -170,12 +170,21 @@ ul.task-list li input[type="checkbox"] {
 Purpose of this Overview
 </h4>
 <p><em>This site introduces a conceptual systems architecture for technical review and discussion, outlining the <strong>context</strong>, <strong>scope</strong>, <strong>boundaries</strong>, and <strong>operational role</strong> of AstroGit-OS empowering observatory control, astronomical operations, and engineering teams.</em></p>
-<p><em>For a deeper technical breakdown, download the <a href="../en/astrogit-os-overview.pdf"><strong>full PDF overview</strong></a>, check the <a href="https://github.com/users/pablozunigac/projects/2/views/1"><strong>real-time development progress</strong></a>, or visit the <a href="https://github.com/pablozunigac/AstroGit-OS"><strong>AstroGit-OS</strong></a> repository on GitHub. Technical feedback and architecture discussions are welcome.</em></p>
+<p><em>For a deeper technical breakdown, download the <a href="../en/astrogit-os-overview.pdf"><strong>executive overview</strong></a>, check the <a href="https://github.com/users/pablozunigac/projects/2/views/1"><strong>real-time development progress</strong></a>, or visit the <a href="https://github.com/pablozunigac/AstroGit-OS"><strong>AstroGit-OS</strong></a> repository on GitHub. Technical feedback and architecture discussions are welcome.</em></p>
 </div>
 <hr>
-<section id="the-value-of-operational-certainty-in-astronomy" class="level3 page-columns page-full">
-<h3 class="anchored" data-anchor-id="the-value-of-operational-certainty-in-astronomy">The Value of Operational Certainty in Astronomy</h3>
-<p>Through an operational state reconciliation architecture, AstroGit-OS governs the evolution of infrastructure and instrumentation, detects deviations between observed state and desired configuration, and establishes a verifiable link between observation blocks and the versioned operational state through passive telemetry and non-intrusive state extraction agents. In doing so, it aims to reduce operational uncertainty, minimize downtime, and facilitate the reproduction of technical conditions underlying the scientific use of astronomical instrumentation.</p>
+<section id="hardware-state-governance-in-frontier-environments" class="level3 page-columns page-full">
+<h3 class="anchored" data-anchor-id="hardware-state-governance-in-frontier-environments">Hardware State Governance in Frontier Environments</h3>
+<p>Complex physical infrastructure —from ground-based astronomical observatories to orbital payloads and autonomous industrial facilities— operates under extreme conditions where thermal, mechanical, and structural variations directly impact operational integrity. Historically, hardware states have been fragmented across legacy control loops, localized databases, and manual logs, creating blind spots in drift detection, root-cause diagnostics, and states reproducibility.</p>
+<p>AstroGit-OS addresses this universal bottleneck through a domain-agnostic declarative architecture. By decoupling hardware operational metadata from high-throughput payload streams, the system provides an immutable, architected around the operational challenges of next-generation astronomical observatories —such as ELT, GMT, and Rubin— and designed to scale across high-consequence verticals:</p>
+<ul>
+<li><strong>Ground-Based Scientific Megainfrastructures</strong><br>
+Optomechanical instrumentation and observatory control networks requiring exact technical reproducibility and non-intrusive drift detection without impacting real-time execution.</li>
+<li><strong>Space &amp; Orbital Assets</strong><br>
+Space-based telescopes, satellite constellations, and autonomous payload environments where off-grid resilience, low-overhead sync, and immutable state lineage are critical.</li>
+<li><strong>Aerospace &amp; Industrial Automation</strong><br>
+Automated launch infrastructure, ground support equipment, energy grids, and autonomous mining operations subject to severe network partitioning and strict uptime requirements.</li>
+</ul>
 <div class="quarto-figure quarto-figure-center page-columns page-full">
 <figure class="figure page-columns page-full">
 <p><a href="../images/astrogit-os-diagram-3.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title=" AstroGit-OS Distributed Logical Architecture Resolution: 3840 × 2740 px Size: 607KB"><img src="../images/astrogit-os-diagram-3.png" class="img-fluid figure-img" alt=" AstroGit-OS Distributed Logical Architecture Resolution: 3840 × 2740 px Size: 607KB"></a></p>
@@ -239,11 +248,6 @@ Proof of Concept<br>
 <strong>Size:</strong> 796KB</figcaption>
 </figure>
 </div>
-</section>
-<section id="operational-challenges-of-astronomical-optomechanics" class="level3">
-<h3 class="anchored" data-anchor-id="operational-challenges-of-astronomical-optomechanics">Operational Challenges of Astronomical Optomechanics</h3>
-<p>Large-scale observatories operate in highly precise optomechanical environments, where thermal, mechanical, optical, and alignment variations can affect the conditions under which scientific data are acquired. The operation of this infrastructure generates information distributed across control systems, databases, maintenance records, and configuration mechanisms, each serving specific operational functions.</p>
-<p>This heterogeneity can fragment the historical representation of infrastructure state, making it difficult to reconstruct as a coherent, contextualized, and verifiable record. Addressing this challenge requires more than simply recording events, configurations, or states. <strong>It requires preserving the ability to reproducibly reconstruct the operational state of the infrastructure throughout its lifecycle.</strong> This, in turn, requires linking configuration, observed state, authorized changes, and operational context within a consistent historical representation that remains independent of the original source and can be subsequently verified.</p>
 <hr>
 </section>
 <section id="project-status-roadmap" class="level3">
@@ -256,7 +260,7 @@ Proof of Concept<br>
 </div>
 <div class="footer-meta-advanced my-4">
 <hr>
-<p><strong>Last Update:</strong> 2026-09-27, 08:59 UTC.<br>
+<p><strong>Last Update:</strong> 2026-09-28, 04:38 UTC.<br>
 Engineered with <a href="https://quarto.org"><strong>Quarto</strong></a> &amp; versioned on <a href="https://github.com/pablozunigac/pablozunigac.github.io"><strong>GitHub</strong></a>.<br>
 <strong>Copyright © 2026 Cuxhaven Labs</strong> · MIT License</p>
 </div>
