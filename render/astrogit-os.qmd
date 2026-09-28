@@ -50,6 +50,9 @@ format:
  **Resolution:** 3840 × 2160 px  
  **Size:** 476KB](../images/astrogit-os-diagram-1.png)  
 
+### The Value of Operational Certainty in Astronomy
+ Through an operational state reconciliation architecture, AstroGit-OS governs the evolution of infrastructure and instrumentation, detects deviations between observed state and desired configuration, and establishes a verifiable link between observation blocks and the versioned operational state through passive telemetry and non-intrusive state extraction agents. In doing so, it aims to reduce operational uncertainty, minimize downtime, and facilitate the reproduction of technical conditions underlying the scientific use of astronomical instrumentation.
+
 ### Scope and Boundaries of AstroGit-OS
  **AstroGit-OS does not capture, store, process, simulate, or transmit astronomical data, nor does it operate telescopes in real time.** Its function is to govern a versioned, asynchronous digital representation of the operational state of telescopes and other scientific infrastructure, decoupling scientific activities from engineering operations. **AstroGit-OS records, stores, and audits the evolution of infrastructure configuration through Git as a version-controlled governance mechanism**, keeping the declarative representation of operational state separate from its physical implementation across the instrumentation.
 
