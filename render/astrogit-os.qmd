@@ -1,5 +1,5 @@
 ---
-title: "AstroGit-OS --- Overview"
+title: "AstroGit-OS"
 subtitle: "Declarative Architecture and Operational Lineage for Astronomical Instrumentation via GitOps"
 page-layout: article
 format:
