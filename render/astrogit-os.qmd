@@ -35,7 +35,7 @@ format:
 
  Complex physical infrastructure ---from ground-based astronomical observatories to orbital payloads and autonomous industrial facilities--- operates under extreme conditions where thermal, mechanical, and structural variations directly impact operational integrity. Historically, hardware states have been fragmented across legacy control loops, localized databases, and manual logs, creating blind spots in drift detection, root-cause diagnostics, and states reproducibility.
 
- AstroGit-OS addresses this universal bottleneck through a domain-agnostic declarative architecture. By decoupling hardware operational metadata from high-throughput payload streams, the system provides an immutable, architected around the operational challenges of next-generation astronomical observatories ---such as ELT, GMT, and Rubin--- and designed to scale across high-consequence verticals:
+ AstroGit-OS addresses this universal bottleneck through a domain-agnostic declarative architecture. By decoupling hardware operational metadata from high-throughput payload streams, this architecture delivers an immutable framework engineered for the operational realities of next-generation astronomical observatories ---such as ELT, GMT, and Rubin--- and **designed to scale across high-consequence verticals**:
 
  * **Ground-Based Scientific Megainfrastructures**  
  Optomechanical instrumentation and observatory control networks requiring exact technical reproducibility and non-intrusive drift detection without impacting real-time execution.
