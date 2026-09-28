@@ -63,5 +63,5 @@ The ultimate objective is not information, but understanding. Every framework, p
 **_Conceptual Foundations:_** `Decision Theory` · `Sensemaking` · `Organizational Learning`
 
 ---
-Engineered with [Quarto](https://quarto.org) under MIT License.
-**© 2026 © Cuxhaven Labs.** 
+Engineered with [Quarto](https://quarto.org) under MIT License
+**© 2026 © Cuxhaven Labs** 

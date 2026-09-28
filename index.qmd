@@ -4,7 +4,7 @@ page-layout: full
 format:
   html:
     date: last-modified
-    date-format: "YYYY-MM-DD, HH:mm [UTC.]"
+    date-format: "YYYY-MM-DD, HH:mm [UTC]"
     lang: en
 ---
 
@@ -68,6 +68,6 @@ Official degree certificates, transcripts, and ranking metrics are audited and a
 
 ::: {.footer-meta-advanced .my-4}
 **Last Update:** {{< meta date >}}  
-Engineered with [**Quarto**](https://quarto.org) & versioned on [**GitHub**](https://github.com/pablozunigac/pablozunigac.github.io) under MIT License.  
+Engineered with [**Quarto**](https://quarto.org) & versioned on [**GitHub**](https://github.com/pablozunigac/pablozunigac.github.io) under MIT License  
 **2026 © Cuxhaven Labs**
 :::

@@ -4,7 +4,7 @@ page-layout: article
 format:
   html:
     date: last-modified
-    date-format: "DD-MM-YYYY, HH:mm [UTC.]"
+    date-format: "DD-MM-YYYY, HH:mm [UTC]"
     lang: es
 ---
 
@@ -185,6 +185,6 @@ format:
 
 ::: {.footer-meta-advanced .my-4}
 **Última Actualización:** {{< meta date >}}  
-Desarrollado con [**Quarto**](https://quarto.org) y versionado en [**GitHub**](https://github.com/pablozunigac/pablozunigac.github.io) bajo Licencia MIT.  
+Desarrollado con [**Quarto**](https://quarto.org) y versionado en [**GitHub**](https://github.com/pablozunigac/pablozunigac.github.io) bajo Licencia MIT  
 **2026 © Cuxhaven Labs**
 :::
