@@ -150,7 +150,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">2026-09-28, 16:39 UTC.</p>
+      <p class="date">2026-09-28, 16:50 UTC.</p>
     </div>
   </div>
   
@@ -173,7 +173,7 @@ Purpose of this Overview
 <p><em>For a deeper technical breakdown, download the <a href="../en/astrogit-os-overview.pdf"><strong>executive overview</strong></a>, check the <a href="https://github.com/users/pablozunigac/projects/2/views/1"><strong>real-time development progress</strong></a>, or visit the <a href="https://github.com/pablozunigac/AstroGit-OS"><strong>AstroGit-OS</strong></a> repository on GitHub. Technical feedback and architecture discussions are welcome.</em></p>
 </div>
 <hr>
-<section id="hardware-state-governance-in-frontier-environments" class="level3 page-columns page-full">
+<section id="hardware-state-governance-in-frontier-environments" class="level3">
 <h3 class="anchored" data-anchor-id="hardware-state-governance-in-frontier-environments">Hardware State Governance in Frontier Environments</h3>
 <p>Complex physical infrastructure —from ground-based astronomical observatories to orbital payloads and autonomous industrial facilities— operates under extreme conditions where thermal, mechanical, and structural variations directly impact operational integrity. Historically, hardware states have been fragmented across legacy control loops, localized databases, and manual logs, creating blind spots in drift detection, root-cause diagnostics, and states reproducibility.</p>
 <p>AstroGit-OS addresses this universal bottleneck through a domain-agnostic declarative architecture. By decoupling hardware operational metadata from high-throughput payload streams, this architecture delivers an immutable framework engineered for the operational realities of next-generation astronomical observatories —such as ELT, GMT, and Rubin— and <strong>designed to scale across high-consequence verticals</strong>:</p>
@@ -185,6 +185,10 @@ Space-based telescopes, satellite constellations, and autonomous payload environ
 <li><strong>Aerospace &amp; Industrial Automation</strong><br>
 Automated launch infrastructure, ground support equipment, energy grids, and autonomous mining operations subject to severe network partitioning and strict uptime requirements.</li>
 </ul>
+</section>
+<section id="scope-and-boundaries-of-astrogit-os" class="level3 page-columns page-full">
+<h3 class="anchored" data-anchor-id="scope-and-boundaries-of-astrogit-os">Scope and Boundaries of AstroGit-OS</h3>
+<p><strong>AstroGit-OS does not capture, store, process, simulate, or transmit astronomical data, nor does it operate telescopes in real time.</strong> Its function is to govern a versioned, asynchronous digital representation of the operational state of telescopes and other scientific infrastructure, decoupling scientific activities from engineering operations. <strong>AstroGit-OS records, stores, and audits the evolution of infrastructure configuration through Git as a version-controlled governance mechanism</strong>, keeping the declarative representation of operational state separate from its physical implementation across the instrumentation.</p>
 <div class="quarto-figure quarto-figure-center page-columns page-full">
 <figure class="figure page-columns page-full">
 <p><a href="../images/astrogit-os-diagram-3.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title=" AstroGit-OS Distributed Logical Architecture Resolution: 3840 × 2740 px Size: 607KB"><img src="../images/astrogit-os-diagram-3.png" class="img-fluid figure-img" alt=" AstroGit-OS Distributed Logical Architecture Resolution: 3840 × 2740 px Size: 607KB"></a></p>
@@ -195,10 +199,6 @@ Distributed Logical Architecture<br>
 <strong>Size:</strong> 607KB</figcaption>
 </figure>
 </div>
-</section>
-<section id="scope-and-boundaries-of-astrogit-os" class="level3">
-<h3 class="anchored" data-anchor-id="scope-and-boundaries-of-astrogit-os">Scope and Boundaries of AstroGit-OS</h3>
-<p><strong>AstroGit-OS does not capture, store, process, simulate, or transmit astronomical data, nor does it operate telescopes in real time.</strong> Its function is to govern a versioned, asynchronous digital representation of the operational state of telescopes and other scientific infrastructure, decoupling scientific activities from engineering operations. <strong>AstroGit-OS records, stores, and audits the evolution of infrastructure configuration through Git as a version-controlled governance mechanism</strong>, keeping the declarative representation of operational state separate from its physical implementation across the instrumentation.</p>
 </section>
 <section id="astrogit-os-differentiating-principles" class="level3">
 <h3 class="anchored" data-anchor-id="astrogit-os-differentiating-principles">AstroGit-OS Differentiating Principles</h3>
@@ -261,7 +261,7 @@ Proof of Concept<br>
 </div>
 <div class="footer-meta-advanced my-4">
 <hr>
-<p><strong>Last Update:</strong> 2026-09-28, 16:39 UTC.<br>
+<p><strong>Last Update:</strong> 2026-09-28, 16:50 UTC.<br>
 Engineered with <a href="https://quarto.org"><strong>Quarto</strong></a> &amp; versioned on <a href="https://github.com/pablozunigac/pablozunigac.github.io"><strong>GitHub</strong></a>.<br>
 <strong>Copyright © 2026 Cuxhaven Labs</strong> · MIT License</p>
 </div>
