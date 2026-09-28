@@ -47,8 +47,8 @@ format:
  ![  
  **AstroGit-OS**  
  Distributed Logical Architecture  
- **Resolution:** 3840 × 2160 px  
- **Size:** 476KB](../images/astrogit-os-diagram-1.png)
+ **Resolution:** 3840 × 2740 px  
+ **Size:** 607KB](../images/astrogit-os-diagram-3.png)
 
 ### Scope and Boundaries of AstroGit-OS
  **AstroGit-OS does not capture, store, process, simulate, or transmit astronomical data, nor does it operate telescopes in real time.** Its function is to govern a versioned, asynchronous digital representation of the operational state of telescopes and other scientific infrastructure, decoupling scientific activities from engineering operations. **AstroGit-OS records, stores, and audits the evolution of infrastructure configuration through Git as a version-controlled governance mechanism**, keeping the declarative representation of operational state separate from its physical implementation across the instrumentation.
@@ -83,7 +83,7 @@ format:
  Captures the live operational state vector extracted directly from infrastructure telemetry. Generated automatically by non-intrusive extraction agents, JSON offers a lightweight, low-overhead format optimized for high-speed machine parsing, API consumption, and automated drift reconciliation.
 
 ### TUI Console and Operational State Management
- AstroGit-OS integrates an interactive TUI—compatible with Git commands and standard command-line utilities—for querying, monitoring, and auditing astronomical infrastructure, combining the precision of its declarative model with command-line agility. From this interface, operators manage the operational state and drift between the baseline configuration recorded in Git (To-Be) and the physical equipment's actual state (As-Is), streamlining audits, maintenance routines, and state reconciliation across the Summit, Base operations, and Cloud.
+ AstroGit-OS integrates an interactive TUI ---compatible with Git commands and standard command-line utilities--- for querying, monitoring, and auditing astronomical infrastructure, combining the precision of its declarative model with command-line agility. From this interface, operators manage the operational state and drift between the baseline configuration recorded in Git (To-Be) and the physical equipment's actual state (As-Is), streamlining audits, maintenance routines, and state reconciliation across the Summit, Base operations, and Cloud.
 
 ![    
   **Interactive TUI**  
