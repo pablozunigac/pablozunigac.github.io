@@ -22,10 +22,10 @@ website:
         text: Resume
       - href: render/cv.qmd
         text: CV (Spanish)
-      - href: render/manifesto.qmd
-        text: Manifesto
       - href: render/astrogit-os.qmd
         text: "AstroGit-OS"
+      - href: render/manifesto.qmd
+        text: Manifesto
       - text: "Connect"
         menu:
           - text: GitHub
