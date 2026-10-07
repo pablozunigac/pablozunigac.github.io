@@ -11,7 +11,7 @@ project:
     - "images/**"
 
 website:
-  title: "Cuxhaven Labs"
+  title: "Pablo Zúñiga"
   site-url: https://pablozunigac.github.io
   google-analytics: "G-RCKKTD6JQ5"
   favicon: images/favicon/favicon-03.png
