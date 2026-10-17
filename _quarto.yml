@@ -9,6 +9,7 @@ project:
     - "*.pdf"
     - "**/*.pdf"
     - "images/**"
+    - "favicon.ico"
 
 website:
   title: "Pablo Zúñiga"
@@ -47,3 +48,4 @@ format:
     include-in-header:
       text: |
         <meta name="google" content="notranslate">
+        <link rel="icon" type="image/png" href="https://pablozunigac.github.io/images/favicon/favicon-03.png?v=2" />
